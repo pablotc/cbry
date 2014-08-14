@@ -1,0 +1,24 @@
+head	1.1;
+access;
+symbols;
+locks
+	amorales:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2014.04.07.22.14.04;	author amorales;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@@

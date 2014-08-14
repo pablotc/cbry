@@ -1,0 +1,27 @@
+--- 
+__version: '2.1'
+cccchile.cl: 
+  account_count: 5
+  accounts: 
+    amorales: 
+      disk_mtime: '1396908887'
+      diskquota: 0
+      diskused: 0
+    contacto: 
+      disk_mtime: '1396908858'
+      diskquota: 0
+      diskused: 0
+    gmorales: 
+      disk_mtime: '1396908875'
+      diskquota: 0
+      diskused: 0
+    marketing: 
+      disk_mtime: '1396908901'
+      diskquota: 0
+      diskused: 0
+    ventas: 
+      disk_mtime: '1396908845'
+      diskquota: 0
+      diskused: 0
+  passwd_mtime: '1407995700'
+  quota_mtime: '1407995700'

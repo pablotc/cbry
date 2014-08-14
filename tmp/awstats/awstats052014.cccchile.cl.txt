@@ -1,0 +1,252 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201405 will be lost/reset.
+# Last config file used to build this data file was /home2/amorales/tmp/awstats/awstats.cccchile.cl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2006                
+POS_TIME 2678                
+POS_VISITOR 6335                
+POS_DAY 6596                
+POS_DOMAIN 3197                
+POS_LOGIN 3446                
+POS_ROBOT 3601                
+POS_WORMS 3812                
+POS_EMAILSENDER 3943                
+POS_EMAILRECEIVER 4086                
+POS_SESSION 6753                
+POS_SIDER 6899                
+POS_FILETYPES 4221                
+POS_DOWNLOADS 4337                
+POS_OS 4385                
+POS_BROWSER 4453                
+POS_SCREENSIZE 4545                
+POS_UNKNOWNREFERER 4619                
+POS_UNKNOWNREFERERBROWSER 4957                
+POS_ORIGIN 5290                
+POS_SEREFERRALS 5420                
+POS_PAGEREFS 5564                
+POS_SEARCHWORDS 5712                
+POS_KEYWORDS 5864                
+POS_MISC 2342                
+POS_ERRORS 5923                
+POS_CLUSTER 3302                
+POS_SIDER_404 6010                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140604230207 1 0 13195034166967
+FirstTime 20140508084932
+LastTime 20140529203405
+LastUpdate 20140605091702 1 0 0 0 0
+TotalVisits 7                   
+TotalUnique 5                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 5                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 2 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 1 1 4124
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 1 1 4124
+7 0 0 0 0 0 0
+8 2 5 31710 0 1 2780
+9 1 1 4124 0 0 0
+10 1 1 4124 0 0 0
+11 0 0 0 0 0 0
+12 1 1 4124 0 0 0
+13 0 0 0 0 0 0
+14 1 1 4124 0 0 0
+15 1 1 4124 0 1 2780
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 1 1 4124 0 0 0
+21 0 0 0 1 2 16963
+22 0 0 0 1 2 16963
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+cl 4 4 16496
+us 3 6 35834
+de 1 1 4124
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 2 8248 20140526065042 0
+bot[\s_+:,\.\;\/\\-] 2 8248 20140523220016 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 7 28868 0 0
+jpg 3 18720 0 0
+Unknown 1 8866 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+winme 1
+Unknown 4
+winvista 6
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 3
+msie6.0 1
+Unknown 4
+chrome34.0.1847.131 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+DNSdelve_HTTP_tester/0.1_(running_with_Python_2.6.6;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20140512142245
+http_sample 20140511123157
+DNSdelve_HTTP_tester/0.0_(running_with_Python_2.6.6;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20140523104246
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+DNSdelve_HTTP_tester/0.1_(running_with_Python_2.6.6;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20140512142245
+http_sample 20140511123157
+DNSdelve_HTTP_tester/0.0_(running_with_Python_2.6.6;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20140523104246
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 7 7
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1 4
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 2 25678
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 1
+/robots.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 5
+200.7.6.60 3 3 12372 20140523104246
+160.33.195.21 2 5 31710 20140508084942
+186.79.66.176 1 1 4124 20140511123157
+144.76.34.109 1 1 4124 20140529203405
+160.33.66.121 1 1 4124 20140508150803
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20140508 4 7 39958 3
+20140511 1 1 4124 1
+20140512 1 1 4124 1
+20140523 1 1 4124 1
+20140529 1 1 4124 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 7 28868 7 6
+/webmail 1 8866 0 1
+END_SIDER

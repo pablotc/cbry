@@ -1,0 +1,152 @@
+# Webalizer V2.23-05 Incremental Data - 08/14/2014 00:59:45
+2014 8 14 0 59 45
+24 24 1 15 0 0 21706261 5 2 1
+1 13 13 13 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+11 11 32223 1 1 1
+13 13 21674038 1 4 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13 13 21674038 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+11 11 32223 1
+0
+0
+0
+24
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home2/amorales/public_html/config/config.inc.php
+0 3 18708160 26832 0 0
+/home2/amorales/public_html/sitemap.xml
+0 1 18708032 0 0 0
+/home2/amorales/public_html/init.php
+0 1 18707776 1140 0 0
+/home2/amorales/public_html/error500.html
+0 1 18707104 2454 0 0
+/home2/amorales/public_html/footer.php
+0 1 18707248 1205 0 0
+/home2/amorales/public_html/prestashop_1462.zip
+0 1 18708448 199936 0 0
+/home2/amorales/public_html/CONTRIBUTING.md
+0 1 18706960 3617 0 0
+/home2/amorales/public_html/header.php
+0 1 18707376 1232 0 0
+/home2/amorales/public_html/images.inc.php
+0 1 18707504 4354 0 0
+/home2/amorales/public_html/config/settings.inc.php
+0 5 18706752 3533 0 0
+/home2/amorales/public_html/README.md
+0 1 18707904 4160 0 0
+/home2/amorales/public_html/perstashop.zip
+0 1 18708592 21449561 0 0
+/home2/amorales/public_html/backoffice/
+0 1 18708736 2024 1 0
+/home2/amorales/public_html/
+0 4 18707648 2164 1 1
+/home2/amorales/public_html/CONTRIBUTORS.md
+0 1 0 4049 0 0
+# End Of Table - urls
+# -sites- (monthly)
+client-186-37-202-78.imovil.entelpcs.cl
+0 24 24 21706261 2 1407977985
+/home2/amorales/public_html/backoffice/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+client-186-37-202-78.imovil.entelpcs.cl
+0 13 13 21674038 2 1407977985
+/home2/amorales/public_html/backoffice/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+amorales
+0 24 24 21706261 3 1407977985
+# End Of Table - usernames

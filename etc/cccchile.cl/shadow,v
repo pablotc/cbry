@@ -1,0 +1,99 @@
+head	1.6;
+access;
+symbols;
+locks
+	amorales:1.6; strict;
+comment	@# @;
+
+
+1.6
+date	2014.04.07.22.15.01;	author amorales;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2014.04.07.22.14.46;	author amorales;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.04.07.22.14.35;	author amorales;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.04.07.22.14.18;	author amorales;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.04.07.22.14.04;	author amorales;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.04.07.22.14.04;	author amorales;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@ventas:$1$JGcXBwap$aG6xs7iGTXmIjjBsFo3hl/:16167::::::
+contacto:$1$oFjT4QZO$jHrfS2yXGXrSXmJ3Edrfa0:16167::::::
+gmorales:$1$yp3vWydK$SEIyRuV08A2JL9gAgm5Uz0:16167::::::
+amorales:$1$fEoHixxo$ITO23oSAGkkWUIMopXtrs.:16167::::::
+marketing:$1$s8gvULzY$94zPCm07yclp5aRhpVaUz1:16167::::::
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

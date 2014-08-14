@@ -1,0 +1,645 @@
+# Webalizer V2.23-05 Incremental Data - 08/14/2014 01:22:19
+2014 8 14 1 22 19
+954 466 14 223 10 7 12779829 203 20 0
+3 149 765 3 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 33926 2 2 2
+4 2 33926 3 2 2
+8 6 58557 4 5 4
+2 1 16963 2 1 1
+2 1 21700 2 1 1
+4 2 33926 3 2 2
+0 0 0 0 0 0
+2 2 6904 1 1 1
+4 2 33926 2 2 2
+2 1 16963 1 1 1
+8 8 41389 1 3 1
+914 439 12481649 3 183 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+765 347 9974018 132
+149 92 2507631 51
+2 2 6904 1
+4 3 34690 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 2 38663 2
+0 0 0 0
+0 0 0 0
+5 3 38050 3
+0 0 0 0
+0 0 0 0
+2 1 16963 1
+0 0 0 0
+2 2 6904 1
+2 1 16963 1
+0 0 0 0
+0 0 0 0
+1 0 12839 0
+2 1 16963 1
+4 2 33926 2
+12 10 75315 5
+0
+0
+0
+466
+0
+0
+0
+0
+0
+0
+0
+2
+40
+0
+176
+0
+0
+0
+0
+0
+236
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+0
+3
+0
+0
+# -urls- 
+/modules/dashactivity/views/js/dashactivity.js
+0 1 19039456 3315 0 0
+/themes/default-bootstrap/css/product.css
+0 1 19030448 34420 0 0
+/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css
+0 4 19017360 8853 0 0
+/js/jquery/plugins/jqzoom/jquery.jqzoom.css
+0 1 19030720 2010 0 0
+/modules/themeconfigurator/img/14eb9697a8b4aa2eca40c666aff1b7c4c6cddd86_ffftextcanterbury-1png
+0 2 19029696 5936 0 0
+/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
+0 4 0 108933 0 0
+/img/c/3-0_thumb.jpg
+0 2 19023216 13294 0 0
+/js/jquery/ui/themes/base/jquery.ui.datepicker.css
+0 1 19036432 3702 0 0
+/modules/themeconfigurator/img/banner-img2.jpg
+0 4 19024144 94920 0 0
+/themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css
+0 4 19016880 5625 0 0
+/install/theme/img/bg_loaderSpace.png
+0 6 19007152 70 0 0
+/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
+0 4 19019280 16317 0 0
+/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css
+0 4 0 1341 0 0
+/themes/default-bootstrap/img/functional-bt-shadow.png
+0 2 19028688 2725 0 0
+/js/jquery/plugins/growl/jquery.growl.js
+0 1 19037280 5945 0 0
+/themes/default-bootstrap/js/modules/productscategory/js/productscategory.js
+0 1 19032480 1258 0 0
+/modules/blockbanner/img/sale70.png
+0 1 19023088 13212 0 0
+/img/p/3/7/37-cart_default.jpg
+0 1 19033248 1897 0 0
+/js/tools.js
+0 4 19020000 50292 0 0
+/modules/socialsharing/css/socialsharing.css
+0 1 19030864 54 0 0
+/modules/homeslider/images/sample-3.jpg
+0 1 19025248 59244 0 0
+/js/jquery/plugins/chosen/jquery.chosen.css
+0 1 19036000 14225 0 0
+/themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css
+0 4 0 13287 0 0
+/themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js
+0 1 0 1940 0 0
+/admin2849/themes/default/fonts/fontawesome-webfont.woff
+0 1 0 83760 0 0
+/img/icon-prestashop.svg
+0 1 19027472 869 0 0
+/modules/themeconfigurator/img/banner-img4.jpg
+0 1 19025952 18780 0 0
+/install/theme/js/database.js
+0 2 19009344 3405 0 0
+/img/p/3/8/38-cart_default.jpg
+0 1 19033520 2248 0 0
+/themes/default-bootstrap/js/modules/crossselling/js/crossselling.js
+0 1 0 1271 0 0
+/themes/default-bootstrap/css/print.css
+0 1 19030592 1735 0 0
+/modules/themeconfigurator/img/banner-img6.jpg
+0 1 19024288 29253 0 0
+/js/jquery/plugins/jquery.idTabs.js
+0 1 19031472 2149 0 0
+/install/theme/img/bg_li_stepList.png
+0 6 19007680 2171 0 0
+/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
+0 4 0 29910 0 0
+/install/sandbox/anything.php
+0 2 19009472 4 0 0
+/js/jquery/plugins/jquery.chosen.js
+0 7 19006768 80874 0 0
+/img/logo.jpg
+0 1 19022976 11566 0 0
+/img/prestashop-avatar.png
+0 1 19040656 4491 0 0
+/1-home_default/faded-short-sleeve-tshirts.jpg
+0 1 19024560 6065 0 0
+/themes/default-bootstrap/css/modules/homeslider/images/bx_loader.gif
+0 6 0 17162 0 0
+/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css
+0 4 0 3969 0 0
+/js/jquery/plugins/jquery.storageapi.js
+0 1 19037152 14174 0 0
+/backoffice/themes/default/js/help.js
+0 1 19039216 11631 0 0
+/themes/default-bootstrap/img/bg_bt.gif
+0 3 19026496 628 0 0
+/img-sys/bg.jpg
+0 1 18759856 508 0 0
+/themes/default-bootstrap/js/modules/productcomments/js/productcomments.js
+0 1 19032656 4000 0 0
+/webmail
+0 1 0 8866 1 1
+/install/theme/img/visu_boBlock.png
+0 1 19010256 7922 0 0
+/admin2849/themes/default/css/admin-theme.css
+0 1 19026736 459258 0 0
+/backoffice/themes/default/js/admin-theme.js
+0 2 19041056 13583 0 0
+/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
+0 4 19022512 20949 0 0
+/themes/default-bootstrap/img/footer-bg.png
+0 6 19025104 168 0 0
+/install/theme/js/welcome.js
+0 2 19006896 1077 0 0
+/modules/gamification/views/js/gamification_bt.js
+0 1 19036864 5508 0 0
+/js/admin.js
+0 1 19038352 43130 0 0
+/img/p/3/9/39-home_default.jpg
+0 1 19030192 7956 0 0
+/js/jquery/plugins/jquery.validate.js
+0 4 19026976 21068 0 0
+/modules/homeslider/images/2824779b42809b504cb0d8e1b9cdee2fca5d7b87_Q1Q2_2014Training_A4Land_Gym1.jpg
+0 2 19029104 176374 0 0
+/backoffice/themes/default/css/vendor/nv.d3.css
+0 1 19036576 12835 0 0
+/themes/default-bootstrap/css/autoload/uniform.default.css
+0 4 0 36702 0 0
+/backoffice/themes/default/js/modernizr-loads.js
+0 1 19038912 239 0 0
+/themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css
+0 4 0 123 0 0
+/modules/homeslider/images/8339d439afbdd76d7b38ee29062ce886c819bc3a_Q1Q2_2014Training_A4Land_Training1.jpg
+0 2 19029488 205057 0 0
+/modules/blockfacebook/css/blockfacebook.css
+0 4 19017216 126 0 0
+/js/jquery/ui/jquery.ui.slider.min.js
+0 1 19037936 10202 0 0
+/modules/themeconfigurator/img/banner-img5.jpg
+0 1 19026240 35081 0 0
+/img/p/3/6/36-large_default.jpg
+0 1 19032992 17951 0 0
+/js/jquery/plugins/timepicker/jquery-ui-timepicker-addon.js
+0 1 0 49576 0 0
+/modules/gamification/views/img/notif_gadges.png
+0 1 19041200 754 0 0
+/themes/default-bootstrap/js/tools/treeManagement.js
+0 4 19021296 8883 0 0
+/modules/themeconfigurator/img/banner-img3.jpg
+0 4 19026096 111084 0 0
+/js/jquery/ui/jquery.ui.datepicker.min.js
+0 1 19038208 35806 0 0
+/backoffice/themes/default/css/admin-theme.css
+0 3 19034736 459258 0 0
+/js/jquery/plugins/alerts/jquery.alerts.css
+0 1 19035568 1116 0 0
+/install/theme/img/bg-contentTitle.png
+0 6 19007552 83 0 0
+/themes/default-bootstrap/js/category.js
+0 2 19028416 1185 0 0
+/install/theme/img/bg-li-tabs.png
+0 6 19007280 77 0 0
+/backoffice/themes/default/js/vendor/nv.d3.min.js
+0 1 19040224 188304 0 0
+/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css
+0 1 0 198 0 0
+/modules/dashgoals/views/js/dashgoals.js
+0 1 19039856 9006 0 0
+/js/jquery/plugins/fancybox/jquery.fancybox.css
+0 2 19016096 9790 0 0
+/install/theme/img/bg_field.png
+0 3 19009216 87 0 0
+/favicon.ico
+0 4 0 11120 0 0
+/img/p/4/2/42-home_default.jpg
+0 1 19030320 12226 0 0
+/install/theme/img/ajax-loader-small.gif
+0 2 19009600 8685 0 0
+/backoffice/themes/default/fonts/fontawesome-webfont.woff
+0 3 0 83760 0 0
+/themes/default-bootstrap/img/border-1.gif
+0 1 19033648 1166 0 0
+/modules/blockfacebook/blockfacebook.js
+0 4 19021440 3960 0 0
+/16-home_default/printed-summer-dress.jpg
+0 1 19025664 8013 0 0
+/modules/socialsharing/js/socialsharing.js
+0 1 19031872 1880 0 0
+/js/notifications.js
+0 1 19039600 3942 0 0
+/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
+0 4 0 5190 0 0
+/install/theme/img/bt-hover.png
+0 5 19008064 428 0 0
+/js/jquery/ui/themes/base/jquery.ui.theme.css
+0 1 19036720 17520 0 0
+/install/theme/js/configure.js
+0 1 19008832 2060 0 0
+/20-home_default/printed-chiffon-dress.jpg
+0 1 19025520 7995 0 0
+/modules/homeslider/images/sample-1.jpg
+0 1 19023456 75494 0 0
+/img/p/3/6/36-cart_default.jpg
+0 1 19033120 1972 0 0
+/js/jquery/jquery-1.11.0.min.js
+0 13 19006304 289143 0 0
+/js/jquery/plugins/jquery.easing.js
+0 4 19019584 14865 0 0
+/js/vendor/d3.v3.min.js
+0 1 19040000 146628 0 0
+/js/jquery/ui/themes/base/jquery.ui.core.css
+0 1 19036144 1468 0 0
+/modules/crossselling/css/crossselling.css
+0 1 19031152 802 0 0
+/modules/dashactivity/gapi-logo.gif
+0 1 19040784 946 0 0
+/install/
+0 38 19006224 134289 0 0
+/js/jquery/ui/jquery.ui.core.min.js
+0 1 19037552 4289 0 0
+/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
+0 4 0 92061 0 0
+/backoffice/themes/default/js/vendor/enquire.min.js
+0 2 19040912 2237 0 0
+/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css
+0 1 0 137 0 0
+/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
+0 4 0 11190 0 0
+/img/favicon.ico
+0 6 19026384 10903 0 0
+/modules/sendtoafriend/sendtoafriend.css
+0 1 19031008 1235 0 0
+/themes/default-bootstrap/css/autoload/highdpi.css
+0 4 19015632 1020 0 0
+/themes/default-bootstrap/css/modules/productscategory/css/productscategory.css
+0 1 19031296 8247 0 0
+/install/theme/img/bt.png
+0 5 19007808 110 0 0
+/modules/productcomments/js/jquery.rating.pack.js
+0 1 19032016 2145 0 0
+/themes/default-bootstrap/img/jquery/uniform/sprite.png
+0 2 19028832 3815 0 0
+/themes/default-bootstrap/css/modules/homeslider/homeslider.css
+0 4 0 18966 0 0
+/modules/themeconfigurator/css/hooks.css
+0 4 19018640 4104 0 0
+/install/theme/img/bt-dsbl.png
+0 1 19008704 77 0 0
+/8-home_default/printed-dress.jpg
+0 1 19024832 6628 0 0
+/modules/homeslider/images/sample-2.jpg
+0 1 19023328 103484 0 0
+/backoffice/themes/default/img/prestashop-addons-logo.png
+0 3 0 15323 0 0
+/themes/default-bootstrap/js/product.js
+0 1 19031600 35120 0 0
+/backoffice/themes/default/css/overrides.css
+0 1 19035712 306 0 0
+/js/jquery/plugins/bxslider/jquery.bxslider.js
+0 4 19021152 57369 0 0
+/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
+0 4 0 7692 0 0
+/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
+0 4 0 5760 0 0
+/themes/default-bootstrap/js/global.js
+0 4 19019872 38778 0 0
+/install/theme/img/pict_error.png
+0 1 19009744 287 0 0
+/install/theme/img/help.png
+0 1 19010128 2156 0 0
+/backoffice/themes/default/js/vendor/moment-with-langs.min.js
+0 1 0 122254 0 0
+/admin2849/themes/default/img/prestashop-addons-logo.png
+0 1 0 15323 0 0
+/install/theme/img/logo.png
+0 6 19007024 4061 0 0
+/install/theme/img/favicon.ico
+0 1 19007936 1150 0 0
+/themes/default-bootstrap/css/modules/productcomments/productcomments.css
+0 4 19019104 22143 0 0
+/module/cronjobs/callback
+0 1 0 19 1 1
+/js/jquery/plugins/jquery.serialScroll.js
+0 4 19020880 6039 0 0
+/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
+0 4 0 14814 0 0
+/modules/gamification/views/css/gamification.css
+0 1 19035424 5784 0 0
+/js/jquery/plugins/jquery.autosize.js
+0 1 19037424 3177 0 0
+/js/date.js
+0 1 19039344 11520 0 0
+/js/jquery/plugins/jqzoom/jquery.jqzoom.js
+0 1 19031728 30384 0 0
+/modules/dashtrends/views/js/dashtrends.js
+0 1 19039712 2148 0 0
+/themes/default-bootstrap/css/modules/productscategory/css/images/bx_loader.gif
+0 1 19033920 8581 0 0
+/img/p/3/6/36-medium_default.jpg
+0 1 19033792 3244 0 0
+/img/p/3/6/36-home_default.jpg
+0 1 19030064 7956 0 0
+/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css
+0 4 0 5229 0 0
+/admin2849/
+0 1 19026624 6274 0 0
+/js/jquery/plugins/autocomplete/jquery.autocomplete.js
+0 4 19021728 59850 0 0
+/themes/default-bootstrap/css/modules/blockcart/blockcart.css
+0 4 0 42978 0 0
+/install/theme/js/process.js
+0 1 19010000 6251 0 0
+/12-home_default/printed-summer-dress.jpg
+0 1 19025808 8378 0 0
+/install/theme/img/bg_input_button.png
+0 3 19008960 75 0 0
+/install/theme/img/chosen-sprite.png
+0 1 19009088 407 0 0
+/themes/default-bootstrap/js/autoload/10-bootstrap.min.js
+0 4 0 82893 0 0
+/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
+0 4 0 11151 0 0
+/themes/default-bootstrap/font/fontawesome-webfont.woff
+0 6 19023696 87144 0 0
+/install/theme/img/pict_ok.png
+0 1 19009872 274 0 0
+/modules/productpaymentlogos/img/payment-logo.png
+0 1 19033376 15265 0 0
+/js/vendor/ladda.js
+0 4 19027360 6490 0 0
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
+0 2 19029888 9173 0 0
+/install/theme/img/bg_blockInfoEnd.png
+0 1 19015216 91 0 0
+/js/jquery/plugins/alerts/jquery.alerts.js
+0 1 19037008 7645 0 0
+/install/theme/js/install.js
+0 6 19006640 2724 0 0
+/backoffice/ajax-tab.php
+0 1 19035296 107 0 0
+/backoffice/ajax.php
+0 9 19041344 1080 0 0
+/themes/default-bootstrap/css/category.css
+0 2 19028032 2712 0 0
+/backoffice/themes/default/js/vendor/modernizr.min.js
+0 1 19038624 7671 0 0
+/cpanel
+0 4 0 35444 1 1
+/js/login.js
+0 4 19027600 19648 0 0
+/js/jquery/ui/i18n/jquery.ui.datepicker-es.js
+0 1 19038064 896 0 0
+/install/theme/img/visu_foBlock.png
+0 1 19010512 10815 0 0
+/
+0 58 0 1056702 16 3
+/img/p/3/7/37-thickbox_default.jpg
+0 1 19034368 39930 0 0
+/js/jquery/plugins/fancybox/jquery.fancybox.js
+0 2 19020432 46270 0 0
+/modules/themeconfigurator/img/banner-img7.jpg
+0 1 19023840 26716 0 0
+/js/jquery/ui/jquery.ui.widget.min.js
+0 1 19037680 6488 0 0
+/img/c/3-1_thumb.jpg
+0 2 19023584 10172 0 0
+/js/jquery/jquery-migrate-1.2.1.min.js
+0 7 19019456 21597 0 0
+/themes/default-bootstrap/js/
+0 4 19022848 3333 0 0
+/backoffice/themes/default/js/date-range-picker.js
+0 1 19040512 23394 0 0
+/install/theme/view.css
+0 6 19006528 38941 0 0
+/themes/default-bootstrap/js/products-comparison.js
+0 1 19020576 3803 0 0
+/img-sys/headerbg.jpg
+0 1 18760064 9366 0 0
+/install/theme/js/license.js
+0 1 19008304 1605 0 0
+/backoffice/themes/default/js/calendar.js
+0 1 19040368 12355 0 0
+/modules/themeconfigurator/img/banner-img1.jpg
+0 4 19025376 136179 0 0
+/install/theme/img/bg-li-tabs-finished.png
+0 4 19008560 251 0 0
+/img/p/3/8/38-thickbox_default.jpg
+0 1 19034240 145696 0 0
+/backoffice/themes/default/js/vendor/bootstrap.min.js
+0 1 19038768 29110 0 0
+/modules/gamification/views/css/advice-1.6.0.8_308.css
+0 1 19035856 21946 0 0
+/img/p/es-default-home_default.jpg
+0 2 19028560 6887 0 0
+/js/jquery/ui/themes/base/jquery.ui.slider.css
+0 1 19036288 1314 0 0
+/backoffice/
+0 26 19034624 598225 0 0
+/install/theme/img/bg_bt_blockInfoEnd.png
+0 1 19015344 830 0 0
+/js/jquery/ui/jquery.ui.mouse.min.js
+0 1 19037808 2841 0 0
+/img/p/3/6/36-thickbox_default.jpg
+0 1 19034496 41686 0 0
+/modules/productcomments/js/jquery.textareaCounter.plugin.js
+0 1 0 4985 0 0
+/js/admin-dashboard.js
+0 1 19040112 9756 0 0
+/js/jquery/plugins/jqzoom/zoomloader.gif
+0 1 19034096 1849 0 0
+/10-home_default/printed-dress.jpg
+0 1 19024704 11380 0 0
+/themes/default-bootstrap/css/autoload/responsive-tables.css
+0 4 0 4299 0 0
+/js/jquery/plugins/jquery.scrollTo.js
+0 4 19021024 6756 0 0
+/themes/default-bootstrap/img/price-container-bg.png
+0 3 19024960 170 0 0
+/themes/default-bootstrap/css/maintenance.css
+0 1 19041936 909 0 0
+/install/theme/img/bg-li-headerLinks.png
+0 6 19007408 143 0 0
+/themes/default-bootstrap/css/global.css
+0 4 19015488 631260 0 0
+/js/vendor/spin.js
+0 4 19027104 10196 0 0
+/themes/default-bootstrap/css/modules/blocktags/blocktags.css
+0 4 0 1125 0 0
+/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
+0 4 19016544 8277 0 0
+/themes/default-bootstrap/css/scenes.css
+0 2 19028272 2198 0 0
+/7-home_default/blouse.jpg
+0 1 19024432 7454 0 0
+/install/theme/img/bt_off.png
+0 3 19008432 77 0 0
+/img/canterbury-1407293167.jpg
+0 2 19028976 8519 0 0
+/modules/homeslider/images/b9caef6797906d65300961bf0f0ff1a3bf543db3_Q1Q2_2014Training_A4Land_Gym2.jpg
+0 2 19029296 195159 0 0
+/themes/default-bootstrap/css/product_list.css
+0 4 19016400 48435 0 0
+/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
+0 4 0 4857 0 0
+/js/jquery/plugins/autocomplete/jquery.autocomplete.css
+0 4 19017696 2466 0 0
+/js/jquery/plugins/validate/localization/messages_es.js
+0 4 19027216 1272 0 0
+/install/theme/img/print.png
+0 1 19010384 175 0 0
+/img-sys/contentbox.jpg
+0 1 19006144 8846 0 0
+# End Of Table - urls
+# -sites- (monthly)
+client-186-37-202-252.imovil.entelpcs.cl
+0 8 2 6206 1 1407979338
+/
+crawl-66-249-79-121.googlebot.com
+0 4 3 34690 3 1407497085
+/
+crawl-66-249-79-95.googlebot.com
+0 4 2 38663 1 1407209951
+/cpanel
+gate-prestashop.cust.alionet.net
+0 3 1 20632 2 1407978003
+/
+crawl-66-249-79-108.googlebot.com
+0 4 2 33926 2 1407237884
+/
+crawl-66-249-79-13.googlebot.com
+0 5 3 38050 3 1407366223
+/
+crawl-66-249-73-57.googlebot.com
+0 2 1 16963 1 1407756286
+/
+crawl-66-249-79-130.googlebot.com
+0 3 1 29802 1 1407537201
+/
+client-186-37-108-46.imovil.entelpcs.cl
+0 2 2 6904 1 1407636726
+/
+pc-99-13-156-186.cm.vtr.net
+0 2 2 6904 1 1407255776
+/
+www.whois.sc
+0 2 1 16963 1 1407104809
+/
+crawl-66-249-79-26.googlebot.com
+0 2 1 16963 1 1407878407
+/
+crawl-66-249-73-12.googlebot.com
+0 2 1 16963 1 1407746838
+/
+client-186-37-202-78.imovil.entelpcs.cl
+0 911 444 12496200 1 1407979321
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+client-186-37-202-252.imovil.entelpcs.cl
+0 8 2 6206 1 1407979338
+/
+gate-prestashop.cust.alionet.net
+0 3 1 20632 2 1407978003
+/
+client-186-37-202-78.imovil.entelpcs.cl
+0 903 436 12454811 1 1407979321
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.cccchile.cl/
+0 79
+http://www.nic.cl/registry/Whois.do
+0 1
+http://cccchile.cl/backoffice/index.php
+0 115
+http://cccchile.cl/index.php
+0 480
+http://www.cccchile.cl/install/index.php
+0 128
+- (Direct Request)
+0 120
+http://www.cccchile.cl/install/
+0 16
+http://whois.domaintools.com/cccchile.cl
+0 1
+http://cccchile.cl/admin2849/index.php
+0 11
+http://www.cccchile.cl/cpanel
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 911
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/36.0.1985.49 Mobile/11
+0 8
+Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-E450j Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

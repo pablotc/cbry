@@ -1,0 +1,26 @@
+Return-path: <gmorales@cccchile.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 08 Apr 2014 19:27:37 -0500
+Received: from [127.0.0.1] (port=30849 helo=localhost)
+	by gator3101.hostgator.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.80.1)
+	(envelope-from <gmorales@cccchile.cl>)
+	id 1WXgMb-0006zX-6e; Tue, 08 Apr 2014 19:27:37 -0500
+Received: from 200.104.35.72 ([200.104.35.72]) by gator3101.hostgator.com
+ (Horde Framework) with HTTP; Tue, 08 Apr 2014 19:27:37 -0500
+Message-ID: <20140408192737.615869ex85qrutix@gator3101.hostgator.com>
+Date: Tue, 08 Apr 2014 19:27:37 -0500
+From: "Guillermo Morales (CCCCHILE)" <gmorales@cccchile.cl>
+To: andres.morales@am.sony.com, amorales@cccchile.cl
+Subject: prueba
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.11)
+
+
+

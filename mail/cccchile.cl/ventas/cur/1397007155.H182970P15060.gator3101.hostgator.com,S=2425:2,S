@@ -1,0 +1,54 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Tue, 08 Apr 2014 20:32:35 -0500
+Received: from mail-qa0-f54.google.com ([209.85.216.54]:41703)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80.1)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1WXhNT-0003sX-09
+	for ventas@cccchile.cl; Tue, 08 Apr 2014 20:32:35 -0500
+Received: by mail-qa0-f54.google.com with SMTP id w8so1778416qac.41
+        for <ventas@cccchile.cl>; Tue, 08 Apr 2014 18:32:33 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=gVzOAInRiD16QLpxirJEmwqKTufDf6Sy5O+bTtqUWCI=;
+        b=djdQVrX+uGKYKUaNk+dHrRf3DaFGyoPNA9uT7jwvOiZjTiSsWcc28XQk8ua1qtCx8t
+         JzF7az+/TjYFrIyV3NyUFKzikyUPKHmoEb2stQipaevLAjXMRFumEGghgGp82MvZWmt/
+         eLPq5gBun+dUSwr3FXOno5KlwNwQZsbneThc3Ni4b9LdZEWecwX3P+bO+nrxkHr/niVT
+         H6/0vdRJkG1pu4iBZsFowbV/psg2m0L6tBDa0xsaWagCQpowXV5D2BWHwQ5IRb2yPO8R
+         DSgFAzcsJVGTtA2FWW4KG8xwiECiYLRwXSufaYmXOvWtDpNrJ/x7Ury8e9X4P6WiIucm
+         KRQw==
+X-Gm-Message-State: ALoCoQlzKOBM+c+cL+a+53UkaLHJGJNlS4U8tJsItVo39VeQ4rPwyZkKaKC9GZkEByoNZq2+qdTj
+X-Received: by 10.140.30.71 with SMTP id c65mr7697217qgc.16.1397007151595;
+        Tue, 08 Apr 2014 18:32:31 -0700 (PDT)
+Received: from [10.235.239.80] ([201.220.243.231])
+        by mx.google.com with ESMTPSA id x5sm7391194qaj.9.2014.04.08.18.32.29
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 08 Apr 2014 18:32:30 -0700 (PDT)
+References: <20140408193138.54862e8sob29542y@gator3101.hostgator.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <20140408193138.54862e8sob29542y@gator3101.hostgator.com>
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <9D8DE06B-ECE0-4EC9-AF88-29B7EAEC65DB@viaglobal.cl>
+Cc: "andres.morales@am.sony.com" <andres.morales@am.sony.com>
+X-Mailer: iPhone Mail (11B651)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: prueba
+Date: Tue, 8 Apr 2014 22:32:23 -0300
+To: "Victor Irigoyen (CCCCHILE)" <ventas@cccchile.cl>
+
+Jaja buena!!
+
+
+
+
+> El 08-04-2014, a las 21:31, "Victor Irigoyen (CCCCHILE)" <ventas@cccchile.=
+cl> escribi=C3=B3:
+>=20
+>=20
+>=20
