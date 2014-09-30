@@ -1,10 +1,20 @@
 /*******************************************************
 Product list Styles
 ********************************************************/
+
+.subrayar:hover{
+text-decoration:underline;
+}
+
 ul.product_list .product-name {
   display: inline-block;
   width: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+  /*CAMBIO: PARA QUE SE ALINIE A LA IZQUIERDA*/
+  text-align:left;
+  color:#646464;
+  }
+  
 ul.product_list .availability span {
   display: inline-block;
   color: white;
@@ -17,6 +27,7 @@ ul.product_list .availability span {
   ul.product_list .availability span.out-of-stock {
     background: #fe9126;
     border: 1px solid #e4752b; }
+	
 ul.product_list .color-list-container {
   margin-bottom: 12px; }
   ul.product_list .color-list-container ul li {
@@ -170,7 +181,7 @@ ul.product_list.grid > li {
     padding: 0;
     position: relative; }
     ul.product_list.grid > li .product-container .product-image-container {
-      border: 1px solid #d6d4d4;
+/*      border: 1px solid #d6d4d4;*/
       padding: 9px;
       margin-bottom: 13px;
       position: relative; }
@@ -203,7 +214,18 @@ ul.product_list.grid > li {
       display: none; }
     ul.product_list.grid > li .product-container .content_price {
       padding-bottom: 9px;
-      line-height: 21px; }
+      line-height: 21px; 
+	  /*CAMBIO: poner el precio a la izquierda y modficar cosas para que se parezca al template*/
+	  text-align:left;
+	  padding-left:15px;
+	  padding-right:15px;	  
+	  }
+	
+	span.price.product-price{
+	font-size:17px;
+	}
+
+	
     ul.product_list.grid > li .product-container .old-price,
     ul.product_list.grid > li .product-container .price,
     ul.product_list.grid > li .product-container .price-percent-reduction {
@@ -232,12 +254,12 @@ ul.product_list.grid > li {
         float: left;
         padding: 3px 0 4px 0; }
   @media (min-width: 1200px) {
-    ul.product_list.grid > li.hovered .product-container {
+    ul.product_list.grid > li.hovered .product-container { /*
       -webkit-box-shadow: rgba(0, 0, 0, 0.17) 0 0 13px;
       -moz-box-shadow: rgba(0, 0, 0, 0.17) 0 0 13px;
-      box-shadow: rgba(0, 0, 0, 0.17) 0 0 13px;
+      box-shadow: rgba(0, 0, 0, 0.17) 0 0 13px; 
       position: relative;
-      z-index: 10; }
+       z-index: 10; }
       ul.product_list.grid > li.hovered .product-container .content_price {
         display: none; }
       ul.product_list.grid > li.hovered .product-container .product-image-container .content_price {
@@ -247,16 +269,16 @@ ul.product_list.grid > li {
       ul.product_list.grid > li.hovered .product-container .functional-buttons,
       ul.product_list.grid > li.hovered .product-container .button-container,
       ul.product_list.grid > li.hovered .product-container .comments_note {
-        display: block; } }
+        display: block; }*/ }}
   @media (min-width: 992px) {
     ul.product_list.grid > li.first-in-line {
       clear: left; } }
   @media (min-width: 480px) and (max-width: 991px) {
     ul.product_list.grid > li.first-item-of-tablet-line {
       clear: left; } }
-ul.product_list.grid li.hovered h5 {
+/*ul.product_list.grid li.hovered h5 {
   min-height: 30px; }
-
+*/
 @media (min-width: 1200px) {
   #blockpack ul > li.last-line {
     border: none;

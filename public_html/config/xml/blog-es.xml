@@ -13,476 +13,587 @@
 	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.prestashop.com/blog/es</link>
 	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
-	<lastBuildDate>Wed, 13 Aug 2014 07:20:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2014 15:29:17 +0000</lastBuildDate>
 	<language>es-ES</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.4</generator>
 		<item>
-		<title>Selección de agosto: Las 3 funcionalidades que aumentarán tus ventas</title>
-		<link>http://www.prestashop.com/blog/es/seleccion-de-agosto-las-3-funcionalidades-que-aumentaran-tus-ventas/</link>
-		<comments>http://www.prestashop.com/blog/es/seleccion-de-agosto-las-3-funcionalidades-que-aumentaran-tus-ventas/#comments</comments>
-		<pubDate>Tue, 12 Aug 2014 16:03:50 +0000</pubDate>
-		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Consejos E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11730</guid>
-		<description><![CDATA[El mercado online no deja de crecer y es cada vez más competitivo. Sabemos que siempre estás intentando encontrar herramientas y funcionalidades que te permitan mantenerte a la cabeza. Por eso, nuestro equipo ha elegido para ti las 3 mejores &#8230; <a href="http://www.prestashop.com/blog/es/seleccion-de-agosto-las-3-funcionalidades-que-aumentaran-tus-ventas/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-11741" src="http://www.prestashop.com/blog/es/files/2014/08/staff-picks-1.png" alt="" width="200" height="155" align="right" />El mercado online no deja de crecer y es cada vez más competitivo. Sabemos que siempre estás intentando encontrar herramientas y funcionalidades que te permitan mantenerte a la cabeza. Por eso, nuestro equipo ha elegido para ti las 3 mejores funcionalidades de PrestaShop de este mes que te harán vender más aún. Y lo mejor de todo, ¡ya están disponibles en tu panel de administración PrestaShop listas para ser instaladas!</p>
-<p><span id="more-11730"></span></p>
-<p><strong>¡<strong>Nuestra </strong>selección!</strong></p>
-<ol>
-<ol>
-<ul>
-<li><span style="color: #ed2279;">Brow.si:</span> Una funcionalidad totalmente gratuita que optimiza la experiencia de compra en tu tienda móvil.</li>
-<li><span style="color: #ed2279;">PrestaStats:</span> Podrás ver, comparar y exportar datos esenciales de tu tienda con un panel de control avanzado.</li>
-<li><span style="color: #ed2279;">Riskified:</span> Prevención de fraudes y protección para todas las transacciones o para las de alto riesgo.</li>
-</ul>
-</ol>
-</ol>
-<h2><a href="http://addons.prestashop.com/es/movil/8609-browsi.html" target="_blank"><span style="color: #008000;">1. Brow.si</span></a></h2>
-<p style="text-align: center;"><strong>TRANSFORMA TU TIENDA MÓVIL EN UNA EXPERIENCIA ÚNICA PARA TUS USUARIOS </strong></p>
-<p><img class="aligncenter size-full wp-image-11731" src="http://www.prestashop.com/blog/es/files/2014/08/browsi.jpg" alt="" width="580" height="306" /></p>
-<p><span style="color: #ed2279;"><strong>Qué hace: </strong></span>Brow.si crea una experiencia de compra móvil intuitiva mediante una capa semitransparente muy fácil de usar. Añade funcionalidades para que tus clientes puedan buscar, explorar, compartir y comprar de manera sencilla desde cualquier punto de tu sitio web.</p>
-<p><span style="color: #ed2279;"><strong>Por qué nos encanta:</strong></span> Con un solo clic, Brow.si le dará a tu sitio web la funcionalidad de una aplicación. Cuando un usuario visite tu sitio web desde su smartphone, disfrutará de una experiencia de compra clara, coherente e intuitiva gracias a los elementos clave de navegación móvil. Personaliza esta funcionalidad, configura las opciones de localización y accede a las estadísticas.</p>
-<p><span style="color: #ed2279;"><strong>Cómo te ayuda a vender más:</strong></span> Brow.si añade funcionalidades que enriquecen la experiencia de navegación móvil mediante notificaciones push, búsqueda móvil, embudo de conversión móvil, opción de compartir en un clic y mucho más. Consigue más clientes desde el móvil con una interfaz intuitiva.</p>
-<p style="text-align: center;"><a href="http://addons.prestashop.com/es/movil/8609-browsi.html" target="_blank">Descarga Brow.si desde tu tienda. ¡Es gratis!</a><br />
-<em>O búscala en tu panel de administración PrestaShop &gt; Módulos &gt; Dispositivos Móvil </em></p>
-<h2><a href="http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/17294-prestastats.html" target="_blank"><span style="color: #008000;">2. PrestaStats</span></a></h2>
-<p style="text-align: center;"><strong>CONTROLA <strong>LAS ESTADÍSTICAS DE TU NEGOCIO</strong> MEJOR QUE NUNCA CON UNA FUNCIONALIDAD AVANZADA</strong></p>
-<p><img class="aligncenter size-full wp-image-11732" src="http://www.prestashop.com/blog/es/files/2014/08/prestastats.jpg" alt="" width="580" height="282" /><br />
-<span style="color: #ed2279;"><strong>Qué hace:</strong></span> PrestaStats exporta los datos de tu tienda PrestaShop y los convierte en estadísticas fáciles de entender. Justo lo que necesitas para tomar las mejores decisiones empresariales. Un panel de control para acceder fácilmente y en tiempo real a datos sobre los carritos abandonados, productos estrella o beneficios.</p>
-<p><strong><span style="color: #ed2279;">Por qué nos encanta</span>:</strong> Tus datos se transforman en estadísticas clave para poder entender todo sobre tu negocio de un vistazo y en detalle. Puedes acceder a ellos desde cualquier dispositivo y en cualquier momento: algo esencial si tienes que tomar una decisión crítica. Y lo mejor de todo, es que puedes ver datos históricos desde el día que abriste la tienda.</p>
-<p><span style="color: #ed2279;"><strong>Cómo te ayuda a vender más:</strong></span> Con estas estadísticas sabrás todo lo que pasa en tu tienda online. Y con esa información tomarás mejores decisiones de ventas, gestión y marketing. Detectarás las tendencias a simple vista y podrás evaluar los datos de un día… ese mismo día. Con PrestaStats entenderás datos difíciles para que gestionar tu negocio sea más fácil.</p>
-<p style="text-align: center;"><a href="http://addons.prestashop.com/es/analytics-estadisticas-prestashop-modulos/17294-prestastats.html" target="_blank">Empieza a usar la versión de prueba gratuita</a><br />
-O encuéntrala en tu panel de administración PrestaShop &gt; Módulos &gt;<br />
-Análisis y estadísticas</p>
-<h2><a href="http://addons.prestashop.com/es/seguridad-pagos-prestashop-modulos/17295-riskified.html" target="_blank"><span style="color: #008000;">3. Riskified</span></a></h2>
-<p style="text-align: center;"><strong>PROTECCIÓN GARANTIZADA PARA QUE NO TENGAS QUE RECHAZAR NINGUNA TRANSACCIÓN</strong></p>
-<p style="text-align: left;"><img class="aligncenter  wp-image-11733" src="http://www.prestashop.com/blog/es/files/2014/08/riskified.jpg" alt="" width="580" height="227" /> <span style="color: #ed2279;"><strong>Qué hace:</strong></span> Riskified ofrece funcionalidades de detección de fraude listas para usar. Podrás revisar, verificar y aprobar todas las transacciones o aquellas que consideres sospechosas. También aporta valiosa información sobre la transacción que te ayudará a entender mejor a tus clientes.</p>
-<p><span style="color: #ed2279;"><strong>Por qué nos encanta:</strong> </span>Riskified destaca por su tecnología de detección de fraudes, por lo que te garantiza la devolución del 100% del dinero si algo va mal. Solo pagarás cuando se haya aprobado la transacción y tengas el dinero.</p>
-<p><span style="color: #ed2279;"><strong>Cómo te ayuda a vender más:</strong> </span>Acepta pedidos que habrías rechazado por parecer fraudulentos y aumentarás las ventas. También conseguirás más beneficios al reducir las pérdidas por devoluciones y evitar comisiones bancarias.</p>
-<p style="text-align: center;"><a href="http://addons.prestashop.com/es/seguridad-pagos-prestashop-modulos/17295-riskified.html" target="_blank">Acepta más pagos &#8211; Pide tu demo</a><br />
-<em>O encuéntrala en tu panel de administración PrestaShop &gt; Módulos &gt;</em><br />
-<em>Certificación del sitio &amp; prevención del fraude</em></p>
-<div>
-<hr align="left" size="2" width="20%" />
-</div>
-<p>¿Cuáles de estas funcionalidades te apetece añadir a tu tienda PrestaShop? ¡Déjanos tus comentarios! Estate atento el mes que viene para descubrir nuestra próxima selección de funcionalidades.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/seleccion-de-agosto-las-3-funcionalidades-que-aumentaran-tus-ventas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Infografía: Las compras de la «vuelta al cole» y el e-commerce 2014</title>
-		<link>http://www.prestashop.com/blog/es/infografia-las-compras-de-la-vuelta-al-cole-y-el-e-commerce-2014/</link>
-		<comments>http://www.prestashop.com/blog/es/infografia-las-compras-de-la-vuelta-al-cole-y-el-e-commerce-2014/#comments</comments>
-		<pubDate>Wed, 06 Aug 2014 15:25:23 +0000</pubDate>
-		<dc:creator>Natalie Beigel</dc:creator>
-				<category><![CDATA[Tendencias E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11691</guid>
-		<description><![CDATA[Ya estamos de nuevo en esa época del año: Estudiantes y familias de todo el mundo comienzan sus compras de todo lo necesario para el año escolar. De acuerdo con los estudios de mercado, un número cada vez mayor de &#8230; <a href="http://www.prestashop.com/blog/es/infografia-las-compras-de-la-vuelta-al-cole-y-el-e-commerce-2014/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Ya estamos de nuevo en esa época del año:  Estudiantes y familias de todo el mundo comienzan sus compras de todo lo necesario para el año escolar. De acuerdo con los estudios de mercado, un número cada vez mayor de consumidores realiza estas compras por Internet.</p>
-<p>¿Está tu tienda preparada para hacer frente a la segunda temporada de compras más ajetreada del año? Consulta la infografía para ver interesantes estadísticas sobre EE.UU. y descubre cómo puede influir esta nueva tendencia digital en tu negocio.</p>
-<p><span id="more-11691"></span></p>
-<p><a href="http://www.pinterest.com/pin/118641771409202296/" target="_blank"><img class="aligncenter size-full wp-image-11692" title="Back-To-School" src="http://www.prestashop.com/blog/es/files/2014/08/Back-To-School.jpg" alt="" width="600" height="1985" /></a></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/infografia-las-compras-de-la-vuelta-al-cole-y-el-e-commerce-2014/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Encuesta: ¿Qué temas de e-commerce te interesan?</title>
-		<link>http://www.prestashop.com/blog/es/cuentanos-que-temas-de-e-commerce-te-interesan/</link>
-		<comments>http://www.prestashop.com/blog/es/cuentanos-que-temas-de-e-commerce-te-interesan/#comments</comments>
-		<pubDate>Tue, 05 Aug 2014 15:45:40 +0000</pubDate>
-		<dc:creator>Natalie Beigel</dc:creator>
-				<category><![CDATA[Actualidad PrestaShop]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11687</guid>
-		<description><![CDATA[En PrestaShop valoramos muchísimo vuestra opinión y quisiéramos saber qué artículos o temas os gustaría que tratáramos en nuestro blog. Ayúdanos a mejorar nuestras publicaciones respondiendo a nuestra encuesta ¡sólo te llevará un minuto!]]></description>
-			<content:encoded><![CDATA[<p>En PrestaShop valoramos muchísimo vuestra opinión y quisiéramos saber qué artículos o temas os gustaría que tratáramos en nuestro blog. Ayúdanos a mejorar nuestras publicaciones respondiendo a nuestra encuesta ¡sólo te llevará un minuto!</p>
-<p><img class="aligncenter size-large wp-image-16900" title="Readers Survey Blog Image" src="http://www.prestashop.com/blog/fr/files/2014/08/Readers-Survey-Blog-Image-1024x537.jpg" alt="" width="584" height="306" /></p>
-<p><span id="more-11687"></span></p>
-<p><iframe src="https://docs.google.com/forms/d/15BQ3Nicxiows7srrJYw8IX1sJE_2pLEYZH6RF_Cc0FE/viewform?embedded=true" frameborder="0" marginwidth="0" marginheight="0" width="560" height="1070"></iframe></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/cuentanos-que-temas-de-e-commerce-te-interesan/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Optimiza tu sitio de e-commerce para la compra y el envío de regalos a través de las redes sociales</title>
-		<link>http://www.prestashop.com/blog/es/optimiza-tu-sitio-de-e-commerce-para-la-compra-y-el-envio-de-regalos-a-traves-de-las-redes-sociales/</link>
-		<comments>http://www.prestashop.com/blog/es/optimiza-tu-sitio-de-e-commerce-para-la-compra-y-el-envio-de-regalos-a-traves-de-las-redes-sociales/#comments</comments>
-		<pubDate>Mon, 04 Aug 2014 15:27:06 +0000</pubDate>
-		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Asociados PrestaShop]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11694</guid>
-		<description><![CDATA[Encontrar el regalo perfecto nunca es fácil. De acuerdo con Hubspot, el 64,8 % de los consumidores está recurriendo a las redes sociales para dar con el regalo perfecto. PrestaShop, en su misión de ayudar a los comerciantes a capitalizar &#8230; <a href="http://www.prestashop.com/blog/es/optimiza-tu-sitio-de-e-commerce-para-la-compra-y-el-envio-de-regalos-a-traves-de-las-redes-sociales/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Encontrar el regalo perfecto nunca es fácil. De acuerdo con <a href="http://www.slideshare.net/HubSpot/47-stats-for-remarkable-holiday-marketing?utm_source=buffer&amp;utm_campaign=Buffer&amp;utm_content=buffer68391&amp;utm_medium=twitter" target="_blank">Hubspot</a>, el 64,8 % de los consumidores está recurriendo a las redes sociales para dar con el regalo perfecto. PrestaShop, en su misión de ayudar a los comerciantes a capitalizar esta creciente tendencia, presenta Give.it, una solución de envío de regalos interactiva que va más allá de los mensajes personalizados y los envoltorios.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11698" src="http://www.prestashop.com/blog/es/files/2014/08/giveit-main.png" alt="" width="540" height="284" /> <span id="more-11694"></span></p>
-<p>Con el<a href="http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/15784-giveit.html" target="_blank"> módulo Give.it</a>, los usuarios de PrestaShop activarán el botón Give.it en sus páginas de productos, y su sitio de comercio electrónico quedará instantáneamente optimizado para el envío de regalos. Gracias a esta experiencia de e-commerce única, tus clientes podrán comprar sus regalos mediante una transacción sencilla y sin contratiempos.</p>
-<h2><span style="color: #0000ff;">Acertar con el regalo perfecto y enviarlo sin preocupaciones</span></h2>
-<p>La incertidumbre de la persona que compra un regalo no termina al elegirlo. Tiene que escoger las características adecuadas (como talla y color) e introducir la dirección de envío correcta. Gracias al módulo Give.it, aquellos clientes que busquen un regalo no tendrán que preocuparse por estos detalles. Una vez que seleccionen el artículo, tan sólo tendrán que hacer clic en el botón Give.it, localizar al amigo en cuestión a través de las redes sociales y abonar el regalo. Así, escoger el artículo que más le guste e introducir la dirección de entrega se convierte en una tarea interactiva y apasionante para el destinatario.</p>
-<p><img class="aligncenter size-full wp-image-11695" src="http://www.prestashop.com/blog/es/files/2014/08/give-it-1.png" alt="" width="513" height="272" /></p>
-<h2><span style="color: #0000ff;">Estimula la compra de regalos online</span></h2>
-<p>En general, cuando los clientes compran por Internet, lo hacen para ellos mismos. Al tener el botón Give.it al lado de tus productos, los internautas tendrán siempre presente que el artículo puede adquirirse para regalo. Esto te ofrece la oportunidad de influir en las compras impulsivas para generar más ventas. Give.it también favorece que los clientes regresen al sitio para realizar más compras, al recordarles constantemente la posibilidad que tienen de enviar un regalo a quien deseen.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11696" src="http://www.prestashop.com/blog/es/files/2014/08/give-it-3.png" alt="" width="529" height="186" /></p>
-<h2><span style="color: #0000ff;">Integra la funcionalidad de las redes sociales</span></h2>
-<p>Utilizar las redes sociales para promocionar tus productos resulta eficaz pero, sin duda, el mensaje tiene mayor impacto cuando procede de un amigo. Al completar la transacción, Give.it crea una actualización para el perfil de la red social del comprador con la imagen de tu producto y el nombre del sitio. Al integrar la funcionalidad de las redes sociales, no sólo aumentas el reconocimiento de marca, sino que también refuerzas la confianza en ella. Los contactos de tus clientes verán que a éstos no sólo les gusta tu producto, sino que les entusiasma tanto que desean regalárselo a sus amigos. Así, el mensaje «deberías comprarlo» se convierte en «debes tenerlo».</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11697" src="http://www.prestashop.com/blog/es/files/2014/08/give-it-4-logo.png" alt="" width="300" height="219" /></p>
-<p>Además de optimizar tu sitio web para el envío de regalos a través de las redes sociales, Give.it también ofrece:</p>
-<ol>
-<ul>
-<li>Fijación de tarifas simple y transparente: no tendrás ningún gasto hasta que realices tu primera venta</li>
-<li>Botones personalizables para que se adapten perfectamente a la imagen de tu sitio y de tu marca</li>
-<li>Instalación y configuración sencillas para múltiples productos</li>
-</ul>
-</ol>
-<p>Give.it se ha impuesto la misión de cambiar el concepto del regalo online. ¡Los comerciantes PrestaShop pueden beneficiarse de esta innovadora idea, descargando el <a href="http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/15784-giveit.html" target="_blank">módulo Give.it</a> de forma gratuita en el sitio oficial de PrestaShop!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/optimiza-tu-sitio-de-e-commerce-para-la-compra-y-el-envio-de-regalos-a-traves-de-las-redes-sociales/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Guía de e-commerce para conseguir fotografías de producto perfectas</title>
-		<link>http://www.prestashop.com/blog/es/guia-de-ecommerce-para-conseguir-fotografias-de-producto-perfectas/</link>
-		<comments>http://www.prestashop.com/blog/es/guia-de-ecommerce-para-conseguir-fotografias-de-producto-perfectas/#comments</comments>
-		<pubDate>Wed, 30 Jul 2014 16:11:19 +0000</pubDate>
+		<title>Cómo usar el vídeo marketing para comercio electrónico</title>
+		<link>http://www.prestashop.com/blog/es/como-usar-el-video-marketing-para-comercio-electronico/</link>
+		<comments>http://www.prestashop.com/blog/es/como-usar-el-video-marketing-para-comercio-electronico/#comments</comments>
+		<pubDate>Mon, 22 Sep 2014 12:27:21 +0000</pubDate>
 		<dc:creator>Natalie Beigel</dc:creator>
 				<category><![CDATA[Consejos E-commerce]]></category>
 
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11650</guid>
-		<description><![CDATA[Cuando se trata de sitios de e-commerce y tiendas minoristas online, no se puede negar que la fotografía de producto juega un papel importante en la conducta de compra del cliente. Exponer tus productos con imágenes bonitas y de alta &#8230; <a href="http://www.prestashop.com/blog/es/guia-de-ecommerce-para-conseguir-fotografias-de-producto-perfectas/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Cuando se trata de sitios de e-commerce y tiendas minoristas online, no se puede negar que la fotografía de producto juega un papel importante en la conducta de compra del cliente. Exponer tus productos con imágenes bonitas y de alta calidad es el principal activo de tu tienda para aumentar la tasa de conversión en ventas.</p>
-<p>A fin de profundizar más en este tema, entrevistamos a Thomas Kragelund, CEO de Remove the Background y reconocido experto en optimización de imágenes de producto para sitios de comercio electrónico. En esta Guía de e-commerce para conseguir fotografías de producto perfectas, Thomas responde a las preguntas más habituales y revela técnicas profesionales para ayudarte a crear imágenes de producto irresistibles.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-17940" title="photoDIY2" src="http://www.prestashop.com/blog/en/files/2014/07/photoDIY2-1024x537.png" alt="" width="584" height="306" /></p>
-<p style="text-align: center;"><span id="more-11650"></span></p>
-<h2 style="text-align: center;">-</h2>
-<h2><span style="color: #ff6600;">¿Recomienda usar algún tipo de equipo fotográfico específico?</span></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11651" title="Image1" src="http://www.prestashop.com/blog/es/files/2014/07/Image1.png" alt="" width="560" height="474" /></p>
-<p>Hoy en día, no es necesario contar con equipos fotográficos carísimos para obtener imágenes de producto de calidad. Eso sí, hay cinco factores clave que juegan un papel fundamental a la hora de crear imágenes de producto profesionales para tu sitio web:</p>
-<p style="padding-left: 60px;"><span style="color: #ff6600;">●</span> la cámara<br />
-<span style="color: #ff6600;">●</span> el montaje del estudio<br />
-<span style="color: #ff6600;">●</span> la iluminación<br />
-<span style="color: #ff6600;">●</span> la preparación del producto<br />
-<span style="color: #ff6600;">●</span> la postproducción</p>
-<h4>1. Cámara</h4>
-<p>En la actualidad, todo el mundo tiene una cámara, ya sea integrada en el móvil, una antigua de enfocar y disparar u otra más profesional. No necesitas lo mejor de lo mejor para conseguir buenas imágenes de producto. Lo mejor es que utilices al menos una cámara que tenga ajuste manual de exposición y apertura.</p>
-<h4>2. Montaje del estudio</h4>
-<p>Para montar tu propio estudio, es importante que encuentres un lugar en el que tengas espacio suficiente para crear un fondo sencillo y continuo, y que además te permita moverte alrededor del producto y captarlo desde distintos ángulos. La sala de estar o una habitación libre bastarán pero, si sacas este tipo de fotos habitualmente, te recomiendo que encuentres un lugar fijo, pues montar y desmontar la escena para cada sesión puede llevar su tiempo. Asimismo, es más fácil obtener resultados consistentes si trabajas siempre en el mismo lugar.</p>
-<p>Para crear tu propio estudio, tan sólo necesitas una habitación, una mesa, un rollo de papel blanco que cree un fondo continuo y perfectamente liso detrás del producto y cinta adhesiva resistente para fijar el fondo. Si hay un elemento que no puede faltar entre tus herramientas de trabajo es el trípode, ya que estabiliza la cámara, lo que resulta esencial en el montaje, y te ayuda a obtener mejores resultados al instante.</p>
-<h4>3. Iluminación</h4>
-<p>La iluminación es también uno de los elementos esenciales en la fotografía de producto. Si no es la adecuada, tus imágenes no transmitirán una idea precisa de tus artículos. Hay distintas técnicas que puedes emplear para imágenes digitales, como la iluminación continua o el flash; sin embargo, lo importante es no mezclar nunca diferentes tipos de iluminación. Si sigues este consejo, lograrás capturar imágenes más realistas de tus productos.</p>
-<p>En caso de que cuentes con un presupuesto limitado, lo ideal es que aproveches la luz natural que entra por la ventana del espacio que hayas dispuesto como estudio. No obstante, esta opción presenta algunas desventajas importantes, a saber, la complejidad de las sesiones fotográficas nocturnas y la dificultad de obtener resultados consistentes en el tiempo. Por eso, es fundamental que inviertas en iluminación en cuanto te sea posible. Dos o tres fuentes de luz artificiales bastarán para obtener unos resultados significativamente mejores al instante.</p>
-<h4>4. Preparación del producto</h4>
-<p>Para conseguir unos resultados óptimos –y ahorrar tiempo y trabajo en la fase de postproducción– debes preparar los productos con esmero antes de empezar la sesión fotográfica. He aquí algunas sugerencias:</p>
-<p style="padding-left: 60px;"><span style="color: #ff6600;">●</span> solventa previamente las posibles imperfecciones, tales como manchas o botones que faltan;<br />
-<span style="color: #ff6600;">●</span> retira las etiquetas o pegatinas y limpia el polvo, tanto del producto como de la habitación;<br />
-<span style="color: #ff6600;">●</span> usa una plancha de vapor para eliminar arrugas;<br />
-<span style="color: #ff6600;">●</span> haz patente la forma del producto: si se trata de ropa, emplea un maniquí para que el cliente se haga una idea de cómo queda la prenda. En el caso del calzado, puedes rellenarlo o incluso usar hilo dental para mantener en su sitio las tiras de las sandalias o los zapatos de tacón.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11675" title="Image2" src="http://www.prestashop.com/blog/es/files/2014/07/Image2.png" alt="" width="527" height="227" /></p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11676" title="Image3" src="http://www.prestashop.com/blog/es/files/2014/07/Image3.png" alt="" width="585" height="270" /></p>
-<h4>5. Postproducción</h4>
-<p>En este último paso, es conveniente que un diseñador gráfico o un editor experto retoque las fotografías. Al menos, debes asegurarte de que las fotos reflejen fielmente el color del producto. También es recomendable que crees una guía de estilo para cada categoría de productos, de modo que todas las imágenes se editen de la misma manera. Igualmente, debes tener en cuenta <a href="http://www.removethebackground.es/blog/guia-para-imagenes-de-producto-en-mercados-online/?ref=1036403 " target="_blank">los estándares de imagen del producto en los mercados online</a> si piensas comercializar tus artículos en sitios como Amazon o eBay. Crea tu propia guía de estilo, definiendo las siguientes especificaciones para la imagen:</p>
-<p style="padding-left: 60px;"><span style="color: #ff6600;">●</span> Tamaño<br />
-<span style="color: #ff6600;">●</span> Margen (superior, inferior, izquierdo, derecho)<br />
-<span style="color: #ff6600;">●</span> Alineación (arriba, centro, abajo)<br />
-<span style="color: #ff6600;">●</span> Color del fondo<br />
-<span style="color: #ff6600;">●</span> Tipo de sombra</p>
-<p>Para saber más sobre las mejores prácticas en fotografía digital de productos, puedes consultar nuestra serie DIY (hazlo tú mismo), que consta de tres artículos:</p>
-<p style="padding-left: 60px;"><a href="http://www.removethebackground.com/blog/diy-1-build-photo-studio-bootstrapped-budget/?ref=1036403" target="_blank">DIY 1: Cómo crear un estudio fotográfico low cost</a><br />
-<a href="http://www.removethebackground.com/blog/diy-2_camera_settings/?ref=1036403" target="_blank">DIY 2: Cómo configurar tu cámara digital para fotografías de producto</a><br />
-<a href="http://www.removethebackground.com/blog/diy-3-editing-product-images/?ref=1036403" target="_blank">DIY 3: Consejos de postproducción para obtener imágenes de producto perfectas</a></p>
-<h2 style="text-align: center;">-</h2>
-<h2><span style="color: #ff6600;">¿Cuáles son las mejores técnicas de iluminación?</span></h2>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11677" title="Image4" src="http://www.prestashop.com/blog/es/files/2014/07/Image4.png" alt="" width="585" height="211" /></p>
-<p>Al realizar una compra online, los clientes quieren saber exactamente qué recibirán, por lo que es fundamental mostrarles imágenes realistas de tus productos. Además de mejorar tus ventas, las imágenes profesionales y realistas contribuirán a reducir las devoluciones y las quejas.</p>
-<p>Así pues, nunca mezcles distintos tipos de luz. Esto se produce cuando dos o más fuentes de luz distintas iluminan un producto (fluorescente, incandescente, natural o de flash). La combinación de distintas fuentes de luz puede distorsionar el color verdadero del producto y dar una impresión equivocada a tus clientes. Además, en estos casos, corregir el color en postproducción con programas como Photoshop puede ser muy complicado, por lo que es conveniente trabajar directamente con el tipo de luz adecuada ya en el estudio.</p>
-<p>Hay dos tipos principales de sistemas de iluminación que puedes usar:</p>
-<p><span style="color: #ff6600;">●</span> Iluminación continua: la luz natural que entra por la ventana o bombillas potentes</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11678" title="Image5" src="http://www.prestashop.com/blog/es/files/2014/07/Image5.png" alt="" width="585" height="310" /></p>
-<p><span style="color: #ff6600;">●</span> Flash: integrado/externo o flash de estudio/monolight</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11656" title="Image6" src="http://www.prestashop.com/blog/es/files/2014/07/Image6.png" alt="" width="559" height="261" /></p>
-<p>Si cuentas con una habitación que recibe luz natural, puedes aprovechar esta fuente de luz continua. Configura los ajustes de tu cámara adaptándolos a la iluminación de la habitación para conseguir unos resultados óptimos. A fin de sacar el máximo provecho de esta luz natural, debes montar el estudio lo más cerca posible de la ventana y colocar una lámina reflectora de color blanco en el lado opuesto para hacer que la luz «rebote» sobre el producto.</p>
-<p>Por otro lado, si no tienes fácil acceso a la luz natural, hay diferentes opciones de iluminación que puedes usar en tu estudio. Las más habituales para los fotógrafos profesionales son:</p>
-<p style="padding-left: 60px;"><span style="color: #ff6600;">●</span> Flash integrado o externo<br />
-<span style="color: #ff6600;">●</span> Flash de estudio/monolight</p>
-<p>Para los fotógrafos no profesionales, es recomendable el uso de lámparas fluorescentes calibradas a luz diurna, pues son fáciles de usar. No desprenden calor ni consumen mucha energía y suelen tener un precio bastante asequible.</p>
-<p>Cierto es que puede resultar confuso descifrar qué equipos fotográficos o de iluminación son los más adecuados para tu negocio online. Para hacerlo más sencillo, plantéate cuáles son tus principales necesidades y cuál es tu propósito al usar fuentes de luz artificiales. Estas dos preguntas pueden ayudarte a determinar cuál es el equipo más adecuado para ti.</p>
-<p>Para saber más sobre las distintas técnicas de iluminación para e-commerce, consulta el siguiente artículo: <a href="http://www.removethebackground.com/blog/lighting-equipment-101/?ref=1036403 " target="_blank">Equipos de iluminación &#8211; Principios básicos</a></p>
-<h2 style="text-align: center;">-</h2>
-<h2><span style="color: #ff6600;">¿Cuáles son las mejores prácticas para crear imágenes de producto y páginas de categorías consistentes?</span></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11657" title="Image7" src="http://www.prestashop.com/blog/es/files/2014/07/Image7.png" alt="" width="630" height="276" /></p>
-<p>A menudo, se ven sitios web con imágenes de producto de alta calidad pero que no tienen consistencia en sus páginas de categorías. Esto no sólo distorsiona el sentido de escala que el cliente se hace de los productos, sino que también puede darle la sensación de que el sitio web está algo descuidado.</p>
-<p>Para evitarlo, crea una guía de estilo para tus imágenes de producto; en ella, especifica los requisitos de tamaño, marco, márgenes, alineación, fondo y sombras para cada categoría de productos.</p>
-<p>Esta guía de estilo servirá de referencia tanto a tus diseñadores gráficos in-house como a los equipos externos, si decides <a href="http://www.removethebackground.es/blog/outsourcing/?ref=1036403 " target="_blank">externalizar el proceso de edición de las imágenes de productos</a>. En cualquier caso, te asegurarás de obtener siempre los mismos resultados finales en tu sitio web.</p>
-<h2 style="text-align: center;">-</h2>
-<h2><span style="color: #ff6600;">¿Cómo se deben sacar las fotos para resaltar los detalles del producto?</span></h2>
-<p>Como norma general, cuanta más información proporciones acerca de tus productos, mejor será la experiencia de compra y más se reducirá la tasa de devoluciones. La información que proporcionas sobre tus productos procede de dos fuentes principales: la descripción y las imágenes de los productos. Por lo tanto, publicar múltiples imágenes de alta calidad de cada producto es un factor clave para el éxito de tu negocio online.</p>
-<p><img class="aligncenter size-full wp-image-11658" title="Image8" src="http://www.prestashop.com/blog/es/files/2014/07/Image8.png" alt="" width="538" height="308" /></p>
-<p>Es fundamental que fotografíes tus productos desde varios ángulos distintos, de manera que tus clientes puedan apreciar el color, el material y los adornos con el máximo detalle posible. Mostrar el artículo desde distintos ángulos –vista anterior, posterior, de ambos lados y desde un ángulo de 45 grados– es un punto de partida excelente.</p>
-<p>Algunos sitios web tienen una funcionalidad de zoom que permite ver el artículo con más detalle. Es indispensable que los potenciales clientes puedan hacer zoom sobre el artículo para ver las áreas de mayor interés. Se trata de una herramienta valiosísima. Con todo, también es conveniente que ofrezcas imágenes adicionales que resalten especialmente los principales detalles del producto para captar la atención de tus clientes. Asegúrate de incluir tomas que revelen las características más destacadas del producto, como logos, bordados especiales, pedrería, cintas, adornos y/o cualquier otra característica distintiva.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11659" title="Image9" src="http://www.prestashop.com/blog/es/files/2014/07/Image9.png" alt="" width="327" height="491" /></p>
-<h2 style="text-align: center;">-</h2>
-<h2><span style="color: #ff6600;">¿Recomienda alguna forma sencilla de mostrar fielmente el color de las imágenes de producto?</span></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11660" title="Image10" src="http://www.prestashop.com/blog/es/files/2014/07/Image10.jpg" alt="" width="630" height="305" /></p>
-<p>Puede que no haya nada más alienante para los compradores online que las representaciones de color imprecisas en las fotografías de producto. Los clientes tienden a sentirse frustrados, insatisfechos e incluso decepcionados cuando reciben un producto que tiene un color distinto del que vieron en la página web.</p>
-<p>Resulta esencial para los vendedores online representar los colores de sus productos de forma precisa, y el primer paso para conseguir buenos resultados comienza en el estudio. Como mencionamos anteriormente, debes evitar mezclar distintos tipos de iluminación, ya que pueden alterar el color del producto.</p>
-<p>Además, es bueno saber cómo sacar provecho de una tarjeta de grises. La tarjeta de grises está diseñada para ayudar a los fotógrafos a determinar los ajustes de exposición y el balance de blancos de forma consistente, proporcionándoles un punto de referencia. Esta referencia determinará el balance de blancos, o de color, para una imagen en particular, y para todas las que se tomen posteriormente. Esta referencia hará que la cámara compense el color iluminador en la escena, ajustando el balance de blancos y/o de color.</p>
-<p>Otra etapa importante que debes tener en cuenta es la de convertir las fotos editadas en el perfil de espacio de color para la web. Un espacio de color es un rango de colores específico que puede presentarse en una imagen dada. Algunos ejemplos de espacios de color son Adobe RGB, CMYK y SRGB. Sin el espacio de color adecuado, los colores de los productos se verán totalmente distintos al visualizarse en diferentes pantallas o navegadores. SRGB es el mejor perfil de espacio de color para que tus imágenes presenten colores vivos y consistentes independientemente del canal o dispositivo en el que se visualicen.</p>
-<p>Por último, debes realizar los últimos ajustes de color con un programa de postproducción como Adobe Photoshop para perfeccionar tus imágenes de producto. Asegúrate de trabajar con un buen editor de imágenes que pueda tomar tus imágenes de estudio y convertirlas en fotografías de producto con un elevado potencial comercial, y adaptadas a las exigencias de la web. ¡Suerte con la sesión!</p>
-<h4>Acerca de RemoveTheBackground.com</h4>
-<p>Remove The Background (RTB) es el servicio de edición de imágenes de producto para vendedores online, blogueros, diseñadores, fotógrafos y webmasters líder del mercado.</p>
-<p>RTB fue fundada en Dinamarca en 2011 y ahora es ya una familia internacional, con sedes en Norteamérica (Estados Unidos, Canadá), Europa (Reino Unido, Alemania, Francia, Benelux, España, países nórdicos) y Asia (Vietnam).</p>
-<p>¡Suscríbete hoy mismo y gana 3 imágenes de producto gratuitas!</p>
-<p>Para saber más, visita <a href="http://www.removethebackground.es/?ref=1036403" target="_blank">www.RemoveTheBackground.com</a></p>
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11895</guid>
+		<description><![CDATA[Durante el último año, el vídeo marketing ha ganado terreno entre los vendedores online. Este avance se debe en gran parte a las limitaciones de la imagen estática bidimensional. Si compramos online no podemos tocar el producto pero verlo en &#8230; <a href="http://www.prestashop.com/blog/es/como-usar-el-video-marketing-para-comercio-electronico/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Durante el último año, el vídeo marketing ha ganado terreno entre los vendedores online. Este avance se debe en gran parte a las limitaciones de la imagen estática bidimensional. Si compramos online no podemos tocar el producto pero verlo en vídeo nos da confianza&#8230; y reduce el número de devoluciones.</p>
+<p>¿Más ventajas? Pasa y descubre ejemplos y las mejores prácticas en el campo del vídeo marketing.</p>
+<p><img class="aligncenter size-large wp-image-11897" title="video-marketing" src="http://www.prestashop.com/blog/es/files/2014/09/video-marketing-1024x537.png" alt="" width="584" height="306" /></p>
+<p><span id="more-11895"></span></p>
+<h2><span style="color: #028b6b;">¿Merece la pena la inversión?</span></h2>
+<p>Cada vez son más los negocios online que invierten en vídeos promocionales. Según un <a href="http://www.reelseo.com/consumers-purchase-video/ " target="_blank">reciente estudio de ReelSEO</a>, el 73 % de los consumidores se siente más tentado a comprar después de ver el producto en vídeo. Y el 96 % considera que los vídeos son útiles para tomar decisiones de compra en Internet.</p>
+<p><img class="aligncenter size-full wp-image-11896" title="ReelSEO Video Marketing Image" src="http://www.prestashop.com/blog/es/files/2014/09/ReelSEO-Video-Marketing-Image.png" alt="" width="575" height="526" /></p>
+<p style="padding-left: 30px;"><span style="color: #333333;"><strong>Los vendedores online que usan eficazmente el vídeo consiguen:</strong></span></p>
+<p style="padding-left: 90px;"><span style="color: #c902c5;"><strong> -</strong></span> Una mejor presentación del producto<br />
+<strong><span style="color: #c902c5;">-</span></strong> Visitas más largas a su sitio web<br />
+<strong><span style="color: #c902c5;">-</span></strong> Optimización para buscadores<br />
+<strong><span style="color: #c902c5;">-</span></strong> Un menor porcentaje de devoluciones<br />
+<strong><span style="color: #c902c5;">-</span></strong> Un incremento del importe medio de la compra<br />
+<strong><span style="color: #c902c5;">-</span></strong> Mejores tasas de conversión en ventas</p>
+<h2><span style="color: #028b6b;">Las mejores formas de usar vídeos para e-commerce</span></h2>
+<p>¿Quieres que tu contenido invite a comprar? Usa vídeos, una forma estupenda de aumentar la implicación y las conversiones sin distraer.</p>
+<p style="padding-left: 60px;"><span style="color: #333333;"><strong>¿Cuáles son los mejores vídeos para comercio electrónico?</strong></span></p>
+<p style="padding-left: 120px;"><strong><span style="color: #c902c5;"> -</span></strong> Productos en acción<br />
+<strong><span style="color: #c902c5;">-</span></strong> Demos de productos<br />
+<strong><span style="color: #c902c5;">-</span></strong> Tutoriales<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vídeos explicativos<br />
+<strong><span style="color: #c902c5;">-</span></strong> Anuncios en vídeo<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vídeos corporativos<br />
+<strong><span style="color: #c902c5;">-</span></strong> Vídeo-blogs<br />
+<strong><span style="color: #c902c5;">-</span></strong> Testimonios en vídeo</p>
+<p>Veamos ahora tres excelentes ejemplos de empresas que usan vídeos como estrategia de marketing.</p>
+<h4><span style="color: #c902c5;">Productos en acción</span></h4>
+<p><iframe src="//www.youtube.com/embed/Sh1Veb4xEi8" frameborder="0" width="400" height="225"></iframe></p>
+<p>Zappos ha demostrado que añadir vídeos a las páginas de productos <strong>aumenta las ventas entre un 6 % y un 30 %.</strong> Fíjate: en solo 10 segundos el producto cobra vida en el vídeo.</p>
+<h4><span style="color: #c902c5;">Demos de productos</span></h4>
+<p><iframe src="//www.youtube.com/embed/k7xy8x8YlnE" frameborder="0" width="560" height="315"></iframe></p>
+<p>Walmart usa vídeos de demostración para destacar los detalles y características. Además, sube los vídeos a su canal de YouTube. Este clip tiene ya más de 10 000 visitas.</p>
+<h4><span style="color: #c902c5;">Vídeos corporativos</span></h4>
+<p><iframe src="//player.vimeo.com/video/72730264?color=ff6346" frameborder="0" width="500" height="213"></iframe></p>
+<p><a href="http://www.headict.co.uk/ " target="_blank">Headict</a>, una tienda PrestaShop, tiene su vídeo corporativo en su página de inicio. ¿El resultado? Teje conexiones con los clientes y fomenta la lealtad a la marca.</p>
+<h2><span style="color: #028b6b;">Optimización de vídeos para SEO</span></h2>
+<p>Ahora más que nunca, Google sitúa el contenido en vídeo por encima de otros resultados. Añade vídeos a las páginas de productos y mejorarás la indexación en buscadores. Y no olvides publicar los vídeos en el segundo mayor buscador del mundo: Youtube. Te ayudará a atraer más tráfico.</p>
+<p>Econsultancy indica en un artículo sobre las <a href="https://econsultancy.com/blog/7919-e-commerce-product-videos-best-practice-tips#i.wxzlnujb1d85sd " target="_blank">mejores prácticas para vídeos de e-commerce</a> qué <span style="color: #333333;"><strong>factores determinan el valor SEO de tus vídeos:</strong></span></p>
+<p style="padding-left: 90px;"><strong><span style="color: #c902c5;">-</span></strong> Metadatos: etiquetas de título y descripción<br />
+<strong><span style="color: #c902c5;">-</span></strong> Número de comentarios y las veces que se comparte<br />
+<strong><span style="color: #c902c5;">-</span></strong> Backlinks<br />
+<strong><span style="color: #c902c5;">-</span></strong> Datos añadidos<br />
+<strong><span style="color: #c902c5;">-</span></strong> Número de veces que se ha visto<br />
+<strong><span style="color: #c902c5;">-</span></strong> Puntuación y calificación como favorito<br />
+<strong><span style="color: #c902c5;">-</span></strong> Enlaces externos</p>
+<h2><span style="color: #028b6b;">Cómo añadir vídeos a tu tienda PrestaShop</span></h2>
+<p>Si tu tienda online funciona con PrestaShop, estás de suerte: añadir vídeos a tu sitio web es facilísimo.<br />
+<span style="color: #333333;"><strong>Aquí tienes un par de recursos que te ayudarán:</strong></span></p>
+<p style="padding-left: 30px;"><strong><span style="color: #c902c5;">-</span></strong> <a href="http://www.prestashop.com/forums/topic/326248-solved-cannot-add-video-to-product-description/ " target="_blank">Hilo del foro PrestaShop</a><br />
+<strong><span style="color: #c902c5;">-</span></strong> <a href="http://addons.prestashop.com/es/buscar?search_query=video" target="_blank">PrestaShop Addons</a></p>
+<p>&#8211;<br />
+¿Ya usas vídeos en tu sitio web de comercio electrónico? Cuéntanos tu experiencia. O pregunta lo que quieras, los comentarios están a tu disposición.</p>
+<p>¿Aún no usas PrestaShop? Crea una tienda online gratis y con avanzadas funcionalidades de marketing integradas. ¡Prueba la <a href="http://www.prestashop.com/es/demo" target="_blank">demo</a> o <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga </a> PrestaShop hoy mismo!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/guia-de-ecommerce-para-conseguir-fotografias-de-producto-perfectas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>12 propuestas gratuitas para hacer progresar tu negocio de Ecommerce</title>
-		<link>http://www.prestashop.com/blog/es/12-propuestas-gratuitas-para-hacer-progresar-tu-negocio-de-ecommerce/</link>
-		<comments>http://www.prestashop.com/blog/es/12-propuestas-gratuitas-para-hacer-progresar-tu-negocio-de-ecommerce/#comments</comments>
-		<pubDate>Wed, 16 Jul 2014 15:53:01 +0000</pubDate>
-		<dc:creator>Natalie Beigel</dc:creator>
-				<category><![CDATA[Consejos E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11618</guid>
-		<description><![CDATA[Todo vendedor online está siempre a la búsqueda de nuevas formas para aumentar los ingresos y mejorar el beneficio. Existen múltiples oportunidades de crecimiento, desde la mejora del tráfico del sitio web hasta el aumento del valor del pedido medio, &#8230; <a href="http://www.prestashop.com/blog/es/12-propuestas-gratuitas-para-hacer-progresar-tu-negocio-de-ecommerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Todo vendedor online está siempre a la búsqueda de nuevas formas para aumentar los ingresos y mejorar el beneficio. Existen múltiples oportunidades de crecimiento, desde la mejora del tráfico del sitio web hasta el aumento del valor del pedido medio, pero como ya sabrás, muchas de estas estrategias son caras y requieren mucho tiempo.</p>
-<p>Por eso te proponemos 12 formas de hacer crecer gratis tu negocio online, para ayudarte a aumentar los ingresos de forma continua y fortalecer tu imagen online.</p>
-<p><img class="alignleft size-full wp-image-11643" src="http://www.prestashop.com/blog/es/files/2014/07/méthodes-gratuites-pour-booster-votre-5.png" alt="" width="600" height="315" /></p>
-<p><span id="more-11618"></span></p>
-<h4><span style="color: #333399;">1. Hay que darlo todo en el servicio de atención al cliente</span></h4>
-<p>Conseguirás pasar de un cliente que compra una única vez a un cliente fiel que compra de forma asidua disponiendo de un servicio de atención al cliente excepcional.<br />
-En resumen, haz que tus clientes se sientan especiales e importantes.</p>
-<p>Ofrece un servicio que marque a tus clientes:</p>
-<p style="padding-left: 60px;"><strong><span style="color: #0000ff;">-</span></strong> Incluye una nota manuscrita de agradecimiento<br />
-<strong><span style="color: #0000ff;">-</span></strong> Envía emails de seguimiento interesándote sobre si todo estaba a su gusto<br />
-<strong><span style="color: #0000ff;">-</span></strong> Responde rápidamente a través de email, chat en directo, teléfono o redes sociales<br />
-<strong><span style="color: #0000ff;">-</span></strong> Incluye obsequios y pequeños detalles de regalo en los paquetes<br />
-<strong><span style="color: #0000ff;">-</span></strong> Haz sencillas las devoluciones con opciones de descambio</p>
-<p style="padding-left: 60px;">Infórmate sobre las <a href="http://www.prestashop.com/blog/en/7-proven-ways-to-increase-customer-satisfaction-for-your-online-business/" target="_blank">7 formas comprobadas para mejorar la satisfacción del cliente</a>.</p>
-<h4><span style="color: #333399;">2. Aplica precios psicológicos</span></h4>
-<p>Lo creas o no, tienes un gran poder sobre las decisiones de compra de tus clientes. Tú estableces las reglas. Utilizando los precios psicológicos en tu tienda, estás contribuyendo estratégicamente a que tus clientes gasten más.</p>
-<p>En este artículo sobre <a href="http://www.prestashop.com/blog/en/the-psychology-of-pricing-and-discounts-for-e-commerce/" target="_blank">Precios psicológicos en el Ecommerce</a>, encontrarás información sobre las 4 estrategias más efectivas para aumentar las ventas:</p>
-<p><img class="aligncenter size-full wp-image-17725" title="Psychological Pricing" src="http://www.prestashop.com/blog/en/files/2014/07/Psychological-Pricing.jpg" alt="" width="515" height="215" /></p>
-<p style="padding-left: 60px;"><strong><span style="color: #0000ff;">-</span></strong> Compra 1 y llévate el 2° gratis<br />
-<strong><span style="color: #0000ff;">-</span></strong> El encantador número 9<br />
-<strong><span style="color: #0000ff;">-</span></strong> Más valor por el mismo precio<br />
-<strong><span style="color: #0000ff;">-</span></strong> Precios de ocasión</p>
-<h4><span style="color: #333399;">3. Ve a por los clientes a través del móvil</span></h4>
-<p>Según un estudio de <a href="http://recode.net/2014/05/12/mobile-commerce-sales-to-top-100-billion-in-2014-forrester-estimates/" target="_blank">Forrester</a>, las ventas esperadas a través del móvil son de más de 100 billones de dólares en 2014. Puedes conseguir un trozo de este pastel gracias a <a href="http://addons.prestashop.com/es/movil/8609-browsi.html" target="_blank">Brow.si</a>, una extensión gratuita que añade funcionalidades que mejoran la experiencia de usuario a través del móvil en tu tienda online de forma continua y progresiva. Una vez que añades Brow.si a tu tienda online, los visitantes que acceden a través del móvil pueden buscar, descubrir, compartir y comprar productos de forma natural y fluida en cualquier página de tu sitio web.</p>
-<p>¿Lo sabías? PrestaShop ya incluye una plantilla responsive con todas las funcionalidades necesarias para el comercio a través del móvil incluyendo el proceso de pago. También puedes encontrar <a href="http://addons.prestashop.com/es/205-temas-premium" target="_blank">plantillas responsive de ecommerce</a> en PrestaShop Addons.</p>
-<h4><span style="color: #333399;">4. Integra estrategias en el envío </span></h4>
-<p>Ofrecer incentivos en el envío es una forma efectiva de aumentar el índice de conversión y disminuir los abandonos de pedidos sin finalizar. Mira estas 4 estrategias de envíos que te ayudarán a que el <a href="http://www.getelastic.com/shopping-cart-abandonment-stats-infographic/ " target="_blank">55% de tus clientes</a> se decidan a comprar movidos por los incentivos en los costes de envío.</p>
-<p><img class="aligncenter size-full wp-image-17726" title="Shipping Strategies" src="http://www.prestashop.com/blog/en/files/2014/07/Shipping-Strategies.jpg" alt="" width="575" height="214" /></p>
-<p style="padding-left: 30px;"><strong>Umbral para conseguir los gastos de envío gratis</strong> – si puedes permitírtelo, ¡hazlo! Establece un valor mínimo del pedido como requisito antes de ofrecer los gastos de envío, para asegurarte de que la estrategia te sale rentable. Por ejemplo, “gastos de envío gratis para pedidos de más de 50 €”<br />
-<strong>Entrega Express </strong>– para clientes que necesitan de forma urgente sus productos, dales la opción de entregas en 1, 2 o 3 días.<br />
-<strong>“Tarifa plana” en los gastos de envío </strong>– si tienes productos con similar peso y tamaño, puede ser una estrategia efectiva.<br />
-<strong>Gastos de envío gratis para las devoluciones</strong> – esta técnica mejora la confianza de tus clientes.</p>
-<h4><span style="color: #333399;">5. Crea el contacto a través del marketing por email </span></h4>
-<p>Para construir una relación a través del marketing por email conseguirás valor e incentivos, dirigir el tráfico hacia tu sitio web, aumentar las ventas y construir una relación cercana con tus clientes. Estos son algunos ejemplos de campañas por email que te ayudarán a:</p>
-<p style="padding-left: 30px;"><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/en/files/2014/07/Email-marketing-stat.jpg" alt="" /><strong><span style="color: #0000ff;">-</span></strong>Dar la bienvenida a los nuevos suscriptores<br />
-<strong><span style="color: #0000ff;">-</span></strong> Newsletters mensuales con tus novedades y promociones<br />
-<strong><span style="color: #0000ff;">-</span></strong> Emails de felicitación de cumpleaños<br />
-<strong><span style="color: #0000ff;">-</span></strong> Novedades basadas en los productos similares comprados<br />
-<strong><span style="color: #0000ff;">-</span></strong> Encuestas sobre el proceso de compra y opinión sobre los productos<br />
-<strong><span style="color: #0000ff;">-</span></strong> Emails de carritos abandonados<br />
-<strong><span style="color: #0000ff;">-</span></strong> Animar a volver a visitantes inactivos</p>
-<p>Para ayudarte a inspirarte, ¡echa un vistazo a estos <a href="http://www.prestashop.com/blog/en/examples-of-ecommerce-marketing-emails-that-work/ " target="_blank">ejemplos de emails de marketing para ecommerces </a>que han arrasado!</p>
-<p>&gt; Relanza a tus visitantes que no finalizaron el pedido con el módulo &#8220;<a href="http://addons.prestashop.com/es/modulos-proceso-de-pedido/16535-recordatorio-de-carritos-abandonados-pro.html" target="_blank">Recordatorio de carritos abandonados</a>&#8221;</p>
-<p>&gt; Mantén el contacto con tus clientes con el módulo &#8220;<a href="http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/4932-newsletter-statistics.html" target="_blank">Newsletter y estadísticas</a>&#8221;</p>
-<h4><span style="color: #333399;">6.Dirígete a sectores específicos del mercado</span></h4>
-<p>Una vez hayas identificado las características de tu clientela, seguramente observarás que pertenece al nicho específico del mercado al que estás enfocado. Ya sean estudiantes, mujeres embarazadas o profesionales del golf, podrás con toda seguridad ubicarlos en un sector específico al que puedas aportar valor.</p>
-<p>Definiendo un segmento de mercado, podrás llegar mucho más lejos con un presupuesto menor. Enfocarse en estrategias que hagan participar al cliente en las redes sociales, los contenidos online, como invitados en blogs y prescriptores sociales. Dirigirse a segmentos de mercado es la mejor forma de asegurarse campañas de marketing beneficiosas con mayores probabilidades de convertir.</p>
-<h4><span style="color: #333399;">7.Mejora la experiencia de compra con las ventas cruzadas (cross selling)</span></h4>
-<p>Permite a tus clientes encontrar cualquier cosa que busquen en tu tienda y aumenta el valor del pedido medio mientras estén en la búsqueda. Las ventas cruzadas permiten vender productos en las fichas producto incluyendo una promoción como: “Los clientes que han comprado este producto también compraron”, “también te puede interesar” o “completa el look.”</p>
-<p>Muchas tiendas online también utilizan ventas cruzadas a través de secciones de “look books” o “inspiración”, que crean looks completos con distintos productos de la tienda. Ikea es un buen ejemplo. Mira cómo decoran una habitación entera con sus productos permitiendo ver los productos de forma individual.</p>
-<p><img class="aligncenter size-large wp-image-17724" title="IKEA PRODUCT STAGE" src="http://www.prestashop.com/blog/en/files/2014/07/IKEA-PRODUCT-STAGE-1024x623.png" alt="" width="584" height="355" /></p>
-<h4><span style="color: #333399;">8. Propón un servicio de suscripción</span></h4>
-<p>¿Estás buscando una forma de aumentar el ingreso permanente? Los servicios de suscripción en Ecommerce son lo último, es el momento de unirte. Si quieres empezar a ofrecer una gift box mensual o pedidos programados, es el momento de agregarlo a tu negocio para mejorar las ventas.</p>
-<p>Lee este artículo <a href="http://www.prestashop.com/blog/es/por-que-ofrecer-un-servicio-de-suscripcion-en-su-tienda-online/" target="_blank">Por qué ofrecer un servicio de suscripción para tu sitio de Ecommerce</a> para ver si es un modelo de venta adecuado a tu tienda online.</p>
-<h4><span style="color: #333399;">9. Conecta con prescriptores online</span></h4>
-<p><img style="border: 0pt none; float: right; padding-left: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/en/files/2014/07/Back-links-quote.jpg" alt="" /></p>
-<p>Localiza los prescriptores online más importantes de tu sector. ¿Vendes moda y accesorios? Contacta con los bloggers de moda y envíales muestras de tus productos para incentivarles a escribir sobre ti. Estos líderes de opinión cuentan con seguidores interesados en el tipo de productos que ofreces. Además, cuando uno de estos prescriptores añade un enlace a tu tienda, denominado “backlink” o “Inbound Link” (enlace de llegada) es extremadamente positivo para tu SEO.</p>
-<p>Echa un vistazo a <a href="https://blog.kissmetrics.com/guide-to-influencer-targeting/" target="_blank">KISSmetrics Guide to Influencer Targeting</a> para saber cómo encontrar el prescriptor ideal para promocionar tu negocio.</p>
-<p>&#8220;Buscadores, incluyendo Google consideran más relevantes los sitios web que disponen de backlinks para los resultados de búsquedas.”</p>
-<h4><span style="color: #333399;">10. Aprovecha tus esfuerzos en SEO </span></h4>
-<p>El SEO puede ser un tema complicado para los vendedores online, por ello, te proponemos 3 formas sencillas de mejorar tu posicionamiento en los resultados de búsquedas que tal vez no conozcas.</p>
-<p><strong>Comentarios de clientes</strong> – crea contenido generado por los usuarios en tu sitio web, añadiendo palabras clave y frases de tus clientes.</p>
-<p><strong>Actualiza regularmente las secciones de tu página de inicio</strong> – considera la inclusión de tus posts más recientes de blog o de twitter.</p>
-<p><strong>Páginas de comparación de productos </strong>– añade enlaces internos relevantes a tus productos del top ventas.</p>
-<h4><span style="color: #333399;">11. Entra en la blogosfera</span></h4>
-<p><img style="border: 0pt none; float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.prestashop.com/blog/en/files/2014/07/blogosphere.jpg" alt="" /></p>
-<p>Optimiza los esfuerzos en SEO. Un blog te permitirá producir contenido único que incluye palabras claves relevantes y enlaces a tus páginas productos.</p>
-<p>Escribe artículos de blog que interesen a tu público objetivo y atráeles a tu tienda. Desarrolla un editorial cada mes y establece tu marca como líder de la industria. Asegúrate de tener siempre en mente tu público.</p>
-<p>HubSpot comparte <a href="http://blog.hubspot.com/blog/tabid/6307/bid/7409/Successful-Blogging-Topics-for-eCommerce-Websites.aspx  " target="_blank">3 temas de interés para el blog de sitios web ecommerce</a> incluye: cómo se utilizan los productos, noticias sobre el producto, el sector y promociones/regalos.</p>
-<h4><span style="color: #333399;">12.Utiliza promociones limitadas en el tiempo</span></h4>
-<p>Si quieres aumentar rápidamente tus beneficios, pon en marcha ventas flash de vez en cuando para conseguir una avalancha de visitas en tu sitio web. A través de un email de marketing, las redes sociales y las landing pages (página de aterrizaje), puedes promocionar ofertas limitadas en el tiempo para animar a tus compradores a hacer compras impulsivas. Echa un vistazo a algunos de estos ejemplos de ventas flash para inspirarte en tu siguiente promoción:</p>
-<p style="padding-left: 30px;"><strong><span style="color: #0000ff;">-</span></strong> Consigue el 20% de descuento antes de que se agote<br />
-<strong><span style="color: #0000ff;">-</span></strong> Vístete como una celebrity por menos de 50€ SOLO hoy<br />
-<strong><span style="color: #0000ff;">-</span></strong> Envío GRATIS en pedidos realizados antes de esta noche<br />
-<strong><span style="color: #0000ff;">-</span></strong> Sólo queda un día para disfrutar del 25% de descuento en toda la tienda<br />
-<strong><span style="color: #0000ff;">-</span></strong> Ventas de 1 día – ahorra 100€ en tu compra/p&gt;</p>
-<p>Descubre <a href="http://blog.hubspot.com/blog/tabid/6307/bid/33326/The-Secret-to-Creating-Irresistible-Marketing-Offers.aspx " target="_blank">El secreto para crear ofertas de marketing irresistibles</a> que harán decir a tus compradores “¡lo quiero!” a todos tus productos.</p>
-<p>&gt;<em> </em>Crea promociones limitadas en el tiempo para tu tienda online con &#8220;<a href="http://addons.prestashop.com/es/descuentos-ofertas-rebaja-prestashop-modulos/2375-ventas-flash-20.html" target="_blank">Ventas flash</a>&#8221;</p>
-<p>&#8211;</p>
-<p>Comienza tu negocio ecommerce hoy mismo sin gastar nada. ¿Aún no usas un software de ecommerce que te permita crear tu tienda? Prueba ahora la <a href="http://www.prestashop.com/es/demo" target="_blank">demo de PrestaShop</a> o <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga PrestaShop</a> GRATIS de forma inmediata y comienza a disfrutar de tu tienda online con las últimas funcionalidades.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/12-propuestas-gratuitas-para-hacer-progresar-tu-negocio-de-ecommerce/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
-		</item>
-		<item>
-		<title>Gira mundial de PrestaShop: Tendencias de Ecommerce con el CEO de una agencia web que ha experimentado un rápido crecimiento de NYC</title>
-		<link>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-tendencias-de-ecommerce-con-el-ceo-de-una-agencia-web-que-ha-experimentado-un-rapido-crecimiento-de-nyc/</link>
-		<comments>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-tendencias-de-ecommerce-con-el-ceo-de-una-agencia-web-que-ha-experimentado-un-rapido-crecimiento-de-nyc/#comments</comments>
-		<pubDate>Wed, 16 Jul 2014 15:33:04 +0000</pubDate>
-		<dc:creator>Quentin Audrain</dc:creator>
-				<category><![CDATA[PrestaShop World Tour]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11621</guid>
-		<description><![CDATA[Nuestra siguiente parada en la “Gran manzana” nos lleva a Outside the Pixel, una agencia web de desarrollo de NYC, para conocer a su CEO, Aurélien. Nos van a presentar las últimas y futuras tendencias de ecommerce que todo vendedor &#8230; <a href="http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-tendencias-de-ecommerce-con-el-ceo-de-una-agencia-web-que-ha-experimentado-un-rapido-crecimiento-de-nyc/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Nuestra siguiente parada en la “Gran manzana” nos lleva a <a href="http://outsidethepixel.com/" target="_blank">Outside the Pixel</a>, una agencia web de desarrollo de NYC, para conocer a su CEO, Aurélien. Nos van a presentar las últimas y futuras tendencias de ecommerce que todo vendedor online debería conocer.</p>
-<p style="text-align: center"><img class="aligncenter  wp-image-11622" src="http://www.prestashop.com/blog/es/files/2014/07/PSWT-NY2.jpg" alt="" width="540" height="284" /></p>
-<p><span id="more-11621"></span>¿Una tendencia reciente? El móvil. Según <a href="http://blog.custora.com/2014/01/new-from-custora-the-holiday-2013-e-commerce-recap/#download" target="_blank">Custora</a>, durante la temporada de vacaciones de 2013, hubo un aumento del 50% de las conversiones gracias a los dispositivos móviles. ¿Qué otras tendencias están aumentando?</p>
-<p>Presiona play para ver las predicciones de Aurélien.</p>
-<p>¡Vamos allá!</p>
-<p><iframe src="//player.vimeo.com/video/100887730" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="http://vimeo.com/100887730">PrestaShop World Tour: New York with a Web Agency Founder</a> from <a href="http://vimeo.com/prestashop">PrestaShop</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<p>Próxima parada: <span style="color: #0000ff"><strong>MONTREAL, CANADÁ</strong></span></p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/gira-mundial-de-prestashop-tendencias-de-ecommerce-con-el-ceo-de-una-agencia-web-que-ha-experimentado-un-rapido-crecimiento-de-nyc/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>Caso de éxito en Ecommerce – Un vistazo de cerca al crecimiento por triplicado de WishTrend.</title>
-		<link>http://www.prestashop.com/blog/es/caso-de-exito-en-ecommerce-un-vistazo-de-cerca-al-crecimiento-por-triplicado-de-wishtrend/</link>
-		<comments>http://www.prestashop.com/blog/es/caso-de-exito-en-ecommerce-un-vistazo-de-cerca-al-crecimiento-por-triplicado-de-wishtrend/#comments</comments>
-		<pubDate>Tue, 10 Jun 2014 14:28:47 +0000</pubDate>
-		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Consejos E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11597</guid>
-		<description><![CDATA[WishTrend es una tienda online PrestaShop con sede en Seúl y uno de los minoristas más importantes a nivel mundial en venta de productos cosméticos coreanos. En un país abarrotado de cosméticos, sólo unos pocos son capaces de ganar visibilidad &#8230; <a href="http://www.prestashop.com/blog/es/caso-de-exito-en-ecommerce-un-vistazo-de-cerca-al-crecimiento-por-triplicado-de-wishtrend/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p><a href="http://bit.ly/WishTrend" target="_blank">WishTrend</a> es una tienda online PrestaShop con sede en Seúl y uno de los minoristas más importantes a nivel mundial en venta de productos cosméticos coreanos. En un país abarrotado de cosméticos, sólo unos pocos son capaces de ganar visibilidad global. Eddie y Ryan, co-fundadores de esta tienda online, trataban de mostrar al mundo “[los productos de] La Auténtica Belleza Coreana”. Desde su lanzamiento a finales de 2011, han enviado más del 60% de los productos de su catálogo de más de 700 productos a clientes internacionales situados en países como Estados Unidos, Canadá y Australia. En tan sólo 3 años, esta tienda online les ha dado a más de 50 fabricantes de cosméticos coreanos visibilidad internacional. ¡Y aún hay más! Han sido capaces de mantener el crecimiento por triplicado. Conoce su caso de éxito e inspírate.</p>
-<p><img class="aligncenter size-full wp-image-11600" src="http://www.prestashop.com/blog/es/files/2014/06/wish-trend-main.png" alt="" width="580" height="250" /></p>
-<h4><span id="more-11597"></span></h4>
-<h4><span style="color: #8a2be2;">¿Por qué decidisteis abrir una tienda online?</span></h4>
-<p>Corea posee un sinfín de marcas de cosméticos y algunos de los mejores fabricantes de cosméticos del mundo. Nuestro objetivo es conectar a los consumidores de todo el mundo con la escasamente representada industria del cosmético coreana. Decidimos abrir una tienda online porque el comercio electrónico es una de las maneras más sencillas de vender globalmente. Podemos comunicarnos rápidamente con nuestros clientes independientemente de su localización en el mundo. También podemos actualizar nuestro inventario y disponer de métodos de pago locales con facilidad.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11598" src="http://www.prestashop.com/blog/es/files/2014/06/youtube.png" alt="" width="444" height="358" /></p>
-<h4><span style="color: #8a2be2;">Tras vuestro lanzamiento, ¿qué estrategias seguisteis para atraer tráfico?</span></h4>
-<p>Al principio, intentamos atraer tráfico orgánico mejorando nuestro SEO. Con las funcionalidades para SEO que PrestaShop incluye de serie, añadimos fácilmente los meta-títulos, descripciones y etiquetas y después reescribimos nuestras URLs. Más tarde hicimos uso de una presencia fuerte en redes sociales como Facebook, YouTube, <a href="http://j.mp/PSWishTrendTwitter" target="_blank">Twitter</a>, <a href="http://j.mp/PSWishTrendPinterest" target="_blank">Pinterest</a> y nuestro blog “WishTrend Glam” para atraer más tráfico. Las plataformas más eficaces son <a href="http://j.mp/PSWishTrendFacebook" target="_blank">Facebook</a> (con unos 61.000 “Me gusta”), <a href="http://j.mp/PSWishTrendYoutube" target="_blank">YouTube</a> (con más de 35.000 suscriptores y 1 millón de visualizaciones) y nuestro blog,<a href="http://j.mp/PSWishTrendBlog" target="_blank"> WishTrend Glam</a>. Todos funcionan en conjunto para aumentar el tráfico cualificado nuestra web.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11599" src="http://www.prestashop.com/blog/es/files/2014/06/REVIEWS.png" alt="" width="519" height="253" /></p>
-<h4><span style="color: #8a2be2;">Tras aterrizar los visitantes, ¿cómo los conviertes?</span></h4>
-<p>Ofrecemos incentivos a los clientes para que realicen compras tales como “envío gratuito” o “cupones regalo de 5€”. Después aportamos seguridad a los visitantes mostrando reseñas de producto escritas por otros clientes en la portada. Haciendo uso de ambas estrategias, convertimos rápidamente a los visitantes en clientes.</p>
-<h4><span style="color: #8a2be2;">¿Qué podéis contarnos sobre la retención de clientes? ¿Cómo conseguís que los clientes vuelvan?</span></h4>
-<p>Enviamos boletines semanales a nuestros miembros. Además, tratamos de enviar mensajes muy personalizados a los clientes basándonos en su historial de compra, localización y grupo de edad para proporcionar sugerencias de producto a medida. Este esfuerzo nos ayuda a reconvertir a nuestros clientes una y otra vez.</p>
-<p style="text-align: center;"><img class="aligncenter  wp-image-11601" src="http://www.prestashop.com/blog/es/files/2014/06/YOTPO-REVIEWS.png" alt="" width="449" height="272" /></p>
-<h4><span style="color: #8a2be2;">¿Qué Módulos PrestaShop utilizáis? ¿Cuáles recomendaríais?</span></h4>
-<p>Ahora mismo utilizamos el <a href="http://addons.prestashop.com/es/redes-sociales-facebook-modulos-prestashop/7366-yotpo-social-reviews.html" target="_blank">módulo de Yotpo</a> para las reseñas de producto. Con este módulo, los clientes reciben un email 15 días después de realizar su compra pidiéndoles que dejen una reseña sobre los productos comprados en su pedido. Como incentivo, se ofrece un cupón descuento a los clientes para que puedan emplearlo en un futuro pedido. Recomendamos encarecidamente este módulo a todos los vendedores PrestaShop.</p>
-<div>
-<hr align="left" size="2" width="20%" />
-</div>
-<p>¿Tienes interés en montar tu tienda online? <a href="http://www.prestashop.com/es/download" target="_blank">Descarga</a> PrestaShop ahora o prueba nuestra <a href="http://www.prestashop.com/es/demo" target="_blank">demo</a> para experimentar en primera persona la potencia de PrestaShop. ¡Este es el primer paso para convertirse en el siguiente caso de éxito de PrestaShop!</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/caso-de-exito-en-ecommerce-un-vistazo-de-cerca-al-crecimiento-por-triplicado-de-wishtrend/feed/</wfw:commentRss>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-usar-el-video-marketing-para-comercio-electronico/feed/</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 		</item>
 		<item>
-		<title>Vender a través de mercados online:  cómo centralizar el inventario de tu ecommerce</title>
-		<link>http://www.prestashop.com/blog/es/vender-a-traves-de-mercados-online-como-centralizar-el-inventario-de-tu-ecommerce/</link>
-		<comments>http://www.prestashop.com/blog/es/vender-a-traves-de-mercados-online-como-centralizar-el-inventario-de-tu-ecommerce/#comments</comments>
-		<pubDate>Tue, 10 Jun 2014 10:26:59 +0000</pubDate>
-		<dc:creator>Deborah Penna</dc:creator>
-				<category><![CDATA[Asociados PrestaShop]]></category>
+		<title>Cinco ejemplos de páginas de productos que venden de verdad</title>
+		<link>http://www.prestashop.com/blog/es/cinco-ejemplos-de-paginas-de-productos-que-venden-de-verdad/</link>
+		<comments>http://www.prestashop.com/blog/es/cinco-ejemplos-de-paginas-de-productos-que-venden-de-verdad/#comments</comments>
+		<pubDate>Tue, 16 Sep 2014 15:11:06 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
 
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11572</guid>
-		<description><![CDATA[En estos tiempos, vender en mercados online se ha vuelto indispensable para muchos propietarios de negocios ecommerce, tanto pequeños como grandes. Disponer de presencia online en plataformas más populares en Europa como eBay, Amazon, Rakuten, Zalando o la Redoute, por &#8230; <a href="http://www.prestashop.com/blog/es/vender-a-traves-de-mercados-online-como-centralizar-el-inventario-de-tu-ecommerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>En estos tiempos, vender en mercados online se ha vuelto indispensable para muchos propietarios de negocios ecommerce, tanto pequeños como grandes.</p>
-<p>Disponer de presencia online en plataformas más populares en Europa como eBay, Amazon, Rakuten, Zalando o la Redoute, por nombrar algunos ejemplos, puede ayudarte a dar el empujón que necesita tu negocio para crecer y lograr visibilidad entre un gran número de potenciales compradores.</p>
-<p><img class="alignnone size-full wp-image-11575" src="http://www.prestashop.com/blog/es/files/2014/06/Image_ES.jpg" alt="" width="520" height="288" /></p>
-<p><span id="more-11572"></span></p>
-<h2><span style="color: #3366ff">Por qué vender en mercados online</span></h2>
-<p>La razón más obvia a la hora de elegir si vender en mercados online es que cada mes, estas webs <strong>atraen a millones de compras online</strong> – siendo realistas, eso es mucho más de lo que alguna vez serás capaz de atraer hasta tu web. En 2013, Amazon reportó <strong>237 millones de compradores online</strong> en todo el mundo.</p>
-<p>Por lo tanto, <strong>conectar tu tienda online a los mercados clave</strong> es una decisión perfectamente lógica para <strong>comenzar a aprovechar las ventajas</strong>, entre las que se incluyen:</p>
-<p>- poner tu producto a disposición de clientes pertenecientes a distintas demografías –  <strong>visibilidad internacional</strong><br />
-- <strong>incremento en el nivel de confianza depositado por el comprador</strong>, el cual ya tiene  familiaridad con el mercado online y se siente seguro en el mismo<br />
-- la seguridad y <strong>la protección contra fraudes</strong> que ofrecen los grandes mercados online.<br />
-- <strong>beneficios en marketing</strong>: eBay y Amazon gastan millones atrayendo a nuevos clientes  a sus webs, como menciona <a href="http://www.is4profit.com/get-britain-growing/trading-online/how-to-sell-successfully-on-ebay.html" target="_blank">is4profit</a>.</p>
-<p>Los mercados online cobran una cuota por el uso de sus servicios. Sin embargo, cuando se calcula el coste de adquisición de nuevos clientes respecto a la cuota de un mercado online, la inversión merece la pena. Aprende cómo calcular tu Coste de Adquisición de Clientes o<a href="http://blog.hubspot.com/ecommerce/calculating-ecommerce-cost-of-customer-acquisition" target="_blank"> CAC aquí</a>.</p>
-<h2><span style="color: #3366ff">Cómo centralizar tu inventario</span></h2>
-<p>Tanto si has decidido vender como si ya estás vendiendo en múltiples plataformas, <strong>resulta fundamental disponer de un sistema que te permita gestionar fácilmente la disponibilidad del stock</strong> y ganar visibilidad entre todos los canales. Si, por ejemplo, se agota un producto en eBay, como propietario de una tienda online deberías saber – en tiempo real – si ese mismo producto podría estar disponible en otro canal o no. La sincronización del inventario y la preparación de pedidos, por lo tanto, juegan un papel clave.</p>
-<p>Tan solo instalando un sistema centralizado que te permita listar, sincronizar y distribuir tu stock a través de las distintas plataformas, podrás agilizar tus operaciones, mejorar la gestión global del inventario y manejar el ciclo de ventas completo de forma más efectiva. Un sistema para gestionarlos a todos.</p>
-<p><img class="alignnone size-full wp-image-11574" src="http://www.prestashop.com/blog/es/files/2014/06/Marketplaces-image.jpg" alt="" width="619" height="245" /></p>
-<h3><span style="color: #3366ff">Neteven – Gestión de Mercados Online Europeos</span></h3>
-<p>Con más de 8 años de experiencia trabajando en estrecha colaboración con los mercados europeos más importantes de Europa, Neteven se ha convertido en el proveedor líder de soluciones de gestión de mercados online.</p>
-<p><img class="size-full wp-image-11573 aligncenter" src="http://www.prestashop.com/blog/es/files/2014/06/logo-neteven.jpg" alt="" width="215" height="80" /></p>
-<p>Para facilitarte vender de forma más eficaz y <strong>distribuir tu catálogo a través de las plataformas europeas más importantes – con un click del ratón </strong> – hemos desarrollado un módulo de gestión de mercados para los usuarios de PrestaShop.</p>
-<p>Nuestro módulo incluye las siguientes funcionalidades:</p>
-<p>- Gestión del inventario<br />
-- Gestión de atributos y variantes (combinaciones)<br />
-- Publicación de códigos de barra<br />
-- Creación de productos multimedia<br />
-- Listados automáticos<br />
-- Automatización de stocks<br />
-- Cambios de precio en masa<br />
-- Herramientas de optimización<br />
-- Finalización de transacciones<br />
-- Herramienta para informes</p>
-<p>Sincroniza tu catálogo PrestaShop con Neteven y gestiona todo tu inventario desde una sola ventana.</p>
-<p>El <a href="http://addons.prestashop.com/es/afiliacion-prestashop-modulos/8091-neteven.html" target="_blank">módulo Neteven</a> se encuentra de serie en PrestaShop y es compatible con todas las versiones de PrestaShop desde la v.1.4.0.1 hasta la v.1.6.0.6. También se encuentra disponible para descargar (gratuitamente) en PrestaShop Addons.</p>
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11877</guid>
+		<description><![CDATA[Internet abre un mundo infinito de ofertas en el que los internautas son cada vez más exigentes. Si la ficha de tu producto no les convence, se irán a la competencia. Las fichas de los productos son el factor clave &#8230; <a href="http://www.prestashop.com/blog/es/cinco-ejemplos-de-paginas-de-productos-que-venden-de-verdad/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Internet abre un mundo infinito de ofertas en el que los internautas son cada vez más exigentes. Si la ficha de tu producto no les convence, se irán a la competencia. Las fichas de los productos son el factor clave para la decisión de compra: te hacen ganar una venta o perderla.</p>
+<p>La buena noticia es que hay un montón de trucos sencillos para mejorar las páginas de productos y fomentar las ventas. ¿Necesitas inspiración? Aquí tienes varios ejemplos de fichas de productos llenas de elementos interesantes.</p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-11882" title="product-page" src="http://www.prestashop.com/blog/es/files/2014/09/product-page-1024x537.png" alt="" width="584" height="306" /><br />
+<span id="more-11877"></span></p>
+<h3><span style="color: #ff9900;"><strong>¿Por qué son tan importantes las fichas de productos?</strong></span></h3>
+<p>Además de mejorar tu posicionamiento web, son el factor que convence al visitante para hacer la compra. En una tienda tradicional desempeñarían la función del dependiente. Esto es lo que aportan a tus clientes:</p>
+<p style="padding-left: 30px;"><strong><span style="color: #000000;">- </span>Información</strong>. No estamos en una tienda física: el cliente no puede tocar ni ver el producto&#8230; y recurre a la ficha del producto para recabar información (características, funcionamiento, ventajas).<br />
+<span style="color: #000000;"><strong>-</strong> </span><strong>Confianza</strong>. Una ficha de producto completa y bien diseñada da confianza al cliente y le decide a hacer la compra.</p>
+<h3><span style="color: #ff9900;"><strong>Los elementos esenciales de una buena ficha de producto</strong></span></h3>
+<p style="padding-left: 30px;"><span style="color: #000000;"><strong>-</strong></span> Incluye opiniones de clientes para darle credibilidad al producto.<br />
+<span style="color: #000000;"><strong>-</strong></span> Informa sobre la disponibilidad del producto para no decepcionar al comprador.<br />
+<span style="color: #000000;"><strong>-</strong></span> <a href="http://www.prestashop.com/blog/es/la-importancia-de-los-botones-de-llamada-a-la-accion-en-su-tienda-online/" target="_blank">Usa botones de acción</a> bien visibles con un texto atractivo.<br />
+<span style="color: #000000;"><strong>-</strong> </span>No pierdas a los internautas impacientes: consigue que la página cargue rápido.<br />
+<span style="color: #000000;"><strong>-</strong> </span><a href="http://www.prestashop.com/blog/es/guia-de-ecommerce-para-conseguir-fotografias-de-producto-perfectas/" target="_blank">Pon fotos de buena calidad</a>, de los productos desde distintos ángulos.<br />
+<span style="color: #000000;"><strong>-</strong></span> Añade vídeos de los productos.<br />
+<span style="color: #000000;"><strong>-</strong></span> <a href="http://www.prestashop.com/blog/es/8-consejos-para-realizar-buenas-descripciones-de-droductos/" target="_blank">Redacta descripciones detalladas de los productos</a>. Mejorarás tu posicionamiento y darás más información al comprador.<br />
+<span style="color: #000000;"><strong>- </strong></span>Agrega elementos que infunden confianza en el consumidor (teléfono, logo de pago asegurado, enlace a la <a href="http://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/" target="_blank">política de devoluciones</a>)<br />
+<span style="color: #000000;"><strong>-</strong></span> Y no lo olvides: la clave para mejorar es saber qué funciona mejor en tu tienda. Prueba todos estos elementos hasta dar con la combinación adecuada.</p>
+<h3><span style="color: #ff9900;"><strong>Ejemplos de páginas de productos eficaces </strong></span></h3>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Garancia</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-11883" title="Garancia" src="http://www.prestashop.com/blog/es/files/2014/09/Garancia-1024x509.png" alt="" width="584" height="290" /><a href="http://www.garancia-beauty.com/en/14-diabolique-tomate-water-cream.html" target="_blank"><em>Ver la ficha de producto completa</em></a></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>¿Qué venden?</strong></span></p>
+<p style="padding-left: 30px;">El laboratorio Garancia vende productos cosméticos innovadores a través de un universo mágico.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Lo que nos gusta </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>La información completa.</strong> El cliente encuentra todos los datos sobre la crema: función, composición, ingredientes, propiedades, cómo usarla y dónde comprarla. ¡No deja lugar a dudas!</li>
+<li style="padding-left: 30px;"><strong>El vídeo de presentación del producto.</strong> La creadora de Garancia presenta la crema y sus propiedades en un vídeo corto de calidad profesional. ¿Su función? Convencer incluso a los más escépticos.</li>
+<li style="padding-left: 30px;"><strong>Elementos que dan confianza. </strong>Los servicios Garancia transmiten confianza al cliente para que pueda comprar con total tranquilidad.</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Puntos que se pueden mejorar </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Darle más visibilidad al precio.</li>
+<li style="padding-left: 30px;">Destacar el botón &#8220;añadir al carro&#8221; para que se vea más que los demás botones.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>TB Groupe</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11885" title="TB-groupe" src="http://www.prestashop.com/blog/es/files/2014/09/TB-groupe.png" alt="" width="536" height="359" /></p>
+<p style="text-align: center;"><em><a href="http://www.tb-groupe.fr/fr/laguiole-expression-pom/111-bloc-magnetique-avec-5-couteaux-de-cuisine-laguiole.html" target="_blank">Ver la ficha de producto completa</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>¿Qué venden?</strong></span></p>
+<p style="padding-left: 30px;">TB Groupe es el líder de la cuchillería en Francia. Esta empresa familiar fabrica productos de gran calidad desde hace cinco generaciones.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Lo que nos gusta </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>La información sobre el stock.</strong> TB Groupe nunca decepciona al cliente: informa claramente sobre la disponibilidad del producto. ¿Y si no hay stock? Te avisan por correo electrónico cuando el producto vuelve a estar disponible.</li>
+<li style="padding-left: 30px;"><strong>Las fotos profesionales.</strong> Fotos del producto de gran calidad y desde distintos ángulos: la mejor forma de que el cliente sepa lo que va a recibir.</li>
+<li style="padding-left: 30px;"><strong>Los iconos informativos. </strong>Estos iconos ayudan a elegir y comparar artículos. Permiten al cliente saber cuáles son las características del producto de un vistazo.</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Puntos que se pueden mejorar</strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Crear una descripción más detallada del producto. Falta información clara sobre los usos de cada cuchillo.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Speak Louder</strong></span></h4>
+<p style="text-align: center;"><a href="http://www.prestashop.com/blog/es/files/2014/09/speak-louder.png"><img class="aligncenter size-large wp-image-11886" title="speak-louder" src="http://www.prestashop.com/blog/es/files/2014/09/speak-louder-1024x327.png" alt="" width="584" height="186" /></a><em><a href="http://speakloudershop.com/index.php?id_product=197&amp;controller=product&amp;id_lang=1">Ver la ficha de producto completa</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>¿Qué venden?</strong></span></p>
+<p style="padding-left: 30px;">Speak Louder vende bonitas corbatas y pajaritas hechas a mano.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Lo que nos gusta </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>El incentivo del descuento del 5 %.</strong> Speak Louder te ofrece un descuento del 5 % si promocionas el producto en redes sociales. ¡Un 2X1 perfecto: anima a comprar y mejora su visibilidad!</li>
+<li style="padding-left: 30px;"><strong>El zoom nítido, sin pixelado.</strong>Un buen zoom permite a los clientes fijarse en los detalles y la calidad del artículo.</li>
+<li style="padding-left: 30px;"><strong>El cross-selling o ventas adicionales.</strong> Al final de la ficha aparecen productos complementarios para animar al cliente a llenar el carro.</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Puntos que se pueden mejorar</strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Poner más arriba el botón para añadir el producto al carro.</li>
+<li style="padding-left: 30px;">Poner fotos de un modelo que lleve puesta la corbata. Le aporta más dinamismo al producto, mejora su presentación y aumenta el deseo de compra.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"><strong>Skinkin</strong></span></h4>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-11887" title="skinkin" src="http://www.prestashop.com/blog/es/files/2014/09/skinkin-1024x586.png" alt="" width="584" height="334" /><em><a href="http://www.skinkin.com/en/15/1664-the-best-is-yet-iphone-5-skins.html">Ver la ficha de producto completa</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong> ¿Qué venden?</strong></span></p>
+<p style="padding-left: 30px;">Skinkin vende fundas y carcasas personalizadas para móviles y tabletas.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Lo que nos gusta </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>La visibilidad del botón de acción y del precio.</strong> El botón para añadir al carro es de un color y un tamaño distinto a los demás.</li>
+<li style="padding-left: 30px;"><a href="http://addons.prestashop.com/es/buscar?search_query=chat+en+directo" target="_blank"><strong>El chat en directo</strong></a><strong>. </strong>Un asesor responde las dudas del comprador en directo, lo que ayuda a finalizar la compra. Esta función humaniza el sitio y transmite confianza al cliente.</li>
+<li style="padding-left: 30px;"><strong>La claridad con que se exponen las ventajas. </strong> El formato de lista da claridad y facilita la comprensión.</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Puntos que se pueden mejorar </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Diversificar las descripciones de productos para mejorar el posicionamiento.</li>
+</ul>
+<h4 style="padding-left: 30px;"><span style="color: #ffcc00;"> <strong>JustFab</strong></span></h4>
+<p style="text-align: center;"><a href="http://www.prestashop.com/blog/es/files/2014/09/justfab.png"><img class="aligncenter  wp-image-11888" title="justfab" src="http://www.prestashop.com/blog/es/files/2014/09/justfab.png" alt="" width="553" height="369" /></a><em><a href="http://www.justfab.fr/index.cfm?action=shop.viewproduct&amp;pid=6989821&amp;ha=3AC3D73506DC1295ECD2502CA60D5652">Ver la ficha de producto completa</a></em></p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>¿Qué venden?</strong></span></p>
+<p style="padding-left: 30px;">JustFab oferta bolsos y calzado de calidad a muy buen precio.</p>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Lo que nos gusta</strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;"><strong>Las opiniones de los clientes. </strong>Son mucho más creíbles que el discurso comercial de la marca, así que influyen más en la decisión de compra.</li>
+<li style="padding-left: 30px;"><strong>El vídeo. </strong>El vídeo realza el valor del producto e invita a comprar ese par de zapatos tan bonitos.</li>
+<li style="padding-left: 30px;"><strong>La información sobre la política de devolución.</strong> JustFab ofrece una garantía de talla perfecta y devoluciones gratuitas. ¿Por qué no ibas a comprar?</li>
+</ul>
+<p style="padding-left: 30px;"><span style="color: #99cc00;"><strong>Puntos que se pueden mejorar </strong></span></p>
+<ul style="padding-left: 30px;">
+<li style="padding-left: 30px;">Destacar el precio y, sobre todo, el descuento.</li>
+</ul>
+<p>¿Tú también usas alguna de estas buenas prácticas? ¿Qué resultados has conseguido? Cuéntanoslo. ¡Y no dudes en revelarnos algún otro truco que hayamos olvidado!</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+<p>Vistas detalladas de los productos, cross-selling, opiniones de clientes, información de stock&#8230; con PrestaShop no se te resistirá nada. ¡Mejora hoy mismo tus fichas de productos! ¿Aún no usas PrestaShop? <a href="http://www.prestashop.com/es/descarga" target="_blank">Descarga ya el software PrestaShop</a>.</p>
+<p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/vender-a-traves-de-mercados-online-como-centralizar-el-inventario-de-tu-ecommerce/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/cinco-ejemplos-de-paginas-de-productos-que-venden-de-verdad/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
 		</item>
 		<item>
-		<title>Los beneficios de ofrecer tus productos en la moneda de tu cliente</title>
-		<link>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/</link>
-		<comments>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/#comments</comments>
-		<pubDate>Wed, 04 Jun 2014 15:47:16 +0000</pubDate>
+		<title>La tienda de moda online 29 N Under pasa de Facebook a PrestaShop y crece un 1000%</title>
+		<link>http://www.prestashop.com/blog/es/la-tienda-de-moda-online-29-n-under-pasa-de-facebook-a-prestashop-y-crece-un-1-000/</link>
+		<comments>http://www.prestashop.com/blog/es/la-tienda-de-moda-online-29-n-under-pasa-de-facebook-a-prestashop-y-crece-un-1-000/#comments</comments>
+		<pubDate>Mon, 08 Sep 2014 13:21:50 +0000</pubDate>
 		<dc:creator>Julie Liu</dc:creator>
-				<category><![CDATA[Asociados PrestaShop]]></category>
+				<category><![CDATA[Consejos E-commerce]]></category>
 
-		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11553</guid>
-		<description><![CDATA[Cuando te iniciaste en el mundo de los negocios por Internet lo hiciste para ampliar tu base de clientes. Por este motivo, envías pedidos a todo el mundo, incluso a sitios donde nunca antes has estado. Todo esto puede resultar &#8230; <a href="http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
-			<content:encoded><![CDATA[<p>Cuando te iniciaste en el mundo de los negocios por Internet lo hiciste para ampliar tu base de clientes. Por este motivo, envías pedidos a todo el mundo, incluso a sitios donde nunca antes has estado. Todo esto puede resultar muy excitante, pero pronto comienzas a oír términos como “localización”, “internacionalización” y “multi-divisa”. ¿Conoces todo lo necesario para saber llevar un negocio con una base de clientes internacional? ¿Deberías plantearte localizar y aceptar pagos en la moneda del cliente? ¡Aquí estamos para desmitificar y explicar por qué deberías y cuál es la mejor forma de ofrecer múltiples monedas en tu tienda online! <img class="aligncenter size-full wp-image-11554" src="http://www.prestashop.com/blog/es/files/2014/06/ES-Benefits-of-offering-your-products.jpg" alt="" width="580" height="248" /> <span id="more-11553"></span>La importancia de habilitar múltiples monedas se explica mejor mostrando las debilidades de un proceso de pago con una sola moneda. Habilitar solo una moneda en tu tienda online no sólo limita a tus clientes a la hora de comprar sino que además les limita a la hora de pagar utilizando esa moneda. Esta podría ser la causa mayor de rechazo por parte del comprador al no encontrar su moneda.</p>
-<h4><span style="color: #993300;">Debilidades de los procesos de pago mono-moneda</span></h4>
-<p>Limitando que los clientes sólo puedan comprar en una moneda extranjera complica que finalicen sus compras y conduce al abandono de carritos y pérdida de ventas. Según <a href="http://www.statista.com/statistics/232285/reasons-for-online-shopping-cart-abandonment/" target="_blank">Statista</a>, el 13% de compradores online abandonan una tienda si ven una divisa extranjera. Además, una vez el cliente ha realizado una compra en la moneda extranjera, algunos bancos les imponen una cuota extra por realizar transacciones en el extranjero; por lo que penalizan a tus clientes por comprar en tu tienda.</p>
-<h4><span style="color: #993300;">Ofrece Múltiples Monedas gracias a Authorize.Net</span></h4>
-<p>Aquí es donde <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/4154-authorizenet-aim.html" target="_blank">Authorize.Net </a>– un procesador de pagos multi-divisa certificado por PrestaShop y un proveedor pionero de servicios de pago en ecommerce – puede ayudarte. Authorize.Net soporta múltiples monedas (USD, GBP, EUROS, AUD, CAD, NZD) y, usándolo en combinación con PrestaShop, podrás incrementar las ventas permitiendo que los clientes compren y paguen en su moneda. Evita repeler clientes por culpa de las comisiones de bancos extranjeros o las fluctuaciones de los cambios de divisa. Aprenda más visitando PrestaShop Addons y descargue el módulo Authorize.Net para comenzar.</p>
-<p style="text-align: center;"><img class="aligncenter size-full wp-image-11555" src="http://www.prestashop.com/blog/es/files/2014/06/147-1.png" alt="" width="220" height="127" /></p>
-<p>Además de aceptar pagos en múltiples monedas, los vendedores PrestaShop que usen <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/4154-authorizenet-aim.html" target="_blank">Authorize.Net</a> también podrán disfrutar de los siguientes beneficios:</p>
-<ol>
-<ul>
-<li>Atención al Cliente Gratuita</li>
-<li>Terminal Virtual Gratuito</li>
-<li>Fácil Instalación y Configuración</li>
-<li>Los Servicios Adicionales Incluyen:
-<ol>
-<ul>
-<li>Facturación Recurrente</li>
-<li>Tokenización de Pagos</li>
-<li>Detección Avanzada de Fraude</li>
-</ul>
-</ol>
-</li>
-<li>Sin Compromiso de Permanencia</li>
-</ul>
-</ol>
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11842</guid>
+		<description><![CDATA[Te presentamos la historia de éxito de una tienda PrestaShop con un lema diferente: &#8220;Vestidos por menos de 29 dólares&#8221;. Su principio: Escoge cualquier artículo de la tienda online de 29 N Under y no pagarás más de 29 dólares. &#8230; <a href="http://www.prestashop.com/blog/es/la-tienda-de-moda-online-29-n-under-pasa-de-facebook-a-prestashop-y-crece-un-1-000/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Te presentamos la historia de éxito de una tienda PrestaShop con un lema diferente: &#8220;Vestidos por menos de 29 dólares&#8221;. Su principio: Escoge cualquier artículo de la tienda online de <a href="http://www.29nunder.com/" target="_blank">29 N Under </a>y no pagarás más de 29 dólares. Un modelo de precios innovador, ¿verdad? Su creador es el profesional de marketing y copropietario, Jason Burlin. De seleccionar los vestidos y crear los looks se encarga su mujer, Oryan Burlin, una californiana adicta a la moda. <img class="aligncenter size-full wp-image-11847" src="http://www.prestashop.com/blog/es/files/2014/09/1-29-N-UNDER-SS-Main.png" alt="" width="600" height="315" /> Pertrechados de su ojo para la moda y su magnífica idea empresarial, se lanzaron a abrir una tienda en Facebook. Luego decidieron pasarse a PrestaShop&#8230; ¡y su iniciativa se transformó en una rentable tienda online! Lee nuestra entrevista a Jason y descubre cómo convirtieron su negocio en una historia de éxito PrestaShop. <span id="more-11842"></span></p>
+<h4><span style="color: #b71683">¿Por qué decidisteis trasladar vuestra tienda de Facebook a PrestaShop?</span></h4>
+<p>Empezamos en Facebook para ver si el mercado respondía y si esta locura era viable. Nos dimos cuenta de que a mucha gente le interesaba nuestra idea y los vestidos modernos que vendíamos. En medio año, llegamos a tener 80 pedidos mensuales. Era evidente que estábamos creciendo. Y para rentabilizar ese crecimiento, necesitábamos un software potente y un sitio web personalizado.<strong> Y por eso nos pasamos a PrestaShop: para ampliar nuestro negocio online. </strong></p>
+<h4><span style="color: #b71683">¿Cuánto habéis crecido desde que abristeis la tienda con PrestaShop?</span></h4>
+<p>Hemos pasado de 80 pedidos al mes, a unos 1 000. Supone un crecimiento de más del 1 000 % desde que apostamos por PrestaShop. Es increíble: esto empezó como una idea disparatada y se ha convertido en nuestra principal fuente de ingresos. Hemos crecido tanto que hemos tenido que ampliar nuestro equipo. Antes éramos solo un matrimonio, ¡ahora somos 10 trabajadores a tiempo completo o parcial!</p>
+<h4><span style="color: #b71683">¿Cómo empezasteis a crear vuestra tienda PrestaShop?</span></h4>
+<p>Buscamos un programador que usara Odesk y Elance. Comparamos ofertas, comprobamos referencias y nos decidimos por uno. Fue él quien sugirió PrestaShop por su solidez y sencillez. Queríamos una solución con una buena relación calidad-precio, así que insistió en un software que no requiriera horas y horas de desarrollo. Aunque lo más importante fue sin duda la capacidad de ampliación de PrestaShop. Dejamos Facebook porque nuestra primera tienda se quedó pequeña. Necesitábamos una solución que se adaptara a nuestras necesidades actuales&#8230; sin encorsetar nuestro futuro crecimiento. La tienda ha crecido en los dos últimos años y PrestaShop sigue gestionando sin problemas todos los pedidos.</p>
+<h4><span style="color: #b71683">¿Cuánto tardasteis en configurar vuestra tienda PrestaShop?</span></h4>
+<p>Nuestro programador consiguió poner la tienda en marcha en una semana. Ya teníamos las descripciones, categorías e imágenes de los productos de Facebook, así que fue todo muy rápido. El día siguiente a la apertura, ya teníamos un pedido esperándonos. Fue muy emocionante&#8230; ¡habíamos trabajado duro y empezamos a cosechar los frutos muy pronto!</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11848" src="http://www.prestashop.com/blog/es/files/2014/09/2-29-N-UNDER-SS-Product-Images.png" alt="" width="475" height="221" /></p>
+<h4><span style="color: #b71683">¿En qué se diferencia vuestra tienda PrestaShop de la de Facebook?</span></h4>
+<p>En la tienda de Facebook teníamos que hacer bastantes cosas manualmente. Lo más tedioso era la gestión de los pagos: teníamos que salir de nuestro sitio y volver a entrar. Con PrestaShop, hemos configurado el <a href="http://addons.prestashop.com/es/pagos-prestashop-modulos/1748-paypal.html" target="_blank">módulo de PayPal</a> integrado y en unos cuantos clics procesamos los pedidos desde nuestro back office. PrestaShop reduce el trabajo manual y ahorra tiempo&#8230; todo está optimizado. <img class="aligncenter size-full wp-image-11843" src="http://www.prestashop.com/blog/es/files/2014/09/3-29-N-UNDER-SS-Newsletter-Sample.png" alt="" width="300" height="617" align="right" /></p>
+<h4><span style="color: #b71683">¿Personalizasteis vuestra tienda con alguno de los módulos de PrestaShop Addons?</span></h4>
+<p>Usamos la versión 1.4 de PrestaShop con algunos detalles añadidos: los clientes pueden suscribirse para recibir notificaciones cuando los productos están disponibles y tenemos botones para las redes sociales en nuestras páginas de productos. Pero lo que más utilizamos, sin duda, son los <a href="http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/4932-newsletter-statistics.html" target="_blank">boletines</a>. Enviamos boletines dos veces por semana para anunciar ofertas y nuevos productos. Y también boletines temáticos para campañas especiales de venta. Por ejemplo, para el 4 de julio animamos a nuestros clientes a celebrar una fecha tan señalada en los Estados Unidos. En aquel boletín incluimos prendas y artículos de color rojo, blanco o azul. Como suele suceder con la mayoría de nuestros boletines, ¡aumentamos las ventas un 10 %!</p>
+<h4><span style="color: #b71683">Como especialistas, ¿qué otras estrategias de marketing empleáis para atraer tráfico a vuestra tienda?</span></h4>
+<p style="text-align: left">Todo nuestro marketing se desarrolla en las redes sociales. Ahora estamos comprobando la eficacia de <a href="https://www.facebook.com/29NUnder" target="_blank">Facebook </a>(frente a otras plataformas) con una promoción específica. Aún no ha acabado, así que todavía no tenemos datos. También usamos <a href="https://twitter.com/29nunder" target="_blank">Twitter </a>e <a href="http://instagram.com/29nunder/" target="_blank">Instagram </a>para promocionar vestidos y propuestas.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11844" src="http://www.prestashop.com/blog/es/files/2014/09/4-29-N-UNDER-SS-FB-Sale.png" alt="" width="475" height="272" /></p>
+<p style="text-align: left"><strong>[¡29 N Under tiene casi 100 000 "me gusta" en Facebook y 25 000 seguidores en Instagram!</strong> Además, sus seguidores en las redes son muy activos: cuando publican una foto, cosechan comentarios de más 3 000 usuarios de Facebook y unos 750 "me gusta" en Instagram.]</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11845" src="http://www.prestashop.com/blog/es/files/2014/09/5-facebook-stats.png" alt="" width="475" height="322" /></p>
+<h4><span style="color: #b71683">¿Qué impulsó el crecimiento de vuestra tienda online? ¿Qué os diferencia?</span></h4>
+<p style="text-align: left">Vendemos nuestros vestidos baratos sin por ello descuidar la calidad y la atención al cliente. Cuando un cliente nos hace una pregunta, respondemos inmediatamente, sobre todo en las redes sociales. Y si podemos hacer algo para mejorar su experiencia, lo hacemos. Así hemos conseguido un 20 % de clientes asiduos. Incluso los que no hacen una segunda compra, recomiendan nuestro sitio a otros posibles clientes.</p>
+<p style="text-align: center"><img class="aligncenter size-full wp-image-11846" src="http://www.prestashop.com/blog/es/files/2014/09/6-29-N-UNDER-SS-Customer-Service.png" alt="" width="475" height="298" /></p>
+<h4><span style="color: #b71683">¿Cuáles son los planes de futuro de 29 N Under?</span></h4>
+<p>Queremos abrir varias tiendas físicas. Lo ideal serían tres en grandes ciudades de los Estados Unidos. También vamos actualizar el sitio web e instalar <a href="http://www.prestashop.com/es/download" target="_blank">la última versión de PrestaShop</a>. Gracias a sus estadísticas y análisis tendremos información valiosísima: sabremos en qué ciudades vendemos más y dónde podríamos abrir nuestras tiendas físicas.</p>
 <div>
 <hr align="left" size="2" width="20%" />
 </div>
-<p>¿Todavía no utilizas PrestaShop para vender? ¿A qué esperas? <a href="http://www.prestashop.com/es/download" target="_blank">Descarga </a>ya la mejor solución ecommerce y comienza a vender a clientes en el extranjero con su moneda preferida y ¡observa cómo tu negocio se vuelve una sensación internacional!</p>
+<p>¿Ya tienes una tienda online? La solución e-commerce de PrestaShop te ayuda a ampliar tu negocio. <a href="http://www.prestashop.com/es/download" target="_blank">Descarga el software</a> hoy mismo y empieza a crear tu tienda online. ¿Aún no te has decidido a abrir tu tienda online? No te pierdas las <a href="http://www.prestashop.com/es/historias-exito" target="_blank">historias de éxito PrestaShop</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.prestashop.com/blog/es/los-beneficios-de-ofrecer-tus-productos-en-la-moneda-de-tu-cliente/feed/</wfw:commentRss>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/la-tienda-de-moda-online-29-n-under-pasa-de-facebook-a-prestashop-y-crece-un-1-000/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Feria E-commerce 2014: Ven a conocer al equipo de PrestaShop en el evento comercial más importante del año</title>
+		<link>http://www.prestashop.com/blog/es/feria-e-commerce-2014-ven-a-conocer-al-equipo-de-prestashop-en-el-evento-comercial-mas-importante-del-ano/</link>
+		<comments>http://www.prestashop.com/blog/es/feria-e-commerce-2014-ven-a-conocer-al-equipo-de-prestashop-en-el-evento-comercial-mas-importante-del-ano/#comments</comments>
+		<pubDate>Wed, 03 Sep 2014 14:18:53 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Eventos]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11833</guid>
+		<description><![CDATA[Una año más, la feria E-commerce de París será el lugar ideal para todos aquellos que se dediquen a la venta online. ¿Estarás ahí? ¡Nosotros sí! Del 23 al 25 de septiembre de 2014, PrestaShop instalará su sucursal en los &#8230; <a href="http://www.prestashop.com/blog/es/feria-e-commerce-2014-ven-a-conocer-al-equipo-de-prestashop-en-el-evento-comercial-mas-importante-del-ano/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Una año más,<a href="http://en.ecommerceparis.com/" target="_blank"> la feria E-commerce de París</a> será el lugar ideal para todos aquellos que se dediquen a la venta online. ¿Estarás ahí? ¡Nosotros sí! Del<strong> 23 al 25 de septiembre de 2014</strong>, PrestaShop instalará su sucursal en los stands <strong>N° B041 y C041</strong>, en un recinto dedicado exclusivamente a la creación y al desarrollo de tu tienda online. Nuestro equipo, así como nuestros 19 socios, estarán ahí para atenderte, ya seas vendedor, desarrollador, agencia o colaborador.</p>
+<p>Visítanos en el PrestaShop Village para descubrir nuestras últimas novedades, plantearnos todas tus preguntas e incluso recibir auditorías gratuitas de la mano de PrestaShop: dedicaremos dos stands exclusivamente a estas auditorías.</p>
+<p><img class="aligncenter size-full wp-image-11834" src="http://www.prestashop.com/blog/es/files/2014/09/e-commerce-en.jpg" alt="" width="660" height="204" /></p>
+<p><span id="more-11833"></span></p>
+<h4><span style="color: #ed2279">El PrestaShop Village en cifras</span></h4>
+<p style="padding-left: 30px"><strong><span style="color: #76bd43">253</span> m3 de superficie</strong><br />
+<strong><span style="color: #76bd43">11</span> agencias</strong> – Kiwik, 123 monsite, Dream me up, My Web Shop, Web Alliance, My BB Services, Edatis, Antadis, Full Performance, Affinity Engine, Bm service.<br />
+<strong><span style="color: #76bd43">8</span> socios </strong>– Mondial Relay, Shopping Flux, PayPlug, So Colissimo-Quadra, EcoPresto, PayMill, Profileo, Envoi Moins Cher.<br />
+<strong><span style="color: #76bd43">3</span> stands para temas generales<br />
+<span style="color: #76bd43">2</span> stands para auditorías<br />
+<span style="color: #76bd43">500</span> regalos exclusivos que deberás recoger en los stands de PrestaShop</strong></p>
+<h4><span style="color: #ed2279">Conferencias y talleres para aprender y perfeccionar tus técnicas</span></h4>
+<p>Cada día, PrestaShop y sus socios resolverán todas tus dudas con increíbles talleres y conferencias; ¡lo necesario para que tu negocio sea todo un éxito! Ven a vernos en la Sala 2 para mantenerte informado de las últimas novedades:</p>
+<p style="padding-left: 30px"><strong>Martes 23 de septiembre &#8211; de 16:15/17:00</strong><br />
+<span style="color: #000000"><strong> PrestaShop, el comercio electrónico 3.0</strong></span><br />
+Organizado por Bruno Lévêque, fundador de <em>PrestaShop</em> y Benjamin Teszner, CEO de <em>PrestaShop</em>.</p>
+<p style="padding-left: 30px"><strong>Miércoles 24 de septiembre &#8211; 12:15/13:00,</strong><br />
+<span style="color: #000000"><strong> Compras móvil en sólo un clic, con Powatag y PrestaShop: Establece los límites m-commerce de stu tienda online</strong></span><br />
+Organizado por Eric Messin, Director del Canal de Ventas de Francia en <em>Powatag</em> y Grégoire Véron, Responsable de Acuerdos Estratégicos de <em>PrestaShop</em></p>
+<p style="padding-left: 30px"><strong>Jueves 25 de septiembre &#8211; 14:45/15:30,</strong><br />
+<span style="color: #000000"><strong> Una experiencia de compra fácil y sencilla con PayPal y PrestaShop</strong></span><br />
+Organizado por <em>PayPal</em> y Arnaud Bourboulon, Director Comercial de <em>PrestaShop</em></p>
+<p style="padding-left: 30px"><strong>Jueves 25 de septiembre &#8211; 15:30/16:15,</strong><br />
+<span style="color: #000000"><strong> Recomendaciones personalizadas de PrestaShop: el espíritu comercial al servicio de tu rentabilidad.</strong></span><br />
+Organizado por Teddy Malfait, Director General de <em>Affinity Engine</em> y Arnaud Bourboulon, Director Comercial de <em>PrestaShop</em></p>
+<p>Te esperamos con los brazos abiertos en el PrestaShop Village, ¡no te lo pierdas!<br />
+<a href="http://logi9.xiti.com/go.url?xts=496748&amp;xtor=AD-183&amp;url=http://badge.ecommerceparis.com/" target="_blank">¡Solicita tu pase!</a></p>
+<h4><a href="http://logi9.xiti.com/go.url?xts=496748&amp;xtor=AD-183&amp;url=http://badge.ecommerceparis.com/" target="_blank"><span style="color: #ed2279">Información útil:</span></a></h4>
+<p><strong>Feria E-commerce París</strong><br />
+<strong>Cuándo:</strong> del 23 al 25 de septiembre de 2014<br />
+<strong>Dónde:</strong> en París, Porte de Versailles / PABELLÓN 7-3<br />
+1 Place de la Porte de Versailles &#8211; 75015 PARIS</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/feria-e-commerce-2014-ven-a-conocer-al-equipo-de-prestashop-en-el-evento-comercial-mas-importante-del-ano/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¡Vota por PrestaShop en los premios CMS Critics’ Choice CMS Awards!</title>
+		<link>http://www.prestashop.com/blog/es/vota-por-prestashop-en-los-premios-cms-critics-choice-cms-awards/</link>
+		<comments>http://www.prestashop.com/blog/es/vota-por-prestashop-en-los-premios-cms-critics-choice-cms-awards/#comments</comments>
+		<pubDate>Tue, 02 Sep 2014 15:04:45 +0000</pubDate>
+		<dc:creator>Xavier du Tertre</dc:creator>
+				<category><![CDATA[Actualidad PrestaShop]]></category>
+		<category><![CDATA[Eventos]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11825</guid>
+		<description><![CDATA[Gracias a todas las nominaciones de la comunidad, ¡PrestaShop ha sido seleccionado como finalista en dos categorías para los premios 2014 CMS Critics’ Choice CMS Awards! Ayúdanos a ganar votándonos hoy mismo. ¡Tan sólo te llevará un minuto! ¡Tu voto &#8230; <a href="http://www.prestashop.com/blog/es/vota-por-prestashop-en-los-premios-cms-critics-choice-cms-awards/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Gracias a todas las nominaciones de la comunidad, ¡PrestaShop ha sido seleccionado como finalista en dos categorías para los premios 2014 CMS Critics’ Choice CMS Awards! </p>
+<p>Ayúdanos a ganar <a href="http://awards.cmscritic.com/vote" target="_blank">votándonos hoy mismo</a>. ¡Tan sólo te llevará un minuto!</p>
+<p><a href="http://www.prestashop.com/blog/fr/files/2014/09/cms-critic-awards.jpg"><img src="http://www.prestashop.com/blog/fr/files/2014/09/cms-critic-awards-1024x537.jpg" alt="" title="cms-critic-awards" width="584" height="306" class="aligncenter size-large wp-image-17145" /></a></p>
+<h4><span style="color: #3366ff;">¡Tu voto cuenta! </span></h4>
+<p style="padding-left: 30px;"><span style="color: #333333;"><strong>Por favor, vota por Prestashop en las siguientes categorías:</strong></span><br />
+- Best eCommerce Solution for SMB<br />
+- Best eCommerce Solution for Enterprise</p>
+<p>Vota por nosotros fácilmente desde el siguiente enlace: <a href="http://awards.cmscritic.com/vote" target="_blank">http://awards.cmscritic.com/vote</a></p>
+<p>¡Tus votos son muy importantes para nosotros! Ayúdanos a correr la voz utilizando los iconos que aparecen más abajo para compartir el post en las redes sociales. ¡Te mantendremos al tanto de los resultados!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/vota-por-prestashop-en-los-premios-cms-critics-choice-cms-awards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Sácale partido al Pinterest de tu tienda online</title>
+		<link>http://www.prestashop.com/blog/es/sacale-partido-al-pinterest-de-tu-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/sacale-partido-al-pinterest-de-tu-tienda-online/#comments</comments>
+		<pubDate>Thu, 28 Aug 2014 14:33:38 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11810</guid>
+		<description><![CDATA[Pinterest es una red social en alza entre los negocios online. Genera 135 millones de visitas al día y tiene más tráfico que LinkedIn, Google+ y YouTube juntos. Solo Facebook conduce a más usuarios al sitio web de una empresa. &#8230; <a href="http://www.prestashop.com/blog/es/sacale-partido-al-pinterest-de-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Pinterest es una red social en alza entre los negocios online. Genera 135 millones de visitas al día y tiene más tráfico que LinkedIn, Google+ y YouTube juntos. Solo Facebook conduce a más usuarios al sitio web de una empresa.</p>
+<p>Para aumentar su popularidad entre las empresas, Pinterest les ofrece cuentas con potentes estadísticas de clics, opiniones y repines. Lo hayas usado antes o no, sigue leyendo y aprende a sacarle el jugo a Pinterest.</p>
+<p><img class="aligncenter size-full wp-image-11811" src="http://www.prestashop.com/blog/es/files/2014/08/pinterest.jpg" alt="" width="600" height="315" /> <span id="more-11810"></span></p>
+<h2><span style="color: #d1343b">¿Qué es Pinterest?</span></h2>
+<p><a href="http://business.pinterest.com/es" target="_blank">Pinterest </a>se define como &#8220;una herramienta de descubrimiento visual que puedes usar para encontrar ideas para tus proyectos e intereses&#8221;. O dicho claramente: un tablón digital social. Los usuarios (en la jerga de Pinterest, pinners) recopilan (o pinean) imágenes en sus sitios web (tableros). El componente social lo ponen otros pinners al reutilizar esas imágenes repineándolas en sus tableros. ¿Ya tienes claros los términos que se usan en Pinterest? Perfecto. Siguiente paso: definir una buena estrategia.</p>
+<h2><span style="color: #d1343b">Define tu público y el mensaje</span></h2>
+<p>¿Cuál es la clave para una buena estrategia? Saber a quién estás hablando y qué quieres decirle. Los usuarios de Pinterest suelen pertenecer a uno de estos perfiles <a href="http://sociable360.blogspot.com/2012/02/pinterest-demographic-data-marketers.html" target="_blank">demográficos</a>: <a href="http://mashable.com/2012/02/25/pinterest-user-demographics/?utm_medium=email&amp;utm_source=newsletter" target="_blank">mujer, más de 25 años y residente en una urbanización a las afueras.</a> Si tus clientes pertenecen a una de estas categorías, ya deberías estar en Pinterest. Y además de estar, tienes que publicar pines para llegar a tu audiencia.</p>
+<p>Ahora que ya sabes a quién te diriges, perfila tu mensaje y piensa cómo quieres presentarlo. El secreto de Pinterest reside en recopilar imágenes e ideas que reflejen el estilo de la marca. Asegúrate de que el tono, el mensaje y el contenido se corresponden con la imagen que quieres transmitir.</p>
+<h2><span style="color: #d1343b">6 normas de e-commerce para Pinterest</span></h2>
+<p>¿Ya has <a href="http://www.pinterest.com/pinterest/pinterest-for-business/" target="_blank">configurado tu cuenta de empresa en Pinterest?</a> No corras, aún tienes que saber algo más. Aquí tienes unas normas básicas para rentabilizar al máximo tus pines:</p>
+<ol>
+<li>Usa las categorías adecuadas para promocionar tus pines.</li>
+<li>Combina pines originales y repines en tus tableros.</li>
+<li>Publica los pines por la noche, con un pico de actividad a las 21:00</li>
+<li>Elige imágenes alargadas: quedan mejor con el formato de Pinterest.</li>
+<li>Usa el botón Pinterest Share (funcionalidad nativa de PrestaShop) para facilitar los repines de tus clientes.</li>
+<li>Mantente activo. Repinea, comenta y valora el contenido de otros usuarios para generar más contactos.</li>
+</ol>
+<h2><span style="color: #d1343b">Contenido original en Pinterest</span></h2>
+<p>Para crear tu perfil empresarial en Pinterest puedes usar esta chuleta <a href="http://www.authormedia.com/the-pinterest-cheat-sheet-to-image-sizes/" target="_blank">de AuthorMedia</a>.</p>
+<ol>
+<ul>
+<li>Imagen de perfil: 165 x 165 píxeles (a escala a partir de imágenes de 600 X 600)</li>
+<li>Pines en los feeds: 238 píxeles x ajuste en altura</li>
+<li>Pin ampliado: 735 píxeles x ajuste en altura</li>
+<li>Imagen de portada: 217 x 146 píxeles</li>
+<li>Miniaturas: 51 x 51 píxeles</li>
+</ul>
+</ol>
+<p>Pon en las imágenes originales una marca de agua que incluya la dirección de tu tienda online. Tampoco hace falta que marques todo, solo esas magníficas instantáneas llenas de artículos. ¿Vas a pinear una foto de uno de tus productos? Crea un enlace directo a tu tienda online para facilitar la compra. Y redacta descripciones atractivas: nada de números de referencia ni nombres de archivo tipo IMG_21231.</p>
+<h2><span style="color: #d1343b">¿Quieres ideas para crear un tablero de primera?</span></h2>
+<p>Estos cinco tableros de Pinterest te servirán de inspiración.</p>
+<h4><strong>1. Productos</strong></h4>
+<p>Crea tableros como &#8220;Productos destacados&#8221; o &#8220;Novedades&#8221; para mantener a tus clientes al día. <a href="http://www.gretelhome.com/" target="_blank">Gretel Home</a>, una tienda PrestaShop de menaje, promociona sus artículos con el tablero <a href="http://www.pinterest.com/gretelhome/new-at-gretel/" target="_blank">New at Gretel.</a></p>
+<p><img class="aligncenter size-full wp-image-11812" src="http://www.prestashop.com/blog/es/files/2014/08/pinterest-1-gretel-home.png" alt="" width="590" height="278" /></p>
+<h4><strong>2. Inspiración</strong></h4>
+<p>¿Qué te inspira? ¿Usas plantillas de diseño? ¿Bebes de las últimas tendencias? <a href="http://www.whatgoesaroundnyc.com/" target="_blank">What Goes Around Comes Around NYC,</a> una tienda PrestaShop que distribuye artículos de lujo, recopila en su web <a href="http://www.pinterest.com/wgacany/vintage-luxury-ads/" target="_blank">Vintage Luxury Ads</a> la publicidad antigua en la que basa sus propios anuncios.</p>
+<p><img class="aligncenter size-full wp-image-11813" src="http://www.prestashop.com/blog/es/files/2014/08/pinterest-2-wgaca.png" alt="" width="590" height="266" /></p>
+<h4><strong>3. Color(es)</strong></h4>
+<p>Pinterest es imagen. Juega con ese concepto y crea un tablero dedicado exclusivamente al color. Escoge un tono, dos tonalidades complementarias o una paleta completa. Sigue el ejemplo del tablero <a href="http://www.pinterest.com/condura/black-white/" target="_blank">Black &amp; White</a> de <a href="http://www.condura.com.au" target="_blank">Condura </a>y deja volar tu imaginación.</p>
+<h4><strong>4. Colaboración</strong></h4>
+<p>Anima a tus clientes a colaborar en tus tableros Pinterest. Hace poco pedimos a nuestros vendedores que nos enviaran la imagen inicial de su tienda PrestaShop con la etiqueta #ShopShot. Ahora esas magníficas imágenes están en nuestro tablero <a href="http://www.pinterest.com/prestashop/of-pride-and-stores/" target="_blank">Of Pride and Stores</a>.</p>
+<p><img class="aligncenter size-full wp-image-11815" src="http://www.prestashop.com/blog/es/files/2014/08/pinterest-4-prestashop.png" alt="" width="590" height="225" /></p>
+<h4><strong>5. Estación o vacaciones</strong></h4>
+<p>¡Ten siempre presente el calendario! Cuando el verano toque a su fin, publica pines con ideas para exprimir los últimos coletazos estivales. O presenta nuevos accesorios para el otoño. El año pasado <a href="https://www.donnawilson.com/" target="_blank">Donna Wilson</a>, una tienda PrestaShop que vende artículos de punto, creó una<a href="http://www.pinterest.com/donnawilsonltd/donna-wilson-christmas-gift-guide-2013/" target="_blank"> Guía de regalos navideños</a> con propuestas para toda la familia.</p>
+<p><img class="aligncenter size-full wp-image-11816" src="http://www.prestashop.com/blog/es/files/2014/08/pinterest-5-donna-wilson.png" alt="" width="590" height="266" /></p>
+<h2><span style="color: #d1343b">Conclusión</span></h2>
+<p>Como con cualquier estrategia, analiza los resultados para medir su eficacia. Así te asegurarás de estar aprovechando al máximo tu cuenta Pinterest de empresa. ¿En qué tablero Pinterest estás deseando poner un pin? Si ya estás enganchado a los pines, ¡cuéntanos cuál de tus tableros funciona mejor! ¿Aún no vendes online? Empieza hoy mismo probando nuestra <a href="http://demo.prestashop.com/" target="_blank">demo </a>o lánzate y <a href="http://www.prestashop.com/es/download" target="_blank">descarga </a>el software de e-commerce PrestaShop.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/sacale-partido-al-pinterest-de-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Todo lo que querías saber sobre blogs para e-commerce</title>
+		<link>http://www.prestashop.com/blog/es/todo-lo-que-querias-saber-sobre-blogs-para-e-commerce/</link>
+		<comments>http://www.prestashop.com/blog/es/todo-lo-que-querias-saber-sobre-blogs-para-e-commerce/#comments</comments>
+		<pubDate>Tue, 26 Aug 2014 13:58:15 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11790</guid>
+		<description><![CDATA[¿Cuál es la herramienta de marketing más eficaz para fomentar los negocios online? Los blogs. Los sitios de comercio electrónico con blogs de calidad atraen más tráfico, incrementan la conciencia de marca y crean contenido para compartir. ¿Quieres saber qué &#8230; <a href="http://www.prestashop.com/blog/es/todo-lo-que-querias-saber-sobre-blogs-para-e-commerce/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¿Cuál es la herramienta de marketing más eficaz para fomentar los negocios online? Los blogs. Los sitios de comercio electrónico con blogs de calidad atraen más tráfico, incrementan la conciencia de marca y crean contenido para compartir.</p>
+<p>¿Quieres saber qué es lo esencial para crear un buen blog? Sigue leyendo y averígualo. Conocerás además varias tiendas online que lo están haciendo muy bien.</p>
+<p><img class="aligncenter size-large wp-image-11801" title="header-ecommerce-blogging" src="http://www.prestashop.com/blog/es/files/2014/08/header-ecommerce-blogging-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-11790"></span></p>
+<h2><span style="color: #1abc9c;">Bloguear: ventajas para el comercio electrónico</span></h2>
+<p>Muchos vendedores online se centran solo en técnicas de marketing para convertir visitantes en ventas, como los descuentos y las promociones. Pero bloguear no es una estrategia para cerrar ventas. Se trata de atraer a posibles clientes con contenido pertinente y de calidad.</p>
+<h4 style="padding-left: 30px;"><span style="color: #3498db;">Las ventajas reales de bloguear para tu negocio:</span></h4>
+<p style="padding-left: 60px;"><strong><span style="color: #e74c3c;">-</span></strong> Atraer a tu público objetivo<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Conseguir tráfico de calidad<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Publicitar productos sin incomodar<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Ganar credibilidad como experto<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Generar oportunidades a través de la confianza<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Ofrecer a los lectores contenido que pueden compartir</p>
+<p>Perfecto pero, ¿cómo creas un buen blog que te reporte todas estas ventajas?</p>
+<h2><span style="color: #1abc9c;">Define tu prototipo de comprador</span></h2>
+<p>Un blog es un medio magnífico para generar tráfico aunque&#8230; mucho tráfico no siempre es sinónimo de muchas ventas. Debes crear contenido que atraiga a tu comprador prototipo.</p>
+<p><img class="aligncenter size-full wp-image-11802" title="Prototip de comprador" src="http://www.prestashop.com/blog/es/files/2014/08/Prototip-de-comprador.png" alt="" width="500" height="223" /></p>
+<p>Determinar el comprador prototipo es esencial para crear contenido impactante para tu blog. Por eso es tan importante que te hagas estas <a href="http://blog.hubspot.com/blog/tabid/6307/bid/30907/9-Questions-You-Need-to-Ask-When-Developing-Buyer-Personas.aspx" target="_blank">9 preguntas para perfilar tu prototipo de comprador</a>.</p>
+<p>Ahora que ya sabes quiénes son tus clientes, te resultará mucho más fácil rentabilizar tu blog y diseñar una estrategia de contenido perfecta.</p>
+<h2><span style="color: #1abc9c;">Crea una estrategia de contenido</span></h2>
+<p>Decide el tipo de contenido, el tono, los temas y la información que publicarás en tu blog para cautivar a tus posibles clientes.</p>
+<p>El prototipo de comprador es clave para la estrategia de contenido. Tanto que no hay un enfoque único que sirva para todos los blogs. Pero no tienes que partir de cero: puedes recurrir a las buenas prácticas que están siendo un éxito para todo tipo de tiendas.</p>
+<h4 style="padding-left: 30px;"><span style="color: #3498db;">¿No sabes sobre qué escribir? Toma nota:</span></h4>
+<p style="padding-left: 60px;"><strong><span style="color: #e74c3c;">-</span></strong> Tutoriales en vídeo<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Imágenes con texto<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Artículos &#8220;hazlo tú mismo&#8221;<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Propuestas de vestuario y estilo<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Ideas para regalos en fechas señaladas<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Entrevistas con personalidades destacadas<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Revisión o predicción de tendencias<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Presentaciones de tu equipo, tu oficina, etc.<br />
+<strong><span style="color: #e74c3c;">-</span></strong> Reseñas sobre productos, servicios o acontecimientos</p>
+<p>Recuerda: tu blog debe transmitir confianza, proporcionar información y desarrollar la conciencia de marca. Y todo ello mediante un contenido que convenza a los lectores y haga que vuelvan.</p>
+<h2><span style="color: #1abc9c;">Elabora un calendario editorial</span></h2>
+<p>Todo blog activo tiene un calendario editorial entre bambalinas. El calendario mensual es un documento que recoge la planificación, creación y publicación de las entradas.</p>
+<p><img class="aligncenter size-full wp-image-11803" title="EDITORIAL CALENDAR (1)" src="http://www.prestashop.com/blog/es/files/2014/08/EDITORIAL-CALENDAR-1.png" alt="" width="600" height="300" /></p>
+<h4><span style="color: #3498db;">Un calendario editorial completo incluye:</span></h4>
+<p style="padding-left: 30px;"><span style="color: #363636;"><strong>Fecha de publicación:</strong></span> Sencillo, ¿no? Sí, pero ojo: hay que tener en cuenta los festivos, el día de la semana y la hora. Consulta en este artículo los <a href="http://contently.com/strategist/2011/06/10/whats-the-best-day-and-time-to-publish-content/  " target="_blank">mejores días y horas para publicar contenido</a>.</p>
+<p style="padding-left: 30px;"><strong><span style="color: #363636;">Título:</span></strong> Un buen título tiene en cuenta el SEO y, sobre todo, invita a leer.</p>
+<p style="padding-left: 30px;"><strong><span style="color: #363636;">Palabras clave para SEO:</span></strong> Son las palabras que quieres usar en la entrada para escalar posiciones en los buscadores. Lee estos <a href="http://writtent.com/blog/14-blog-writing-tips-for-creating-seo-friendly-blog-posts/ " target="_blank">14 trucos para escribir entradas con una buena SEO</a>.</p>
+<p style="padding-left: 30px;"><strong><span style="color: #363636;">Llamada a la acción:</span></strong> La entrada debe tener una llamada clara a la acción. ¿Qué quieres que haga el lector después de leer tu post? ¿Seguir tu página de Facebook? ¿Ver un producto? ¿Un vídeo?</p>
+<p style="padding-left: 30px;"><strong><span style="color: #363636;">Canales de promoción:</span></strong> ¿Cómo vas a promocionar esta entrada? Por ejemplo, en las redes sociales o en tu boletín mensual.</p>
+<p>Pronto comprobarás que el calendario es esencial para planificar y ejecutar una buena estrategia de contenido.</p>
+<h2><span style="color: #1abc9c;">¿Necesitas ejemplos?</span></h2>
+<p>¡Casi estás listo para bloguear! Un último consejo: estudia los blogs de tus competidores. ¿Qué están haciendo bien? ¿Qué se puede mejorar?</p>
+<p>Encuentra inspiración en estas tres tiendas online cuyos blogs son todo un éxito:</p>
+<h4><span style="color: #3498db;">N.° 1: Target.com</span></h4>
+<p><img class="aligncenter size-full wp-image-11804" title="#1 A Bullseye View" src="http://www.prestashop.com/blog/es/files/2014/08/1-A-Bullseye-View.png" alt="" width="570" height="392" /></p>
+<p>¡El estilo bloguero de Target es de nota! Echa un vistazo a su blog <a href="http://www.abullseyeview.com/" target="_blank">A Bullseye View</a>: es una mina de ideas.</p>
+<h4><span style="color: #3498db;">N.° 2: Ikea.com</span></h4>
+<p><img class="aligncenter size-full wp-image-11805" title="#2 IKEA Share Space blog" src="http://www.prestashop.com/blog/es/files/2014/08/2-IKEA-Share-Space-blog.png" alt="" width="570" height="306" /></p>
+<p>El blog de Ikea, <a href="http://www.theshare-space.com/blog/ " target="_blank">Share Space</a>, promociona sus productos sin incitar a comprar. Ofrece consejos de diseño y anima a sus clientes a opinar. ¡Un blog que inspira y engancha!</p>
+<h4><span style="color: #3498db;">N.° 3: Gap.com</span></h4>
+<p><img class="aligncenter size-full wp-image-11806" title="#3 aDressed" src="http://www.prestashop.com/blog/es/files/2014/08/3-aDressed.png" alt="" width="570" height="437" /></p>
+<p><a href="http://blogs.gapinc.com/" target="_blank">aDressed</a> es el blog oficial de Gap Inc. Te permite saber más sobre la empresa y posiciona a Gap como líder del sector.</p>
+<h2><span style="color: #1abc9c;">Añade un blog a tu tienda PrestaShop</span></h2>
+<p>¿Tu tienda en línea es de PrestaShop? Entonces lo tienes fácil para lanzarte al mundo de los blogs de empresa. Añade una página para integrar tu blog o escoge un módulo de la <a href="http://addons.prestashop.com/es/buscar?search_query=blog" target="_blank">tienda Addons</a> para crear uno en tu sitio web.</p>
+<p>¿Aún no usas PrestaShop? No esperes más: <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga PrestaShop</a> y empieza a disfrutar de tu tienda online gratuita hoy mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/todo-lo-que-querias-saber-sobre-blogs-para-e-commerce/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>¿Por qué todo el mundo habla de Bootstrap?</title>
+		<link>http://www.prestashop.com/blog/es/por-que-todo-el-mundo-habla-de-bootstrap/</link>
+		<comments>http://www.prestashop.com/blog/es/por-que-todo-el-mundo-habla-de-bootstrap/#comments</comments>
+		<pubDate>Wed, 20 Aug 2014 15:20:17 +0000</pubDate>
+		<dc:creator>Benjamin Utterback</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+		<category><![CDATA[Tendencias E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11777</guid>
+		<description><![CDATA[Bootstrap ya no es solo la herramienta de moda para el diseño web. Se ha convertido en un término por derecho propio: &#8220;¿Te está costando empezar con el diseño de tu web? Bootstrapéalo&#8221;. Cuando una marca comercial como Twitter Bootstrap &#8230; <a href="http://www.prestashop.com/blog/es/por-que-todo-el-mundo-habla-de-bootstrap/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p style="text-align: left;" align="center">Bootstrap ya no es solo la herramienta de moda para el diseño web. Se ha convertido en un término por derecho propio: &#8220;¿Te está costando empezar con el diseño de tu web? Bootstrapéalo&#8221;. Cuando una marca comercial como Twitter Bootstrap se convierte en una palabra de uso diario, no hay duda: a la gente le gusta y la utiliza, mucho.</p>
+<p>Xerox es sinónimo de fotocopiadora, Google, de buscador&#8230; y Bootstrap es ya el framework por excelencia para diseño web. ¿Esta afirmación te parece un poco atrevida en vista del número de competidores? Sigue leyendo, te lo demostraré. En mi última entrada, os presenté una <a href="http://www.prestashop.com/blog/en/what-is-bootstrap/">breve historia del insólito nacimiento y el boom</a> de Twitter Bootstrap.</p>
+<p>Veamos ahora cinco secretos de ese ascenso meteórico.</p>
+<p><a href="http://www.prestashop.com/blog/es/files/2014/08/img-02-1.png"><img class="alignleft size-full wp-image-11787" title="Bootstrap" src="http://www.prestashop.com/blog/es/files/2014/08/img-02-1.png" alt="" width="500" height="150" /></a></p>
+<p style="text-align: center;">
+<p><span id="more-11777"></span></p>
+<h4>1. Ahorra tiempo:</h4>
+<p>Bootstrap dispone de cuadrículas, fondos y elementos de estilo HTML y CSS listos para usar (tablas, formularios, botones, iconos, etc.). ¿Y para que le sirve todo esto a un diseñador web ocupado? Le aporta todo lo que necesita para crear un sitio web profesional desde cero, en un cómodo paquete de Bootstrap. Dile adiós a la época en la que tenías que escribir el código de todos los elementos, uno a uno&#8230; ¡Bienvenido, Bootstrap!</p>
+<h4>2. Totalmente adaptable:</h4>
+<p>Hoy los sitios web tienen que ser adaptables y aptos para móviles, sobre todo si hablamos de e-commerce. Tú lo tienes claro: quieres que tus clientes puedan comparar los productos en el ordenador de casa, añadirlos al carro desde la tableta en el aeropuerto y finalizar la compra con el móvil cuando aterrizan. Y será algo cada vez más habitual gracias a la evolución del diseño y los sistemas de pago para móviles. Bootstrap cuenta con múltiples cuadrículas adaptables perfectas para el diseño móvil.</p>
+<h4>3. Una comunidad activa:</h4>
+<p>Hasta la fecha, <a href="https://github.com/twbs/bootstrap">el perfil de Bootstrap de GitHub</a> tiene 70 000 estrellas (que equivalen a los &#8220;me gusta&#8221; de Facebook o los &#8220;+1&#8243; de Google). Y sus casi 600 colaboradores lo convierten en uno de los repositorios más populares de GitHub. Así que no lo dudes: si tienes una pregunta, solo tendrás que publicarla en los hilos sobre Bootstrap de GitHub y encontrarás la solución con ayuda de los expertos. De hecho, es probable que la respuesta ya esté ahí. ¿Qué hay mejor que una comunidad dispuesta a echar una mano?</p>
+<h4>4. Paquetes de plugins de JavaScript:</h4>
+<p>Uno de los puntos fuertes de Bootstrap es que ya tiene paquetes con montones de plugins útiles de JavaScript. ¿Qué diseñador no sabe los quebraderos de cabeza que puede ocasionar la compatibilidad de JavaScript con el diseño de tu sitio web? Por suerte, los paquetes de plugins de Bootstrap funcionan a las mil maravillas. ¿Necesitas pestañas animadas, barras de desplazamiento y menús desplegables? Bootstrapea.</p>
+<h4>5. Docs. Docs. Docs:</h4>
+<p>No subestimes el poder de una buena documentación. Bootstrap es famoso en el mundo del diseño web por su documentación: extensa, útil, fácil de leer&#8230; ¡y con millones de ejemplos! Y no olvidemos que también incluye una demo para facilitarle aún más la vida a los diseñadores web que están empezando. La documentación de Bootstrap lo cubre todo: de las funciones más sencillas a los elementos más complejos.</p>
+<p>&#8212;-</p>
+<p>A nadie le sorprende el boom de Bootstrap en el panorama del diseño web. Suma sus elementos listos para usar, los paquetes de animaciones, su espléndida documentación y una comunidad apasionada. ¿El resultado? El framework más atractivo para diseño web: Twitter Bootstrap. Eso no quiere decir que puedas conseguir el sitio de tus sueños en un abrir y cerrar de ojos: evidentemente, debes tener muy buenos conocimientos de HTML y CSS. ¿Ya has visto la entrevista que le hicimos al creador de Bootstrap, Mark Otto? Puedes <a href="http://www.prestashop.com/blog/en/creator-of-bootstrap-mark-otto-speaks-to-attendees-at-prestashop-barcamp-2013/">ver el vídeo completo aquí</a>.</p>
+<p>¿Qué te parece ahora este magnífico framework? ¡Déjanos tus comentarios! Una pregunta más: ¿Ya bootstrapeas?</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/por-que-todo-el-mundo-habla-de-bootstrap/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Comercio electrónico y devoluciones</title>
+		<link>http://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/</link>
+		<comments>http://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/#comments</comments>
+		<pubDate>Tue, 19 Aug 2014 16:07:02 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11767</guid>
+		<description><![CDATA[Una política de devoluciones clara y completa refuerza la credibilidad y aumenta la confianza del cliente. Además, reduce el tiempo dedicado a los reembolsos, tranquiliza a los clientes e incrementa la rentabilidad. Pero&#8230; ¿sabes qué debe incluir? Te lo mostramos &#8230; <a href="http://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Una política de devoluciones clara y completa refuerza la credibilidad y aumenta la confianza del cliente. Además, reduce el tiempo dedicado a los reembolsos, tranquiliza a los clientes e incrementa la rentabilidad. Pero&#8230; ¿sabes qué debe incluir? Te lo mostramos en esta disección de las políticas de devolución del comercio electrónico.</p>
+<p><img class="aligncenter size-full wp-image-11771" src="http://www.prestashop.com/blog/es/files/2014/08/Return-Policies.jpg" alt="" width="600" height="315" /> <span id="more-11767"></span></p>
+<h2><span style="color: #ff7d2f">Qué se puede devolver?</span></h2>
+<p>Lo primero es lo primero: ¿quieres aceptar cambios o devoluciones? ¿No estás seguro? Según <a href="http://www.dca.ca.gov/publications/legal_guides/s-6.shtml" target="_blank">la legislación californiana</a>, no tendrías que aceptar la devolución de los productos de estas cinco categorías. En tu zona habrá normas específicas, ¡consúltalas!</p>
+<ol>
+<li>Alimentos, plantas, flores y otros productos perecederos</li>
+<li>Productos hechos a medida</li>
+<li>Productos que no se pueden poner de nuevo a la venta por motivos sanitarios</li>
+<li>Los productos devueltos en malas condiciones</li>
+<li>Los productos devueltos sin las etiquetas o el embalaje originales y sin recibo o factura.</li>
+</ol>
+<p>Si vendes varios tipos de productos, indica cuáles se pueden devolver.</p>
+<h2><span style="color: #ff7d2f">Importe del reembolso</span></h2>
+<p>Explica a los clientes qué se les reembolsará. Por ejemplo: los gastos de envío no se suelen devolver pero los impuestos sí. Si cobras recargos por devoluciones, déjalo claro. Un cliente ha de poder calcular el importe exacto de su reembolso.</p>
+<h2><span style="color: #ff7d2f">¿Durante cuánto tiempo?</span></h2>
+<p>Especifica el plazo (en días o meses) que los clientes tienen para devolver su pedido. ¿Cuál es el plazo idóneo? Ten en cuenta este dato: las pasarelas de pago guardan los datos de la tarjeta de crédito del cliente durante un tiempo limitado. Sin esa información, no podrás hacer el reembolso. Tampoco debes olvidar lo que tardan los envíos (entrega y devolución).</p>
+<p>Una sugerencia para que todo quede claro: indica cuándo empieza el plazo de devolución. ¿El día de la compra? ¿El día del envío? ¿Cuando el cliente recibe el paquete? Explica también qué hay que hacer antes de que acabe el plazo. Es decir, si es suficiente con que el cliente haga el envío dentro de plazo o si tienes que haberlo recibido. Una cosa más: precisa cuántos días tardarás en procesar el reembolso. ¡Y recuerda mantener al cliente informado sobre el estado de su devolución!</p>
+<h2><span style="color: #ff7d2f">¿Adónde hay que enviar la devolución?</span></h2>
+<p>Enumera las direcciones de devolución y no olvides incluir el departamento. Facilítale la vida al cliente: cuando envíes el pedido, incluye una pegatina con la dirección para las devoluciones.</p>
+<p>También debes indicar quién pagará el transporte. Cargar ese gasto al cliente es más rentable&#8230; pero te arriesgas a que elija un servicio de envío barato y poco fiable. Independientemente de quién lo pague, contrata un servicio de seguimiento de los productos.</p>
+<h2><span style="color: #ff7d2f">¿Qué hay de los cambios?</span></h2>
+<p>¿El cliente puede cambiar un artículo por otro o por crédito en la tienda? En ese caso, ¿cómo es el proceso para el cliente? ¿Cuánto tarda? Informa convenientemente sobre posibles recargos por devoluciones o gastos adicionales de transporte. Y si no aceptas cambios, dilo sin rodeos.</p>
+<h2><span style="color: #ff7d2f">Situaciones especiales:</span></h2>
+<p><strong>Rebajas</strong><br />
+En periodo de rebajas, se presupone que no se aceptan devoluciones. Pero mejor no dar nada por supuesto: publica la política de devoluciones para productos rebajados. Si usas expresiones como «saldos», «remate final», «regalo por compra» o «2&#215;1», indica claramente que no se aceptan devoluciones.<br />
+<strong>Fuera de plazo</strong><br />
+Informa a los clientes sobre lo que sucederá si recibes los productos fuera de plazo: ¿Les darás a cambio crédito en la tienda? ¿Les harás un reembolso reducido? ¿O acaso les devolverás nuevamente el producto? Una política de devoluciones muy estricta te protege frente a las pérdidas pero también disuade a tus clientes.</p>
+<h2><span style="color: #ff7d2f">Y para terminar&#8230;</span></h2>
+<p>Incluye una cláusula que te permita hacer cambios razonables en tu política de devoluciones. ¿Por qué? Para poder adaptarla a las expectativas de los clientes a medida que sepas más sobre sus hábitos de compra. ¿Recibes demasiadas devoluciones? Revisa el<a href="http://www.prestashop.com/blog/es/10-formas-de-reducir-las-devoluciones-de-tu-tienda-online/" target="_blank"> Decálogo para reducir las devoluciones</a>.</p>
+<p>¿Te ha resultado útil esta entrada? ¡Déjanos tus comentarios! ¿Estás buscando un software de e-commerce que te ayude a gestionar mejor los pedidos y las devoluciones? Prueba el software para carro de la compra de PrestaShop. ¡<a href="http://www.prestashop.com/es/download" target="_blank">Descárgalo</a> y te sorprenderá!</p>
+<address>(Nota del autor: El objetivo de esta entrada es ayudarte a diseñar tu política de devolución. Consulta a tu abogado para asegurarte de que cumple la legislación vigente).</address>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/comercio-electronico-y-devoluciones/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>4 trucos fundamentales para mejorar el buscador de tu tienda online</title>
+		<link>http://www.prestashop.com/blog/es/4-trucos-fundamentales-para-mejorar-el-buscador-de-tu-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/4-trucos-fundamentales-para-mejorar-el-buscador-de-tu-tienda-online/#comments</comments>
+		<pubDate>Thu, 14 Aug 2014 15:19:26 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11751</guid>
+		<description><![CDATA[Esta semana tenemos con nosotros a Steve Chou, copropietario de Bumblebee Linens y MyWifeQuitHerJob.com. La tienda online de Steve —Bumblebee Linens— apenas lleva un año abierta y ya ha alcanzado la asombrosa cifra de 100 000 dólares en ventas. Sí, &#8230; <a href="http://www.prestashop.com/blog/es/4-trucos-fundamentales-para-mejorar-el-buscador-de-tu-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Esta semana tenemos con nosotros a Steve Chou, copropietario de Bumblebee Linens y MyWifeQuitHerJob.com. La tienda online de Steve —Bumblebee Linens— apenas lleva un año abierta y ya ha alcanzado la asombrosa cifra de 100 000 dólares en ventas. Sí, has leído bien, cinco ceros en un año.</p>
+<p>Por eso creó MyWifeQuitHerJob.com, un espacio en el que comparte sus trucos y consejos para gestionar un negocio online con éxito. Su blog tiene más de 90 000 visitas mensuales y se ha ganado sendas reseñas en The New York Times y The Huffington Post. Le invitamos a contarnos sus secretos y nos ha desvelado cuatro trucos fundamentales para mejorar el buscador interno de tu sitio web.</p>
+<p><img class="aligncenter size-full wp-image-11753" src="http://www.prestashop.com/blog/es/files/2014/08/search-improve5.png" alt="" width="600" height="315" /></p>
+<p><span id="more-11751"></span></p>
+<p>Si gestionas tu propia tienda online ya sabrás que optimizarla para los buscadores (y en especial para Google) es vital para atraer más tráfico e incrementar las ventas. Sin embargo, aunque atraer visitas es importante, <strong>en realidad el objetivo es que los visitantes <strong>se queden </strong>en tu página</strong> y se animen a comprar.</p>
+<p><img src="http://www.prestashop.com/blog/es/files/2014/08/mywifequitherjob-headshot.jpg" alt="" width="200" height="300" align="right" /></p>
+<p>Desgraciadamente muchos vendedores online se centran sólo en la optimización para los grandes buscadores y se <strong>olvidan de su propia página</strong>. Llevo muchos años <a href="http://mywifequitherjob.com/how-to-open-an-online-store/" target="_blank">dando clases sobre comercio electrónico</a> y gestionando mi propio negocio online de venta de pañuelos y he aprendido a valorar un <strong>buen buscador integrado en el sitio.</strong></p>
+<p>Un dato interesante: Muchos de los clientes que llegan a mi página de inicio no navegan hasta encontrar lo que quieren.<strong> Van directamente a la barra de búsqueda para localizar el producto exacto que están buscando.</strong></p>
+<p>Si tu sitio no está preparado para estos posibles clientes, podrías estar perdiendo mucho dinero. De hecho, los datos indican que más del <strong>95 % de los clientes abandona el sitio inmediatamente si no encuentra lo que necesita con el buscador de la página.</strong> Una búsqueda infructuosa es, un cliente menos y la posibilidad de una venta que se esfuma.</p>
+<h4><span style="color: #fc883e">Las soluciones de búsqueda estándar no son suficientes</span></h4>
+<p>¿Sabes lo que pasa si añades productos a lo loco en la base de datos de tu catálogo sin tener en cuenta los requisitos del buscador?<strong>  El buscador de tu sitio web se colapsa.</strong></p>
+<p>No hace mucho estuve analizando las búsquedas en mi sitio de clientes que no obtuvieron resultados positivos. Esto es lo que buscaban:</p>
+<p style="padding-left: 30px">panuelo<br />
+pañeulo<br />
+pañuelo de señora<br />
+pañuelo caballo</p>
+<p><strong><strong>Está bastante claro por qué estas búsquedas no dan resultados:</strong></strong> Los dos primeros no están escritos correctamente. El tercero tiene una preposición que en circunstancias normales no se habría tenido en cuenta para la búsqueda. El cuarto es un claro intento de encontrar un pañuelo para caballero. Todos estos artículos estaban disponibles en mi tienda. Pero el cliente no los encontró a partir de los resultados de búsqueda.</p>
+<p>La mayoría de las plataformas de e-commerce no te ofrecen lo que necesitas para conseguir un buscador eficaz. <strong>Los errores ortográficos y los sinónimos podrían estar costándote miles de dólares</strong> y puede que ni siquiera lo sepas. Si quieres tener la posibilidad de que esos clientes potenciales se queden en tu página y se conviertan en compradores, ponte las pilas con estos cuatro puntos:</p>
+<h4><span style="color: #fc883e">1. Mejorar el buscador de tu tienda es cosa tuya</span></h4>
+<p>Es verdad que la mayoría de los clientes encontrará tus productos a través de Google y llegará directamente a la página del producto o de la categoría. Pero también hay muchos posibles clientes que emplean los buscadores integrados en los sitios web.</p>
+<p>No se trata de que le hagas la competencia a Google. Lo que tienes que hacer es crear un <strong>buscador localizado</strong> para tu sitio y para tus productos. En otras palabras, tendrás que <strong>incluir términos de búsqueda específicos para los productos</strong> para ayudar a los clientes a encontrar respuestas y a quedarse en tu página. Aunque necesites que un desarrollador web te eche una mano, la inversión merece la pena.</p>
+<p>El buscador de PrestaShop es una gran ayuda, ya que ofrece sugerencias de búsqueda y autocompletado. Pero la mayor parte del trabajo de optimización de tu buscador tendrás que hacerlo tú.</p>
+<h4><span style="color: #fc883e">2. Registra todas las búsquedas</span></h4>
+<p>Es imposible que se te ocurran todas las posibles variantes para denominar a tus productos. Puedes pasar años pensando en errores ortográficos, de sintaxis y de puntuación, sinónimos y nombres locales, nunca llegarás a adivinarlos todos. Las búsquedas de los usuarios no dejarán de sorprenderte.</p>
+<p>Si quieres tener una visión completa de lo que se está buscando en tu sitio web, <strong>registra todas las búsquedas.</strong> Podrás detectar patrones e irregularidades y hacer ajustes para que las búsquedas arrojen resultados incluso cuando el usuario comete un error. Estos son los puntos principales en los que tienes que fijarte cuando analices las búsquedas de tu sitio:</p>
+<p style="padding-left: 30px"><strong>Sinónimos: </strong>Aunque tengas una buena descripción de los productos que incluya sinónimos, es probable que exista otra palabra que nunca hayas oído. Anota estas palabras y adapta tu buscador para vincularlas a los productos pertinentes.</p>
+<p style="padding-left: 30px"><strong>Plurales, acentos y signos de puntuación:</strong> Asegúrate de que en tus cadenas de búsqueda desaparecen los signos de puntuación y las marcas de plural. Puedes hacer ajustes en el código para conseguirlo y que los errores lingüísticos no arruinen los resultados de las búsquedas de tus clientes.</p>
+<p style="padding-left: 30px"><strong>Abreviaturas:</strong> Muchos usuarios usan abreviaturas y términos coloquiales cuando buscan los productos. No lo olvides cuando definas las búsquedas.</p>
+<p style="padding-left: 30px"><strong>Errores ortográficos:</strong> Todo el mundo comete errores ortográficos. Asegúrate de que tu buscador interno lo tiene en cuenta. Fíjate en las grafías &#8220;alternativas&#8221; y en los errores que se suelen cometer al teclear para que la búsqueda dé resultados válidos aunque el cliente se equivoque.</p>
+<h4><span style="color: #fc883e">3. Ofrece a tus clientes una forma sencilla de afinar las búsquedas</span></h4>
+<p>Mi tienda vende pañuelos. Más de la mitad de los productos que vendo están etiquetados como &#8220;pañuelos&#8221;. Eso significa que si alguien busca &#8220;panuelos&#8221; no va a encontrar nada. La mayoría de los clientes no sigue navegando cuando los resultados son infructuosos. Por otra parte, para mí no sería práctico tener que añadir el término de búsqueda &#8220;panuelos&#8221; a todas las descripciones de los productos.</p>
+<p>La buena noticia es que hay un truco para solucionar este problema. En lugar de no mostrar resultados o de mostrar solo unos cuantos, puedes i<strong>ncluir un enlace para una nueva búsqueda</strong> en el que le preguntes al cliente si quería decir otra cosa. En este caso, si alguien busca &#8220;panuelos&#8221;, vería este mensaje:</p>
+<p><strong>¿Quería decir &#8220;pañuelos&#8221;?</strong></p>
+<p>Este método se puede usar con un gran número de errores y faltas ortográficas que afloran al analizar las búsquedas de los clientes. Es fácil conseguir que el enlace esté bien <strong>visible y solo requiera un clic</strong> para que a los clientes no les cueste nada cambiar la búsqueda. Conseguirán mejores resultados y se quedarán en tu sitio web en lugar de abandonarlo.</p>
+<h4><span style="color: #fc883e">4. Añade palabras clave específicas para la búsqueda a tus productos</span></h4>
+<p>Ahora que ya sabes lo que busca la gente, ha llegado el momento de <strong>añadir palabras clave específicas para la búsqueda a tus productos.</strong> Son palabras clave que quizás no aparecen en el nombre, el título o la descripción del producto. Sin embargo, quieres que estos productos estén asociados a determinadas búsquedas habituales en tu sitio web.</p>
+<p>Por ejemplo, &#8220;madrina&#8221; es un término de búsqueda muy popular en mi sitio web. Pero no quiero incluir esa palabra en cientos de descripciones o títulos de productos. Así que lo <strong>añado a los términos de búsqueda</strong> vinculados a esos productos concretos. Esta asociación se traduce en que los clientes encontrarán cientos de artículos coincidentes cuando busquen &#8220;madrina&#8221;.</p>
+<p>La mejor forma de acometer esta tarea es <strong>añadir los términos de búsqueda cuando se añade un nuevo producto</strong>. Se convierte en una rutina y ahorra la necesidad de efectuar actualizaciones masivas que consumen muchísimo tiempo. Si tienes que hacer una de esas actualizaciones, reserva tiempo para hacerlo poco a poco, empezando por los términos de búsqueda más populares.</p>
+<p><em>En pocas palabras</em><br />
+El buscador de tu sitio web es importante. Si no quieres que unos resultados de búsqueda infructuosos te hagan perder clientes, tienes que hacer un esfuerzo para mejorarlo.</p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>Un montón de consejos magníficos&#8230; ¿a qué esperas para ponerlos en práctica? Como vendedor de la comunidad PrestaShop, lo tienes fácil:</p>
+<h4><span style="color: #fc883e">Cuatro pasos para empezar</span></h4>
+<p>1. Entra en tu cuenta y revisa las palabras clave que han buscado tus clientes<br />
+<em>        Panel de administración &gt; Estadísticas &gt; Búsquedas en la tienda </em></p>
+<p><em></em>2. Asigna cada palabra o expresión a una categoría<br />
+<span style="color: #800080">        a. Errores ortográficos o sinónimos</span><br />
+<span style="color: #008000">        b. Atributos o descripciones</span></p>
+<p>3. En el caso de las palabras o expresiones de la categoría<span style="color: #800080"> Errores ortográficos o sinónimos</span>, piensa a qué palabra clave te gustaría redirigir a tus clientes. Ya solo te falta crear el redireccionamiento para cada palabra.<br />
+<em>         Panel de administración &gt; Preferencias &gt; Búsqueda</em></p>
+<p><em></em>4. En el grupo <span style="color: #008000">Atributos o descripciones</span>, busca los productos que encajen con esas descripciones y añade las palabras clave como etiquetas.<br />
+<em>        Panel de administración &gt; Catálogo &gt; Producto &gt; Pestaña de información</em><br />
+<strong>        </strong>(Consulta nuestra guía de usuario para <a href="http://doc.prestashop.com/display/PS16/Managing+Tags" target="_blank">obtener más información sobre la gestión de etiquetas</a>).</p>
+<p>¿Quieres una funcionalidad de primera para asegurarte de que tus clientes encuentran lo que buscan? Una de nuestras agencias certificadas ha desarrollado la solución perfecta. Aporta sugerencias para las búsquedas sin resultados con <a href="http://addons.prestashop.com/es/busqueda-filtros-prestashop-modulos/5071-search-autocorrection.html" target="_blank">el módulo de autocorrección de búsquedas</a>.</p>
+<p>¿Aún no eres vendedor de PrestaShop? ¿Tu software para el carro de la compra ofrece todas estas <a href="http://www.prestashop.com/es/funcionalidades" target="_blank">funcionalidades gratis</a>? Si no es así, ¡ya va siendo hora de que te <a href="http://www.prestashop.com/es/cambiese-a-prestashop" target="_blank">pases a PrestaShop</a>! (Danos la oportunidad de convencerte: prueba nuestra <a href="http://demo.prestashop.com/es/" target="_blank">demo</a>.)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/4-trucos-fundamentales-para-mejorar-el-buscador-de-tu-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
 		</item>
 	</channel>
 </rss>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Served from: www.prestashop.com @ 2014-08-13 22:56:03 -->
+Served from: www.prestashop.com @ 2014-09-29 05:56:03 -->

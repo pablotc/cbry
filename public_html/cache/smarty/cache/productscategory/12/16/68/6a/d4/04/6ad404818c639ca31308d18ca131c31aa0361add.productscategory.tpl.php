@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:51333042453ecec18edfdb7-11888290%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:58987325353fb855be572d7-24814758%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,22 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '51333042453ecec18edfdb7-11888290',
-  'variables' => 
-  array (
-    'categoryProducts' => 0,
-    'categoryProduct' => 0,
-    'link' => 0,
-    'ProdDisplayPrice' => 0,
-    'restricted_country_mode' => 0,
-    'PS_CATALOG_MODE' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '58987325353fb855be572d7-24814758',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec19122273_66635968',
+  'unifunc' => 'content_542ac464315418_99354399',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec19122273_66635968')) {function content_53ecec19122273_66635968($_smarty_tpl) {?><section class="page-product-box blockproductscategory">
+<?php if ($_valid && !is_callable('content_542ac464315418_99354399')) {function content_542ac464315418_99354399($_smarty_tpl) {?><section class="page-product-box blockproductscategory">
 	<h3 class="productscategory_h3 page-product-heading">5 otros productos de la misma categoría:</h3>
 	<div id="productscategory_list" class="clearfix">
 		<ul id="bxslider1" class="bxslider clearfix">
@@ -34,7 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				<h5 class="product-name">
 					<a href="http://cccchile.cl/index.php?id_product=13&amp;controller=product" title="CLUB PLUS HEADGUARD - KIDS">CLUB PLUS...</a>
 				</h5>
-								<br />
+								<p class="price_display">
+					<span class="price">$39.990</span>
+                                        				</p>
 							</li>
 					<li class="product-box item">
 				<a href="http://cccchile.cl/index.php?id_product=14&controller=product" class="lnk_img product-image" title="FLEXITOP PRO PROTECTIVEWEAR"><img src="http://cccchile.cl/img/p/4/2/42-home_default.jpg" alt="FLEXITOP PRO PROTECTIVEWEAR" /></a>
@@ -42,31 +35,39 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				<h5 class="product-name">
 					<a href="http://cccchile.cl/index.php?id_product=14&amp;controller=product" title="FLEXITOP PRO PROTECTIVEWEAR">FLEXITOP...</a>
 				</h5>
-								<br />
+								<p class="price_display">
+					<span class="price">$49.990</span>
+                                        				</p>
 							</li>
 					<li class="product-box item">
-				<a href="http://cccchile.cl/index.php?id_product=25&controller=product" class="lnk_img product-image" title="PRODIGY MEDIUM LEVEL TRAINER BALL"><img src="http://cccchile.cl/img/p/es-default-home_default.jpg" alt="PRODIGY MEDIUM LEVEL TRAINER BALL" /></a>
+				<a href="http://cccchile.cl/index.php?id_product=25&controller=product" class="lnk_img product-image" title="PRODIGY MEDIUM LEVEL TRAINER BALL"><img src="http://cccchile.cl/img/p/6/2/62-home_default.jpg" alt="PRODIGY MEDIUM LEVEL TRAINER BALL" /></a>
                 
 				<h5 class="product-name">
 					<a href="http://cccchile.cl/index.php?id_product=25&amp;controller=product" title="PRODIGY MEDIUM LEVEL TRAINER BALL">PRODIGY...</a>
 				</h5>
-								<br />
+								<p class="price_display">
+					<span class="price">$16.990</span>
+                                        				</p>
 							</li>
 					<li class="product-box item">
-				<a href="http://cccchile.cl/index.php?id_product=29&controller=product" class="lnk_img product-image" title="CATALYST SENIOR MATCH BALL"><img src="http://cccchile.cl/img/p/es-default-home_default.jpg" alt="CATALYST SENIOR MATCH BALL" /></a>
+				<a href="http://cccchile.cl/index.php?id_product=29&controller=product" class="lnk_img product-image" title="CATALYST SENIOR MATCH BALL"><img src="http://cccchile.cl/img/p/7/2/72-home_default.jpg" alt="CATALYST SENIOR MATCH BALL" /></a>
                 
 				<h5 class="product-name">
 					<a href="http://cccchile.cl/index.php?id_product=29&amp;controller=product" title="CATALYST SENIOR MATCH BALL">CATALYST...</a>
 				</h5>
-								<br />
+								<p class="price_display">
+					<span class="price">$21.990</span>
+                                        				</p>
 							</li>
 					<li class="product-box item">
-				<a href="http://cccchile.cl/index.php?id_product=30&controller=product" class="lnk_img product-image" title="PRODIGY MEDIUM LEVEL TRAINER BALL 4"><img src="http://cccchile.cl/img/p/es-default-home_default.jpg" alt="PRODIGY MEDIUM LEVEL TRAINER BALL 4" /></a>
+				<a href="http://cccchile.cl/index.php?id_product=30&controller=product" class="lnk_img product-image" title="PRODIGY MEDIUM LEVEL TRAINER BALL 4"><img src="http://cccchile.cl/img/p/7/6/76-home_default.jpg" alt="PRODIGY MEDIUM LEVEL TRAINER BALL 4" /></a>
                 
 				<h5 class="product-name">
 					<a href="http://cccchile.cl/index.php?id_product=30&amp;controller=product" title="PRODIGY MEDIUM LEVEL TRAINER BALL 4">PRODIGY...</a>
 				</h5>
-								<br />
+								<p class="price_display">
+					<span class="price">$16.990</span>
+                                        				</p>
 							</li>
 				</ul>
 	</div>

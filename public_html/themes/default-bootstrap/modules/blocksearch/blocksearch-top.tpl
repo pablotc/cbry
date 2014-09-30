@@ -22,8 +22,10 @@
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 *}
+
 <!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
+{* cambiado a blockcontact/nav.tpl
 	<form id="searchbox" method="get" action="{$link->getPageLink('search')|escape:'html':'UTF-8'}" >
 		<input type="hidden" name="controller" value="search" />
 		<input type="hidden" name="orderby" value="position" />
@@ -33,11 +35,12 @@
 			<span>{l s='Search' mod='blocksearch'}</span>
 		</button>
 	</form>
+*}
 </div>
 <!-- /Block search module TOP -->
 <!-- AÑADIDO NUEVO-->
-<div id="header_logo">
+<div id="header_logo" style="">
 	<a href="{$base_dir}" title="{$shop_name|escape:'html':'UTF-8'}">
-		<img class="logo img-responsive" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"{if isset($logo_image_width) && $logo_image_width} width="{$logo_image_width}"{/if}{if isset($logo_image_height) && $logo_image_height} height="{$logo_image_height}"{/if}/>
+		<img class="logo img-responsive" style="margin: 0px auto;" src="{$logo_url}" alt="{$shop_name|escape:'html':'UTF-8'}"{if isset($logo_image_width) && $logo_image_width} width="{$logo_image_width}"{/if}{if isset($logo_image_height) && $logo_image_height} height="{$logo_image_height}"{/if}/>
 	</a>
 </div>

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-14 13:04:25
+<?php /* Smarty version Smarty-3.1.14, created on 2014-08-25 14:50:04
          compiled from "/home2/amorales/public_html/modules/socialsharing/views/templates/hook/socialsharing.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:163307280553ecec1938e571-53393012%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7179538353fb855c1b6390-31663103%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '163307280553ecec1938e571-53393012',
+  'nocache_hash' => '7179538353fb855c1b6390-31663103',
   'function' => 
   array (
   ),
@@ -28,9 +28,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec194c3f84_94196104',
+  'unifunc' => 'content_53fb855c2aa0c9_19243740',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec194c3f84_94196104')) {function content_53ecec194c3f84_94196104($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53fb855c2aa0c9_19243740')) {function content_53fb855c2aa0c9_19243740($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['PS_SC_TWITTER']->value||$_smarty_tpl->tpl_vars['PS_SC_FACEBOOK']->value||$_smarty_tpl->tpl_vars['PS_SC_GOOGLE']->value||$_smarty_tpl->tpl_vars['PS_SC_PINTEREST']->value){?>
 	<p class="socialsharing_product list-inline no-print">
 		<?php if ($_smarty_tpl->tpl_vars['PS_SC_TWITTER']->value){?>

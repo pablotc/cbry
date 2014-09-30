@@ -2,7 +2,7 @@
 <module>
 	<name>blockcmsinfo</name>
 	<displayName><![CDATA[Personalizar bloque de informaci&oacute;n CMS]]></displayName>
-	<version><![CDATA[1.5.1]]></version>
+	<version><![CDATA[1.5.2]]></version>
 	<description><![CDATA[A&ntilde;ade bloques de informaci&oacute;n personalizada en la tienda.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

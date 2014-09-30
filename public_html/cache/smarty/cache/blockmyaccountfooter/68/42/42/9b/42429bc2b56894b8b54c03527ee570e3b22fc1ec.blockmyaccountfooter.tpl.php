@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:26189172453ecec1a32c8c6-61903863%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:5774197753fb7534e77a25-51862487%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,21 +9,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '26189172453ecec1a32c8c6-61903863',
-  'variables' => 
-  array (
-    'link' => 0,
-    'returnAllowed' => 0,
-    'voucherAllowed' => 0,
-    'HOOK_BLOCK_MY_ACCOUNT' => 0,
-    'is_logged' => 0,
-  ),
-  'has_nocache_code' => false,
+  'nocache_hash' => '5774197753fb7534e77a25-51862487',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec1a4771f9_89814747',
+  'unifunc' => 'content_54170a463b1cc8_59102458',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec1a4771f9_89814747')) {function content_53ecec1a4771f9_89814747($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54170a463b1cc8_59102458')) {function content_54170a463b1cc8_59102458($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://cccchile.cl/index.php?controller=my-account" title="Administrar mi cuenta de cliente" rel="nofollow">Mi cuenta</a></h4>
@@ -33,7 +25,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 						<li><a href="http://cccchile.cl/index.php?controller=order-slip" title="Mis vales descuento" rel="nofollow">Mis vales descuento</a></li>
 			<li><a href="http://cccchile.cl/index.php?controller=addresses" title="Mis direcciones" rel="nofollow">Mis direcciones</a></li>
 			<li><a href="http://cccchile.cl/index.php?controller=identity" title="Administrar mi información personal" rel="nofollow">Mis datos personales</a></li>
-						
+			<li><a href="http://cccchile.cl/index.php?controller=discount" title="Mis vales" rel="nofollow">Mis vales</a></li>			
             		</ul>
 	</div>
 </section>

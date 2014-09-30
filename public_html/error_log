@@ -1,0 +1,100 @@
+[17-Aug-2014 04:07:38 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[30-Aug-2014 00:13:19 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[31-Aug-2014 07:15:34 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[01-Sep-2014 13:33:11 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[24-Sep-2014 09:54:54 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[25-Sep-2014 12:04:10 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[27-Sep-2014 07:56:05 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[28-Sep-2014 17:18:34 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'Missing template name' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php:639
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(117): Smarty_Internal_Template->__get('source')
+#1 /home2/amorales/public_html/classes/controller/Controller.php(406): Smarty_Internal_TemplateBase->fetch(false)
+#2 /home2/amorales/public_html/classes/controller/FrontController.php(597): ControllerCore->smartyOutputContent(false)
+#3 /home2/amorales/public_html/classes/controller/FrontController.php(420): FrontControllerCore->displayMaintenancePage()
+#4 /home2/amorales/public_html/classes/controller/Controller.php(163): FrontControllerCore->init()
+#5 /home2/amorales/public_html/classes/Dispatcher.php(373): ControllerCore->run()
+#6 /home2/amorales/public_html/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php on line 639
+[29-Sep-2014 17:17:40 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl&quot;  on line 30 &quot;{* {if $hook == 'left' || $hook == 'right'}&quot;  - Unexpected &quot;*			&quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*\t\t\t')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t\t\t')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile( in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[29-Sep-2014 17:17:48 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl&quot;  on line 30 &quot;{* {if $hook == 'left' || $hook == 'right'}&quot;  - Unexpected &quot;*			&quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*\t\t\t')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t\t\t')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile( in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667

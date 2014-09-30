@@ -1,7 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 08/14/2014 00:59:45
-2014 8 14 0 59 45
-24 24 1 15 0 0 21706261 5 2 1
-1 13 13 13 14
+# Webalizer V2.23-05 Incremental Data - 09/29/2014 15:28:49
+2014 9 29 15 28 49
+97 97 3 35 0 0 1754965 7 3 1
+2 7 22 13 29
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -14,11 +14,9 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-11 11 32223 1 1 1
-13 13 21674038 1 4 2
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
+23 23 1559045 2 0 0
+14 14 24763 1 0 0
+27 27 79772 1 5 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -32,8 +30,11 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+33 33 91385 2 2 2
 0 0 0 0 0 0
-13 13 21674038 4
+0 0 0 0 0 0
+20 20 35195 0
+19 19 60517 2
 0 0 0 0
 0 0 0 0
 0 0 0 0
@@ -43,24 +44,23 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
+14 14 61093 2
+13 13 18679 3
+0 0 0 0
+1 1 2491 0
+7 7 17945 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
+12 12 483726 0
+3 3 221441 0
 0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-11 11 32223 1
+4 4 841744 0
+4 4 12134 0
 0
 0
 0
-24
+97
 0
 0
 0
@@ -99,46 +99,95 @@
 0
 0
 # -urls- 
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl
+0 3 0 6573 0 0
+/home2/amorales/public_html/modules/gridhtml/Readme.md
+0 1 0 1748 0 0
+/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/
+0 1 0 1314 0 1
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl
+0 1 0 843 0 0
+/home2/amorales/public_html/modules/themeconfigurator/
+0 1 0 1302 0 0
+/home2/amorales/public_html/themes/default-bootstrap/global.tpl
+0 2 0 4098 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/global.css
+0 7 0 1481076 0 0
+/home2/amorales/public_html/modules/gridhtml/gridhtml.php
+0 1 0 6095 0 0
 /home2/amorales/public_html/config/config.inc.php
-0 3 18708160 26832 0 0
-/home2/amorales/public_html/sitemap.xml
-0 1 18708032 0 0 0
-/home2/amorales/public_html/init.php
-0 1 18707776 1140 0 0
-/home2/amorales/public_html/error500.html
-0 1 18707104 2454 0 0
-/home2/amorales/public_html/footer.php
-0 1 18707248 1205 0 0
-/home2/amorales/public_html/prestashop_1462.zip
-0 1 18708448 199936 0 0
-/home2/amorales/public_html/CONTRIBUTING.md
-0 1 18706960 3617 0 0
-/home2/amorales/public_html/header.php
-0 1 18707376 1232 0 0
-/home2/amorales/public_html/images.inc.php
-0 1 18707504 4354 0 0
-/home2/amorales/public_html/config/settings.inc.php
-0 5 18706752 3533 0 0
-/home2/amorales/public_html/README.md
-0 1 18707904 4160 0 0
-/home2/amorales/public_html/perstashop.zip
-0 1 18708592 21449561 0 0
-/home2/amorales/public_html/backoffice/
-0 1 18708736 2024 1 0
+0 1 0 8944 0 0
+/home2/amorales/public_html/modules/themeconfigurator/themeconfigurator.php
+0 1 0 29326 0 0
+/home2/amorales/public_html/themes/default-bootstrap/layout.tpl
+0 3 0 4713 0 0
+/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl
+0 11 0 27836 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/homeslider/header.tpl
+0 1 0 260 0 0
+/home2/amorales/public_html/modules/themeconfigurator/controllers/admin/AdminThemeConfiguratorController.php
+0 1 0 1649 0 0
+/home2/amorales/public_html/controllers/front/IndexController.php
+0 1 0 1567 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl
+0 3 0 5504 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
+0 14 0 23390 0 0
+/home2/amorales/public_html/themes/default-bootstrap/search.tpl
+0 2 0 7694 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/homeslider/homeslider.tpl
+0 2 0 4382 0 0
+/home2/amorales/public_html/themes/default-bootstrap/cms.tpl
+0 4 0 13237 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch.tpl
+0 1 0 1918 0 0
+/home2/amorales/public_html/modules/themeconfigurator/css/hooks.css
+0 10 0 14755 0 0
+/home2/amorales/public_html/modules/themeconfigurator/views/
+0 1 0 1308 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocklayered/blocklayered.tpl
+0 1 0 13959 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcms/blockcms.tpl
+0 2 0 9458 0 0
+/home2/amorales/public_html/modules/homefeatured/CHANGELOG.txt
+0 1 0 194 1 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
+0 12 0 65835 0 0
+/home2/amorales/public_html/themes/default-bootstrap/maintenance.tpl
+0 1 0 2648 0 0
+/home2/amorales/public_html/themes/default-bootstrap/header.tpl
+0 1 0 5254 0 0
 /home2/amorales/public_html/
-0 4 18707648 2164 1 1
-/home2/amorales/public_html/CONTRIBUTORS.md
-0 1 0 4049 0 0
+0 1 0 1096 1 0
+/home2/amorales/public_html/themes/default-bootstrap/
+0 1 0 1373 1 1
+/home2/amorales/public_html/modules/themeconfigurator/views/templates/
+0 1 0 1302 0 0
+/home2/amorales/public_html/modules/themeconfigurator/Readme.md
+0 1 0 1737 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockstore/blockstore.tpl
+0 1 0 2088 0 0
+/home2/amorales/public_html/modules/themeconfigurator/config_es.xml
+0 1 0 489 0 0
 # End Of Table - urls
 # -sites- (monthly)
-client-186-37-202-78.imovil.entelpcs.cl
-0 24 24 21706261 2 1407977985
-/home2/amorales/public_html/backoffice/
+200.27.139.2
+0 8 8 20436 0 0
+-
+pc-34-122-47-190.cm.vtr.net
+0 22 22 878641 0 0
+-
+pc-254-127-46-190.cm.vtr.net
+0 67 67 855888 3 1411954927
+/home2/amorales/public_html/modules/homefeatured/CHANGELOG.txt
 # End Of Table - sites (monthly)
 # -sites- (daily)
-client-186-37-202-78.imovil.entelpcs.cl
-0 13 13 21674038 2 1407977985
-/home2/amorales/public_html/backoffice/
+200.27.139.2
+0 8 8 20436 0 0
+-
+pc-254-127-46-190.cm.vtr.net
+0 25 25 70949 2 1411954927
+/home2/amorales/public_html/modules/homefeatured/CHANGELOG.txt
 # End Of Table - sites (daily)
 # -referrers- 
 # End Of Table - referrers
@@ -148,5 +197,5 @@ client-186-37-202-78.imovil.entelpcs.cl
 # End Of Table - search strings
 # -usernames- 
 amorales
-0 24 24 21706261 3 1407977985
+0 97 97 1754965 4 1411954927
 # End Of Table - usernames

@@ -52,3 +52,25 @@ git push
 git push
 #1408045963
 git commit -m 'tercer commit de prueba'
+#1408045990
+git commit -a -m 'tercer commit de prueba'
+#1408045997
+git push
+#1408507145
+cd /var/www/html/
+#1408507147
+ls -lh
+#1408507212
+ls -lh
+#1412102504
+ls -a√lh
+#1412102509
+ls -alh
+#1412102521
+sudo git push
+#1412102525
+git push
+#1412102552
+git add *
+#1412102854
+GIT COMMIT -A -M 'TODO ARRIBA 30-09'

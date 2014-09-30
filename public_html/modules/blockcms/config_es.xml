@@ -2,7 +2,7 @@
 <module>
 	<name>blockcms</name>
 	<displayName><![CDATA[Bloque CMS]]></displayName>
-	<version><![CDATA[1.9]]></version>
+	<version><![CDATA[2.0.0]]></version>
 	<description><![CDATA[A&ntilde;adir un bloque con varios links hacia sus CMS]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:172333116153ecec1a123159-16499049%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:42082510753fb7534d06c91-30182102%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,13 +15,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '172333116153ecec1a123159-16499049',
+  'nocache_hash' => '42082510753fb7534d06c91-30182102',
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec392efab6_20681715',
+  'unifunc' => 'content_54170a463a3575_70783650',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec392efab6_20681715')) {function content_53ecec392efab6_20681715($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54170a463a3575_70783650')) {function content_54170a463a3575_70783650($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Categorías</h4>
@@ -83,11 +83,46 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 							
 																
-<li class="last">
+<li >
 	<a 
 	href="http://cccchile.cl/index.php?id_category=19&amp;controller=category" title="">
 		FOOTWEAR
 	</a>
+	</li>
+
+							
+																
+<li class="last">
+	<a 
+	href="http://cccchile.cl/index.php?id_category=20&amp;controller=category" title="">
+		SALE!
+	</a>
+			<ul>
+												
+<li >
+	<a 
+	href="http://cccchile.cl/index.php?id_category=21&amp;controller=category" title="">
+		INVIERNO 2014
+	</a>
+	</li>
+
+																
+<li >
+	<a 
+	href="http://cccchile.cl/index.php?id_category=22&amp;controller=category" title="">
+		30% OFF
+	</a>
+	</li>
+
+																
+<li class="last">
+	<a 
+	href="http://cccchile.cl/index.php?id_category=23&amp;controller=category" title="">
+		50% OFF
+	</a>
+	</li>
+
+									</ul>
 	</li>
 
 							

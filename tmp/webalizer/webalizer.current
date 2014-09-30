@@ -1,66 +1,66 @@
-# Webalizer V2.23-05 Incremental Data - 08/14/2014 01:22:19
-2014 8 14 1 22 19
-954 466 14 223 10 7 12779829 203 20 0
-3 149 765 3 14
+# Webalizer V2.23-05 Incremental Data - 09/30/2014 06:31:27
+2014 9 30 6 31 27
+10411 4989 54 518 122 30 106151445 1749 530 0
+5 2 1233 1 30
+65 0 58705 3 43 28
+757 658 12616143 10 122 20
+103 90 1572912 4 50 36
+39 37 549906 3 20 17
+56 47 683151 9 15 14
+128 31 557273 4 20 6
+2 1 59553 2 2 2
+232 224 3995178 8 30 7
+14 9 168673 5 9 7
+90 85 1796397 8 25 18
+93 83 1811325 4 33 21
+391 295 5879032 5 68 17
+2271 840 20306784 3 262 5
+1583 304 6164476 11 77 14
+2122 1465 34541990 12 237 20
+48 10 66824 7 22 17
+16 1 11011 6 9 4
+32 1 25083 5 20 16
+14 0 10066 4 9 5
+183 21 428299 7 97 45
+45 0 40409 6 29 20
+79 11 114415 8 40 18
+86 1 81849 8 56 27
+89 6 87933 9 54 26
+164 39 680995 7 75 29
+53 0 48538 3 35 13
+69 0 62913 5 47 20
+104 0 95814 4 68 31
+1460 725 13420823 8 164 22
+23 5 214975 5 11 6
 0 0 0 0 0 0
-0 0 0 0 0 0
-4 2 33926 2 2 2
-4 2 33926 3 2 2
-8 6 58557 4 5 4
-2 1 16963 2 1 1
-2 1 21700 2 1 1
-4 2 33926 3 2 2
-0 0 0 0 0 0
-2 2 6904 1 1 1
-4 2 33926 2 2 2
-2 1 16963 1 1 1
-8 8 41389 1 3 1
-914 439 12481649 3 183 4
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-765 347 9974018 132
-149 92 2507631 51
-2 2 6904 1
-4 3 34690 3
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-4 2 38663 2
-0 0 0 0
-0 0 0 0
-5 3 38050 3
-0 0 0 0
-0 0 0 0
-2 1 16963 1
-0 0 0 0
-2 2 6904 1
-2 1 16963 1
-0 0 0 0
-0 0 0 0
-1 0 12839 0
-2 1 16963 1
-4 2 33926 2
-12 10 75315 5
+1647 260 5588846 88
+524 285 3810023 76
+104 30 276976 46
+58 6 248790 40
+51 6 164008 35
+85 8 393487 50
+61 15 275763 34
+61 7 167308 39
+55 8 198418 35
+48 11 178572 30
+540 347 6158178 78
+1034 665 13868152 148
+1007 903 23039015 134
+504 334 8367864 83
+119 81 916388 29
+546 251 4390293 70
+275 217 3485562 57
+286 203 3440542 81
+126 106 2022577 35
+837 149 3398386 100
+820 295 6878368 116
+304 125 2558408 87
+451 139 3874783 83
+868 538 12450738 175
 0
 0
 0
-466
+4989
 0
 0
 0
@@ -68,17 +68,17 @@
 0
 0
 0
-2
-40
+5
+614
 0
-176
-0
-0
+4086
 0
 0
 0
-236
-14
+0
+0
+0
+4
 0
 0
 0
@@ -92,552 +92,1538 @@
 0
 0
 0
-17
+22
 0
 0
-3
+691
 0
 0
 # -urls- 
 /modules/dashactivity/views/js/dashactivity.js
-0 1 19039456 3315 0 0
+0 4 0 13260 0 0
 /themes/default-bootstrap/css/product.css
-0 1 19030448 34420 0 0
+0 27 0 413040 0 0
 /themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css
-0 4 19017360 8853 0 0
+0 102 0 118040 0 0
+/img/p/8/5/85-thickbox_default.jpg
+0 1 0 8101 0 0
 /js/jquery/plugins/jqzoom/jquery.jqzoom.css
-0 1 19030720 2010 0 0
+0 27 0 24120 0 0
+/modules/blockbestsellers/logo.png
+0 4 0 5952 0 0
+/backoffice/themes/default/js/jquery.iframe-transport.js
+0 2 0 20464 0 0
+/img/p/5/1/51-small_default.jpg
+0 1 0 2217 0 0
+/img/p/5/5/55-cart_default.jpg
+0 1 0 2069 0 0
+/modules/themeconfigurator/css/live_configurator.css
+0 3 0 4738 0 0
+/modules/homefeatured/logo.png
+0 4 0 5944 0 0
 /modules/themeconfigurator/img/14eb9697a8b4aa2eca40c666aff1b7c4c6cddd86_ffftextcanterbury-1png
-0 2 19029696 5936 0 0
+0 40 0 89040 0 0
+/modules/blockwishlist/logo.png
+0 4 0 7716 0 0
 /themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
-0 4 0 108933 0 0
-/img/c/3-0_thumb.jpg
-0 2 19023216 13294 0 0
+0 100 0 1416129 0 0
+/img/p/3/9/39-thickbox_default.jpg
+0 5 0 208430 0 0
+/img/p/2/8/28-home_default.jpg
+0 6 0 20550 0 0
+/js/tiny_mce/skins/prestashop/content.min.css
+0 1 0 1957 0 0
+/img/tmp/1806b29558477d521373c0d47675f175.jpg
+0 3 0 4458 0 0
+/img/tmp/c647b1ad4c061a07687ce62fae9ba873.jpg
+0 1 0 3385 0 0
+/modules/themeconfigurator/img/a056fc1c19adad7669adc65cb64168f0dfb621e8_14083566231407244717-49355000.jpg
+0 9 0 32032 0 0
 /js/jquery/ui/themes/base/jquery.ui.datepicker.css
-0 1 19036432 3702 0 0
+0 5 0 18510 0 0
 /modules/themeconfigurator/img/banner-img2.jpg
-0 4 19024144 94920 0 0
+0 73 0 1075760 0 0
+/modules/statsregistrations/logo.png
+0 3 0 4212 0 0
 /themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css
-0 4 19016880 5625 0 0
-/install/theme/img/bg_loaderSpace.png
-0 6 19007152 70 0 0
+0 102 0 75000 0 0
+/modules/dashtrends/logo.png
+0 3 0 4158 0 0
+/js/tiny_mce/langs/es.js
+0 1 0 6180 0 0
 /themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
-0 4 19019280 16317 0 0
+0 110 0 284709 0 0
 /themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css
-0 4 0 1341 0 0
+0 102 0 17880 0 0
+/img/p/6/5/65-cart_default.jpg
+0 1 0 1789 0 0
+/modules/blockuserinfo/logo.gif
+0 1 0 600 0 0
+/img/p/6/4/64-cart_default.jpg
+0 1 0 2321 0 0
+/img/p/2/4/24-home_default.jpg
+0 6 0 37029 0 0
 /themes/default-bootstrap/img/functional-bt-shadow.png
-0 2 19028688 2725 0 0
+0 12 0 16350 0 0
+/modules/blockspecials/logo.png
+0 3 0 5511 0 0
 /js/jquery/plugins/growl/jquery.growl.js
-0 1 19037280 5945 0 0
+0 6 0 35670 0 0
 /themes/default-bootstrap/js/modules/productscategory/js/productscategory.js
-0 1 19032480 1258 0 0
+0 20 0 6290 0 0
+/img/tmp/c38a65d6da58fca07d994da3a11d477b.jpg
+0 4 0 6228 0 0
 /modules/blockbanner/img/sale70.png
-0 1 19023088 13212 0 0
+0 2 0 13212 0 0
+/themes/default-bootstrap/img/order-step-current.png
+0 1 0 343 0 0
+/modules/bankwire/logo.png
+0 3 0 4359 0 0
+/js/tiny_mce/plugins/contextmenu/plugin.min.js
+0 1 0 773 0 0
 /img/p/3/7/37-cart_default.jpg
-0 1 19033248 1897 0 0
+0 16 0 5691 0 0
+/img/canterbury-1410657356.jpg
+0 88 0 161271 0 0
+/modules/blockviewed/logo.png
+0 4 0 5568 0 0
+/img/p/2/7/27-cart_default.jpg
+0 1 0 1804 0 0
 /js/tools.js
-0 4 19020000 50292 0 0
+0 102 0 687324 0 0
 /modules/socialsharing/css/socialsharing.css
-0 1 19030864 54 0 0
+0 27 0 648 0 0
 /modules/homeslider/images/sample-3.jpg
-0 1 19025248 59244 0 0
+0 4 0 177732 0 0
 /js/jquery/plugins/chosen/jquery.chosen.css
-0 1 19036000 14225 0 0
+0 5 0 71125 0 0
+/img/tmp/b3a76f48b3758df2325f2fb1e3ff634e.jpg
+0 3 7867338167507890227 179868 0 0
+/modules/dashproducts/logo.png
+0 3 7882194557481332016 1830 0 0
+/modules/statsstock/logo.png
+0 3 7954815359980564333 3804 0 0
 /themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css
-0 4 0 13287 0 0
+0 103 3615888243783252017 181589 0 0
+/themes/default-bootstrap/preview.jpg
+0 3 8247346759398010422 92037 0 0
+/img/p/8/6/86-cart_default.jpg
+0 2 8371738061903590515 3988 0 0
+/themes/default-bootstrap/img/bg_maintenance.png
+0 9 465520456289 961135 0 0
+/modules/statspersonalinfos/logo.png
+0 3 0 5334 0 0
 /themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js
-0 1 0 1940 0 0
-/admin2849/themes/default/fonts/fontawesome-webfont.woff
-0 1 0 83760 0 0
-/img/icon-prestashop.svg
-0 1 19027472 869 0 0
-/modules/themeconfigurator/img/banner-img4.jpg
-0 1 19025952 18780 0 0
-/install/theme/js/database.js
-0 2 19009344 3405 0 0
+0 20 0 9700 0 0
+/themes/default-bootstrap/img/order-step-a.png
+0 1 0 584 0 0
+/modules/themeconfigurator/js/live_configurator.js
+0 2 0 3866 0 0
+/modules/blockreinsurance/logo.png
+0 4 0 4124 0 0
+/img/p/6/3/63-thickbox_default.jpg
+0 1 0 51833 0 0
+/img/p/8/6/86-home_default.jpg
+0 8 0 38390 0 0
+/themes/default-bootstrap/css/addresses.css
+0 4 0 1728 0 0
 /img/p/3/8/38-cart_default.jpg
-0 1 19033520 2248 0 0
+0 16 0 6744 0 0
 /themes/default-bootstrap/js/modules/crossselling/js/crossselling.js
-0 1 0 1271 0 0
+0 20 0 6355 0 0
+/img/p/6/3/63-large_default.jpg
+0 1 0 23276 0 0
+/modules/themeconfigurator/img/1f9aaa6ab0fa8208823480968439c1de253e0711_14083566981407244251-28764800-1.jpg
+0 24 0 600360 0 0
+/img/p/5/7/57-cart_default.jpg
+0 1 0 2378 0 0
 /themes/default-bootstrap/css/print.css
-0 1 19030592 1735 0 0
-/modules/themeconfigurator/img/banner-img6.jpg
-0 1 19024288 29253 0 0
+0 27 0 20820 0 0
+/modules/socialsharing/logo.png
+0 3 0 6570 0 0
+/img/tmp/ba66eade87a4edca0d831ea481e4389e.jpg
+0 4 0 10596 0 0
 /js/jquery/plugins/jquery.idTabs.js
-0 1 19031472 2149 0 0
-/install/theme/img/bg_li_stepList.png
-0 6 19007680 2171 0 0
+0 20 0 10745 0 0
+/modules/blockcontact/logo.png
+0 4 0 5616 0 0
+/img/p/7/7/77-thickbox_default.jpg
+0 1 0 94125 0 0
+/img/tmp/bd4e4b821a5d4911ca2415dcf60d902d.jpg
+0 4 0 29276 0 0
+/themes/default-bootstrap/css/contact-form.css
+0 5 0 8745 0 0
+/img/tmp/c6cec3df84e23305437de15a1213fc09.jpg
+0 3 0 6564 0 0
+/img/p/8/0/80-thickbox_default.jpg
+0 1 0 28367 0 0
+/img/p/7/2/72-home_default.jpg
+0 24 0 74920 0 0
 /themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
-0 4 0 29910 0 0
-/install/sandbox/anything.php
-0 2 19009472 4 0 0
+0 101 0 418740 0 0
+/js/admin_themes.js
+0 2 0 4466 0 0
+/js/jquery/plugins/jquery.tablednd.js
+0 1 0 12115 0 0
+/img/p/7/5/75-large_default.jpg
+0 2 0 74692 0 0
 /js/jquery/plugins/jquery.chosen.js
-0 7 19006768 80874 0 0
-/img/logo.jpg
-0 1 19022976 11566 0 0
+0 7 0 242622 0 0
+/img/tmp/255c0d3cfe6e5c500e666f8465e1c485.jpg
+0 3 0 4212 0 0
+/modules/blocksupplier/logo.png
+0 4 0 4664 0 0
 /img/prestashop-avatar.png
-0 1 19040656 4491 0 0
-/1-home_default/faded-short-sleeve-tshirts.jpg
-0 1 19024560 6065 0 0
+0 6 0 26946 0 0
+/img/p/4/9/49-thickbox_default.jpg
+0 2 0 66825 0 0
+/modules/themeconfigurator/css/admin.css
+0 4 0 9196 0 0
+/js/tiny_mce/plugins/pagebreak/plugin.min.js
+0 1 0 1209 0 0
+/img/p/2/4/24-large_default.jpg
+0 1 0 34702 0 0
 /themes/default-bootstrap/css/modules/homeslider/images/bx_loader.gif
-0 6 0 17162 0 0
+0 70 0 248849 0 0
 /themes/default-bootstrap/css/modules/blockcontact/blockcontact.css
-0 4 0 3969 0 0
+0 102 0 52920 0 0
+/js/tiny_mce/plugins/colorpicker/color.png
+0 1 0 881 0 0
+/img/tmp/c3351d786a5a61ad4d4bdeda044cf44e.jpg
+0 3 0 25107 0 0
 /js/jquery/plugins/jquery.storageapi.js
-0 1 19037152 14174 0 0
+0 6 0 85044 0 0
+/modules/gamification/views/css/advice-1.6.0.8_319.css
+0 1 0 21946 0 0
 /backoffice/themes/default/js/help.js
-0 1 19039216 11631 0 0
+0 7 0 69786 0 0
+/modules/statsequipment/logo.png
+0 3 0 6330 0 0
+/img/p/3/9/39-cart_default.jpg
+0 63 0 23664 0 0
+/img/p/4/3/43-home_default.jpg
+0 6 0 27712 0 0
+/img/p/4/8/48-cart_default.jpg
+0 2 0 1725 0 0
+/img/p/6/2/62-home_default.jpg
+0 24 0 87088 0 0
 /themes/default-bootstrap/img/bg_bt.gif
-0 3 19026496 628 0 0
+0 8 0 1884 0 0
+/img/p/7/5/75-cart_default.jpg
+0 2 0 5778 0 0
+/modules/blockcurrencies/logo.gif
+0 1 0 383 0 0
+/modules/statssales/logo.png
+0 3 0 5904 0 0
 /img-sys/bg.jpg
-0 1 18759856 508 0 0
+0 8 0 4064 0 0
+/img/tmp/06957223ae7b69dfd00fc8da2c6e0bd2.jpg
+0 4 0 4024 0 0
 /themes/default-bootstrap/js/modules/productcomments/js/productcomments.js
-0 1 19032656 4000 0 0
+0 20 0 20000 0 0
+/img/p/5/1/51-home_default.jpg
+0 6 0 19944 0 0
+/img/tmp/3d76d750229cf11b105bed2ee59d7177.jpg
+0 4 0 8620 0 0
 /webmail
-0 1 0 8866 1 1
-/install/theme/img/visu_boBlock.png
-0 1 19010256 7922 0 0
-/admin2849/themes/default/css/admin-theme.css
-0 1 19026736 459258 0 0
+0 15 0 132990 9 8
 /backoffice/themes/default/js/admin-theme.js
-0 2 19041056 13583 0 0
+0 39 0 203745 0 0
+/img/tmp/7f222464b602a210a6e1406d79bb48df.jpg
+0 3 0 3573 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
-0 4 19022512 20949 0 0
+0 102 0 286303 0 0
 /themes/default-bootstrap/img/footer-bg.png
-0 6 19025104 168 0 0
-/install/theme/js/welcome.js
-0 2 19006896 1077 0 0
+0 87 0 2436 0 0
+/img/p/2/8/28-large_default.jpg
+0 3 0 45390 0 0
+/img/tmp/d2ad8d4e43ed35f746e86b4988f2b553.jpg
+0 3 0 24663 0 0
 /modules/gamification/views/js/gamification_bt.js
-0 1 19036864 5508 0 0
+0 5 0 27540 0 0
+/modules/payulatam/logo.png
+0 3 0 5727 0 0
+/img/tmp/74359e2680ba45a4a986af0d5258cce7.jpg
+0 3 0 29148 0 0
+/modules/blockcustomerprivacy/logo.png
+0 4 0 5088 0 0
 /js/admin.js
-0 1 19038352 43130 0 0
+0 6 0 215650 0 0
+/modules/statsbestcategories/logo.png
+0 3 0 5667 0 0
+/img/p/6/9/69-medium_default.jpg
+0 1 0 4153 0 0
 /img/p/3/9/39-home_default.jpg
-0 1 19030192 7956 0 0
+0 22 0 47736 0 0
 /js/jquery/plugins/jquery.validate.js
-0 4 19026976 21068 0 0
+0 11 0 231748 0 0
 /modules/homeslider/images/2824779b42809b504cb0d8e1b9cdee2fca5d7b87_Q1Q2_2014Training_A4Land_Gym1.jpg
-0 2 19029104 176374 0 0
+0 71 0 5291220 0 0
 /backoffice/themes/default/css/vendor/nv.d3.css
-0 1 19036576 12835 0 0
+0 5 0 64175 0 0
+/img/p/4/7/47-thickbox_default.jpg
+0 2 0 31366 0 0
+/modules/dashgoals/logo.png
+0 3 0 6075 0 0
+/modules/blockfacebook/logo.gif
+0 1 0 1306 0 0
 /themes/default-bootstrap/css/autoload/uniform.default.css
-0 4 0 36702 0 0
+0 103 0 501594 0 0
+/img/tmp/23763c67134338e6a1a65c0cdacd8001.jpg
+0 3 0 17664 0 0
 /backoffice/themes/default/js/modernizr-loads.js
-0 1 19038912 239 0 0
+0 5 0 1195 0 0
+/modules/blockpaymentlogo/logo.png
+0 4 0 6232 0 0
+/js/tiny_mce/plugins/table/plugin.min.js
+0 1 0 22667 0 0
 /themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css
-0 4 0 123 0 0
+0 102 0 1640 0 0
+/img/p/3/2/32-cart_default.jpg
+0 1 0 1948 0 0
+/img/admin/up.gif
+0 1 0 54 0 0
 /modules/homeslider/images/8339d439afbdd76d7b38ee29062ce886c819bc3a_Q1Q2_2014Training_A4Land_Training1.jpg
-0 2 19029488 205057 0 0
+0 73 0 6561824 0 0
+/img/p/3/0/30-cart_default.jpg
+0 2 0 4392 0 0
+/img/p/3/4/34-cart_default.jpg
+0 1 0 2318 0 0
+/modules/blockcontactinfos/logo.png
+0 4 0 8192 0 0
+/img/canterbury-1410667129.gif
+0 3 0 2529 0 0
 /modules/blockfacebook/css/blockfacebook.css
-0 4 19017216 126 0 0
+0 81 0 1554 0 0
 /js/jquery/ui/jquery.ui.slider.min.js
-0 1 19037936 10202 0 0
-/modules/themeconfigurator/img/banner-img5.jpg
-0 1 19026240 35081 0 0
+0 5 0 51010 0 0
+/img/p/8/6/86-large_default.jpg
+0 2 0 36674 0 0
+/modules/gamification/views/css/advice-1.6.0.8_475.css
+0 4 0 87784 0 0
+/js/tiny_mce/plugins/media/plugin.min.js
+0 1 0 8697 0 0
+/modules/cheque/logo.png
+0 3 0 2031 0 0
 /img/p/3/6/36-large_default.jpg
-0 1 19032992 17951 0 0
+0 16 0 53853 0 0
+/img/tmp/239e65c03fade8d6f7ef2388cc970560.jpg
+0 3 0 23169 0 0
+/img/p/7/7/77-large_default.jpg
+0 1 0 40936 0 0
+/img/p/8/2/82-cart_default.jpg
+0 1 0 1916 0 0
 /js/jquery/plugins/timepicker/jquery-ui-timepicker-addon.js
-0 1 0 49576 0 0
+0 6 0 247880 0 0
 /modules/gamification/views/img/notif_gadges.png
-0 1 19041200 754 0 0
+0 5 0 3770 0 0
+/modules/statsbestproducts/logo.png
+0 3 0 2712 0 0
 /themes/default-bootstrap/js/tools/treeManagement.js
-0 4 19021296 8883 0 0
+0 103 0 118440 0 0
+/img/p/2/5/25-thickbox_default.jpg
+0 1 0 50906 0 0
 /modules/themeconfigurator/img/banner-img3.jpg
-0 4 19026096 111084 0 0
+0 73 0 1258952 0 0
 /js/jquery/ui/jquery.ui.datepicker.min.js
-0 1 19038208 35806 0 0
+0 7 0 250642 0 0
 /backoffice/themes/default/css/admin-theme.css
-0 3 19034736 459258 0 0
+0 6 0 2755548 0 0
+/modules/statsbestmanufacturers/logo.png
+0 3 0 3525 0 0
 /js/jquery/plugins/alerts/jquery.alerts.css
-0 1 19035568 1116 0 0
-/install/theme/img/bg-contentTitle.png
-0 6 19007552 83 0 0
+0 5 0 5580 0 0
+/modules/blockcurrencies/logo.png
+0 4 0 9728 0 0
+/img/tmp/83d984a7ad236a8e9d2ca9aa81b32e78.jpg
+0 3 0 7338 0 0
+/modules/blocktopmenu/logo.png
+0 4 0 2928 0 0
 /themes/default-bootstrap/js/category.js
-0 2 19028416 1185 0 0
-/install/theme/img/bg-li-tabs.png
-0 6 19007280 77 0 0
+0 15 0 10665 0 0
 /backoffice/themes/default/js/vendor/nv.d3.min.js
-0 1 19040224 188304 0 0
-/themes/default-bootstrap/css/modules/blockbanner/blockbanner.css
-0 1 0 198 0 0
+0 7 0 1129824 0 0
+/js/tiny_mce/plugins/colorpicker/plugin.min.js
+0 1 0 374 0 0
+/img/p/8/0/80-cart_default.jpg
+0 2 0 3546 0 0
 /modules/dashgoals/views/js/dashgoals.js
-0 1 19039856 9006 0 0
+0 4 0 36024 0 0
 /js/jquery/plugins/fancybox/jquery.fancybox.css
-0 2 19016096 9790 0 0
-/install/theme/img/bg_field.png
-0 3 19009216 87 0 0
+0 33 0 88110 0 0
+/img/tmp/d0f50ad794c7f6c38b7e870a9687a84a.jpg
+0 3 0 19950 0 0
 /favicon.ico
-0 4 0 11120 0 0
+0 5 0 0 0 0
+/modules/blockuserinfo/logo.png
+0 4 0 7112 0 0
 /img/p/4/2/42-home_default.jpg
-0 1 19030320 12226 0 0
-/install/theme/img/ajax-loader-small.gif
-0 2 19009600 8685 0 0
+0 22 0 73356 0 0
+/themes/default-bootstrap/js/contact-form.js
+0 4 0 8220 0 0
+/modules/blockmanufacturer/logo.png
+0 4 0 4700 0 0
+/img/p/3/1/31-cart_default.jpg
+0 2 0 4938 0 0
+/img/tmp/3fbffc293b384d63905f5cb47a2d89fd.jpg
+0 3 0 8178 0 0
+/img/p/3/0/30-large_default.jpg
+0 1 0 20116 0 0
+/modules/blockmyaccount/logo.png
+0 4 0 8296 0 0
+/img/p/5/0/50-thickbox_default.jpg
+0 2 0 140845 0 0
+/modules/statsorigin/logo.png
+0 3 0 6576 0 0
 /backoffice/themes/default/fonts/fontawesome-webfont.woff
-0 3 0 83760 0 0
+0 6 0 502560 0 0
 /themes/default-bootstrap/img/border-1.gif
-0 1 19033648 1166 0 0
+0 14 0 1166 0 0
+/img/tmp/1545ccb8e74c571e4846064abdc80bac.jpg
+0 3 0 8433 0 0
+/img/tmp/cb2648ce444e73ab96be2d2a892827a3.jpg
+0 3 0 59223 0 0
+/img/p/2/8/28-medium_default.jpg
+0 2 0 6008 0 0
 /modules/blockfacebook/blockfacebook.js
-0 4 19021440 3960 0 0
-/16-home_default/printed-summer-dress.jpg
-0 1 19025664 8013 0 0
+0 82 0 51480 0 0
+/modules/vatnumber/logo.png
+0 3 0 5247 0 0
 /modules/socialsharing/js/socialsharing.js
-0 1 19031872 1880 0 0
+0 20 0 9400 0 0
+/img/tmp/2c63aa5ed03d46aa0e1e46ff27ad96b5.jpg
+0 3 0 8547 0 0
+/img/p/5/5/55-large_default.jpg
+0 1 0 16905 0 0
 /js/notifications.js
-0 1 19039600 3942 0 0
+0 8 0 27594 0 0
+/modules/statsbestcustomers/logo.png
+0 3 0 5142 0 0
 /themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
-0 4 0 5190 0 0
-/install/theme/img/bt-hover.png
-0 5 19008064 428 0 0
+0 102 0 72660 0 0
+/img/tmp/61037e7c75bc8087cb89c2083bd4ffa4.jpg
+0 3 0 5400 0 0
 /js/jquery/ui/themes/base/jquery.ui.theme.css
-0 1 19036720 17520 0 0
-/install/theme/js/configure.js
-0 1 19008832 2060 0 0
-/20-home_default/printed-chiffon-dress.jpg
-0 1 19025520 7995 0 0
-/modules/homeslider/images/sample-1.jpg
-0 1 19023456 75494 0 0
+0 5 0 87600 0 0
+/img/p/2/4/24-small_default.jpg
+0 1 0 3555 0 0
+/js/tiny_mce/tinymce.min.js
+0 5 0 1501535 0 0
 /img/p/3/6/36-cart_default.jpg
-0 1 19033120 1972 0 0
+0 16 0 5916 0 0
+/modules/graphnvd3/logo.png
+0 3 0 1887 0 0
+/modules/themeconfigurator/logo.gif
+0 1 0 1060 0 0
+/img/p/8/1/81-cart_default.jpg
+0 2 0 4218 0 0
 /js/jquery/jquery-1.11.0.min.js
-0 13 19006304 289143 0 0
+0 105 0 4144383 0 0
 /js/jquery/plugins/jquery.easing.js
-0 4 19019584 14865 0 0
+0 100 0 193245 0 0
+/img/tmp/729519c77806af99a512c36d0142763d.jpg
+0 3 0 4062 0 0
+/img/p/4/7/47-home_default.jpg
+0 6 0 22524 0 0
+/img/tmp/9e438d8a7b036ea9b8d4375377d47e1a.jpg
+0 3 0 5145 0 0
 /js/vendor/d3.v3.min.js
-0 1 19040000 146628 0 0
+0 8 0 1026396 0 0
+/modules/statscarrier/logo.png
+0 3 0 3984 0 0
+/img/p/8/4/84-cart_default.jpg
+0 1 0 2011 0 0
+/img/p/3/9/39-large_default.jpg
+0 5 0 89755 0 0
+/modules/blockcms/logo.png
+0 4 0 9324 0 0
 /js/jquery/ui/themes/base/jquery.ui.core.css
-0 1 19036144 1468 0 0
+0 5 0 7340 0 0
+/img/tmp/e4831603ac6a1d224fb1e247e9501576.jpg
+0 3 0 78693 0 0
 /modules/crossselling/css/crossselling.css
-0 1 19031152 802 0 0
+0 27 0 9624 0 0
+/img/tmp/b6d5eaef50f32467d50334c721cd911a.jpg
+0 3 0 6396 0 0
+/js/jquery/plugins/jquery.tablefilter.js
+0 5 0 7668 0 0
 /modules/dashactivity/gapi-logo.gif
-0 1 19040784 946 0 0
-/install/
-0 38 19006224 134289 0 0
+0 4 0 3784 0 0
+/img/p/6/3/63-home_default.jpg
+0 7 0 57144 0 0
+/img/p/7/9/79-cart_default.jpg
+0 2 0 5142 0 0
 /js/jquery/ui/jquery.ui.core.min.js
-0 1 19037552 4289 0 0
+0 6 0 25734 0 0
+/modules/blocknewproducts/logo.png
+0 4 0 5784 0 0
 /themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
-0 4 0 92061 0 0
+0 101 0 1227480 0 0
 /backoffice/themes/default/js/vendor/enquire.min.js
-0 2 19040912 2237 0 0
-/themes/default-bootstrap/css/modules/blockviewed/blockviewed.css
-0 1 0 137 0 0
+0 48 0 33555 0 0
+/modules/statsforecast/logo.png
+0 3 0 5802 0 0
+/modules/blockcmsinfo/logo.png
+0 4 0 1356 0 0
 /themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
-0 4 0 11190 0 0
+0 101 0 152930 0 0
+/img/p/8/1/81-large_default.jpg
+0 2 0 35112 0 0
+/modules/blockrss/logo.png
+0 4 0 3748 0 0
+/modules/themeconfigurator/css/font5.css
+0 2 0 131 0 0
+/img/tmp/c52f815563300ff68f957d1b2abf6562.jpg
+0 3 0 7545 0 0
+/js/jquery/plugins/jquery.hoverIntent.js
+0 1 0 1609 0 0
+/modules/statscatalog/logo.png
+0 3 0 2361 0 0
+/img/p/8/1/81-home_default.jpg
+0 8 0 38010 0 0
+/modules/blockcart/logo.png
+0 4 0 6636 0 0
+/themes/default-bootstrap/img/form-contact-shadow.png
+0 3 0 15042 0 0
 /img/favicon.ico
-0 6 19026384 10903 0 0
+0 47 0 34489 0 0
+/img/p/6/2/62-cart_default.jpg
+0 1 0 2434 0 0
 /modules/sendtoafriend/sendtoafriend.css
-0 1 19031008 1235 0 0
+0 27 0 14820 0 0
 /themes/default-bootstrap/css/autoload/highdpi.css
-0 4 19015632 1020 0 0
+0 102 0 13600 0 0
+/img/p/3/3/33-cart_default.jpg
+0 1 0 1814 0 0
+/modules/homeslider/logo.gif
+0 1 0 1139 0 0
+/modules/homeslider/logo.png
+0 4 0 4836 0 0
+/js/tiny_mce/plugins/image/plugin.min.js
+0 1 0 4291 0 0
 /themes/default-bootstrap/css/modules/productscategory/css/productscategory.css
-0 1 19031296 8247 0 0
-/install/theme/img/bt.png
-0 5 19007808 110 0 0
+0 27 0 98964 0 0
 /modules/productcomments/js/jquery.rating.pack.js
-0 1 19032016 2145 0 0
+0 20 0 10725 0 0
+/js/tiny_mce/plugins/autoresize/plugin.min.js
+0 1 0 1464 0 0
 /themes/default-bootstrap/img/jquery/uniform/sprite.png
-0 2 19028832 3815 0 0
+0 12 0 26705 0 0
 /themes/default-bootstrap/css/modules/homeslider/homeslider.css
-0 4 0 18966 0 0
+0 78 0 221270 0 0
 /modules/themeconfigurator/css/hooks.css
-0 4 19018640 4104 0 0
-/install/theme/img/bt-dsbl.png
-0 1 19008704 77 0 0
-/8-home_default/printed-dress.jpg
-0 1 19024832 6628 0 0
+0 104 0 60600 0 0
+/modules/statsbestvouchers/logo.png
+0 3 0 5247 0 0
+/img/tmp/599df630d46c3112733dfae681b5c938.jpg
+0 3 0 95745 0 0
+/modules/statssearch/logo.png
+0 3 0 5067 0 0
+/img/p/3/1/31-thickbox_default.jpg
+0 1 0 113923 0 0
+/themes/default-bootstrap/js/cart-summary.js
+0 2 0 71938 0 0
+/img/p/3/5/35-cart_default.jpg
+0 1 0 2607 0 0
 /modules/homeslider/images/sample-2.jpg
-0 1 19023328 103484 0 0
+0 4 0 310452 0 0
 /backoffice/themes/default/img/prestashop-addons-logo.png
-0 3 0 15323 0 0
+0 8 0 122584 0 0
+/img/p/7/5/75-medium_default.jpg
+0 2 0 10298 0 0
+/modules/blockcmsinfo/logo.gif
+0 1 0 1302 0 0
 /themes/default-bootstrap/js/product.js
-0 1 19031600 35120 0 0
+0 20 0 175600 0 0
 /backoffice/themes/default/css/overrides.css
-0 1 19035712 306 0 0
+0 5 0 1530 0 0
 /js/jquery/plugins/bxslider/jquery.bxslider.js
-0 4 19021152 57369 0 0
+0 101 0 764920 0 0
 /themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
-0 4 0 7692 0 0
+0 101 0 102560 0 0
 /themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
-0 4 0 5760 0 0
+0 79 0 71040 0 0
 /themes/default-bootstrap/js/global.js
-0 4 19019872 38778 0 0
-/install/theme/img/pict_error.png
-0 1 19009744 287 0 0
-/install/theme/img/help.png
-0 1 19010128 2156 0 0
+0 101 0 517040 0 0
+/img/p/3/0/30-thickbox_default.jpg
+0 1 0 47334 0 0
+/img/tmp/4fbd22dd3dfa0ed7b202872fe28a3802.jpg
+0 3 0 10275 0 0
+/img/admin/delete.gif
+0 1 0 571 0 0
+/js/tinymce.inc.js
+0 2 0 3516 0 0
 /backoffice/themes/default/js/vendor/moment-with-langs.min.js
-0 1 0 122254 0 0
-/admin2849/themes/default/img/prestashop-addons-logo.png
-0 1 0 15323 0 0
-/install/theme/img/logo.png
-0 6 19007024 4061 0 0
-/install/theme/img/favicon.ico
-0 1 19007936 1150 0 0
+0 7 0 733524 0 0
+/backoffice/themes/default/js/jquery.fileupload.js
+0 2 0 117118 0 0
+/modules/blocksharefb/logo.png
+0 4 0 2928 0 0
+/img/p/8/5/85-cart_default.jpg
+0 2 0 2794 0 0
+/img/p/3/2/32-home_default.jpg
+0 6 0 21831 0 0
+/img/tmp/1c5f5b3b95aefab0f4bf17a59f5e2f06.jpg
+0 3 0 2805 0 0
+/modules/blocklayered/js/blocklayered_admin.js
+0 1 0 5115 0 0
+/img/tmp/d55e3d3a04bfa1b14a578379cc2c1e94.jpg
+0 4 0 10032 0 0
+/img/p/6/6/66-home_default.jpg
+0 7 0 53724 0 0
+/img/tmp/3a07a4df01c82f1a64a7d39a2ee7d459.jpg
+0 3 0 23067 0 0
+/img/p/3/8/38-large_default.jpg
+0 1 0 44647 0 0
+/modules/blockpermanentlinks/logo.png
+0 4 0 4928 0 0
+/modules/blocklayered/css/blocklayered_admin_1.6.css
+0 1 0 766 0 0
 /themes/default-bootstrap/css/modules/productcomments/productcomments.css
-0 4 19019104 22143 0 0
-/module/cronjobs/callback
-0 1 0 19 1 1
+0 103 0 295240 0 0
+/backoffice/themes/default/js/jquery.fileupload-validate.js
+0 2 0 8024 0 0
 /js/jquery/plugins/jquery.serialScroll.js
-0 4 19020880 6039 0 0
+0 101 0 80520 0 0
+/img/p/4/7/47-medium_default.jpg
+0 2 0 2538 0 0
+/img/p/6/9/69-thickbox_default.jpg
+0 1 0 61817 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
-0 4 0 14814 0 0
+0 100 0 202458 0 0
+/modules/producttooltip/logo.png
+0 4 0 4212 0 0
 /modules/gamification/views/css/gamification.css
-0 1 19035424 5784 0 0
+0 5 0 28920 0 0
+/img/p/3/1/31-large_default.jpg
+0 1 0 33338 0 0
+/img/p/7/0/70-cart_default.jpg
+0 1 0 2475 0 0
+/themes/default-bootstrap/js/tools/vatManagement.js
+0 2 0 4056 0 0
+/img/p/4/8/48-thickbox_default.jpg
+0 2 0 34631 0 0
+/modules/statsdata/logo.png
+0 3 0 3753 0 0
+/img/p/5/8/58-home_default.jpg
+0 6 0 27459 0 0
+/modules/statslive/logo.png
+0 3 0 5961 0 0
 /js/jquery/plugins/jquery.autosize.js
-0 1 19037424 3177 0 0
+0 6 0 19062 0 0
+/modules/blockfacebook/logo.png
+0 4 0 1068 0 0
+/modules/crossselling/logo.png
+0 4 0 8408 0 0
 /js/date.js
-0 1 19039344 11520 0 0
+0 4 0 46080 0 0
 /js/jquery/plugins/jqzoom/jquery.jqzoom.js
-0 1 19031728 30384 0 0
+0 20 0 151920 0 0
+/js/tiny_mce/plugins/textcolor/plugin.min.js
+0 1 0 1987 0 0
 /modules/dashtrends/views/js/dashtrends.js
-0 1 19039712 2148 0 0
+0 4 0 8592 0 0
+/img/tmp/a81f712907c46b8964f7453f7ee6583d.jpg
+0 3 0 5403 0 0
+/modules/gamification/logo.png
+0 3 0 10263 0 0
+/modules/blockmyaccountfooter/logo.png
+0 4 0 8296 0 0
+/js/tiny_mce/skins/prestashop/skin.min.css
+0 1 0 0 0 0
+/img/p/5/1/51-cart_default.jpg
+0 59 0 14432 0 0
+/img/p/5/6/56-cart_default.jpg
+0 1 0 1826 0 0
+/img/p/6/3/63-cart_default.jpg
+0 1 0 2358 0 0
+/modules/pagesnotfound/logo.png
+0 3 0 3375 0 0
 /themes/default-bootstrap/css/modules/productscategory/css/images/bx_loader.gif
-0 1 19033920 8581 0 0
+0 7 0 34324 0 0
 /img/p/3/6/36-medium_default.jpg
-0 1 19033792 3244 0 0
+0 16 0 9732 0 0
+/img/p/8/6/86-medium_default.jpg
+0 2 0 6492 0 0
+/img/p/6/9/69-large_default.jpg
+0 1 0 26137 0 0
 /img/p/3/6/36-home_default.jpg
-0 1 19030064 7956 0 0
+0 22 0 47736 0 0
+/img/p/2/4/24-thickbox_default.jpg
+0 1 0 108432 0 0
 /themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css
-0 4 0 5229 0 0
-/admin2849/
-0 1 19026624 6274 0 0
+0 103 0 71463 0 0
+/img/loader.gif
+0 3 0 11151 0 0
 /js/jquery/plugins/autocomplete/jquery.autocomplete.js
-0 4 19021728 59850 0 0
+0 104 0 857850 0 0
+/themes/default-bootstrap/js/authentication.js
+0 2 0 5690 0 0
+/img/tmp/5450caa1fdcc6aeea114c065f5e231e4.jpg
+0 3 0 5997 0 0
+/img/p/6/2/62-large_default.jpg
+0 1 0 30278 0 0
 /themes/default-bootstrap/css/modules/blockcart/blockcart.css
-0 4 0 42978 0 0
-/install/theme/js/process.js
-0 1 19010000 6251 0 0
-/12-home_default/printed-summer-dress.jpg
-0 1 19025808 8378 0 0
-/install/theme/img/bg_input_button.png
-0 3 19008960 75 0 0
-/install/theme/img/chosen-sprite.png
-0 1 19009088 407 0 0
+0 103 0 587366 0 0
+/modules/sendtoafriend/logo.png
+0 4 0 5456 0 0
+/modules/blocklink/logo.png
+0 4 0 4156 0 0
+/modules/blockadvertising/logo.png
+0 3 0 5016 0 0
+/img/p/3/7/37-large_default.jpg
+0 1 0 17404 0 0
+/img/tmp/22f72fdf24c7b096e017ce961895f3cf.jpg
+0 3 0 6201 0 0
+/img/p/5/0/50-cart_default.jpg
+0 2 0 1956 0 0
+/img/tmp/2d0d4809e6bdb6f4db3e547f27b1873c.jpg
+0 3 0 6069 0 0
 /themes/default-bootstrap/js/autoload/10-bootstrap.min.js
-0 4 0 82893 0 0
+0 102 0 1132871 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
-0 4 0 11151 0 0
+0 99 0 148680 0 0
 /themes/default-bootstrap/font/fontawesome-webfont.woff
-0 6 19023696 87144 0 0
-/install/theme/img/pict_ok.png
-0 1 19009872 274 0 0
-/modules/productpaymentlogos/img/payment-logo.png
-0 1 19033376 15265 0 0
+0 91 0 1394304 0 0
+/img/p/7/8/78-cart_default.jpg
+0 2 0 4362 0 0
+/img/p/4/0/40-cart_default.jpg
+0 5 0 9485 0 0
+/backoffice//filemanager/plugin.min.js
+0 1 0 1290 0 0
+/img/tmp/ca56398d51ac24ec66fb5e2f0487ac77.jpg
+0 3 0 5679 0 0
+/img/p/3/2/32-large_default.jpg
+0 1 0 16226 0 0
+/modules/themeconfigurator/img/d6b68962ed3365e784806954613995fe0674ad14_14083566381407244174-92605000.jpg
+0 18 0 202461 0 0
+/img/p/2/5/25-cart_default.jpg
+0 1 0 2174 0 0
+/js/tiny_mce/plugins/code/plugin.min.js
+0 1 0 698 0 0
+/js/tiny_mce/tiny_mce.js
+0 2 0 944 0 0
 /js/vendor/ladda.js
-0 4 19027360 6490 0 0
+0 10 0 64900 0 0
+/modules/productpaymentlogos/img/payment-logo.png
+0 19 0 61060 0 0
+/modules/blockcontact/logo.gif
+0 1 0 983 0 0
 /modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
-0 2 19029888 9173 0 0
-/install/theme/img/bg_blockInfoEnd.png
-0 1 19015216 91 0 0
+0 41 0 155941 0 2
+/img/admin/down.gif
+0 1 0 62 0 0
+/img/tmp/211444cf451f0f786b7ccfb2f348e8cb.jpg
+0 3 0 6129 0 0
+/img/p/4/1/41-thickbox_default.jpg
+0 4 0 582784 0 0
+/img/tmp/6df0f1a4bb484b246f64a23fad728aad.jpg
+0 2 0 6760 0 0
+/img/canterbury-1406319962.gif
+0 1 0 2229 0 0
+/modules/statsbestsuppliers/logo.png
+0 3 0 3498 0 0
+/img/p/8/6/86-thickbox_default.jpg
+0 2 0 79032 0 0
+/themes/default-bootstrap/img/contact-form.png
+0 3 0 501 0 0
 /js/jquery/plugins/alerts/jquery.alerts.js
-0 1 19037008 7645 0 0
-/install/theme/js/install.js
-0 6 19006640 2724 0 0
+0 5 0 38225 0 0
 /backoffice/ajax-tab.php
-0 1 19035296 107 0 0
+0 63 0 106362 0 0
 /backoffice/ajax.php
-0 9 19041344 1080 0 0
+0 368 0 44160 0 0
+/img/p/7/5/75-home_default.jpg
+0 5 0 70275 0 0
+/modules/productcomments/logo.png
+0 4 0 6764 0 0
+/img/p/6/9/69-cart_default.jpg
+0 1 0 2465 0 0
+/modules/trackingfront/logo.png
+0 3 0 6957 0 0
 /themes/default-bootstrap/css/category.css
-0 2 19028032 2712 0 0
+0 20 0 37968 0 0
+/js/jquery/plugins/jquery.sortable.js
+0 1 0 2872 0 0
 /backoffice/themes/default/js/vendor/modernizr.min.js
-0 1 19038624 7671 0 0
+0 5 0 38355 0 0
 /cpanel
-0 4 0 35444 1 1
+0 4 0 35444 1 2
+/img/p/8/4/84-thickbox_default.jpg
+0 1 0 42238 0 0
 /js/login.js
-0 4 19027600 19648 0 0
+0 17 0 83504 0 0
+/modules/gridhtml/logo.png
+0 3 0 2565 0 0
+/modules/themeconfigurator/img/70cf845918f36aa8fe51cd98d5aba4eddcdc59a0_14083566231407244717-49355000-2.jpg
+0 39 0 1324080 0 0
+/img/tmp/af5ca8f1a120c46fd7abd2ba906dd0ab.jpg
+0 3 0 9558 0 0
+/modules/blockcategories/logo.png
+0 4 0 4036 0 0
 /js/jquery/ui/i18n/jquery.ui.datepicker-es.js
-0 1 19038064 896 0 0
-/install/theme/img/visu_foBlock.png
-0 1 19010512 10815 0 0
+0 5 0 4480 0 0
+/img/tmp/7fa4016b7121014766626e7993ed1a8f.jpg
+0 4 0 7876 0 0
+/modules/blocklanguages/logo.gif
+0 1 0 616 0 0
+/img/p/4/2/42-large_default.jpg
+0 2 0 71354 0 0
+/modules/blocklanguages/logo.png
+0 4 0 5748 0 0
+/img/p/2/8/28-cart_default.jpg
+0 2 0 3898 0 0
+/img/p/4/2/42-cart_default.jpg
+0 2 0 4950 0 0
+/img/tmp/287e96e9850062c8d719ee9be3d9ab26.jpg
+0 4 0 26932 0 0
+/js/tiny_mce/plugins/link/plugin.min.js
+0 1 0 4475 0 0
+/img/tmp/87c9c91062ee4a73af52ef36910ef5a8.jpg
+0 3 0 5925 0 0
+/img/p/2/8/28-thickbox_default.jpg
+0 2 0 71386 0 0
 /
-0 58 0 1056702 16 3
-/img/p/3/7/37-thickbox_default.jpg
-0 1 19034368 39930 0 0
+0 412 0 11561538 461 414
+/modules/blocksocial/logo.png
+0 4 0 10444 0 0
 /js/jquery/plugins/fancybox/jquery.fancybox.js
-0 2 19020432 46270 0 0
-/modules/themeconfigurator/img/banner-img7.jpg
-0 1 19023840 26716 0 0
+0 25 0 231350 0 0
+/img/p/3/7/37-thickbox_default.jpg
+0 16 0 119790 0 0
+/backoffice/themes/default/js/jquery.fileupload-process.js
+0 2 0 11146 0 0
+/img/p/2/7/27-thickbox_default.jpg
+0 1 0 33980 0 0
+/js/tiny_mce/themes/modern/theme.min.js
+0 1 0 6239 0 0
+/img/tmp/9dbb06a80aa58040fc39430e03f0140b.jpg
+0 3 0 4095 0 0
 /js/jquery/ui/jquery.ui.widget.min.js
-0 1 19037680 6488 0 0
-/img/c/3-1_thumb.jpg
-0 2 19023584 10172 0 0
+0 5 0 32440 0 0
+/themes/default-bootstrap/css/authentication.css
+0 4 0 3424 0 0
 /js/jquery/jquery-migrate-1.2.1.min.js
-0 7 19019456 21597 0 0
+0 105 0 316756 0 0
+/img/p/6/2/62-medium_default.jpg
+0 1 0 4159 0 0
+/img/tmp/3b61b670d5694b81231424f8c5cc2b77.jpg
+0 3 0 22290 0 0
+/img/p/7/6/76-home_default.jpg
+0 24 0 61200 0 0
 /themes/default-bootstrap/js/
-0 4 19022848 3333 0 0
+0 80 0 42218 1 3
+/modules/statsnewsletter/logo.png
+0 3 0 2709 0 0
+/modules/themeconfigurator/js/admin.js
+0 4 0 12736 0 0
 /backoffice/themes/default/js/date-range-picker.js
-0 1 19040512 23394 0 0
-/install/theme/view.css
-0 6 19006528 38941 0 0
-/themes/default-bootstrap/js/products-comparison.js
-0 1 19020576 3803 0 0
+0 4 0 93576 0 0
+/img/p/8/4/84-home_default.jpg
+0 7 0 47580 0 0
+/img/p/3/2/32-thickbox_default.jpg
+0 1 0 38773 0 0
+/img/p/8/1/81-thickbox_default.jpg
+0 2 0 71428 0 0
+/img/tmp/411d832124146ab3f514a5ad1b1adfee.jpg
+0 3 0 6021 0 0
+/img/tmp/ea2c0ea1a08add3a75273e7f32f05f7a.jpg
+0 3 0 4587 0 0
+/js/admin-dnd.js
+0 1 0 5198 0 0
+/img/p/4/7/47-cart_default.jpg
+0 2 0 1541 0 0
+/img/c/es-default-medium_default.jpg
+0 2 0 6322 0 0
 /img-sys/headerbg.jpg
-0 1 18760064 9366 0 0
-/install/theme/js/license.js
-0 1 19008304 1605 0 0
+0 7 0 65562 0 0
+/img/p/7/6/76-thickbox_default.jpg
+0 1 0 10704 0 0
+/modules/blockbanner/logo.png
+0 4 0 7760 0 0
+/img/tmp/d572857dd7611d7222fbcba5be919115.jpg
+0 3 0 7542 0 0
+/img/p/5/5/55-medium_default.jpg
+0 1 0 3343 0 0
 /backoffice/themes/default/js/calendar.js
-0 1 19040368 12355 0 0
+0 4 0 49420 0 0
 /modules/themeconfigurator/img/banner-img1.jpg
-0 4 19025376 136179 0 0
-/install/theme/img/bg-li-tabs-finished.png
-0 4 19008560 251 0 0
+0 73 0 1543362 0 0
 /img/p/3/8/38-thickbox_default.jpg
-0 1 19034240 145696 0 0
-/backoffice/themes/default/js/vendor/bootstrap.min.js
-0 1 19038768 29110 0 0
+0 16 0 437088 0 0
+/img/p/5/5/55-home_default.jpg
+0 6 0 23871 0 0
+/img/tmp/05241407da0bddbb7778add86c351fb1.jpg
+0 3 0 78549 0 0
+/modules/blocksearch/logo.png
+0 3 0 5427 0 0
 /modules/gamification/views/css/advice-1.6.0.8_308.css
-0 1 19035856 21946 0 0
-/img/p/es-default-home_default.jpg
-0 2 19028560 6887 0 0
+0 2 0 43892 0 0
+/backoffice/themes/default/js/vendor/bootstrap.min.js
+0 6 0 145550 0 0
+/js/validate.js
+0 5 0 105835 0 0
+/img/p/7/8/78-thickbox_default.jpg
+0 1 0 43537 0 0
+/modules/sekeywords/logo.png
+0 3 0 6108 0 0
+/modules/productscategory/logo.png
+0 4 0 2060 0 0
+/img/tmp/db454fa20a2986ee2bc890a7d301fa57.jpg
+0 3 0 28104 0 0
 /js/jquery/ui/themes/base/jquery.ui.slider.css
-0 1 19036288 1314 0 0
+0 5 0 6570 0 0
+/modules/dashactivity/logo.png
+0 3 0 5277 0 0
+/js/jquery/ui/jquery.ui.sortable.min.js
+0 5 0 96712 0 0
 /backoffice/
-0 26 19034624 598225 0 0
-/install/theme/img/bg_bt_blockInfoEnd.png
-0 1 19015344 830 0 0
+0 307 0 18372012 10 8
+/modules/blocktags/logo.png
+0 4 0 9168 0 0
+/img/tmp/3f4c3aa2c70ed09f76022979bfa6901e.jpg
+0 3 0 4881 0 0
+/img/tmp/addff63c706a4988d7224f623c000b90.jpg
+0 3 0 7449 0 0
+/modules/blocknewsletter/logo.png
+0 4 0 3612 0 0
+/modules/themeconfigurator/img/ac55860dac7ec726763e1a4bf36a44d936ce3f13_14083566981407244251-28764800.jpg
+0 5 0 17516 0 0
+/img/p/5/5/55-thickbox_default.jpg
+0 1 0 36995 0 0
+/js/hookLiveEdit.js
+0 1 0 9633 0 0
 /js/jquery/ui/jquery.ui.mouse.min.js
-0 1 19037808 2841 0 0
+0 5 0 14205 0 0
 /img/p/3/6/36-thickbox_default.jpg
-0 1 19034496 41686 0 0
+0 16 0 125058 0 0
 /modules/productcomments/js/jquery.textareaCounter.plugin.js
-0 1 0 4985 0 0
+0 20 0 24925 0 0
+/backoffice/themes/default/js/vendor/jquery-passy.js
+0 1 0 4980 0 0
 /js/admin-dashboard.js
-0 1 19040112 9756 0 0
+0 4 0 39024 0 0
+/img/tmp/caeb5dd3bf9598053733c1ee58f65e69.jpg
+0 3 0 21576 0 0
+/img/p/3/2/32-medium_default.jpg
+0 1 0 3153 0 0
 /js/jquery/plugins/jqzoom/zoomloader.gif
-0 1 19034096 1849 0 0
-/10-home_default/printed-dress.jpg
-0 1 19024704 11380 0 0
+0 7 0 7396 0 0
+/img/p/8/1/81-medium_default.jpg
+0 2 0 6744 0 0
+/modules/themeconfigurator/img/en/advertisement.png
+0 2 0 11516 0 0
 /themes/default-bootstrap/css/autoload/responsive-tables.css
-0 4 0 4299 0 0
+0 103 0 57320 0 0
+/themes/default-bootstrap/js/tools/statesManagement.js
+0 2 0 10746 0 0
+/img/tmp/ac32c979731edf74671b4f51b18d7d91.jpg
+0 3 0 7764 0 0
+/img/p/2/9/29-thickbox_default.jpg
+0 1 0 32151 0 0
 /js/jquery/plugins/jquery.scrollTo.js
-0 4 19021024 6756 0 0
+0 103 0 94584 0 0
+/modules/statsvisits/logo.png
+0 3 0 5667 0 0
+/modules/statscheckup/logo.png
+0 3 0 2361 0 0
 /themes/default-bootstrap/img/price-container-bg.png
-0 3 19024960 170 0 0
+0 6 0 170 0 0
+/img/tmp/599a94a4d9621f4747f774c218442e6d.jpg
+0 3 0 2523 0 0
+/img/p/7/5/75-thickbox_default.jpg
+0 2 0 174528 0 0
+/img/p/2/4/24-medium_default.jpg
+0 1 0 4709 0 0
+/modules/blockstore/logo.png
+0 4 0 7760 0 0
+/img/p/2/4/24-cart_default.jpg
+0 59 0 21856 0 0
+/img/p/6/3/63-medium_default.jpg
+0 1 0 3933 0 0
+/modules/productpaymentlogos/logo.png
+0 4 0 7760 0 0
+/modules/gamification/views/css/advice-1.6.0.8_296.css
+0 1 0 21946 0 0
+/img/p/4/7/47-large_default.jpg
+0 2 0 12528 0 0
+/img/tmp/0dd37b9a884ea1fc02e2ebe6baf0592d.jpg
+0 3 0 7860 0 0
+/img/p/7/2/72-thickbox_default.jpg
+0 1 0 42947 0 0
+/img/p/2/6/26-cart_default.jpg
+0 1 0 1613 0 0
+/modules/statsproduct/logo.png
+0 3 0 6306 0 0
+/img/p/7/1/71-cart_default.jpg
+0 1 0 1792 0 0
+/img/p/8/4/84-medium_default.jpg
+0 2 0 6588 0 0
 /themes/default-bootstrap/css/maintenance.css
-0 1 19041936 909 0 0
-/install/theme/img/bg-li-headerLinks.png
-0 6 19007408 143 0 0
+0 13 0 8181 0 0
+/js/jquery/plugins/jquery.typewatch.js
+0 3 0 6894 0 0
+/img/p/4/0/40-thickbox_default.jpg
+0 4 0 159720 0 0
+/img/p/2/9/29-cart_default.jpg
+0 2 0 3532 0 0
+/img/p/7/9/79-thickbox_default.jpg
+0 1 0 96687 0 0
 /themes/default-bootstrap/css/global.css
-0 4 19015488 631260 0 0
+0 113 0 9869920 0 0
 /js/vendor/spin.js
-0 4 19027104 10196 0 0
+0 10 0 101960 0 0
 /themes/default-bootstrap/css/modules/blocktags/blocktags.css
-0 4 0 1125 0 0
+0 102 0 15000 0 0
 /themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
-0 4 19016544 8277 0 0
+0 103 0 113119 0 0
+/modules/blocklayered/logo.png
+0 4 0 5392 0 0
+/img/p/2/9/29-large_default.jpg
+0 1 0 13623 0 0
 /themes/default-bootstrap/css/scenes.css
-0 2 19028272 2198 0 0
-/7-home_default/blouse.jpg
-0 1 19024432 7454 0 0
-/install/theme/img/bt_off.png
-0 3 19008432 77 0 0
+0 20 0 30772 0 0
+/img/p/7/7/77-medium_default.jpg
+0 1 0 5945 0 0
+/modules/themeconfigurator/logo.png
+0 4 0 7068 0 0
+/img/tmp/bcd0d26b7830cd5540c90951a4b419e9.jpg
+0 3 0 3801 0 0
+/img/p/6/9/69-home_default.jpg
+0 7 0 63834 0 0
+/img/p/4/2/42-thickbox_default.jpg
+0 2 0 199016 0 0
 /img/canterbury-1407293167.jpg
-0 2 19028976 8519 0 0
+0 23 0 76671 0 0
 /modules/homeslider/images/b9caef6797906d65300961bf0f0ff1a3bf543db3_Q1Q2_2014Training_A4Land_Gym2.jpg
-0 2 19029296 195159 0 0
+0 74 0 6049929 0 0
 /themes/default-bootstrap/css/product_list.css
-0 4 19016400 48435 0 0
+0 112 0 660760 0 0
+/img/p/4/1/41-cart_default.jpg
+0 5 0 11240 0 0
 /themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
-0 4 0 4857 0 0
+0 104 0 84532 0 0
+/img/p/6/2/62-thickbox_default.jpg
+0 2 0 90074 0 0
+/img/p/7/7/77-cart_default.jpg
+0 1 0 3217 0 0
+/img/p/8/4/84-large_default.jpg
+0 1 0 19341 0 0
+/js/tiny_mce/plugins/paste/plugin.min.js
+0 1 0 10447 0 0
+/img/p/4/9/49-cart_default.jpg
+0 2 0 2531 0 0
+/img/tmp/d28d6c9a915d3fb7fb4befcd90e6b7f0.jpg
+0 4 0 29912 0 0
+/img/p/3/9/39-medium_default.jpg
+0 5 0 16220 0 0
 /js/jquery/plugins/autocomplete/jquery.autocomplete.css
-0 4 19017696 2466 0 0
-/js/jquery/plugins/validate/localization/messages_es.js
-0 4 19027216 1272 0 0
-/install/theme/img/print.png
-0 1 19010384 175 0 0
+0 105 0 36168 0 0
+/img/p/8/3/83-cart_default.jpg
+0 1 0 1433 0 0
+/img/admin/arrow_out.png
+0 1 0 503 0 0
+/img/p/7/7/77-home_default.jpg
+0 5 0 81685 0 0
+/img/p/2/6/26-thickbox_default.jpg
+0 1 0 29654 0 0
+/themes/default-bootstrap/img/cart-shadow.png
+0 1 0 2723 0 0
+/img/p/4/2/42-medium_default.jpg
+0 2 0 9028 0 0
 /img-sys/contentbox.jpg
-0 1 19006144 8846 0 0
+0 8 0 53076 0 0
+/js/jquery/plugins/validate/localization/messages_es.js
+0 12 0 15264 0 0
 # End Of Table - urls
 # -sites- (monthly)
-client-186-37-202-252.imovil.entelpcs.cl
-0 8 2 6206 1 1407979338
+crawl-66-249-79-10.googlebot.com
+0 377 87 1481652 97 1411972647
 /
-crawl-66-249-79-121.googlebot.com
-0 4 3 34690 3 1407497085
+crawl-66-249-79-39.googlebot.com
+0 24 0 21554 11 1409629805
+-
+186-10-17-144.net.entelpcs.cl
+0 8 4 201910 1 1412036710
 /
-crawl-66-249-79-95.googlebot.com
-0 4 2 38663 1 1407209951
-/cpanel
-gate-prestashop.cust.alionet.net
-0 3 1 20632 2 1407978003
+crawl-66-249-65-18.googlebot.com
+0 26 1 44351 8 1410836693
 /
-crawl-66-249-79-108.googlebot.com
-0 4 2 33926 2 1407237884
+ptr.plastiquimica.cl
+0 5 5 36452 1 1410176425
+/webmail
+crawl-66-249-79-145.googlebot.com
+0 7 0 0 4 1411413722
+/
+crawl-66-249-65-90.googlebot.com
+0 6 0 5684 2 1412043731
+/
+201-220-224-15.bam.movistar.cl
+0 38 38 579218 1 1410718324
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
+172.246.129.195
+0 3 0 2842 1 1410853790
+/
+191.116.201.190
+0 8 2 6270 1 1411583660
+/
+116.224.31.126
+0 4 0 2876 1 1411851530
+/
+crawl-66-249-65-137.googlebot.com
+0 1 0 0 0 0
+-
+crawl-66-249-67-10.googlebot.com
+0 1 1 22380 1 1409943385
+/
+164.77.86.87
+0 238 213 4627749 2 1410524260
+/
+crawl-66-249-69-252.googlebot.com
+0 122 109 1830697 31 1410265299
+/
+pc-131-8-47-190.cm.vtr.net
+0 128 126 2141496 1 1410197400
+/
+crawl-66-249-69-89.googlebot.com
+0 1 0 0 1 1409943387
+/
+201-220-224-14.bam.movistar.cl
+0 15 14 222673 1 1410718313
+/
+crawl-66-249-79-153.googlebot.com
+0 7 0 0 0 0
+-
+crawl-66-249-65-86.googlebot.com
+0 7 0 4280 3 1412043708
+/
+pc-246-30-156-186.cm.vtr.net
+0 127 119 2475459 2 1409657444
+/
+216.38.216.197
+0 104 98 1402824 1 1409666429
+/
+200.27.139.2
+0 601 343 6480133 8 1412004537
+/themes/default-bootstrap/js/
+crawl-66-249-69-121.googlebot.com
+0 2 0 0 1 1409958337
+/
+pc-105-12-100-190.cm.vtr.net
+0 51 1 19885 1 1410558488
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
+crawl-66-249-65-153.googlebot.com
+0 1 0 0 0 0
+-
+190.215.199.202
+0 8 4 201910 1 1411660537
 /
 crawl-66-249-79-13.googlebot.com
-0 5 3 38050 3 1407366223
+0 25 0 21468 9 1409629803
+-
+crawl-66-249-79-137.googlebot.com
+0 15 1 8861 9 1411681274
+/cpanel
+201-220-242-4.bam.movistar.cl
+0 6 1 11742 1 1411510863
+/webmail
+160.33.195.20
+0 19 11 639077 2 1411566857
+/webmail
+crawl-66-249-65-94.googlebot.com
+0 9 0 8590 4 1412043732
 /
-crawl-66-249-73-57.googlebot.com
-0 2 1 16963 1 1407756286
+crawl-66-249-69-210.googlebot.com
+0 148 133 2839651 29 1410254499
 /
-crawl-66-249-79-130.googlebot.com
-0 3 1 29802 1 1407537201
+201-220-242-95.bam.movistar.cl
+0 27 6 407550 1 1412001311
 /
-client-186-37-108-46.imovil.entelpcs.cl
-0 2 2 6904 1 1407636726
+pc-106-40-156-186.cm.vtr.net
+0 210 67 1622514 7 1410813051
 /
-pc-99-13-156-186.cm.vtr.net
-0 2 2 6904 1 1407255776
+pc-34-122-47-190.cm.vtr.net
+0 2357 672 15912528 3 1410993351
 /
 www.whois.sc
-0 2 1 16963 1 1407104809
+0 6 1 23818 2 1411338288
 /
+160.33.195.21
+0 301 209 4057825 6 1410437957
+/webmail
 crawl-66-249-79-26.googlebot.com
-0 2 1 16963 1 1407878407
+0 390 89 1992033 110 1411972648
 /
-crawl-66-249-73-12.googlebot.com
-0 2 1 16963 1 1407746838
+pc-254-127-46-190.cm.vtr.net
+0 4133 2222 49519026 13 1412018038
+/backoffice/
+crawl-66-249-65-26.googlebot.com
+0 35 1 46826 7 1410846165
 /
-client-186-37-202-78.imovil.entelpcs.cl
-0 911 444 12496200 1 1407979321
+190.216.144.250
+0 104 103 1984718 1 1409665168
 /
+61.141.166.208
+0 2 0 1438 1 1411412960
+/
+crawl-66-249-64-194.googlebot.com
+0 1 0 0 0 0
+-
+crawl-66-249-65-10.googlebot.com
+0 31 0 20132 5 1410843966
+/
+host254.181-95-14.telecom.net.ar
+0 61 60 1402134 1 1410193114
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
+201-220-243-50.bam.movistar.cl
+0 8 1 11742 2 1411427618
+/
+58.40.160.185
+0 2 0 1438 1 1411783453
+/
+crawl-66-249-79-18.googlebot.com
+0 415 76 986448 104 1411969344
+/
+crawl-66-249-69-226.googlebot.com
+0 122 110 1747814 26 1410268045
+/
+201-220-243-79.bam.movistar.cl
+0 57 56 1044191 1 1409657749
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png
+rate-limited-proxy-66-249-91-95.google.com
+0 1 0 0 1 1409913462
+/
+rate-limited-proxy-66-249-91-127.google.com
+0 1 0 0 1 1409899591
+/
+pc-65-235-86-200.cm.vtr.net
+0 5 5 27586 1 1409742049
+/webmail
 # End Of Table - sites (monthly)
 # -sites- (daily)
-client-186-37-202-252.imovil.entelpcs.cl
-0 8 2 6206 1 1407979338
+186-10-17-144.net.entelpcs.cl
+0 8 4 201910 1 1412036710
 /
-gate-prestashop.cust.alionet.net
-0 3 1 20632 2 1407978003
+crawl-66-249-65-90.googlebot.com
+0 6 0 5684 2 1412043731
 /
-client-186-37-202-78.imovil.entelpcs.cl
-0 903 436 12454811 1 1407979321
+crawl-66-249-65-86.googlebot.com
+0 3 0 1404 1 1412043708
 /
+crawl-66-249-65-94.googlebot.com
+0 3 0 4276 2 1412043732
+/
+160.33.195.21
+0 3 1 1701 0 0
+-
 # End Of Table - sites (daily)
 # -referrers- 
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/index.js
+0 1
+http://www.cccchile.cl/index.php
+0 51
+http://www.cccchile.cl/themes/default-bootstrap/css/global.css
+0 3
+http://cccchile.cl/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
+0 1
+http://canterburychile.cl/
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/index.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/autoload/uniform.default.css
+0 9
+http://www.canterburychile.cl/themes/default-bootstrap/js/autoload/10-bootstrap.min.js
+0 1
+http://www.canterburychile.cl/js/jquery/jquery-migrate-1.2.1.min.js
+0 1
+http://www.cccchile.cl/backoffice/index.php
+0 1065
+http://cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
+0 1
+http://www.cccchile.cl/js/jquery/plugins/jquery.scrollTo.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/global.js
+0 1
+http://cccchile.cl/js/tiny_mce/skins/prestashop/content.min.css
+0 4
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/modules/homeslider/homeslider.css
+0 32
+http://www.canterburychile.cl/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/modules/productscategory/css/productscategory.css
+0 6
 http://www.cccchile.cl/
-0 79
-http://www.nic.cl/registry/Whois.do
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/modules/blockcart/blockcart.css
+0 1
+http://www.canterburychile.cl/js/jquery/plugins/autocomplete/jquery.autocomplete.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
+0 1
+https://www.google.cl/
+0 2
+http://cccchile.cl/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
+0 1
+http://canterburychile.cl/js/jquery/plugins/autocomplete/jquery.autocomplete.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/global.js
+0 1
+http://cccchile.cl/js/jquery/jquery-1.11.0.min.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
+0 1
+http://cccchile.cl/js/jquery/plugins/jquery.scrollTo.js
+0 1
+http://www.cccchile.cl/js/jquery/jquery-1.11.0.min.js
+0 1
+http://canterburychile.cl/js/jquery/jquery-1.11.0.min.js
+0 1
+http://cccchile.cl/js/jquery/plugins/jqzoom/jquery.jqzoom.css
+0 6
+http://www.cccchile.cl/modules/blockfacebook/blockfacebook.js
+0 1
+http://cccchile.cl/js/jquery/plugins/jquery.serialScroll.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/index.js
+0 1
+http://cccchile.cl/backoffice/themes/default/css/admin-theme.css
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/global.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/contact-form.css
+0 6
+http://www.cccchile.cl/js/jquery/plugins/jquery.easing.js
+0 1
+http://cccchile.cl/js/jquery/plugins/autocomplete/jquery.autocomplete.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/global.css
+0 78
+http://canterburychile.cl/js/jquery/plugins/jquery.scrollTo.js
 0 1
 http://cccchile.cl/backoffice/index.php
-0 115
-http://cccchile.cl/index.php
-0 480
-http://www.cccchile.cl/install/index.php
-0 128
-- (Direct Request)
-0 120
-http://www.cccchile.cl/install/
-0 16
-http://whois.domaintools.com/cccchile.cl
+0 752
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
 0 1
-http://cccchile.cl/admin2849/index.php
-0 11
-http://www.cccchile.cl/cpanel
+http://cccchile.cl/index.php
+0 6376
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/tools/treeManagement.js
+0 1
+http://www.cccchile.cl/backoffice/themes/default/css/admin-theme.css
+0 4
+http://www.canterburychile.cl/js/jquery/plugins/jquery.serialScroll.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/autoload/10-bootstrap.min.js
+0 1
+- (Direct Request)
+0 1865
+http://cccchile.cl/js/jquery/plugins/bxslider/jquery.bxslider.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/maintenance.css
+0 8
+http://www.cccchile.cl/themes/default-bootstrap/js/tools/treeManagement.js
+0 1
+http://canterburychile.cl/js/jquery/jquery-migrate-1.2.1.min.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/tools/treeManagement.js
+0 1
+http://www.cccchile.cl/webmail
+0 14
+http://cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/autoload/10-bootstrap.min.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
+0 1
+http://www.canterburychile.cl/js/jquery/plugins/bxslider/jquery.bxslider.js
+0 1
+http://www.cccchile.cl/js/tools.js
+0 1
+http://canterburychile.cl/js/jquery/plugins/jquery.serialScroll.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
+0 1
+http://www.canterburychile.cl/js/tools.js
+0 1
+http://www.cccchile.cl/js/jquery/plugins/jquery.serialScroll.js
+0 1
+http://www.canterburychile.cl/
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
+0 1
+http://www.cccchile.cl/js/jquery/plugins/autocomplete/jquery.autocomplete.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
+0 1
+http://cccchile.cl/js/tools.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/tools/treeManagement.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/global.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
+0 1
+http://www.cccchile.cl/js/jquery/jquery-migrate-1.2.1.min.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
+0 1
+http://cccchile.cl/js/jquery/plugins/jquery.easing.js
+0 1
+http://canterburychile.cl/js/jquery/plugins/jquery.easing.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
+0 1
+http://www.cccchile.cl/modules/gamification/views/css/gamification.css
 0 3
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
+0 1
+http://www.cccchile.cl/js/jquery/plugins/bxslider/jquery.bxslider.js
+0 1
+http://cccchile.cl/modules/gamification/views/css/gamification.css
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/autoload/10-bootstrap.min.js
+0 1
+http://canterburychile.cl/js/jquery/plugins/bxslider/jquery.bxslider.js
+0 1
+http://cccchile.cl/modules/blockfacebook/blockfacebook.js
+0 1
+http://whois.domaintools.com/cccchile.cl
+0 4
+http://cccchile.cl/webmail
+0 9
+http://cccchile.cl/themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/product_list.css
+0 11
+http://cccchile.cl/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/css/product.css
+0 2
+http://www.canterburychile.cl/js/jquery/plugins/jquery.scrollTo.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
+0 1
+http://www.canterburychile.cl/js/jquery/plugins/jquery.easing.js
+0 1
+http://cccchile.cl/
+0 2
+http://www.canterburychile.cl/modules/blockfacebook/blockfacebook.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
+0 1
+http://www.canterburychile.cl/themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
+0 1
+http://canterburychile.cl/modules/blockfacebook/blockfacebook.js
+0 1
+http://canterburychile.cl/js/tools.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/index.js
+0 1
+http://www.cccchile.cl/themes/default-bootstrap/css/modules/homeslider/homeslider.css
+0 1
+http://cccchile.cl/themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
+0 1
+http://cccchile.cl/js/jquery/jquery-migrate-1.2.1.min.js
+0 1
+http://www.canterburychile.cl/js/jquery/jquery-1.11.0.min.js
+0 1
+http://canterburychile.cl/themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
+0 1
 # End Of Table - referrers
 # -agents- 
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-0 911
-Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 24
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
-0 2
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-0 2
-Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
-0 2
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/36.0.1985.49 Mobile/11
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 227
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 66
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
 0 8
-Mozilla/5.0 (Linux; U; Android 4.1.2; es-sa; LG-E450j Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+Mozilla/4.0 (compatible; MSIE8.0; Windows NT 6.0) .NET CLR 2.0.50727)
+0 8
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 117
+Mozilla/5.0 (Linux; U; Android 4.2.1; es-us; HUAWEI G610-U15 Build/HuaweiG610-U15) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 8
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 288
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1593
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 78
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 6
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.102 Safari/537.36
+0 210
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 108
+Mozilla/4.0 (compatible;)
+0 14
+Googlebot-Image/1.0
+0 79
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 101
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36 OPR/23.0.1522.7
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safar
+0 7
+Mozilla/5.0 (Linux; Android 4.4.2; C6602 Build/10.5.A.0.230) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobi
+0 53
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:32.0) Gecko/20100101 Firefox/32.0
+0 8
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 128
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 100
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 127
+Google-Test
 0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 61
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebkit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 543
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 6328
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 27
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 104
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings

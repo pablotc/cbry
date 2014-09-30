@@ -1,0 +1,134 @@
+Return-path: <juan.ljubetic@payulatam.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Thu, 28 Aug 2014 14:52:48 -0500
+Received: from na6sys009bog030.obsmtp.com ([74.125.150.104]:39164)
+	by gator3101.hostgator.com with smtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <juan.ljubetic@payulatam.com>)
+	id 1XN5kW-000Rd1-FZ
+	for admin@cccchile.cl; Thu, 28 Aug 2014 14:52:48 -0500
+Received: from mail-lb0-f170.google.com ([209.85.217.170]) (using TLSv1) by na6sys009bob030.postini.com ([74.125.148.12]) with SMTP
+	ID DSNKU/+IjXNnjAqYnODzWQZLREkqAhYsIBOK@postini.com; Thu, 28 Aug 2014 12:52:48 PDT
+Received: by mail-lb0-f170.google.com with SMTP id w7so1494777lbi.15
+        for <admin@cccchile.cl>; Thu, 28 Aug 2014 12:52:44 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to:cc
+         :content-type;
+        bh=HqlvWEFGqR71KX1Gp0ynirtTyxujITSbQhVwIuIm9+o=;
+        b=QPQsK+li/Y3E/feMRcHf426nmIwOzbGBVmoLqTtj5hB2szwwNtQtYpB+yIHrRa/F3B
+         WqDQJ4G1YfEfpBSR6yDAu2uciCGfRsCFEjkqes3CFDrZnXD5SBNUJN8pK7cfZJ7xnWDD
+         Cu9+MFj/uQjK8HRh13I9pD0Tno4YQphXnQIcRVwhOqIeJK9VEgV+EVfMR0XqF9BJJDma
+         jdgIf8efyqY04k/EZc9EZEMADNKNnOckcXr4zQ23tg365isTaxB0WFmzybvhkoU99uOL
+         BbhmaplZ3QDvNAahThXv3O2ks2kSQvlg8VH385UwoiDBN6LBW/NYwAW03VcZRb8g/Blq
+         5uLg==
+X-Gm-Message-State: ALoCoQk92eahi/TU7TU0mexg/Le7ZF6tLvVpTI5+5H0R5fxjIanuwg63fUOs+vHlU1A4f3CNcj5/BZFYs9doMmzaypj5WQVCZ5WRl1WGZ+lhJ0vz6+VH4LAKqAaupLLlnjUaGtwdBsC/GsWofCTbxGXZSR8BGpV+Yw==
+X-Received: by 10.152.20.41 with SMTP id k9mr6620535lae.57.1409255564589;
+        Thu, 28 Aug 2014 12:52:44 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.152.20.41 with SMTP id k9mr6620506lae.57.1409255564237; Thu,
+ 28 Aug 2014 12:52:44 -0700 (PDT)
+Received: by 10.112.159.105 with HTTP; Thu, 28 Aug 2014 12:52:44 -0700 (PDT)
+Date: Thu, 28 Aug 2014 15:52:44 -0400
+Message-ID: <CAE_HFoY_PL=VGrKG6mY0omSHBB1wKexaqLVhHCWcTU8Wubm0UA@mail.gmail.com>
+Subject: Datos de contacto
+From: Juan Ljubetic Godoy <juan.ljubetic@payulatam.com>
+To: GMORALES@spindeportes.cl
+Cc: admin@cccchile.cl
+Content-Type: multipart/alternative; boundary=089e01493e184e048d0501b5e1c9
+
+--089e01493e184e048d0501b5e1c9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Jos=C3=A9, me pasaron tus datos de contacto por que estas interesado e=
+n
+operar a trav=C3=A9s de nuestra plataforma de pagos.
+Dime en que te puedo ayudar, que consultas tienes. H=C3=A1zmelas saber y me=
+ das
+un n=C3=BAmero de tel=C3=A9fonos en donde te pueda llamar, dame una hora en=
+ que te
+acomode mas el llamado.
+
+--=20
+
+
+*Juan Ljubetic Godoy*
+
+*Business Development Chile*
+
+F: + 56 9 78883389 + 56 02 28204359
+E: juan.ljubetic@payulatam.com
+S: juan.ljubetic.payulatam
+
+Alonso  de C=C3=B3rdova 5870, Oficina1120         Las Condes, Santiago, Chi=
+le
+
+   www.payulatam.com
+
+--089e01493e184e048d0501b5e1c9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span style=3D"font-family:arial,sans-serif;font-size:12.8=
+00000190734863px">Hola Jos=C3=A9, me pasaron tus datos de contacto por que =
+estas interesado en operar a trav=C3=A9s de nuestra plataforma de pagos.=C2=
+=A0</span><div style=3D"font-family:arial,sans-serif;font-size:12.800000190=
+734863px">
+Dime en que te puedo ayudar, que consultas tienes. H=C3=A1zmelas saber y me=
+ das un n=C3=BAmero de tel=C3=A9fonos en donde te pueda llamar, dame una ho=
+ra en que te acomode mas el llamado.</div><div><br></div>-- <br><div dir=3D=
+"ltr"><font face=3D"georgia, serif"><font color=3D"#0000ff">=C2=A0</font><f=
+ont color=3D"#0000ff"> =C2=A0 =C2=A0 =C2=A0</font></font><table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse">
+<tbody><tr><td width=3D"206" valign=3D"top" style=3D"width:154.25pt;border-=
+style:none solid none none;border-right-color:rgb(217,217,217);border-right=
+-width:1pt;padding:0cm 5.4pt"><p style=3D"margin-bottom:0.0001pt"><b><span =
+lang=3D"EN-US" style=3D"font-size:14pt;font-family:Arial,sans-serif;color:r=
+gb(0,156,221)">Juan Ljubetic Godoy</span></b><span lang=3D"EN-US" style=3D"=
+font-size:10pt;font-family:Arial,sans-serif;color:rgb(80,0,80)"></span></p>
+<p style=3D"margin-bottom:0.0001pt"><b><span lang=3D"EN-US" style=3D"font-s=
+ize:10pt;font-family:Arial,sans-serif;color:rgb(28,58,133)">Business Develo=
+pment Chile</span></b><span lang=3D"EN-US" style=3D"font-size:10pt;font-fam=
+ily:Arial,sans-serif;color:rgb(80,0,80)"></span></p>
+<p style=3D"margin-bottom:0.0001pt"><span lang=3D"EN-US" style=3D"font-size=
+:8pt;font-family:Arial,sans-serif;color:rgb(0,156,221)">F:=C2=A0</span><spa=
+n lang=3D"EN-US" style=3D"color:rgb(17,85,204);font-size:8pt;font-family:Ar=
+ial,sans-serif"><a style=3D"color:rgb(17,85,204)">+ 56 9 78883389</a>=C2=A0=
++ 56 02 28204359</span><span lang=3D"EN-US" style=3D"font-size:8pt;font-fam=
+ily:Arial,sans-serif;color:rgb(89,89,89)"><br>
+</span><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-s=
+erif;color:rgb(0,156,221)">E:</span><span lang=3D"EN-US" style=3D"font-size=
+:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)">=C2=A0</span><a href=
+=3D"mailto:juan.ljubetic@payulatam.com" style=3D"color:rgb(17,85,204)" targ=
+et=3D"_blank"><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial=
+,sans-serif">juan.ljubetic@payulatam.com</span></a><span style=3D"font-size=
+:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)">=C2=A0</span><span l=
+ang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb=
+(80,0,80)">=C2=A0<br>
+</span><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-s=
+erif;color:rgb(0,156,221)">S:</span><span lang=3D"EN-US" style=3D"font-size=
+:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)">=C2=A0</span><span l=
+ang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb=
+(84,141,212)">juan.ljubetic.payulatam</span><span lang=3D"EN-US" style=3D"f=
+ont-size:10pt;font-family:Arial,sans-serif;color:rgb(80,0,80)"></span></p>
+<p><span lang=3D"ES" style=3D"font-size:8pt;font-family:Arial,sans-serif;co=
+lor:rgb(89,89,89)">Alonso =C2=A0de C=C3=B3rdova 5870, </span><span lang=3D"=
+ES" style=3D"font-size:8pt;font-family:Arial,sans-serif"><font color=3D"#3d=
+85c6">Oficina</font></span><span lang=3D"ES" style=3D"font-size:8pt;font-fa=
+mily:Arial,sans-serif;color:rgb(89,89,89)">1120 =C2=A0 =C2=A0 =C2=A0 =C2=A0=
+ Las Condes, </span><span lang=3D"ES" style=3D"font-size:8pt;font-family:Ar=
+ial,sans-serif"><font color=3D"#3d85c6">Santiago, Chile</font></span><span =
+style=3D"font-size:10pt;font-family:Arial,sans-serif;color:rgb(80,0,80)"></=
+span></p>
+</td><td width=3D"173" valign=3D"top" style=3D"width:130.1pt;padding:0cm 5.=
+4pt"></td></tr></tbody></table><p><span style=3D"color:rgb(17,85,204);font-=
+size:9pt;line-height:13.800000190734863px">=C2=A0 =C2=A0<a href=3D"http://w=
+ww.payulatam.com/" style=3D"color:rgb(17,85,204)" target=3D"_blank">www.pay=
+ulatam.com</a></span></p>
+<div><br><div>=C2=A0</div><div><br></div><div>=C2=A0=C2=A0<br><table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:44=
+6px"><tbody></tbody></table></div></div></div>
+</div>
+
+--089e01493e184e048d0501b5e1c9--

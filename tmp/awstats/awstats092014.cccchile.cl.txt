@@ -1,0 +1,321 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201409 will be lost/reset.
+# Last config file used to build this data file was /home2/amorales/tmp/awstats/awstats.cccchile.cl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2006                
+POS_TIME 2676                
+POS_VISITOR 6729                
+POS_DAY 7762                
+POS_DOMAIN 3483                
+POS_LOGIN 3763                
+POS_ROBOT 3918                
+POS_WORMS 4135                
+POS_EMAILSENDER 4266                
+POS_EMAILRECEIVER 4409                
+POS_SESSION 8301                
+POS_SIDER 8507                
+POS_FILETYPES 4544                
+POS_DOWNLOADS 4775                
+POS_OS 4823                
+POS_BROWSER 4941                
+POS_SCREENSIZE 5235                
+POS_UNKNOWNREFERER 5309                
+POS_UNKNOWNREFERERBROWSER 5437                
+POS_ORIGIN 5519                
+POS_SEREFERRALS 5659                
+POS_PAGEREFS 5814                
+POS_SEARCHWORDS 5962                
+POS_KEYWORDS 6114                
+POS_MISC 2339                
+POS_ERRORS 6173                
+POS_CLUSTER 3619                
+POS_SIDER_404 6309                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140930063127 597 180621 9519301288394
+FirstTime 0
+LastTime 20140929191358
+LastUpdate 20140930095421 597 0 597 0 0
+TotalVisits 36                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 52 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 80 1568 5311821 43 79 277025
+1 39 417 3124569 47 107 685454
+2 0 0 0 46 104 276976
+3 0 0 0 40 58 248790
+4 0 0 0 35 51 164008
+5 0 1 0 50 84 393487
+6 0 2 1701 34 59 274062
+7 0 1 0 39 60 167308
+8 1 4 18740 34 51 179678
+9 0 1 0 30 47 178572
+10 77 491 6050492 33 49 107686
+11 145 961 13580545 45 73 287607
+12 130 931 22750353 50 76 288662
+13 83 449 8236663 35 55 131201
+14 31 47 449492 27 72 466896
+15 82 493 4259444 33 53 130849
+16 42 152 2860076 44 123 625486
+17 15 126 2140669 67 160 1299873
+18 4 52 801789 31 74 1220788
+19 65 761 2448442 39 76 949944
+20 88 668 5948201 62 152 930167
+21 12 125 1549515 76 179 1008893
+22 40 367 3555943 49 84 318840
+23 235 777 11850033 40 91 600705
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+cl 1123 7845 85470642
+us 36 388 6082926
+ar 10 160 3384011
+co 0 1 909
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 628 9790801 20140929054225 0
+bot[\s_+:,\.\;\/\\-] 1 22380 20140909013715 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 2315 14271967 0 0
+png 463 1697334 0 0
+woff 97 1896864 0 0
+php 973 25477856 0 0
+jpg 1507 30627979 0 0
+js 2812 20240546 0 0
+Unknown 99 404554 0 0
+gif 128 321388 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 209
+linuxandroid 52
+winxp 58
+Unknown 11
+linux 62
+winvista 7869
+win7 133
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 13
+safari7.0 107
+firefox32.0 74
+chrome37.0.2062.124 543
+chrome36.0.1985.143 223
+mozilla 11
+android 1
+chrome37.0.2062.120 6447
+chrome34.0.1847.114 51
+chrome37.0.2062.102 196
+safari8.0 1
+chrome37.0.2062.103 580
+chrome13.0.782.215 98
+firefox31.0 62
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/4.0_(compatible;) 20140930063127
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 101 112
+From1 0 0
+From2 2 2
+From3 0 0
+From4 1066 8280
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+503 691 985698
+302 614 0
+500 22 373906
+301 5 1519
+404 4 4164
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 1
+/js/tiny_mce/skins/prestashop/img/object.gif 4 http://cccchile.cl/js/tiny_mce/skins/prestashop/content.min.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+190.46.127.254 567 4063 49492264 20140929191358
+190.47.122.34 328 2330 15905145 20140914002200
+200.27.139.2 109 588 6474288 20140929170106
+164.77.86.87 40 231 4627749 20140912121740
+186.156.40.106 26 196 1617616 20140914231213
+160.33.195.21 26 280 4046350 20140911121917
+186.156.30.246 21 121 2474213 20140902113044
+190.47.8.131 14 125 2140549 20140908173000
+216.38.216.197 6 98 1402824 20140902140029
+190.216.144.250 6 102 1983771 20140902133928
+201.220.243.79 5 56 1044191 20140902113549
+190.100.12.105 4 51 19885 20140912214809
+160.33.195.20 4 10 633752 20140924135417
+181.95.14.254 4 58 1400240 20140908161834
+201.220.235.15 3 37 578207 20140914181205
+200.6.121.130 2 5 36452 20140908114025
+201.220.235.14 1 14 222673 20140914181153
+200.86.235.65 1 4 27586 20140903110049
+201.220.242.4 1 2 8866 20140923222103
+201.220.243.50 1 4 8866 20140922210700
+186.10.17.144 0 3 198023 
+191.116.201.190 0 1 909 
+190.215.199.202 0 3 198023 
+201.220.242.95 0 12 396046 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20140902 54 573 9677778 5
+20140903 1 4 27586 1
+20140905 0 1 0 0
+20140906 9 107 341589 1
+20140908 23 198 3651171 5
+20140909 1 2 22380 1
+20140910 11 71 1488543 3
+20140911 6 63 1212510 1
+20140912 44 282 4647634 2
+20140913 382 2234 20276929 2
+20140914 96 1554 6070416 5
+20140915 371 1978 34081231 2
+20140917 0 2 909 0
+20140920 0 1 0 0
+20140922 1 4 8866 1
+20140923 1 3 8866 1
+20140924 1 5 15571 1
+20140925 1 7 225609 1
+20140928 0 1 0 0
+20140929 167 1298 12981176 4
+20140930 0 6 199724 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 6
+5mn-15mn 5
+15mn-30mn 1
+2mn-5mn 1
+30s-2mn 4
+0s-30s 16
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/backoffice/ajax.php 368 44160 1 5
+/backoffice/index.php 307 18372012 2 1
+/index.php 235 6955322 21 11
+/themes/default-bootstrap/font/fontawesome-webfont.woff 91 1394304 0 3
+/backoffice/ajax-tab.php 63 106362 1 0
+/modules/themeconfigurator/img/cff7c5b7b659417cd473d4cf5b70c2e544dc1254_778x142png 41 155941 0 3
+/modules/themeconfigurator/img/14eb9697a8b4aa2eca40c666aff1b7c4c6cddd86_ffftextcanterbury-1png 40 89040 1 0
+/webmail 15 132990 10 11
+/backoffice/themes/default/fonts/fontawesome-webfont.woff 6 502560 0 1
+/cpanel 3 26583 0 1
+END_SIDER

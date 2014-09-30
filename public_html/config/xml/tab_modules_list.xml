@@ -3,18 +3,16 @@
 <tab class_name="AdminProducts" display_type="slider_list">
 <module name="prediggo" position="1"/>
 <module name="ecopresto" position="2"/>
-<module name="illicopresta" position="3"/>
-<module name="shopgate" position="4"/>
-<module name="prestagiftvouchers" position="5"/>
-<module name="dmuassocprodcat" position="6"/>
+<module name="shopgate" position="3"/>
+<module name="prestagiftvouchers" position="4"/>
+<module name="dmuassocprodcat" position="5"/>
 </tab>
 <tab class_name="AdminCategories" display_type="slider_list">
 <module name="prediggo" position="1"/>
 <module name="ecopresto" position="2"/>
-<module name="illicopresta" position="3"/>
-<module name="innovativemenu" position="4"/>
-<module name="productsbycategoryslider" position="5"/>
-<module name="slidercategory" position="6"/>
+<module name="innovativemenu" position="3"/>
+<module name="productsbycategoryslider" position="4"/>
+<module name="slidercategory" position="5"/>
 </tab>
 <tab class_name="AdminFeatures" display_type="slider_list">
 <module name="pm_multiplefeatures" position="1"/>
@@ -23,17 +21,15 @@
 <module name="ebay" position="1"/>
 <module name="nqgatewayneteven" position="2"/>
 <module name="ecopresto" position="3"/>
-<module name="illicopresta" position="4"/>
-<module name="twenga" position="5"/>
-<module name="shoppingfluxexport" position="6"/>
-<module name="amazon" position="7"/>
-<module name="gmerchantcenter" position="8"/>
-<module name="leguide" position="9"/>
-<module name="productsbybrandslider" position="10"/>
+<module name="twenga" position="4"/>
+<module name="shoppingfluxexport" position="5"/>
+<module name="amazon" position="6"/>
+<module name="gmerchantcenter" position="7"/>
+<module name="leguide" position="8"/>
+<module name="productsbybrandslider" position="9"/>
 </tab>
 <tab class_name="AdminSuppliers" display_type="slider_list">
 <module name="ecopresto" position="1"/>
-<module name="illicopresta" position="2"/>
 </tab>
 <tab class_name="AdminTags" display_type="slider_list">
 <module name="prediggo" position="1"/>
@@ -45,20 +41,17 @@
 <module name="gshopping" position="2"/>
 <module name="nqgatewayneteven" position="3"/>
 <module name="ecopresto" position="4"/>
-<module name="illicopresta" position="5"/>
-<module name="fianetfraud" position="6"/>
-<module name="twenga" position="7"/>
-<module name="shoppingfluxexport" position="8"/>
-<module name="orlique" position="9"/>
-<module name="printlabels" position="10"/>
-<module name="pushoncart" position="11"/>
-<module name="prestafraud" position="12"/>
+<module name="fianetfraud" position="5"/>
+<module name="twenga" position="6"/>
+<module name="shoppingfluxexport" position="7"/>
+<module name="orlique" position="8"/>
+<module name="printlabels" position="9"/>
+<module name="pushoncart" position="10"/>
+<module name="prestafraud" position="11"/>
 </tab>
 <tab class_name="AdminInvoices" display_type="slider_list">
-<module name="m4pdf" position="1"/>
 <module name="neotaxesupdater" position="2"/>
 <module name="ordertaxprofitreport" position="3"/>
-<module name="illicopresta" position="4"/>
 </tab>
 <tab class_name="AdminDeliverySlip" display_type="slider_list">
 <module name="globkurier" position="1"/>
@@ -69,8 +62,7 @@
 <module name="clickline" position="6"/>
 <module name="socolissimo" position="7"/>
 <module name="tntcarrier" position="8"/>
-<module name="dpd" position="9"/>
-<module name="expeditor" position="10"/>
+<module name="expeditor" position="9"/>
 </tab>
 <tab class_name="AdminSlip" display_type="slider_list">
 <module name="lgabonos" position="1"/>
@@ -152,17 +144,13 @@
 <module name="kiala" position="4"/>
 <module name="seur" position="5"/>
 <module name="clickline" position="6"/>
-<module name="boxdrop" position="7"/>
+<module name="boxdropshipment" position="7"/>
 <module name="socolissimo" position="8"/>
 <module name="tntcarrier" position="9"/>
-<module name="dpd" position="10"/>
-<module name="dpdpoland" position="11"/>
-<module name="dpdgeopost" position="12"/>
-<module name="purolator" position="13"/>
-<module name="uspsstatus" position="14"/>
-<module name="expeditor" position="15"/>
-<module name="shipwire" position="16"/>
-<module name="upstracking" position="17"/>
+<module name="purolator" position="10"/>
+<module name="expeditor" position="11"/>
+<module name="shipwire" position="12"/>
+<module name="upstracking" position="13"/>
 </tab>
 <tab class_name="AdminShipping" display_type="slider_list">
 <module name="globkurier" position="1"/>
@@ -173,14 +161,13 @@
 <module name="clickline" position="6"/>
 <module name="socolissimo" position="7"/>
 <module name="tntcarrier" position="8"/>
-<module name="dpd" position="9"/>
-<module name="gointerpay" position="10"/>
-<module name="printlabels" position="11"/>
-<module name="expeditor" position="12"/>
-<module name="orderpreparation" position="13"/>
-<module name="upstracking" position="14"/>
-<module name="dateofdelivery" position="15"/>
-<module name="carriercompare" position="16"/>
+<module name="gointerpay" position="9"/>
+<module name="printlabels" position="10"/>
+<module name="expeditor" position="11"/>
+<module name="orderpreparation" position="12"/>
+<module name="upstracking" position="13"/>
+<module name="dateofdelivery" position="14"/>
+<module name="carriercompare" position="15"/>
 </tab>
 <tab class_name="AdminLocalization" display_type="slider_list">
 <module name="textmaster" position="1"/>
@@ -201,7 +188,7 @@
 <module name="paypal" position="2"/>
 <module name="desjardins" position="3"/>
 <module name="paypalusa" position="4"/>
-<module name="paymill" position="5"/>
+<module name="pigmbhpaymill" position="5"/>
 <module name="moneybookers" position="6"/>
 <module name="adyen" position="7"/>
 <module name="syspay" position="8"/>

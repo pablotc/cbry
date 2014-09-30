@@ -5260,7 +5260,8 @@ textarea {
 #columns {
   position: relative;
   padding-bottom: 50px;
-  padding-top: 15px; }
+#  padding-top: 15px; 
+  }
 
 #index .tab-content {
   margin-top: 35px;
@@ -5270,7 +5271,8 @@ header {
   z-index: 1;
   position: relative;
   background: white;
-  padding-bottom: 15px; }
+#  padding-bottom: 15px; 
+  }
   header .banner {
     background: black;
     max-height: 100%; }
@@ -6688,6 +6690,7 @@ div.star a:hover {
   -moz-border-radius: 3px;
   border-radius: 3px;
   overflow: hidden;
+  margin-top: 15px;
   margin-bottom: 16px;
   position: relative;
   z-index: 1; }

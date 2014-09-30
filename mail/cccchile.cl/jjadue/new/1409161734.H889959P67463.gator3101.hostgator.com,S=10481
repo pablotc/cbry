@@ -1,0 +1,213 @@
+Return-path: <help@3drobotics.com>
+Envelope-to: jjadue@cccchile.cl
+Delivery-date: Wed, 27 Aug 2014 12:48:54 -0500
+Received: from out3.pod4.sac1.zdsys.com ([192.161.146.70]:45343)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <help@3drobotics.com>)
+	id 1XMhL4-000HUP-Jl
+	for jjadue@cccchile.cl; Wed, 27 Aug 2014 12:48:54 -0500
+Received: from zendesk.com (work7.pod4.sac1.zdsys.com [10.100.5.17])
+	by out3.pod4.sac1.zdsys.com (Postfix) with ESMTP id 8C6CD100A8D0
+	for <jjadue@cccchile.cl>; Wed, 27 Aug 2014 17:48:52 +0000 (UTC)
+Date: Wed, 27 Aug 2014 17:48:52 +0000
+From: "Armando (3DR)" <help@3drobotics.com>
+Reply-To: 3DR <help@3drobotics.com>
+To: =?UTF-8?B?Sm9hcXXDrW4=?= Jadue <jjadue@cccchile.cl>
+Message-ID: <A46D8Z3B_53fe1a0472a52_4a133fb80c8b33387782d5_sprut@zendesk.com>
+In-Reply-To: <A46D8Z3B@zendesk.com>
+Subject: Re: Shipping
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_53fe1a0487ab7_4a133fb80c8b33387784f9";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+Auto-Submitted: auto-generated
+X-Mailer: Zendesk Mailer
+X-Delivery-Context: event-id-12249043335
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=3drobotics.com;
+ q=dns/txt; s=zendesk1; t=1409161732;
+ bh=lOZaMGIldz2lMgUkZd1Eemh/Q5g1v8W42olvH0ENUj8=;
+ h=date:from:reply-to:to:message-id:in-reply-to:subject:mime-version:content-type:content-transfer-encoding;
+ b=I/NFjF6FX8wi34YL/ePCo+d7PKjiw4aBQorirl/i/MYTO5MQArb/G4j7WY5HU2o/zdBmFFPINcbfG1e4JvkYNNLn2M2emIRAx9jf8wgK61AwSH1Za3rTnU5J2JiWY2K3S21vhnitwgewciPB1Ni+bpwICjwMjkdJhM2kwQ8alSw=
+
+
+----==_mimepart_53fe1a0487ab7_4a133fb80c8b33387784f9
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+Re: Shipping
+
+
+----------------------------------------------
+
+Armando, Aug 27 10:48 AM
+
+Hi Joaqu=C3=ADn,
+
+Thank you for contacting 3D Robotics Customer Support.
+
+I hope you're doing great today :)
+
+We apologize for the inconvenience but at the time items like the Pixhawk=
+ and our RTF's are not available for international shipment to certain co=
+untries like Chile due to export regulations, we would like to provide yo=
+u with a distributors list but due to this same issue our list is being u=
+pdated and therefore we don't have that information available.
+
+Please allow me to share this official information:
+
+"We will resume shipping internationally many of our regular items such a=
+s cables, hardware, batteries, fiber plates, motors, and more.  We'll con=
+tinue to make more items available as quickly as we can.  Please be patie=
+nt with us, we are working very hard to resume shipment to our full inven=
+tory.  We have updated our site to reflect this.  If there is an item in =
+your cart that cannot be shipped, our website will inform you and remove =
+those items from your shopping cart.  Thank you for continued support and=
+ thank you for being a 3D Robotics customer."
+
+For more information on this matter a word from our COO:
+
+http://diydrones.com/profiles/blogs/3dr-international-shipping-update
+
+We will resume full inventory for international shipping very soon so ple=
+ase stay tune on our website and forum for further updates (links below).=
+
+
+http://diydrones.com/forum
+
+http://3drobotics.com/?utm_source=3DStore&utm_medium=3Dnavigation&utm_cam=
+paign=3DClick+from+Store
+
+Please let me know if there is anything else I can assist you with.
+
+Thank You
+
+Agent: Armando
+3D Robotics Customer Support
+Email: help@3drobotics.com
+Customer Service Num.# (858) 225-1414
+
+--------------------------------
+This email is a service from 3drobotics.
+
+
+
+
+
+
+
+
+
+[A46D-8Z3B]=
+
+----==_mimepart_53fe1a0487ab7_4a133fb80c8b33387784f9
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body style=3D"width: 100%!important; margin: 0; padding: 0;">
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p></p><div style=3D"margin-top: 25px" data-version=3D"2"><table widt=
+h=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=
+=3D"100%" style=3D"padding: 15px 0; border-top: 1px dotted #c5c5c5;">    =
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D" table-layout:fixed;"><tr><td width=3D"100%" style=3D"padding: 0=
+; margin: 0;" valign=3D"top">            <p style=3D"font-family: 'Lucida=
+ Sans Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; font-size: 15=
+px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0; color=
+:#1b1d1e;">              <strong>Armando</strong> (3drobotics)           =
+ </p>            <p style=3D"font-family: 'Lucida Sans Unicode','Lucida G=
+rande','Tahoma',Verdana,sans-serif; font-size: 13px; line-height: 25px; m=
+argin-bottom: 15px; margin-top: 0; padding: 0; color:#bbbbbb;">          =
+    Aug 27 10:48 AM            </p>                                      =
+<p style=3D"line-height: 22px; font-family:'Lucida Sans Unicode','Lucida =
+Grande','Tahoma',Verdana,sans-serif; margin-top: 15px; margin-bottom: 15p=
+x; font-size: 14px; color:#2b2e2f;">    Hi Joaqu=C3=ADn,  </p>  <p style=3D=
+"line-height: 22px; font-family:'Lucida Sans Unicode','Lucida Grande','Ta=
+homa',Verdana,sans-serif; margin-top: 15px; margin-bottom: 15px; font-siz=
+e: 14px; color:#2b2e2f;">    Thank you for contacting 3D Robotics Custome=
+r Support.  </p>  <p style=3D"line-height: 22px; font-family:'Lucida Sans=
+ Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; margin-top: 15px; =
+margin-bottom: 15px; font-size: 14px; color:#2b2e2f;">    I hope you're d=
+oing great today :)  </p>  <p style=3D"line-height: 22px; font-family:'Lu=
+cida Sans Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; margin-to=
+p: 15px; margin-bottom: 15px; font-size: 14px; color:#2b2e2f;">    We apo=
+logize for the inconvenience but at the time items like the Pixhawk and o=
+ur RTF's are not available for international shipment to certain countrie=
+s like Chile due to export regulations, we would like to provide you with=
+ a distributors list but due to this same issue our list is being updated=
+ and therefore we don't have that information available.  </p>  <p style=3D=
+"line-height: 22px; font-family:'Lucida Sans Unicode','Lucida Grande','Ta=
+homa',Verdana,sans-serif; margin-top: 15px; margin-bottom: 15px; font-siz=
+e: 14px; color:#2b2e2f;">    Please allow me to share this official infor=
+mation:  </p>  <p style=3D"line-height: 22px; font-family:'Lucida Sans Un=
+icode','Lucida Grande','Tahoma',Verdana,sans-serif; margin-top: 15px; mar=
+gin-bottom: 15px; font-size: 14px; color:#2b2e2f;">    "We will resume sh=
+ipping internationally many of our regular items such as cables, hardware=
+, batteries, fiber plates, motors, and more.  We'll continue to make more=
+ items available as quickly as we can.  Please be patient with us, we are=
+ working very hard to resume shipment to our full inventory.  We have upd=
+ated our site to reflect this.  If there is an item in your cart that can=
+not be shipped, our website will inform you and remove those items from y=
+our shopping cart.  Thank you for continued support and thank you for bei=
+ng a 3D Robotics customer."  </p>  <p style=3D"line-height: 22px; font-fa=
+mily:'Lucida Sans Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; m=
+argin-top: 15px; margin-bottom: 15px; font-size: 14px; color:#2b2e2f;">  =
+  For more information on this matter a word from our COO:  </p>  <p styl=
+e=3D"line-height: 22px; font-family:'Lucida Sans Unicode','Lucida Grande'=
+,'Tahoma',Verdana,sans-serif; margin-top: 15px; margin-bottom: 15px; font=
+-size: 14px; color:#2b2e2f;">    <a href=3D"http://diydrones.com/profiles=
+/blogs/3dr-international-shipping-update">http://diydrones.com/profiles/b=
+logs/3dr-international-shipping-update</a>  </p>  <p style=3D"line-height=
+: 22px; font-family:'Lucida Sans Unicode','Lucida Grande','Tahoma',Verdan=
+a,sans-serif; margin-top: 15px; margin-bottom: 15px; font-size: 14px; col=
+or:#2b2e2f;">    We will resume full inventory for international shipping=
+ very soon so please stay tune on our website and forum for further updat=
+es (links below).  </p>  <p style=3D"line-height: 22px; font-family:'Luci=
+da Sans Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; margin-top:=
+ 15px; margin-bottom: 15px; font-size: 14px; color:#2b2e2f;">    <a href=3D=
+"http://diydrones.com/forum">http://diydrones.com/forum</a>  </p>  <p sty=
+le=3D"line-height: 22px; font-family:'Lucida Sans Unicode','Lucida Grande=
+','Tahoma',Verdana,sans-serif; margin-top: 15px; margin-bottom: 15px; fon=
+t-size: 14px; color:#2b2e2f;">    <a href=3D"http://3drobotics.com/?utm_s=
+ource=3DStore&amp;utm_medium=3Dnavigation&amp;utm_campaign=3DClick+from+S=
+tore">http://3drobotics.com/?utm_source=3DStore&amp;utm_medium=3Dnavigati=
+on&amp;utm_campaign=3DClick+from+Store</a>  </p>  <p style=3D"line-height=
+: 22px; font-family:'Lucida Sans Unicode','Lucida Grande','Tahoma',Verdan=
+a,sans-serif; margin-top: 15px; margin-bottom: 15px; font-size: 14px; col=
+or:#2b2e2f;">    Please let me know if there is anything else I can assis=
+t you with.  </p>  <p style=3D"line-height: 22px; font-family:'Lucida San=
+s Unicode','Lucida Grande','Tahoma',Verdana,sans-serif; margin-top: 15px;=
+ margin-bottom: 15px; font-size: 14px; color:#2b2e2f;">    Thank You  </p=
+>  <p style=3D"line-height: 22px; font-family:'Lucida Sans Unicode','Luci=
+da Grande','Tahoma',Verdana,sans-serif; margin-top: 15px; margin-bottom: =
+15px; font-size: 14px; color:#2b2e2f;">    Agent: Armando<br />  3D Robot=
+ics Customer Support<br />  Email: <a href=3D"mailto:help@3drobotics.com"=
+>help@3drobotics.com</a><br />  Customer Service Num.# (858) 225-1414  </=
+p>                                  </td>        </tr></table></td>  </tr=
+></table></div>
+  </div>
+<span style=3D'color:#FFFFFF'>Message-Id:A46D8Z3B_53fe1a0472a52_4a133fb80=
+c8b33387782d5_sprut</span></body>
+</html>
+
+----==_mimepart_53fe1a0487ab7_4a133fb80c8b33387784f9--

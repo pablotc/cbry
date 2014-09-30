@@ -1,20 +1,22 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-14 13:05:06
+<?php /* Smarty version Smarty-3.1.14, created on 2014-08-25 15:11:44
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/product-list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:183761913153ecec4218e472-81284085%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:138392088853fb7535e56a69-29339455%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '01272e1ca0c3ef49913efa5d43fab294db3f9511' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/product-list.tpl',
-      1 => 1406318374,
+      1 => 1408993893,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '183761913153ecec4218e472-81284085',
+  'nocache_hash' => '138392088853fb7535e56a69-29339455',
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53fb75366ea359_05169718',
   'variables' => 
   array (
     'products' => 0,
@@ -43,10 +45,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'compared_products' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec42902ba6_48395159',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec42902ba6_48395159')) {function content_53ecec42902ba6_48395159($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/home2/amorales/public_html/tools/smarty/plugins/function.math.php';
+<?php if ($_valid && !is_callable('content_53fb75366ea359_05169718')) {function content_53fb75366ea359_05169718($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/home2/amorales/public_html/tools/smarty/plugins/function.math.php';
 ?>
 <?php if (isset($_smarty_tpl->tpl_vars['products']->value)&&$_smarty_tpl->tpl_vars['products']->value){?>
 	
@@ -213,6 +213,40 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 							<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0][0]->smartyHook(array('h'=>"displayProductPriceBlock",'product'=>$_smarty_tpl->tpl_vars['product']->value,'type'=>"unit_price"),$_smarty_tpl);?>
 
 						<?php }?>
+						<!-- CAMBIOS -->
+						</br>
+						<a itemprop="url" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['link'], ENT_QUOTES, 'UTF-8', true);?>
+" title="<?php echo smartyTranslate(array('s'=>'View'),$_smarty_tpl);?>
+">
+							<span class="subrayar">VER</span>
+						</a>| 
+						
+						<?php if (($_smarty_tpl->tpl_vars['product']->value['id_product_attribute']==0||(isset($_smarty_tpl->tpl_vars['add_prod_display']->value)&&($_smarty_tpl->tpl_vars['add_prod_display']->value==1)))&&$_smarty_tpl->tpl_vars['product']->value['available_for_order']&&!isset($_smarty_tpl->tpl_vars['restricted_country_mode']->value)&&$_smarty_tpl->tpl_vars['product']->value['minimal_quantity']<=1&&$_smarty_tpl->tpl_vars['product']->value['customizable']!=2&&!$_smarty_tpl->tpl_vars['PS_CATALOG_MODE']->value){?>
+							<?php if (($_smarty_tpl->tpl_vars['product']->value['allow_oosp']||$_smarty_tpl->tpl_vars['product']->value['quantity']>0)){?>
+								<?php if (isset($_smarty_tpl->tpl_vars['static_token']->value)){?>
+									<a  href="<?php ob_start();?><?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
+<?php $_tmp1=ob_get_clean();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',false,null,"add=1&amp;id_product=".$_tmp1."&amp;token=".((string)$_smarty_tpl->tpl_vars['static_token']->value),false), ENT_QUOTES, 'UTF-8', true);?>
+" rel="nofollow" title="<?php echo smartyTranslate(array('s'=>'Add to cart'),$_smarty_tpl);?>
+" data-id-product="<?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
+">
+										<span class="subrayar">COMPRAR AHORA</span>
+									</a>
+								<?php }else{ ?>
+									<a  href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',false,null,'add=1&amp;id_product={$product.id_product|intval}',false), ENT_QUOTES, 'UTF-8', true);?>
+" rel="nofollow" title="<?php echo smartyTranslate(array('s'=>'Add to cart'),$_smarty_tpl);?>
+" data-id-product="<?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
+">
+										<span class="subrayar">COMPRAR AHORA</span>
+									</a>
+								<?php }?>
+							<?php }else{ ?>
+								<span>
+									<span>COMPRAR AHORA</span>
+								</span>
+							<?php }?>
+						<?php }?>
+						
+						<!-- FIN CAMBIOS-->
 					</div>
 					<?php }?>
 					<div class="button-container">
@@ -220,7 +254,7 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 							<?php if (($_smarty_tpl->tpl_vars['product']->value['allow_oosp']||$_smarty_tpl->tpl_vars['product']->value['quantity']>0)){?>
 								<?php if (isset($_smarty_tpl->tpl_vars['static_token']->value)){?>
 									<a class="button ajax_add_to_cart_button btn btn-default" href="<?php ob_start();?><?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
-<?php $_tmp1=ob_get_clean();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',false,null,"add=1&amp;id_product=".$_tmp1."&amp;token=".((string)$_smarty_tpl->tpl_vars['static_token']->value),false), ENT_QUOTES, 'UTF-8', true);?>
+<?php $_tmp2=ob_get_clean();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',false,null,"add=1&amp;id_product=".$_tmp2."&amp;token=".((string)$_smarty_tpl->tpl_vars['static_token']->value),false), ENT_QUOTES, 'UTF-8', true);?>
 " rel="nofollow" title="<?php echo smartyTranslate(array('s'=>'Add to cart'),$_smarty_tpl);?>
 " data-id-product="<?php echo intval($_smarty_tpl->tpl_vars['product']->value['id_product']);?>
 ">
@@ -269,7 +303,7 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 					</div>
 					<?php if ((!$_smarty_tpl->tpl_vars['PS_CATALOG_MODE']->value&&$_smarty_tpl->tpl_vars['PS_STOCK_MANAGEMENT']->value&&((isset($_smarty_tpl->tpl_vars['product']->value['show_price'])&&$_smarty_tpl->tpl_vars['product']->value['show_price'])||(isset($_smarty_tpl->tpl_vars['product']->value['available_for_order'])&&$_smarty_tpl->tpl_vars['product']->value['available_for_order'])))){?>
 						<?php if (isset($_smarty_tpl->tpl_vars['product']->value['available_for_order'])&&$_smarty_tpl->tpl_vars['product']->value['available_for_order']&&!isset($_smarty_tpl->tpl_vars['restricted_country_mode']->value)){?>
-							<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+					<!-- CAMBIO:		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
 								<?php if (($_smarty_tpl->tpl_vars['product']->value['allow_oosp']||$_smarty_tpl->tpl_vars['product']->value['quantity']>0)){?>
 									<span class="<?php if ($_smarty_tpl->tpl_vars['product']->value['quantity']<=0&&!$_smarty_tpl->tpl_vars['product']->value['allow_oosp']){?>out-of-stock<?php }else{ ?>available-now<?php }?>">
 										<link itemprop="availability" href="http://schema.org/InStock" /><?php if ($_smarty_tpl->tpl_vars['product']->value['quantity']<=0){?><?php if ($_smarty_tpl->tpl_vars['product']->value['allow_oosp']){?><?php if (isset($_smarty_tpl->tpl_vars['product']->value['available_later'])&&$_smarty_tpl->tpl_vars['product']->value['available_later']){?><?php echo $_smarty_tpl->tpl_vars['product']->value['available_later'];?>
@@ -290,7 +324,7 @@ $_smarty_tpl->tpl_vars['product']->_loop = true;
 
 									</span>
 								<?php }?>
-							</span>
+							</span> -->
 						<?php }?>
 					<?php }?>
 				</div>

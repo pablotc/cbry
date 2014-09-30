@@ -1,0 +1,642 @@
+Return-path: <juan.ljubetic@payulatam.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Thu, 25 Sep 2014 14:51:46 -0500
+Received: from na3sys009aog108.obsmtp.com ([74.125.149.199]:40090)
+	by gator3101.hostgator.com with smtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <juan.ljubetic@payulatam.com>)
+	id 1XXF4Z-000Ieg-GP
+	for admin@cccchile.cl; Thu, 25 Sep 2014 14:51:46 -0500
+Received: from mail-la0-f50.google.com ([209.85.215.50]) (using TLSv1) by na3sys009aob108.postini.com ([74.125.148.12]) with SMTP
+	ID DSNKVCRyOro6qk5YvdUSXg9HK4m4Yryvp0pq@postini.com; Thu, 25 Sep 2014 12:51:24 PDT
+Received: by mail-la0-f50.google.com with SMTP id el20so1605252lab.23
+        for <admin@cccchile.cl>; Thu, 25 Sep 2014 12:51:15 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=PH2cl0xh7yeuqenAAOuqWiawp/TieDeEAqGVRAiXmcA=;
+        b=S6kaIZpSel0YOMzhrZ57sZKqNYAtAqUYXX4NJLhlMkuCVK2Y9kKttnLlEjFgU1pgiG
+         9nxn44aXRWdyxRxRsSboULUel6/Vs4Tkn8O+aIEMB1MG0Z9LMwMvFutOEuF/cncHnUFp
+         5+AStNVpprPwXrhMP3YWzUFqKLqj2nV+ZfH2+UZFcFJUJcmAbe7ty5ZCRuR7CjavNcWV
+         87BOELyZGqrSn9SK98Q+3MQoisOnQVO2tl52AB9rFzBSbiJ7iGpW93cOEkvVOWxL4CBe
+         56KR76mFws3tws7BfIcqZ2J4GYO6dmj7hEWncoHOhm3xsC/Q3DLtvsQDrvdB3689MG0I
+         WdvQ==
+X-Gm-Message-State: ALoCoQmCEBQ73b16NeRMuj0aUOVCMPcKAmD1IKIo/9ymhIKzTw3kFeAHUNdNWCgkXRJxJR5qdgT1kcWxM8cWe/j8k+NC/K11hje6ActG04/5Q65Bh9XHgzSo0sY2dfKyoYLVA0v642qosG6wXn6PBC2Ivw7LMZ5Wsw==
+X-Received: by 10.112.126.194 with SMTP id na2mr14791275lbb.70.1411674675490;
+        Thu, 25 Sep 2014 12:51:15 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.112.126.194 with SMTP id na2mr14791250lbb.70.1411674675162;
+ Thu, 25 Sep 2014 12:51:15 -0700 (PDT)
+Received: by 10.112.159.67 with HTTP; Thu, 25 Sep 2014 12:51:15 -0700 (PDT)
+In-Reply-To: <18cbf367b9d0741f0444a6983c83d734.squirrel@gator3101.hostgator.com>
+References: <CAE_HFoY_PL=VGrKG6mY0omSHBB1wKexaqLVhHCWcTU8Wubm0UA@mail.gmail.com>
+	<0c151738f6b8ab3755e1093fd0ace6d5.squirrel@gator3101.hostgator.com>
+	<CAE_HFoYs0K5UrtzuopA5ZXvTGof=_Moey6R=smTcOnja0xH64g@mail.gmail.com>
+	<06a1c23be5695486909e8d1277ecc7a4.squirrel@gator3101.hostgator.com>
+	<CAE_HFob+jvZC0i0AAjd97tfNwHzdfN09N_n18T=kQw-DALnKUQ@mail.gmail.com>
+	<18cbf367b9d0741f0444a6983c83d734.squirrel@gator3101.hostgator.com>
+Date: Thu, 25 Sep 2014 16:51:15 -0300
+Message-ID: <CAE_HFobjgwHBi0ELLZXrr+=1L5kWTx-kDVoN_rXeUVew2EkyAw@mail.gmail.com>
+Subject: Re: Datos de contacto
+From: Juan Ljubetic Godoy <juan.ljubetic@payulatam.com>
+To: Admin Canterbury Chile <admin@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a11c376c88d44350503e91fd6
+
+--001a11c376c88d44350503e91fd6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Pablo, trata de enviarme todos los documentos en PDF.
+
+Saludos,
+
+El 25 de septiembre de 2014, 16:43, Admin Canterbury Chile <
+admin@cccchile.cl> escribi=C3=B3:
+
+> Estimado Juan,
+>
+> Aceptamos el 4% + IVA.
+> A continuaci=C3=B3n te enviar=C3=A9 los documentos solicitados desde mi c=
+orreo
+> personal porque no pude adjuntarlos por aqu=C3=AD.
+>
+> Por favor conf=C3=ADrmame la correcta recepci=C3=B3n de los documentos. Q=
+uedo atento
+> a cualquier otra cosa que necesites para la instalaci=C3=B3n del m=C3=B3d=
+ulo de PayU
+> en nuestro sitio web.
+>
+> Saludos,
+>
+> On Wed, September 3, 2014 11:21 am, Juan Ljubetic Godoy wrote:
+> > Ok, un 4% + IVA
+> >
+> >
+> > Espero la documentaci=C3=83=C2=B3n
+> >
+> >
+> > Saludos,
+> >
+> >
+> >
+> > El 3 de septiembre de 2014, 12:03, Admin Canterbury Chile
+> > <admin@cccchile.cl
+> >
+> >> escribi=C3=83=C2=B3:
+> >>
+> >
+> >> Juan,
+> >>
+> >>
+> >> Inten=C3=83=C2=A9mos dejarlo en 4% + IVA.
+> >> Cu=C3=83=C2=A9ntame como te va.
+> >>
+> >>
+> >> Saludos,
+> >>
+> >>
+> >> On Wed, September 3, 2014 10:50 am, Juan Ljubetic Godoy wrote:
+> >>
+> >>> Pablo, la mejor propuesta que te puedo entregar ahora es un 4,20% +
+> >>> IVA
+> >>> para el pago con tarjetas de d=C3=83=C2=A9bito y cr=C3=83=C2=A9dito. =
+El resto de las
+> >>> tarifas se mantienen estandar. Hay que destacar que Transbank a
+> >>> nosotros nos
+> >> cobra
+> >>> un 3% + IVA y las ventas v=C3=83=C2=ADa internet las paga los d=C3=83=
+=C2=ADas 8 de cada
+> >>> mes. Si estas de acuerdo, necesito me envies los siguientes documento=
+s
+> >>> y
+> >> completes
+> >>> el formulario adjunto.
+> >>>
+> >>> *Persona Jur=C3=83=C2=ADdica:*
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  RUT empresa por ambos lados
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  C=C3=83=C2=A9dula Identidad Representante Legal ambos l=
+ados.
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Encabezado cartola bancaria de la empresa.
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Comprobante de domicilio: boleta de servicio b=C3=83=C2=
+=A1sico a nombre de
+> >>> la empresa que contenga direcci=C3=83=C2=B3n registrada en cuenta Din=
+eromail
+> >>> (electricidad, agua,cable,Internet etc.).
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Constituci=C3=83=C2=B3n de sociedad.
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Factura o boleta de venta timbrada por el SII.
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Iniciaci=C3=83=C2=B3n de actividades (SII).
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  URL del sitio web donde utilizar=C3=83=C2=A1 el servici=
+o.
+> >>>
+> >>>
+> >>>
+> >>> =C3=82=C2=B7  Breve descripci=C3=83=C2=B3n de los productos o servici=
+os que comercializa
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Saludos,
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> El 28 de agosto de 2014, 16:32, Admin Canterbury Chile
+> >>> <admin@cccchile.cl>
+> >>> escribi=C3=83=C2=B3:
+> >>>
+> >>>
+> >>>
+> >>>> Juan,
+> >>>>
+> >>>>
+> >>>>
+> >>>> Guillermo es el representante legal pero yo voy a ver el tema con
+> >>>> ustedes. Nosotros tenemos una tienda prestashop y necesitamos
+> >>>> generar una cuenta para poder utilizar su m=C3=83=C2=B3dulo de PayU.=
+ Te dejo
+> >>>> mi celular en la firma.
+> >>>>
+> >>>> Me avisas como proseguimos.
+> >>>> Saludos,
+> >>>>
+> >>>>
+> >>>>
+> >>>> Pablo Tapia Caro.
+> >>>> +569 9220 0475
+> >>>>
+> >>>>
+> >>>>
+> >>>> On Thu, August 28, 2014 2:52 pm, Juan Ljubetic Godoy wrote:
+> >>>>
+> >>>>
+> >>>>> Hola Jos=C3=83=C2=A9, me pasaron tus datos de contacto por que esta=
+s
+> >>>>> interesado en operar a trav=C3=83=C2=A9s de nuestra plataforma de p=
+agos.
+> >>>>> Dime en que te
+> >>>>> puedo ayudar, que consultas tienes. H=C3=83=C2=A1zmelas saber y me =
+das un
+> >>>>> n=C3=83=C2=BAmero de tel=C3=83=C2=A9fonos en donde te pueda llamar,=
+ dame una hora en
+> >>>>> que te acomode mas el llamado.
+> >>>>>
+> >>>>> --
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> *Juan Ljubetic Godoy*
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> *Business Development Chile*
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> F: + 56 9 78883389 + 56 02 28204359
+> >>>>> E: juan.ljubetic@payulatam.com
+> >>>>> S: juan.ljubetic.payulatam
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> Alonso  de C=C3=83=C2=B3rdova 5870, Oficina1120         Las Condes,
+> >>>>> Santiago,
+> >>>>> Chile
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>>
+> >>>>> www.payulatam.com
+> >>>>>
+> >>>>
+> >>>>
+> >>>
+> >>>
+> >>> --
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> *Juan Ljubetic Godoy*
+> >>>
+> >>>
+> >>>
+> >>> *Business Development Chile*
+> >>>
+> >>>
+> >>>
+> >>> F: + 56 9 78883389 + 56 02 28204359
+> >>> E: juan.ljubetic@payulatam.com
+> >>> S: juan.ljubetic.payulatam
+> >>>
+> >>>
+> >>>
+> >>> Alonso  de C=C3=83=C2=B3rdova 5870, Oficina1120         Las Condes, S=
+antiago,
+> >>> Chile
+> >>>
+> >>>
+> >>>
+> >>> www.payulatam.com
+> >>>
+> >>
+> >>
+> >
+> >
+> > --
+> >
+> >
+> >
+> > *Juan Ljubetic Godoy*
+> >
+> >
+> > *Business Development Chile*
+> >
+> >
+> > F: + 56 9 78883389 + 56 02 28204359
+> > E: juan.ljubetic@payulatam.com
+> > S: juan.ljubetic.payulatam
+> >
+> >
+> > Alonso  de C=C3=83=C2=B3rdova 5870, Oficina1120         Las Condes, San=
+tiago, Chile
+> >
+> >
+> > www.payulatam.com
+> >
+>
+>
+
+
+--=20
+
+
+*Juan Ljubetic Godoy*
+
+*Business Development Chile*
+
+F: + 56 9 78883389 + 56 02 28204359
+E: juan.ljubetic@payulatam.com
+S: juan.ljubetic.payulatam
+
+Alonso  de C=C3=B3rdova 5870, Oficina1120         Las Condes, Santiago, Chi=
+le
+
+   www.payulatam.com
+
+--001a11c376c88d44350503e91fd6
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Pablo, trata de enviarme todos los documentos en PDF.<div>=
+<br></div><div>Saludos,</div></div><div class=3D"gmail_extra"><br><div clas=
+s=3D"gmail_quote">El 25 de septiembre de 2014, 16:43, Admin Canterbury Chil=
+e <span dir=3D"ltr">&lt;<a href=3D"mailto:admin@cccchile.cl" target=3D"_bla=
+nk">admin@cccchile.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D=
+"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding=
+-left:1ex">Estimado Juan,<br>
+<br>
+Aceptamos el 4% + IVA.<br>
+A continuaci=C3=B3n te enviar=C3=A9 los documentos solicitados desde mi cor=
+reo<br>
+personal porque no pude adjuntarlos por aqu=C3=AD.<br>
+<br>
+Por favor conf=C3=ADrmame la correcta recepci=C3=B3n de los documentos. Que=
+do atento<br>
+a cualquier otra cosa que necesites para la instalaci=C3=B3n del m=C3=B3dul=
+o de PayU<br>
+en nuestro sitio web.<br>
+<br>
+Saludos,<br>
+<br>
+On Wed, September 3, 2014 11:21 am, Juan Ljubetic Godoy wrote:<br>
+&gt; Ok, un 4% + IVA<br>
+&gt;<br>
+&gt;<br>
+&gt; Espero la documentaci=C3=83=C2=B3n<br>
+&gt;<br>
+&gt;<br>
+&gt; Saludos,<br>
+&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; El 3 de septiembre de 2014, 12:03, Admin Canterbury Chile<br>
+&gt; &lt;<a href=3D"mailto:admin@cccchile.cl">admin@cccchile.cl</a><br>
+&gt;<br>
+&gt;&gt; escribi=C3=83=C2=B3:<br>
+&gt;&gt;<br>
+&gt;<br>
+&gt;&gt; Juan,<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Inten=C3=83=C2=A9mos dejarlo en 4% + IVA.<br>
+&gt;&gt; Cu=C3=83=C2=A9ntame como te va.<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Saludos,<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; On Wed, September 3, 2014 10:50 am, Juan Ljubetic Godoy wrote:<br>
+&gt;&gt;<br>
+&gt;&gt;&gt; Pablo, la mejor propuesta que te puedo entregar ahora es un 4,=
+20% +<br>
+&gt;&gt;&gt; IVA<br>
+&gt;&gt;&gt; para el pago con tarjetas de d=C3=83=C2=A9bito y cr=C3=83=C2=
+=A9dito. El resto de las<br>
+&gt;&gt;&gt; tarifas se mantienen estandar. Hay que destacar que Transbank =
+a<br>
+&gt;&gt;&gt; nosotros nos<br>
+&gt;&gt; cobra<br>
+&gt;&gt;&gt; un 3% + IVA y las ventas v=C3=83=C2=ADa internet las paga los =
+d=C3=83=C2=ADas 8 de cada<br>
+&gt;&gt;&gt; mes. Si estas de acuerdo, necesito me envies los siguientes do=
+cumentos<br>
+&gt;&gt;&gt; y<br>
+&gt;&gt; completes<br>
+&gt;&gt;&gt; el formulario adjunto.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; *Persona Jur=C3=83=C2=ADdica:*<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 RUT empresa por ambos lados<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 C=C3=83=C2=A9dula Identidad Representante L=
+egal ambos lados.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Encabezado cartola bancaria de la empresa.<=
+br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Comprobante de domicilio: boleta de servici=
+o b=C3=83=C2=A1sico a nombre de<br>
+&gt;&gt;&gt; la empresa que contenga direcci=C3=83=C2=B3n registrada en cue=
+nta Dineromail<br>
+&gt;&gt;&gt; (electricidad, agua,cable,Internet etc.).<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Constituci=C3=83=C2=B3n de sociedad.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Factura o boleta de venta timbrada por el S=
+II.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Iniciaci=C3=83=C2=B3n de actividades (SII).=
+<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 URL del sitio web donde utilizar=C3=83=C2=
+=A1 el servicio.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; =C3=82=C2=B7=C2=A0 Breve descripci=C3=83=C2=B3n de los product=
+os o servicios que comercializa<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Saludos,<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; El 28 de agosto de 2014, 16:32, Admin Canterbury Chile<br>
+&gt;&gt;&gt; &lt;<a href=3D"mailto:admin@cccchile.cl">admin@cccchile.cl</a>=
+&gt;<br>
+&gt;&gt;&gt; escribi=C3=83=C2=B3:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Juan,<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Guillermo es el representante legal pero yo voy a ver el t=
+ema con<br>
+&gt;&gt;&gt;&gt; ustedes. Nosotros tenemos una tienda prestashop y necesita=
+mos<br>
+&gt;&gt;&gt;&gt; generar una cuenta para poder utilizar su m=C3=83=C2=B3dul=
+o de PayU. Te dejo<br>
+&gt;&gt;&gt;&gt; mi celular en la firma.<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Me avisas como proseguimos.<br>
+&gt;&gt;&gt;&gt; Saludos,<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Pablo Tapia Caro.<br>
+&gt;&gt;&gt;&gt; <a href=3D"tel:%2B569%209220%200475" value=3D"+56992200475=
+">+569 9220 0475</a><br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; On Thu, August 28, 2014 2:52 pm, Juan Ljubetic Godoy wrote=
+:<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; Hola Jos=C3=83=C2=A9, me pasaron tus datos de contacto=
+ por que estas<br>
+&gt;&gt;&gt;&gt;&gt; interesado en operar a trav=C3=83=C2=A9s de nuestra pl=
+ataforma de pagos.<br>
+&gt;&gt;&gt;&gt;&gt; Dime en que te<br>
+&gt;&gt;&gt;&gt;&gt; puedo ayudar, que consultas tienes. H=C3=83=C2=A1zmela=
+s saber y me das un<br>
+&gt;&gt;&gt;&gt;&gt; n=C3=83=C2=BAmero de tel=C3=83=C2=A9fonos en donde te =
+pueda llamar, dame una hora en<br>
+&gt;&gt;&gt;&gt;&gt; que te acomode mas el llamado.<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; --<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; *Juan Ljubetic Godoy*<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; *Business Development Chile*<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; F: <a href=3D"tel:%2B%2056%209%2078883389" value=3D"+5=
+6978883389">+ 56 9 78883389</a> <a href=3D"tel:%2B%2056%2002%2028204359" va=
+lue=3D"+56228204359">+ 56 02 28204359</a><br>
+&gt;&gt;&gt;&gt;&gt; E: <a href=3D"mailto:juan.ljubetic@payulatam.com">juan=
+.ljubetic@payulatam.com</a><br>
+&gt;&gt;&gt;&gt;&gt; S: juan.ljubetic.payulatam<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; Alonso=C2=A0 de C=C3=83=C2=B3rdova 5870, Oficina1120=
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0Las Condes,<br>
+&gt;&gt;&gt;&gt;&gt; Santiago,<br>
+&gt;&gt;&gt;&gt;&gt; Chile<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;&gt; <a href=3D"http://www.payulatam.com" target=3D"_blank"=
+>www.payulatam.com</a><br>
+&gt;&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; --<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; *Juan Ljubetic Godoy*<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; *Business Development Chile*<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; F: <a href=3D"tel:%2B%2056%209%2078883389" value=3D"+569788833=
+89">+ 56 9 78883389</a> <a href=3D"tel:%2B%2056%2002%2028204359" value=3D"+=
+56228204359">+ 56 02 28204359</a><br>
+&gt;&gt;&gt; E: <a href=3D"mailto:juan.ljubetic@payulatam.com">juan.ljubeti=
+c@payulatam.com</a><br>
+&gt;&gt;&gt; S: juan.ljubetic.payulatam<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Alonso=C2=A0 de C=C3=83=C2=B3rdova 5870, Oficina1120=C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0Las Condes, Santiago,<br>
+&gt;&gt;&gt; Chile<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; <a href=3D"http://www.payulatam.com" target=3D"_blank">www.pay=
+ulatam.com</a><br>
+&gt;&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; --<br>
+&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; *Juan Ljubetic Godoy*<br>
+&gt;<br>
+&gt;<br>
+&gt; *Business Development Chile*<br>
+&gt;<br>
+&gt;<br>
+&gt; F: <a href=3D"tel:%2B%2056%209%2078883389" value=3D"+56978883389">+ 56=
+ 9 78883389</a> <a href=3D"tel:%2B%2056%2002%2028204359" value=3D"+56228204=
+359">+ 56 02 28204359</a><br>
+&gt; E: <a href=3D"mailto:juan.ljubetic@payulatam.com">juan.ljubetic@payula=
+tam.com</a><br>
+&gt; S: juan.ljubetic.payulatam<br>
+&gt;<br>
+&gt;<br>
+&gt; Alonso=C2=A0 de C=C3=83=C2=B3rdova 5870, Oficina1120=C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0Las Condes, Santiago, Chile<br>
+&gt;<br>
+&gt;<br>
+&gt; <a href=3D"http://www.payulatam.com" target=3D"_blank">www.payulatam.c=
+om</a><br>
+&gt;<br>
+<br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div dir=3D"=
+ltr"><font face=3D"georgia, serif"><font color=3D"#0000ff">=C2=A0</font><fo=
+nt color=3D"#0000ff"> =C2=A0 =C2=A0 =C2=A0</font></font><table border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse"><tb=
+ody><tr><td width=3D"206" valign=3D"top" style=3D"width:154.25pt;border-sty=
+le:none solid none none;border-right-color:rgb(217,217,217);border-right-wi=
+dth:1pt;padding:0cm 5.4pt"><p style=3D"margin-bottom:0.0001pt"><b><span lan=
+g=3D"EN-US" style=3D"font-size:14pt;font-family:Arial,sans-serif;color:rgb(=
+0,156,221)">Juan Ljubetic Godoy</span></b><span lang=3D"EN-US" style=3D"fon=
+t-size:10pt;font-family:Arial,sans-serif;color:rgb(80,0,80)"></span></p><p =
+style=3D"margin-bottom:0.0001pt"><b><span lang=3D"EN-US" style=3D"font-size=
+:10pt;font-family:Arial,sans-serif;color:rgb(28,58,133)">Business Developme=
+nt Chile</span></b><span lang=3D"EN-US" style=3D"font-size:10pt;font-family=
+:Arial,sans-serif;color:rgb(80,0,80)"></span></p><p style=3D"margin-bottom:=
+0.0001pt"><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,san=
+s-serif;color:rgb(0,156,221)">F:=C2=A0</span><span lang=3D"EN-US" style=3D"=
+color:rgb(17,85,204);font-size:8pt;font-family:Arial,sans-serif"><a style=
+=3D"color:rgb(17,85,204)">+ 56 9 78883389</a>=C2=A0+ 56 02 28204359</span><=
+span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-serif;col=
+or:rgb(89,89,89)"><br></span><span lang=3D"EN-US" style=3D"font-size:8pt;fo=
+nt-family:Arial,sans-serif;color:rgb(0,156,221)">E:</span><span lang=3D"EN-=
+US" style=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)=
+">=C2=A0</span><a href=3D"mailto:juan.ljubetic@payulatam.com" style=3D"colo=
+r:rgb(17,85,204)" target=3D"_blank"><span lang=3D"EN-US" style=3D"font-size=
+:8pt;font-family:Arial,sans-serif">juan.ljubetic@payulatam.com</span></a><s=
+pan style=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)=
+">=C2=A0</span><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Aria=
+l,sans-serif;color:rgb(80,0,80)">=C2=A0<br></span><span lang=3D"EN-US" styl=
+e=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb(0,156,221)">S:</s=
+pan><span lang=3D"EN-US" style=3D"font-size:8pt;font-family:Arial,sans-seri=
+f;color:rgb(89,89,89)">=C2=A0</span><span lang=3D"EN-US" style=3D"font-size=
+:8pt;font-family:Arial,sans-serif;color:rgb(84,141,212)">juan.ljubetic.payu=
+latam</span><span lang=3D"EN-US" style=3D"font-size:10pt;font-family:Arial,=
+sans-serif;color:rgb(80,0,80)"></span></p><p><span lang=3D"ES" style=3D"fon=
+t-size:8pt;font-family:Arial,sans-serif;color:rgb(89,89,89)">Alonso =C2=A0d=
+e C=C3=B3rdova 5870, </span><span lang=3D"ES" style=3D"font-size:8pt;font-f=
+amily:Arial,sans-serif"><font color=3D"#3d85c6">Oficina</font></span><span =
+lang=3D"ES" style=3D"font-size:8pt;font-family:Arial,sans-serif;color:rgb(8=
+9,89,89)">1120 =C2=A0 =C2=A0 =C2=A0 =C2=A0 Las Condes, </span><span lang=3D=
+"ES" style=3D"font-size:8pt;font-family:Arial,sans-serif"><font color=3D"#3=
+d85c6">Santiago, Chile</font></span><span style=3D"font-size:10pt;font-fami=
+ly:Arial,sans-serif;color:rgb(80,0,80)"></span></p></td><td width=3D"173" v=
+align=3D"top" style=3D"width:130.1pt;padding:0cm 5.4pt"></td></tr></tbody><=
+/table><p><span style=3D"color:rgb(17,85,204);font-size:9pt;line-height:13.=
+800000190734863px">=C2=A0 =C2=A0<a href=3D"http://www.payulatam.com/" style=
+=3D"color:rgb(17,85,204)" target=3D"_blank">www.payulatam.com</a></span></p=
+><div><br><div>=C2=A0</div><div><br></div><div>=C2=A0=C2=A0<br><table borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:4=
+46px"><tbody></tbody></table></div></div></div>
+</div>
+
+--001a11c376c88d44350503e91fd6--

@@ -1,0 +1,113 @@
+Return-path: <>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Mon, 08 Sep 2014 13:36:41 -0500
+Received: from gateway06.websitewelcome.com ([69.93.243.29]:37196)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1XR3ns-000AEJ-Oj
+	for nseguel@cccchile.cl; Mon, 08 Sep 2014 13:36:40 -0500
+Received: by gateway06.websitewelcome.com (Postfix)
+	id 589D28950D2B8; Mon,  8 Sep 2014 13:36:39 -0500 (CDT)
+Date: Mon,  8 Sep 2014 13:36:39 -0500 (CDT)
+From: MAILER-DAEMON@gateway06.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: nseguel@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="554948950D294.1410201399/gateway06.websitewelcome.com"
+Message-Id: <20140908183639.589D28950D2B8@gateway06.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--554948950D294.1410201399/gateway06.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway06.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<Josekhamis@gmail.con>: Host or domain name not found. Name service error for
+    name=gmail.con type=A: Host not found
+
+--554948950D294.1410201399/gateway06.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway06.websitewelcome.com
+X-Postfix-Queue-ID: 554948950D294
+X-Postfix-Sender: rfc822; nseguel@cccchile.cl
+Arrival-Date: Mon,  8 Sep 2014 13:36:39 -0500 (CDT)
+
+Final-Recipient: rfc822; Josekhamis@gmail.con
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=gmail.con type=A: Host not found
+
+--554948950D294.1410201399/gateway06.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <nseguel@cccchile.cl>
+Received: by gateway06.websitewelcome.com (Postfix, from userid 5007)
+	id 554948950D294; Mon,  8 Sep 2014 13:36:39 -0500 (CDT)
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway06.websitewelcome.com (Postfix) with ESMTP id 43BD68950D271
+	for <Josekhamis@gmail.con>; Mon,  8 Sep 2014 13:36:39 -0500 (CDT)
+Received: from [201.220.243.43] (port=52672 helo=[10.232.45.172])
+	by gator3101.hostgator.com with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.82)
+	(envelope-from <nseguel@cccchile.cl>)
+	id 1XR3nn-000A0S-Kw; Mon, 08 Sep 2014 13:36:36 -0500
+From: =?utf-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Subject: Canterbury 
+Message-Id: <E8166BAB-6E68-4446-AFDE-3E80FF2D7E38@cccchile.cl>
+Date: Mon, 8 Sep 2014 15:36:30 -0300
+Cc: Andres Morales <andres.moralesg@gmail.com>,
+ Andres Morales <amorales@cccchile.cl>
+To: "Franof.0@gmail.com" <Franof.0@gmail.com>,
+ "Josekhamis@gmail.con" <Josekhamis@gmail.con>
+X-Mailer: iPhone Mail (11D257)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - gmail.con
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 201.220.243.43
+X-Exim-ID: 1XR3nn-000A0S-Kw
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: ([10.232.45.172]) [201.220.243.43]:52672
+X-Source-Auth: amorales
+X-Email-Count: 8
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+Hola Frano,
+
+De acuerdo a lo conversado, te confirmo la reuni=C3=B3n para este viernes 12=
+ a las 19.00hrs. Nos juntar=C3=ADamos En tu casa o como segunda opci=C3=B3n e=
+l Starbucks del shooping.=20
+
+Quedo atento a tu confirmaci=C3=B3n, saludos!=20
+
+Nicolas Seguel
+Canterbury Chile
++56 9 7809 4475=
+
+--554948950D294.1410201399/gateway06.websitewelcome.com--

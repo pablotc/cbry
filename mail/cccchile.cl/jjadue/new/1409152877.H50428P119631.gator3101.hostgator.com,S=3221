@@ -1,0 +1,98 @@
+Return-path: <help@3drobotics.com>
+Envelope-to: jjadue@cccchile.cl
+Delivery-date: Wed, 27 Aug 2014 10:21:17 -0500
+Received: from out2.pod4.sac1.zdsys.com ([192.161.146.69]:51034)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <help@3drobotics.com>)
+	id 1XMf2C-000V3x-R9
+	for jjadue@cccchile.cl; Wed, 27 Aug 2014 10:21:16 -0500
+Received: from zendesk.com (work3.pod4.sac1.zdsys.com [10.100.5.13])
+	by out2.pod4.sac1.zdsys.com (Postfix) with ESMTP id B550F213575B
+	for <jjadue@cccchile.cl>; Wed, 27 Aug 2014 15:21:14 +0000 (UTC)
+Date: Wed, 27 Aug 2014 15:21:14 +0000
+From: 3DR <help@3drobotics.com>
+Reply-To: 3DR <help@3drobotics.com>
+To: =?UTF-8?B?Sm9hcXXDrW4=?= Jadue <jjadue@cccchile.cl>
+Message-ID: <A46D8Z3B_53fdf76aa5f21_8d43fc4cacb332872280_sprut@zendesk.com>
+In-Reply-To: <A46D8Z3B@zendesk.com>
+Subject: Request received: Shipping
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_53fdf76ab1751_8d43fc4cacb332872439";
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+Auto-Submitted: auto-generated
+X-Mailer: Zendesk Mailer
+X-Delivery-Context: event-id-12244731775
+DKIM-Signature:  v=1; a=rsa-sha256; c=relaxed/relaxed; d=3drobotics.com;
+ q=dns/txt; s=zendesk1; t=1409152874;
+ bh=yg0Up9dtoCryTO4kuYhSsGoLkJLinmaukJLL0YAY/vM=;
+ h=date:from:reply-to:to:message-id:in-reply-to:subject:mime-version:content-type:content-transfer-encoding;
+ b=BsSLxR5edl0CFAxxSzR3rK8NZdB0vbTqOMXCRu75x1KGn6xAOajKYiaSevKa5m/MK1JcFmxceNkk+bD7DLlVJpeMYxO0SQ5JVF/76jl6IdNybrnK9GZPqQgDSupBqk8HjG9wp2BnmoDyUPEDLP4FQIsVcfzhyPAMB98TaA4DtLI=
+
+
+----==_mimepart_53fdf76ab1751_8d43fc4cacb332872439
+Content-Type: text/plain;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+##- Please type your reply above this line -##
+
+Request received: Shipping
+
+Dear customer,
+
+Thank you for contacting 3D Robotics Help Desk. A customer representative=
+ will get back to you in within one business day.
+
+Cheers,
+
+The 3DR Support Team
+
+
+
+--------------------------------
+This email is a service from 3drobotics.
+
+
+
+
+
+
+
+
+
+[A46D-8Z3B]=
+
+----==_mimepart_53fdf76ab1751_8d43fc4cacb332872439
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <style type=3D"text/css">
+    table td {
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body style=3D"width: 100%!important; margin: 0; padding: 0;">
+  <div style=3D"padding: 10px ; line-height: 18px; font-family: 'Lucida G=
+rande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style=3D"color: #b5b5b5;">##- Please type your reply above this =
+line -##</div>
+    <p>Dear customer,</p><p>Thank you for contacting 3D Robotics Help Des=
+k. A customer representative will get back to you in within one business =
+day.</p><p>Cheers,</p><p>The 3DR Support Team</p><p></p>
+  </div>
+<span style=3D'color:#FFFFFF'>Message-Id:A46D8Z3B_53fdf76aa5f21_8d43fc4ca=
+cb332872280_sprut</span></body>
+</html>
+
+----==_mimepart_53fdf76ab1751_8d43fc4cacb332872439--

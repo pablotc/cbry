@@ -33,7 +33,7 @@ class BlockBanner extends Module
 	{
 		$this->name = 'blockbanner';
 		$this->tab = 'front_office_features';
-		$this->version = '1.3.1';
+		$this->version = '1.3.3';
 		$this->author = 'PrestaShop';
 		$this->need_instance = 0;
 
@@ -41,7 +41,7 @@ class BlockBanner extends Module
 		parent::__construct();	
 
 		$this->displayName = $this->l('Banner block');
-		$this->description = $this->l('Displays a banner at the top of the store.');
+		$this->description = $this->l('Displays a banner at the top of the shop.');
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => _PS_VERSION_);
 	}
 
@@ -136,7 +136,7 @@ class BlockBanner extends Module
 					&& !empty($_FILES['BLOCKBANNER_IMG_'.$lang['id_lang']]['tmp_name']))
 				{
 					if ($error = ImageManager::validateUpload($_FILES['BLOCKBANNER_IMG_'.$lang['id_lang']], 4000000))
-						return $this->displayError($this->l('Invalid image'));
+						return $error;
 					else
 					{
 						$ext = substr($_FILES['BLOCKBANNER_IMG_'.$lang['id_lang']]['name'], strrpos($_FILES['BLOCKBANNER_IMG_'.$lang['id_lang']]['name'], '.') + 1);
@@ -189,22 +189,22 @@ class BlockBanner extends Module
 				'input' => array(
 					array(
 						'type' => 'file_lang',
-						'label' => $this->l('Block image'),
+						'label' => $this->l('Top banner image'),
 						'name' => 'BLOCKBANNER_IMG',
-						'desc' => $this->l('You can either upload the image file, or enter its absolute link in the "Image link" option below.'),
+						'desc' => $this->l('Upload an image for your top banner. The recommended dimensions are 1170 x 65px if you are using the default theme.'),
 						'lang' => true,
 					),
 					array(
 						'type' => 'text',
 						'lang' => true,
-						'label' => $this->l('Image link'),
+						'label' => $this->l('Banner Link'),
 						'name' => 'BLOCKBANNER_LINK',
-						'desc' => $this->l('You can either enter the image\'s absolute link, or upload the image file in the "Block image" option above.')
+						'desc' => $this->l('Enter the link associated to your banner. When clicking on the banner, the link opens in the same window. If no link is entered, it redirects to the homepage.')
 					),			
 					array(
 						'type' => 'text',
 						'lang' => true,
-						'label' => $this->l('Image description'),
+						'label' => $this->l('Banner description'),
 						'name' => 'BLOCKBANNER_DESC',
 						'desc' => $this->l('Please enter a short but meaningful description for the banner.')
 					)

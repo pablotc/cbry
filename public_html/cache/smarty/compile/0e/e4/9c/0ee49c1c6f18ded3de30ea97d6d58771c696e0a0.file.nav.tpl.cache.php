@@ -1,40 +1,52 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-14 13:04:28
+<?php /* Smarty version Smarty-3.1.14, created on 2014-09-14 02:05:03
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:119363724353ecec1ce280b7-90958207%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:92832743953fb7536eadd56-27656503%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '0ee49c1c6f18ded3de30ea97d6d58771c696e0a0' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1406318375,
+      1 => 1410671099,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '119363724353ecec1ce280b7-90958207',
+  'nocache_hash' => '92832743953fb7536eadd56-27656503',
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_53fb7536ed7545_02011673',
   'variables' => 
   array (
     'link' => 0,
-    'telnumber' => 0,
+    'search_query' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ecec1ce52b66_22710500',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ecec1ce52b66_22710500')) {function content_53ecec1ce52b66_22710500($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_53fb7536ed7545_02011673')) {function content_53fb7536ed7545_02011673($_smarty_tpl) {?>
 <div id="contact-link">
 	<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('contact',true), ENT_QUOTES, 'UTF-8', true);?>
 " title="<?php echo smartyTranslate(array('s'=>'Contact Us','mod'=>'blockcontact'),$_smarty_tpl);?>
 "><?php echo smartyTranslate(array('s'=>'Contact us','mod'=>'blockcontact'),$_smarty_tpl);?>
 </a>
 </div>
-<?php if ($_smarty_tpl->tpl_vars['telnumber']->value){?>
-	<span class="shop-phone">
-		<i class="icon-phone"></i><?php echo smartyTranslate(array('s'=>'Call us now:','mod'=>'blockcontact'),$_smarty_tpl);?>
- <strong><?php echo $_smarty_tpl->tpl_vars['telnumber']->value;?>
-</strong>
-	</span>
-<?php }?><?php }} ?>
+
+<!-- Block search module TOP -->
+<div id="search_block_top" class="col-sm-4 clearfix">
+	<form id="searchbox" method="get" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('search'), ENT_QUOTES, 'UTF-8', true);?>
+" >
+		<input type="hidden" name="controller" value="search" />
+		<input type="hidden" name="orderby" value="position" />
+		<input type="hidden" name="orderway" value="desc" />
+		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="<?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
+" value="<?php echo stripslashes(mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['search_query']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8'));?>
+" />
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+			<span><?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
+</span>
+		</button>
+	</form>
+</div>
+<!-- /Block search module TOP --><?php }} ?>

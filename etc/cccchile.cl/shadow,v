@@ -1,10 +1,75 @@
-head	1.6;
+head	1.19;
 access;
 symbols;
 locks
-	amorales:1.6; strict;
+	amorales:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2014.08.28.19.08.10;	author amorales;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.08.27.15.18.25;	author amorales;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.08.26.23.27.11;	author amorales;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.08.26.23.26.59;	author amorales;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.08.26.23.26.43;	author amorales;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.08.26.23.26.15;	author amorales;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.08.26.23.25.32;	author amorales;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.08.26.23.25.04;	author amorales;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.08.26.23.24.59;	author amorales;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.08.26.23.24.54;	author amorales;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.08.26.23.24.51;	author amorales;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.08.26.23.24.42;	author amorales;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.08.20.04.31.06;	author amorales;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2014.04.07.22.15.01;	author amorales;	state Exp;
@@ -41,16 +106,141 @@ desc
 @@
 
 
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@amorales:$1$fEoHixxo$ITO23oSAGkkWUIMopXtrs.:16167::::::
+gmorales:$1$UFxgC7ZU$qhzCA7mcZ9OFWkaA8Wnln0:16308::::::
+virigoyen:$1$pmsvvt3L$GBFxIDoQe7Mxo7OriaHhF/:16308::::::
+nseguel:$1$lp1LY67Z$ZTfv4nGoODLg9cP5tI1fi/:16308::::::
+ventas:$1$2RQoi7QE$l/F8spWRh8WvpEyTd02jb/:16308::::::
+contacto:$1$lCv2OSUN$lmKGCMvox5SRGbylOijX31:16308::::::
+jjadue:$1$OgOfbP2w$Wx2EY77kgo5q3035YuH6l/:16309::::::
+admin:$1$1F4sXUyK$.JDJ/oDhnCY6/f9G4H9tb.:16310::::::
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+contacto:$1$oFjT4QZO$jHrfS2yXGXrSXmJ3Edrfa0:16167::::::
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+gmorales:$1$yp3vWydK$SEIyRuV08A2JL9gAgm5Uz0:16167::::::
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+marketing:$1$s8gvULzY$94zPCm07yclp5aRhpVaUz1:16167::::::
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+ventas:$1$JGcXBwap$aG6xs7iGTXmIjjBsFo3hl/:16167::::::
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a5 1
+ptapia:$1$5oTysRp6$kBIMU.LCJf7Mr41Uos87w/:16302::::::
+@
+
+
 1.6
 log
 @"Modified by /usr/local/cpanel/cpanel "
 @
 text
-@ventas:$1$JGcXBwap$aG6xs7iGTXmIjjBsFo3hl/:16167::::::
-contacto:$1$oFjT4QZO$jHrfS2yXGXrSXmJ3Edrfa0:16167::::::
-gmorales:$1$yp3vWydK$SEIyRuV08A2JL9gAgm5Uz0:16167::::::
-amorales:$1$fEoHixxo$ITO23oSAGkkWUIMopXtrs.:16167::::::
-marketing:$1$s8gvULzY$94zPCm07yclp5aRhpVaUz1:16167::::::
+@d6 1
 @
 
 

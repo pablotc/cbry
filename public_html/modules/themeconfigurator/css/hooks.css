@@ -12,8 +12,17 @@
       @media (max-width: 479px) {
         #htmlcontent_home ul li img {
           min-width: 100%; } }
+    #htmlcontent_home ul li.htmlcontent-item-4 {
+      width: 50%; }
     #htmlcontent_home ul li.htmlcontent-item-5 {
-      width: 66.6667%; }
+      width: 50%; 
+	  margin-top:-3px;
+	  margin-left: -3px;
+	  }
+
+      @media (max-width: 479px) {
+        #htmlcontent_home ul li.htmlcontent-item-4 {
+          width: 100%; } }
       @media (max-width: 479px) {
         #htmlcontent_home ul li.htmlcontent-item-5 {
           width: 100%; } }

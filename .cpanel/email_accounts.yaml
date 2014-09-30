@@ -1,27 +1,43 @@
 --- 
 __version: '2.1'
+canterburychile.cl: 
+  account_count: 0
+  accounts: {}
+
 cccchile.cl: 
-  account_count: 5
+  account_count: 8
   accounts: 
+    admin: 
+      disk_mtime: '1409252890'
+      diskquota: 524288000
+      diskused: 0
     amorales: 
       disk_mtime: '1396908887'
       diskquota: 0
       diskused: 0
     contacto: 
-      disk_mtime: '1396908858'
-      diskquota: 0
+      disk_mtime: '1409095631'
+      diskquota: 524288000
       diskused: 0
     gmorales: 
-      disk_mtime: '1396908875'
-      diskquota: 0
+      disk_mtime: '1409095532'
+      diskquota: 524288000
       diskused: 0
-    marketing: 
-      disk_mtime: '1396908901'
-      diskquota: 0
+    jjadue: 
+      disk_mtime: '1409152705'
+      diskquota: 524288000
+      diskused: 0
+    nseguel: 
+      disk_mtime: '1409095603'
+      diskquota: 524288000
       diskused: 0
     ventas: 
-      disk_mtime: '1396908845'
-      diskquota: 0
+      disk_mtime: '1409095619'
+      diskquota: 524288000
       diskused: 0
-  passwd_mtime: '1407995700'
-  quota_mtime: '1407995700'
+    virigoyen: 
+      disk_mtime: '1409095575'
+      diskquota: 524288000
+      diskused: 0
+  passwd_mtime: '1410382496'
+  quota_mtime: '1410382496'

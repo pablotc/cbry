@@ -1,10 +1,75 @@
-head	1.6;
+head	1.19;
 access;
 symbols;
 locks
-	amorales:1.6; strict;
+	amorales:1.19; strict;
 comment	@# @;
 
+
+1.19
+date	2014.08.28.19.08.10;	author amorales;	state Exp;
+branches;
+next	1.18;
+
+1.18
+date	2014.08.27.15.18.25;	author amorales;	state Exp;
+branches;
+next	1.17;
+
+1.17
+date	2014.08.26.23.27.11;	author amorales;	state Exp;
+branches;
+next	1.16;
+
+1.16
+date	2014.08.26.23.26.59;	author amorales;	state Exp;
+branches;
+next	1.15;
+
+1.15
+date	2014.08.26.23.26.43;	author amorales;	state Exp;
+branches;
+next	1.14;
+
+1.14
+date	2014.08.26.23.26.15;	author amorales;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2014.08.26.23.25.32;	author amorales;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2014.08.26.23.25.04;	author amorales;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	2014.08.26.23.24.59;	author amorales;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2014.08.26.23.24.54;	author amorales;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2014.08.26.23.24.51;	author amorales;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2014.08.26.23.24.42;	author amorales;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2014.08.20.04.31.06;	author amorales;	state Exp;
+branches;
+next	1.6;
 
 1.6
 date	2014.04.07.22.15.01;	author amorales;	state Exp;
@@ -41,16 +106,141 @@ desc
 @@
 
 
+1.19
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@amorales:x:33369:33371::/home2/amorales/mail/cccchile.cl/amorales:/home2/amorales
+gmorales:x:33369:33371::/home2/amorales/mail/cccchile.cl/gmorales:/home2/amorales
+virigoyen:x:33369:33371::/home2/amorales/mail/cccchile.cl/virigoyen:/home2/amorales
+nseguel:x:33369:33371::/home2/amorales/mail/cccchile.cl/nseguel:/home2/amorales
+ventas:x:33369:33371::/home2/amorales/mail/cccchile.cl/ventas:/home2/amorales
+contacto:x:33369:33371::/home2/amorales/mail/cccchile.cl/contacto:/home2/amorales
+jjadue:x:33369:33371::/home2/amorales/mail/cccchile.cl/jjadue:/home2/amorales
+admin:x:33369:33371::/home2/amorales/mail/cccchile.cl/admin:/home2/amorales
+@
+
+
+1.18
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
+@
+
+
+1.17
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.16
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.15
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.14
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+contacto:x:33369:33371::/home2/amorales/mail/cccchile.cl/contacto:/home2/amorales
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a1 1
+gmorales:x:33369:33371::/home2/amorales/mail/cccchile.cl/gmorales:/home2/amorales
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+marketing:x:33369:33371::/home2/amorales/mail/cccchile.cl/marketing:/home2/amorales
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a0 1
+ventas:x:33369:33371::/home2/amorales/mail/cccchile.cl/ventas:/home2/amorales
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a5 1
+ptapia:x:33369:33371::/home2/amorales/mail/cccchile.cl/ptapia:/home2/amorales
+@
+
+
 1.6
 log
 @"Modified by /usr/local/cpanel/cpanel "
 @
 text
-@ventas:x:33369:33371::/home2/amorales/mail/cccchile.cl/ventas:/home2/amorales
-contacto:x:33369:33371::/home2/amorales/mail/cccchile.cl/contacto:/home2/amorales
-gmorales:x:33369:33371::/home2/amorales/mail/cccchile.cl/gmorales:/home2/amorales
-amorales:x:33369:33371::/home2/amorales/mail/cccchile.cl/amorales:/home2/amorales
-marketing:x:33369:33371::/home2/amorales/mail/cccchile.cl/marketing:/home2/amorales
+@d6 1
 @
 
 

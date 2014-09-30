@@ -129,6 +129,31 @@
 							{hook h="displayProductPriceBlock" product=$product type="price"}
 							{hook h="displayProductPriceBlock" product=$product type="unit_price"}
 						{/if}
+						<!-- CAMBIOS -->
+						</br>
+						<a itemprop="url" href="{$product.link|escape:'html':'UTF-8'}" title="{l s='View'}">
+							<span class="subrayar">VER</span>
+						</a>| 
+						
+						{if ($product.id_product_attribute == 0 || (isset($add_prod_display) && ($add_prod_display == 1))) && $product.available_for_order && !isset($restricted_country_mode) && $product.minimal_quantity <= 1 && $product.customizable != 2 && !$PS_CATALOG_MODE}
+							{if ($product.allow_oosp || $product.quantity > 0)}
+								{if isset($static_token)}
+									<a  href="{$link->getPageLink('cart',false, NULL, "add=1&amp;id_product={$product.id_product|intval}&amp;token={$static_token}", false)|escape:'html':'UTF-8'}" rel="nofollow" title="{l s='Add to cart'}" data-id-product="{$product.id_product|intval}">
+										<span class="subrayar">COMPRAR AHORA</span>
+									</a>
+								{else}
+									<a  href="{$link->getPageLink('cart',false, NULL, 'add=1&amp;id_product={$product.id_product|intval}', false)|escape:'html':'UTF-8'}" rel="nofollow" title="{l s='Add to cart'}" data-id-product="{$product.id_product|intval}">
+										<span class="subrayar">COMPRAR AHORA</span>
+									</a>
+								{/if}
+							{else}
+								<span>
+									<span>COMPRAR AHORA</span>
+								</span>
+							{/if}
+						{/if}
+						
+						<!-- FIN CAMBIOS-->
 					</div>
 					{/if}
 					<div class="button-container">
@@ -169,7 +194,7 @@
 					</div>
 					{if (!$PS_CATALOG_MODE && $PS_STOCK_MANAGEMENT && ((isset($product.show_price) && $product.show_price) || (isset($product.available_for_order) && $product.available_for_order)))}
 						{if isset($product.available_for_order) && $product.available_for_order && !isset($restricted_country_mode)}
-							<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
+					<!-- CAMBIO:		<span itemprop="offers" itemscope itemtype="http://schema.org/Offer" class="availability">
 								{if ($product.allow_oosp || $product.quantity > 0)}
 									<span class="{if $product.quantity <= 0 && !$product.allow_oosp}out-of-stock{else}available-now{/if}">
 										<link itemprop="availability" href="http://schema.org/InStock" />{if $product.quantity <= 0}{if $product.allow_oosp}{if isset($product.available_later) && $product.available_later}{$product.available_later}{else}{l s='In Stock'}{/if}{else}{l s='Out of stock'}{/if}{else}{if isset($product.available_now) && $product.available_now}{$product.available_now}{else}{l s='In Stock'}{/if}{/if}
@@ -183,7 +208,7 @@
 										<link itemprop="availability" href="http://schema.org/OutOfStock" />{l s='Out of stock'}
 									</span>
 								{/if}
-							</span>
+							</span> -->
 						{/if}
 					{/if}
 				</div>
