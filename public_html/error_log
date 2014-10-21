@@ -98,3 +98,17 @@ Stack trace:
 #1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*\t\t\t')
 #2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t\t\t')
 #3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile( in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[21-Oct-2014 17:05:26 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl&quot;  on line 37 &quot;{* {if $hItem.image}&quot;  - Unexpected &quot;*	&quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*\t')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ...')
+#4 /home2/ in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[21-Oct-2014 17:05:44 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl&quot;  on line 37 &quot;{* {if $hItem.image}&quot;  - Unexpected &quot;*	&quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*\t')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ...')
+#4 /home2/ in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
