@@ -1,24 +1,22 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-09-14 01:12:00
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 22:52:23
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:41564896954151590757d17-01134614%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:7214329595435ea578e6116-93487972%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '984a49ddbbd45d5615ff80a8fb0c24498865c014' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl',
-      1 => 1408986291,
+      1 => 1410671999,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '41564896954151590757d17-01134614',
+  'nocache_hash' => '7214329595435ea578e6116-93487972',
   'function' => 
   array (
   ),
   'variables' => 
   array (
-    'link' => 0,
-    'search_query' => 0,
     'base_dir' => 0,
     'shop_name' => 0,
     'logo_url' => 0,
@@ -27,28 +25,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_54151590997274_86529790',
+  'unifunc' => 'content_5435ea57b69829_29253204',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54151590997274_86529790')) {function content_54151590997274_86529790($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435ea57b69829_29253204')) {function content_5435ea57b69829_29253204($_smarty_tpl) {?>
+
 <!-- Block search module TOP -->
 <div id="search_block_top" class="col-sm-4 clearfix">
-	<form id="searchbox" method="get" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('search'), ENT_QUOTES, 'UTF-8', true);?>
-" >
-		<input type="hidden" name="controller" value="search" />
-		<input type="hidden" name="orderby" value="position" />
-		<input type="hidden" name="orderway" value="desc" />
-		<input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="<?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
-" value="<?php echo stripslashes(mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['search_query']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8'));?>
-" />
-		<button type="submit" name="submit_search" class="btn btn-default button-search">
-			<span><?php echo smartyTranslate(array('s'=>'Search','mod'=>'blocksearch'),$_smarty_tpl);?>
-</span>
-		</button>
-	</form>
+
 </div>
 <!-- /Block search module TOP -->
 <!-- AÑADIDO NUEVO-->
-<div id="header_logo">
+<div id="header_logo" style="">
 	<a href="<?php echo $_smarty_tpl->tpl_vars['base_dir']->value;?>
 " title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['shop_name']->value, ENT_QUOTES, 'UTF-8', true);?>
 ">

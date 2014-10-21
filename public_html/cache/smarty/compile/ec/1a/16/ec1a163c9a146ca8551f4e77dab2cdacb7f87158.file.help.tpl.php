@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-28 12:32:06
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:35:49
          compiled from "/home2/amorales/public_html/modules/payulatam/tpl/help.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:208663490653ff598646f8b9-62189679%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:15913511475435f485195bf7-97422708%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '208663490653ff598646f8b9-62189679',
+  'nocache_hash' => '15913511475435f485195bf7-97422708',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ff598652bc95_26283969',
+  'unifunc' => 'content_5435f48522a6e4_41428202',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ff598652bc95_26283969')) {function content_53ff598652bc95_26283969($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f48522a6e4_41428202')) {function content_5435f48522a6e4_41428202($_smarty_tpl) {?>
 <fieldset class="tab-configure">
 	<h4 class="first"><?php echo smartyTranslate(array('s'=>'How to get a PayU Latam account:','mod'=>'payulatam'),$_smarty_tpl);?>
 </h4>

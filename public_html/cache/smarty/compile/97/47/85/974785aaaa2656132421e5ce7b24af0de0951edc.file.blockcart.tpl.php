@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-25 13:41:07
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-02 18:19:29
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blockcart/blockcart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:37793063353fb7533e16298-49169928%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:212892250542dc161868da6-31199710%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '37793063353fb7533e16298-49169928',
+  'nocache_hash' => '212892250542dc161868da6-31199710',
   'function' => 
   array (
   ),
@@ -52,9 +52,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fb7534618544_85176922',
+  'unifunc' => 'content_542dc16224ea14_12291424',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fb7534618544_85176922')) {function content_53fb7534618544_85176922($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/home2/amorales/public_html/tools/smarty/plugins/modifier.replace.php';
+<?php if ($_valid && !is_callable('content_542dc16224ea14_12291424')) {function content_542dc16224ea14_12291424($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include '/home2/amorales/public_html/tools/smarty/plugins/modifier.replace.php';
 if (!is_callable('smarty_function_counter')) include '/home2/amorales/public_html/tools/smarty/plugins/function.counter.php';
 ?>
 <!-- MODULE Block cart -->

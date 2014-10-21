@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-28 12:32:06
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:35:49
          compiled from "/home2/amorales/public_html/modules/payulatam/tpl/credential.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:204833404753ff5986534c67-64405975%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11185082375435f4852351e3-36390595%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '204833404753ff5986534c67-64405975',
+  'nocache_hash' => '11185082375435f4852351e3-36390595',
   'function' => 
   array (
   ),
@@ -25,9 +25,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ff59865e5ff4_88671916',
+  'unifunc' => 'content_5435f485388408_15013110',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ff59865e5ff4_88671916')) {function content_53ff59865e5ff4_88671916($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f485388408_15013110')) {function content_5435f485388408_15013110($_smarty_tpl) {?>
 
 <form action="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['formCredential']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 " method="POST">

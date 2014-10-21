@@ -37,7 +37,7 @@ class ThemeConfigurator extends Module
 	{
 		$this->name = 'themeconfigurator';
 		$this->tab = 'front_office_features';
-		$this->version = '1.1.4';
+		$this->version = '1.1.5';
 		$this->bootstrap = true;
 		$this->secure_key = Tools::encrypt($this->name);
 		$this->default_language = Language::getLanguage(Configuration::get('PS_LANG_DEFAULT'));
@@ -339,7 +339,10 @@ class ThemeConfigurator extends Module
 				'id_employee' => is_object($this->context->employee) ? (int)$this->context->employee->id :
 					Tools::getValue('id_employee'),
 				'advertisement_image' => $ad_image,
-				'advertisement_url' => 'http://addons.prestashop.com/en/205-premium-templates?utm_source=backoffice_configurator',
+				'advertisement_url' => 'http://addons.prestashop.com/en/205-premium-templates?utm_source=back-office'
+					.'&utm_medium=theme-configurator'
+					.'&utm_campaign=back-office-'.Tools::strtoupper($this->context->language->iso_code)
+					.'&utm_content='.(defined('_PS_HOST_MODE_') ? 'ondemand' : 'download'),
 				'advertisement_text' => $this->l('Over 800 PrestaShop premium templates! Browse now!')
 			));
 

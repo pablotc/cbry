@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-26 09:49:46
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:42:36
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/products/helpers/form/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:178755469853fc907ae791e9-79900005%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:17080952795435f61c275c07-83601148%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '178755469853fc907ae791e9-79900005',
+  'nocache_hash' => '17080952795435f61c275c07-83601148',
   'function' => 
   array (
   ),
@@ -78,9 +78,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fc907c6455b1_05824419',
+  'unifunc' => 'content_5435f61d562e08_10931694',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fc907c6455b1_05824419')) {function content_53fc907c6455b1_05824419($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f61d562e08_10931694')) {function content_5435f61d562e08_10931694($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['fields']->value['title'])){?><h3><?php echo $_smarty_tpl->tpl_vars['fields']->value['title'];?>
 </h3><?php }?>
 
@@ -552,9 +552,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	
 	</script>
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-08-26 09:49:47
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:42:36
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/helpers/form/form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_53fc907bdd0e11_72489583')) {function content_53fc907bdd0e11_72489583($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f61ce6c2f2_17771356')) {function content_5435f61ce6c2f2_17771356($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)){?>
 <div class="row">

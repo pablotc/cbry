@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-28 12:31:21
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:35:25
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/payment/helpers/view/view.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:55987382253ff5959265d72-46678909%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1825671295435f46d1c3f36-39835330%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '55987382253ff5959265d72-46678909',
+  'nocache_hash' => '1825671295435f46d1c3f36-39835330',
   'function' => 
   array (
   ),
@@ -34,9 +34,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53ff59595062f7_99159419',
+  'unifunc' => 'content_5435f46d3cc684_07254551',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53ff59595062f7_99159419')) {function content_53ff59595062f7_99159419($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f46d3cc684_07254551')) {function content_5435f46d3cc684_07254551($_smarty_tpl) {?>
 
 <div class="leadin"></div>
 
@@ -69,8 +69,8 @@ $_smarty_tpl->tpl_vars['list']->_loop = true;
 ?>
 				<?php /*  Call merged included template "controllers/payment/restrictions.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('controllers/payment/restrictions.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '55987382253ff5959265d72-46678909');
-content_53ff59593118b9_82440453($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('controllers/payment/restrictions.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1825671295435f46d1c3f36-39835330');
+content_5435f46d230617_32289052($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "controllers/payment/restrictions.tpl" */?>
 			<?php } ?>
 		<?php }else{ ?>
@@ -103,9 +103,9 @@ if (!empty($_capture_buffer)) {
 	<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0][0]->smartyHook(array('h'=>$_smarty_tpl->tpl_vars['hookName']->value),$_smarty_tpl);?>
 
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-08-28 12:31:21
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:35:25
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/payment/restrictions.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_53ff59593118b9_82440453')) {function content_53ff59593118b9_82440453($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5435f46d230617_32289052')) {function content_5435f46d230617_32289052($_smarty_tpl) {?>
 
 <form action="<?php echo $_smarty_tpl->tpl_vars['url_submit']->value;?>
 " method="post" id="form_<?php echo $_smarty_tpl->tpl_vars['list']->value['name_id'];?>

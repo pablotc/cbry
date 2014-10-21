@@ -1,39 +1,37 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-25 14:50:04
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-15 01:26:43
          compiled from "/home2/amorales/public_html/modules/productpaymentlogos/views/templates/hook/productpaymentlogos.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:4215359753fb855c460870-43736771%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:190145152542dc162ad6819-60078222%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '3d5fd54ba884a45acbb1dea56ea01eb8847833c5' => 
     array (
       0 => '/home2/amorales/public_html/modules/productpaymentlogos/views/templates/hook/productpaymentlogos.tpl',
-      1 => 1406697018,
+      1 => 1413346829,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '4215359753fb855c460870-43736771',
+  'nocache_hash' => '190145152542dc162ad6819-60078222',
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_542dc162b3bc32_85162961',
   'variables' => 
   array (
-    'content_only' => 0,
     'banner_title' => 0,
     'banner_link' => 0,
     'module_dir' => 0,
     'banner_img' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fb855c4b8f03_21118397',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fb855c4b8f03_21118397')) {function content_53fb855c4b8f03_21118397($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_542dc162b3bc32_85162961')) {function content_542dc162b3bc32_85162961($_smarty_tpl) {?>
 <!-- Productpaymentlogos module -->
-<?php if (!$_smarty_tpl->tpl_vars['content_only']->value){?>
 <div id="product_payment_logos">
 	<div class="box-security">
     <h5 class="product-heading-h5"><?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['banner_title']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
-</h5> 
+</h5>
   	<?php if ($_smarty_tpl->tpl_vars['banner_link']->value!=''){?><a href="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['banner_link']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 " title="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['banner_title']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 "><?php }?>
@@ -44,6 +42,5 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	<?php if ($_smarty_tpl->tpl_vars['banner_link']->value!=''){?></a><?php }?>
     </div>
 </div>
-<?php }?>  
 <!-- /Productpaymentlogos module -->
 <?php }} ?>

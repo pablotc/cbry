@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-08-25 13:41:09
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-02 18:25:11
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/nbr-product-page.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:193231850153fb75357a2b03-13709095%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1745789003542dc2b7566395-09230820%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '193231850153fb75357a2b03-13709095',
+  'nocache_hash' => '1745789003542dc2b7566395-09230820',
   'function' => 
   array (
   ),
@@ -37,9 +37,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fb75359bc692_27371448',
+  'unifunc' => 'content_542dc2b77373a7_75236061',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fb75359bc692_27371448')) {function content_53fb75359bc692_27371448($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_542dc2b77373a7_75236061')) {function content_542dc2b77373a7_75236061($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['p']->value)&&$_smarty_tpl->tpl_vars['p']->value){?>
 	<?php if (isset($_GET['id_category'])&&$_GET['id_category']&&isset($_smarty_tpl->tpl_vars['category']->value)){?>
 		<?php $_smarty_tpl->tpl_vars['requestPage'] = new Smarty_variable($_smarty_tpl->tpl_vars['link']->value->getPaginationLink('category',$_smarty_tpl->tpl_vars['category']->value,false,false,true,false), null, 0);?>

@@ -5,7 +5,7 @@ canterburychile.cl:
   accounts: {}
 
 cccchile.cl: 
-  account_count: 8
+  account_count: 9
   accounts: 
     admin: 
       disk_mtime: '1409252890'
@@ -27,6 +27,10 @@ cccchile.cl:
       disk_mtime: '1409152705'
       diskquota: 524288000
       diskused: 0
+    logistics: 
+      disk_mtime: '1412881350'
+      diskquota: 524288000
+      diskused: 0
     nseguel: 
       disk_mtime: '1409095603'
       diskquota: 524288000
@@ -39,5 +43,5 @@ cccchile.cl:
       disk_mtime: '1409095575'
       diskquota: 524288000
       diskused: 0
-  passwd_mtime: '1410382496'
-  quota_mtime: '1410382496'
+  passwd_mtime: '1412881350'
+  quota_mtime: '1412881350'

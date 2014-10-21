@@ -1,10 +1,20 @@
-head	1.19;
+head	1.21;
 access;
 symbols;
 locks
-	amorales:1.19; strict;
+	amorales:1.21; strict;
 comment	@# @;
 
+
+1.21
+date	2014.10.09.19.02.30;	author amorales;	state Exp;
+branches;
+next	1.20;
+
+1.20
+date	2014.10.09.19.02.29;	author amorales;	state Exp;
+branches;
+next	1.19;
 
 1.19
 date	2014.08.28.19.08.10;	author amorales;	state Exp;
@@ -106,19 +116,44 @@ desc
 @@
 
 
+1.21
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@amorales:$1$Od3sU7SH$jTp40jyqJIFu7AWqUdLUT1:16167::::::
+gmorales:$1$cG5Wj0JU$ChDzZGOIwVf8AKq5Qb4O70:16308::::::
+virigoyen:$1$pmsvvt3L$GBFxIDoQe7Mxo7OriaHhF/:16308::::::
+nseguel:$1$O8mIbujc$QewtdhGXka6SA.iUQPbTD.:16308::::::
+ventas:$1$2RQoi7QE$l/F8spWRh8WvpEyTd02jb/:16308::::::
+contacto:$1$lCv2OSUN$lmKGCMvox5SRGbylOijX31:16308::::::
+jjadue:$1$OgOfbP2w$Wx2EY77kgo5q3035YuH6l/:16309::::::
+admin:$1$1F4sXUyK$.JDJ/oDhnCY6/f9G4H9tb.:16310::::::
+logistics:$1$DKX7H.bG$/U/YFQ6wrEZV1jlfRrhrC/:16352::::::
+@
+
+
+1.20
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
 1.19
 log
 @"Modified by /usr/local/cpanel/cpanel "
 @
 text
-@amorales:$1$fEoHixxo$ITO23oSAGkkWUIMopXtrs.:16167::::::
+@d1 2
+a2 2
+amorales:$1$fEoHixxo$ITO23oSAGkkWUIMopXtrs.:16167::::::
 gmorales:$1$UFxgC7ZU$qhzCA7mcZ9OFWkaA8Wnln0:16308::::::
-virigoyen:$1$pmsvvt3L$GBFxIDoQe7Mxo7OriaHhF/:16308::::::
+d4 1
+a4 1
 nseguel:$1$lp1LY67Z$ZTfv4nGoODLg9cP5tI1fi/:16308::::::
-ventas:$1$2RQoi7QE$l/F8spWRh8WvpEyTd02jb/:16308::::::
-contacto:$1$lCv2OSUN$lmKGCMvox5SRGbylOijX31:16308::::::
-jjadue:$1$OgOfbP2w$Wx2EY77kgo5q3035YuH6l/:16309::::::
-admin:$1$1F4sXUyK$.JDJ/oDhnCY6/f9G4H9tb.:16310::::::
 @
 
 

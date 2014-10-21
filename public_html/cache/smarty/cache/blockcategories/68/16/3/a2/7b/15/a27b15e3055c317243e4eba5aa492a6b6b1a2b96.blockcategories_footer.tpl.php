@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:42082510753fb7534d06c91-30182102%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:587483428542dc1632c8299-89155190%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,13 +15,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '42082510753fb7534d06c91-30182102',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_5428f29314e559_73437639',
+  'nocache_hash' => '587483428542dc1632c8299-89155190',
+  'variables' => 
+  array (
+    'isDhtml' => 0,
+    'blockCategTree' => 0,
+    'child' => 0,
+    'numberColumn' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_542dc163508de6_13957017',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5428f29314e559_73437639')) {function content_5428f29314e559_73437639($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_542dc163508de6_13957017')) {function content_542dc163508de6_13957017($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Categorías</h4>
@@ -67,7 +74,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li >
 	<a 
-	href="http://cccchile.cl/index.php?id_category=16&amp;controller=category" class="selected" title="">
+	href="http://cccchile.cl/index.php?id_category=16&amp;controller=category" title="">
 		RUGBY ESSENTIALS
 	</a>
 	</li>

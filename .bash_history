@@ -74,3 +74,9 @@ git push
 git add *
 #1412102854
 GIT COMMIT -A -M 'TODO ARRIBA 30-09'
+#1412102868
+git commit -a -m  'TODO ARRIBA 30-09'
+#1412102906
+git push
+#1413917329
+sudo git commit -a -m '21-10-14'

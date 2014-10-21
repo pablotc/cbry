@@ -1,10 +1,15 @@
-head	1.10;
+head	1.11;
 access;
 symbols;
 locks
-	amorales:1.10; strict;
+	amorales:1.11; strict;
 comment	@# @;
 
+
+1.11
+date	2014.10.09.19.02.29;	author amorales;	state Exp;
+branches;
+next	1.10;
 
 1.10
 date	2014.08.28.19.08.10;	author amorales;	state Exp;
@@ -61,7 +66,7 @@ desc
 @@
 
 
-1.10
+1.11
 log
 @"Modified by /usr/local/cpanel/cpanel "
 @
@@ -73,6 +78,16 @@ ventas:524288000
 contacto:524288000
 jjadue:524288000
 admin:524288000
+logistics:524288000
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d8 1
 @
 
 

@@ -88,7 +88,7 @@ class PayUController extends FrontController
 			array('value' => Tools::safeOutput($currency->iso_code), 'name' => 'currency'),
 			array('value' => Tools::safeOutput($language->iso_code), 'name' => 'lng'),
 			array('value' => Tools::safeOutput($token), 'name' => 'signature'),
-			array('value' => 'http://'.htmlspecialchars($_SERVER['HTTP_HOST'], ENT_COMPAT, 'UTF-8').__PS_BASE_URI__.'history.php', 'name' => 'responseUrl'),
+			array('value' => 'http://'.htmlspecialchars($_SERVER['HTTP_HOST'], ENT_COMPAT, 'UTF-8').__PS_BASE_URI__.((_PS_VERSION_ < '1.5')?'history.php':'index.php?controller=history'), 'name' => 'responseUrl'),
 			array('value' => 'http://'.htmlspecialchars($_SERVER['HTTP_HOST'], ENT_COMPAT, 'UTF-8').__PS_BASE_URI__.'modules/payulatam/validation.php', 'name' => 'confirmationUrl'),
 		);
 

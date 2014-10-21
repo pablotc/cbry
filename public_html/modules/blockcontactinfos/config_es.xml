@@ -2,7 +2,7 @@
 <module>
 	<name>blockcontactinfos</name>
 	<displayName><![CDATA[Bloque de informaci&oacute;n de contactos]]></displayName>
-	<version><![CDATA[1.1.1]]></version>
+	<version><![CDATA[1.1.2]]></version>
 	<description><![CDATA[A&ntilde;adir&nbsp;un bloque&nbsp;para a&ntilde;adir algo de&nbsp;informaci&oacute;n acerca de&nbsp;ponerse en contacto con&nbsp;la tienda]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

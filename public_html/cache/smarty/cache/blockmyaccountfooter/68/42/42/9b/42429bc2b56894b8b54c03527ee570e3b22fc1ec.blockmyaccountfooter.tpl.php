@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:5774197753fb7534e77a25-51862487%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1788700270542dc16353b251-75135359%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5774197753fb7534e77a25-51862487',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_54170a463b1cc8_59102458',
+  'nocache_hash' => '1788700270542dc16353b251-75135359',
+  'variables' => 
+  array (
+    'link' => 0,
+    'returnAllowed' => 0,
+    'voucherAllowed' => 0,
+    'HOOK_BLOCK_MY_ACCOUNT' => 0,
+    'is_logged' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_542dc163879a39_44682285',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54170a463b1cc8_59102458')) {function content_54170a463b1cc8_59102458($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_542dc163879a39_44682285')) {function content_542dc163879a39_44682285($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="http://cccchile.cl/index.php?controller=my-account" title="Administrar mi cuenta de cliente" rel="nofollow">Mi cuenta</a></h4>

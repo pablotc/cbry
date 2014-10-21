@@ -1,36 +1,35 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-09-14 02:05:03
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-02 18:19:34
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:92832743953fb7536eadd56-27656503%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1716800027542dc16604f4c8-73585726%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '0ee49c1c6f18ded3de30ea97d6d58771c696e0a0' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1410671099,
+      1 => 1412190011,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '92832743953fb7536eadd56-27656503',
+  'nocache_hash' => '1716800027542dc16604f4c8-73585726',
   'function' => 
   array (
   ),
-  'cache_lifetime' => 31536000,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fb7536ed7545_02011673',
   'variables' => 
   array (
     'link' => 0,
     'search_query' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_542dc1660d0449_71662443',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fb7536ed7545_02011673')) {function content_53fb7536ed7545_02011673($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_542dc1660d0449_71662443')) {function content_542dc1660d0449_71662443($_smarty_tpl) {?>
 <div id="contact-link">
 	<a href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('contact',true), ENT_QUOTES, 'UTF-8', true);?>
 " title="<?php echo smartyTranslate(array('s'=>'Contact Us','mod'=>'blockcontact'),$_smarty_tpl);?>
-"><?php echo smartyTranslate(array('s'=>'Contact us','mod'=>'blockcontact'),$_smarty_tpl);?>
-</a>
+"><!--<?php echo smartyTranslate(array('s'=>'Contact us','mod'=>'blockcontact'),$_smarty_tpl);?>
+-->Contacto</a>
 </div>
 
 <!-- Block search module TOP -->

@@ -2,7 +2,7 @@
 <module>
 	<name>productpaymentlogos</name>
 	<displayName><![CDATA[Bloque de logos de pago]]></displayName>
-	<version><![CDATA[1.3.5]]></version>
+	<version><![CDATA[1.3.6]]></version>
 	<description><![CDATA[Mostrar los logos de los m&eacute;todos de pago disponibles en la p&aacute;gina del producto.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

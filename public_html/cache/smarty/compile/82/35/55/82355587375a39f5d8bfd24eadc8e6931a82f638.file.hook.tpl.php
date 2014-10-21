@@ -1,22 +1,22 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-09-29 17:28:54
+<?php /* Smarty version Smarty-3.1.14, created on 2014-10-21 15:24:57
          compiled from "/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:3580169853fb7534832558-47888263%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1701639495542dc16395ae17-90214168%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '82355587375a39f5d8bfd24eadc8e6931a82f638' => 
     array (
       0 => '/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl',
-      1 => 1412022529,
+      1 => 1413915787,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '3580169853fb7534832558-47888263',
+  'nocache_hash' => '1701639495542dc16395ae17-90214168',
   'function' => 
   array (
   ),
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_53fb7534961735_38403540',
+  'unifunc' => 'content_542dc163af1f81_01783129',
   'variables' => 
   array (
     'htmlitems' => 0,
@@ -27,8 +27,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_53fb7534961735_38403540')) {function content_53fb7534961735_38403540($_smarty_tpl) {?>
-
+<?php if ($_valid && !is_callable('content_542dc163af1f81_01783129')) {function content_542dc163af1f81_01783129($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['htmlitems']->value)&&$_smarty_tpl->tpl_vars['htmlitems']->value){?>
 <div id="htmlcontent_<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hook']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 ">
@@ -47,19 +46,11 @@ $_smarty_tpl->tpl_vars['hItem']->_loop = true;
 				<li class="htmlcontent-item-<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->getVariable('smarty')->value['foreach']['items']['iteration'], ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
  col-xs-4">
 			<?php }?>
-					
-		
-					<?php if ($_smarty_tpl->tpl_vars['hItem']->value['html']){?>
-						<div class="item-html">
-							<?php echo $_smarty_tpl->tpl_vars['hItem']->value['html'];?>
- <i class="icon-double-angle-right"></i>
-						</div>
-				
-					<?php }elseif($_smarty_tpl->tpl_vars['hItem']->value['url']){?>
+					<?php if ($_smarty_tpl->tpl_vars['hItem']->value['url']){?>
 						<a href="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hItem']->value['url'], ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 " class="item-link"<?php if ($_smarty_tpl->tpl_vars['hItem']->value['target']==1){?> onclick="return !window.open(this.href);"<?php }?> title="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hItem']->value['title'], ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 ">
-					
+					<?php }?>
 						<?php if ($_smarty_tpl->tpl_vars['hItem']->value['image']){?>
 							<img src="<?php echo $_smarty_tpl->tpl_vars['link']->value->getMediaLink(((string)$_smarty_tpl->tpl_vars['module_dir']->value)."img/".((string)$_smarty_tpl->tpl_vars['hItem']->value['image']));?>
 " class="item-img <?php if ($_smarty_tpl->tpl_vars['hook']->value=='left'||$_smarty_tpl->tpl_vars['hook']->value=='right'){?>img-responsive<?php }?>" title="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['hItem']->value['title'], ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
@@ -78,7 +69,6 @@ $_smarty_tpl->tpl_vars['hItem']->_loop = true;
  <i class="icon-double-angle-right"></i>
 							</div>
 						<?php }?>
-					<?php }?> 
 					<?php if ($_smarty_tpl->tpl_vars['hItem']->value['url']){?>
 						</a>
 					<?php }?>

@@ -1,22 +1,27 @@
-<?php /*%%SmartyHeaderCode:92832743953fb7536eadd56-27656503%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1716800027542dc16604f4c8-73585726%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '0ee49c1c6f18ded3de30ea97d6d58771c696e0a0' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1410671099,
+      1 => 1412190011,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '92832743953fb7536eadd56-27656503',
-  'cache_lifetime' => 31536000,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_54170a46551ac2_43774093',
+  'nocache_hash' => '1716800027542dc16604f4c8-73585726',
+  'variables' => 
+  array (
+    'link' => 0,
+    'search_query' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_542dc1660d6b15_93148877',
+  'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54170a46551ac2_43774093')) {function content_54170a46551ac2_43774093($_smarty_tpl) {?><div id="contact-link">
-	<a href="http://cccchile.cl/index.php?controller=contact" title="Contacta con nosotros">Contacte con nosotros</a>
+<?php if ($_valid && !is_callable('content_542dc1660d6b15_93148877')) {function content_542dc1660d6b15_93148877($_smarty_tpl) {?><div id="contact-link">
+	<a href="http://cccchile.cl/index.php?controller=contact" title="Contacto"><!--Contacto-->Contacto</a>
 </div>
 
 <!-- Block search module TOP -->
