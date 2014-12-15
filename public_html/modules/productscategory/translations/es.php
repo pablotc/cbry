@@ -13,7 +13,7 @@ $_MODULE['<{productscategory}prestashop>productscategory_00d23a76e43b46dae9ec7aa
 $_MODULE['<{productscategory}prestashop>productscategory_b9f5c797ebbf55adccdd8539a65a0241'] = 'Desactivado';
 $_MODULE['<{productscategory}prestashop>productscategory_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
 $_MODULE['<{productscategory}prestashop>productscategory_1f910bcf84a92cb7c71fa3d926c8a525'] = 'Otros productos de la misma categoría';
-$_MODULE['<{productscategory}prestashop>productscategory_dd1f775e443ff3b9a89270713580a51b'] = 'Los clientes que compraron este producto también han comprado:';
+$_MODULE['<{productscategory}prestashop>productscategory_dd1f775e443ff3b9a89270713580a51b'] = 'Previo';
 $_MODULE['<{productscategory}prestashop>productscategory_10ac3d04253ef7e1ddc73e6091c0cd55'] = 'Siguiente';
 $_MODULE['<{productscategory}prestashop>productscategory_4aae87211f77aada2c87907121576cfe'] = 'otros productos de la misma categoría:';
 

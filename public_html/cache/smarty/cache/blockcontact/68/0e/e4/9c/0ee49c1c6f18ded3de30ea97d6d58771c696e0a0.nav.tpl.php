@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:1716800027542dc16604f4c8-73585726%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:701716201548abf15405b62-06007276%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1716800027542dc16604f4c8-73585726',
+  'nocache_hash' => '701716201548abf15405b62-06007276',
   'variables' => 
   array (
     'link' => 0,
@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_542dc1660d6b15_93148877',
+  'unifunc' => 'content_548abf1546d307_13859087',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_542dc1660d6b15_93148877')) {function content_542dc1660d6b15_93148877($_smarty_tpl) {?><div id="contact-link">
-	<a href="http://cccchile.cl/index.php?controller=contact" title="Contacto"><!--Contacto-->Contacto</a>
+<?php if ($_valid && !is_callable('content_548abf1546d307_13859087')) {function content_548abf1546d307_13859087($_smarty_tpl) {?><div id="contact-link">
+	<a href="http://cccchile.cl/index.php?controller=contact" title="Contacta con nosotros"><!--Contacte con nosotros-->Contacto</a>
 </div>
 
 <!-- Block search module TOP -->

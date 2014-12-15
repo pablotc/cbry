@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 
-$_MODULE['<{blockpaymentlogo}prestashop>blockpaymentlogo_bbbd74a260217265015b9c8ff13b903e'] = 'Bloque de logos de pago.';
+$_MODULE['<{blockpaymentlogo}prestashop>blockpaymentlogo_eaaf494f0c90a2707d768a9df605e94b'] = 'Bloque de logos de pago';
 $_MODULE['<{blockpaymentlogo}prestashop>blockpaymentlogo_3fd11fa0ede1bd0ace9b3fcdbf6a71c9'] = 'Agrega un bloque que muestra todos los logos de pago.';
 $_MODULE['<{blockpaymentlogo}prestashop>blockpaymentlogo_b15e7271053fe9dd22d80db100179085'] = 'Este módulo requiere estar enganchado a una columna y su tema no tiene implementada ninguna';
 $_MODULE['<{blockpaymentlogo}prestashop>blockpaymentlogo_efc226b17e0532afff43be870bff0de7'] = 'Parámetros actualizados';

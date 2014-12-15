@@ -2,7 +2,7 @@
 <module>
 	<name>statspersonalinfos</name>
 	<displayName><![CDATA[Informaci&oacute;n de clientes registrados]]></displayName>
-	<version><![CDATA[1.2]]></version>
+	<version><![CDATA[1.3.1]]></version>
 	<description><![CDATA[A&ntilde;ade informaci&oacute;n acerca del registro de clientes (como g&eacute;nero y edad) al panel de control de estad&iacute;sticas.]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[analytics_stats]]></tab>

@@ -1,18 +1,18 @@
-# Webalizer V2.23-05 Incremental Data - 10/08/2014 21:38:09
-2014 10 8 21 38 9
-14 14 2 9 0 0 41335 0 0 1
-1 4 9 1 8
-10 10 16490 1 0 0
+# Webalizer V2.23-05 Incremental Data - 12/11/2014 22:02:05
+2014 12 11 22 2 5
+51 51 1 28 0 0 256010 15 2 1
+1 5 116 8 11
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-4 4 24845 1 0 0
+0 0 0 0 0 0
+4 4 36643 1 2 1
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
+47 47 219367 1 13 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -46,21 +46,21 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-9 9 14393 0
-1 1 2097 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
-4 4 24845 0
 0 0 0 0
+0 0 0 0
+42 42 205131 11
+9 9 50879 4
 0 0 0 0
 0
 0
 0
-14
+51
 0
 0
 0
@@ -99,37 +99,72 @@
 0
 0
 # -urls- 
-/home2/amorales/public_html/modules/payulatam/payment.php
-0 2 0 9906 0 0
-/home2/amorales/public_html/modules/blockcontact/config_es.xml
-0 1 0 519 0 0
-/home2/amorales/public_html/modules/payulatam/validation.php
-0 1 0 1217 0 0
-/home2/amorales/public_html/modules/blockcontact/nav.tpl
-0 1 0 1347 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl
-0 2 0 4225 0 0
-/home2/amorales/public_html/modules/blockcontactinfos/translations/es.php
-0 2 0 3617 0 0
-/home2/amorales/public_html/modules/blockcontact/translations/es.php
-0 3 0 4904 0 0
-/home2/amorales/public_html/modules/payulatam/payulatam.php
-0 1 0 13722 0 0
-/home2/amorales/public_html/modules/blockbanner/translations/es.php
-0 1 0 1878 0 0
+/home2/amorales/public_html/mails/es/voucher.html
+0 1 14086272 5741 0 0
+/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
+0 1 0 107 0 0
+/home2/amorales/public_html/mails/es/shipped.html
+0 2 13844320 11940 0 0
+/home2/amorales/public_html/modules/zopimfree/es.php
+0 1 0 2125 0 0
+/home2/amorales/public_html/modules/zopimfree/translations/pl.php
+0 1 0 0 0 0
+/home2/amorales/public_html/mails/es/backoffice_order.html
+0 4 0 21183 0 0
+/home2/amorales/public_html/mails/es/order_conf.txt
+0 4 0 3940 1 1
+/home2/amorales/public_html/modules/zopimfree/header-new-widget.tpl
+0 1 0 850 0 0
+/home2/amorales/public_html/modules/zopimfree/img/bottom-bg.png
+0 1 0 5696 0 0
+/home2/amorales/public_html/modules/zopimfree/img/nav-bg.png
+0 1 0 4095 0 0
+/home2/amorales/public_html/mails/es/lang.php
+0 3 14085968 8711 0 0
+/home2/amorales/public_html/mails/es/bankwire.txt
+0 2 13844176 1783 0 0
+/home2/amorales/public_html/modules/zopimfree/logo.gif
+0 1 13842336 1064 0 0
+/home2/amorales/public_html/modules/zopimfree/zopimfree.php
+0 1 0 13596 0 0
+/home2/amorales/public_html/mails/es/account.txt
+0 3 13843568 1749 1 0
+/home2/amorales/public_html/mails/es/shipped.txt
+0 2 14085824 1055 0 0
+/home2/amorales/public_html/modules/zopimfree/header.tpl
+0 1 0 850 0 0
+/home2/amorales/public_html/mails/es/order_conf.html
+0 7 0 118142 0 0
+/home2/amorales/public_html/mails/es/backoffice_order.txt
+0 3 0 633 0 0
+/home2/amorales/public_html/mails/es/bankwire.html
+0 2 13844032 15319 0 0
+/home2/amorales/public_html/modules/zopimfree/fr.php
+0 1 13836464 2138 0 0
+/home2/amorales/public_html/modules/zopimfree/img/color.png
+0 1 0 6127 0 0
+/home2/amorales/public_html/modules/zopimfree/logo-white.png
+0 1 0 4101 0 0
+/home2/amorales/public_html/modules/zopimfree/pl.php
+0 1 13842480 2077 0 0
+/home2/amorales/public_html/modules/zopimfree/de.php
+0 1 13841424 2080 0 0
+/home2/amorales/public_html/modules/zopimfree/it.php
+0 1 13841888 2063 0 0
+/home2/amorales/public_html/mails/es/account.html
+0 2 13843424 13966 0 0
+/home2/amorales/public_html/modules/zopimfree/logo.png
+0 1 13842192 4879 0 0
 # End Of Table - urls
 # -sites- (monthly)
-200.27.139.2
-0 10 10 16490 0 0
--
-pc-254-127-46-190.cm.vtr.net
-0 4 4 24845 0 0
--
+pc-105-112-162-190.cm.vtr.net
+0 51 51 256010 2 1418335303
+/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
 # End Of Table - sites (monthly)
 # -sites- (daily)
-pc-254-127-46-190.cm.vtr.net
-0 4 4 24845 0 0
--
+pc-105-112-162-190.cm.vtr.net
+0 47 47 219367 1 1418335303
+/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
 # End Of Table - sites (daily)
 # -referrers- 
 # End Of Table - referrers
@@ -139,5 +174,5 @@ pc-254-127-46-190.cm.vtr.net
 # End Of Table - search strings
 # -usernames- 
 amorales
-0 14 14 41335 1 0
+0 51 51 256010 3 1418335303
 # End Of Table - usernames

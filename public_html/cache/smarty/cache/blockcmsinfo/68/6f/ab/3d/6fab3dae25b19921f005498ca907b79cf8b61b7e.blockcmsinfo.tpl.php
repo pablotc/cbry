@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:1679189839542dc2e822ab34-68216557%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:839997230548abf149131e5-48519027%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,18 +9,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1679189839542dc2e822ab34-68216557',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_5446a275b1c3b9_27827920',
+  'nocache_hash' => '839997230548abf149131e5-48519027',
+  'variables' => 
+  array (
+    'infos' => 0,
+    'info' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_548abf14972513_95215134',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5446a275b1c3b9_27827920')) {function content_5446a275b1c3b9_27827920($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
+<?php if ($_valid && !is_callable('content_548abf14972513_95215134')) {function content_548abf14972513_95215134($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
 <div id="cmsinfo_block">
 					<div class="col-xs-6"><ul><li><em class="icon-truck" id="icon-truck"></em>
 <div class="type-text">
 <h3>Envío rápido</h3>
-<p>Envío Rápido: porfa especifica lo siguiente: "Envío a todo chile con Chilexpress, conoce las tarifas dentro y fuera de Santiago.</p>
+<p>Envío a todo chile con Chilexpress, conoce las tarifas dentro y fuera de Santiago.</p>
 </div>
 </li>
 <li><em class="icon-phone" id="icon-phone"></em>
@@ -37,7 +42,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 </li>
 </ul></div>
 					<div class="col-xs-6"><h3>Newsletter - Boletín</h3>
-<p>En la siguiente sección, ingresa tu correo electrónico para ser el primero recibir nuestras news mensual con productos y promociones.</p>
+<p>Puedes recibir nuestras news mensual con productos y promociones. Para esto, ingresa tu correo electrónico en la sección de boletín, al costado inferior izquierdo de nuestro sitio.</p>
 <p> </p>
 <p> </p></div>
 		</div>

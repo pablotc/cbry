@@ -37,8 +37,8 @@ $_LANGMAIL['New order : #%d - %s'] = 'Nuevo pedido : #%d - %s';
 $_LANGMAIL['Product out of stock'] = 'Uno o más productos están agotados';
 $_LANGMAIL['Stock coverage'] = 'Cobertura de stock';
 $_LANGMAIL['Referral Program'] = 'Programa de patrocinio';
-$_LANGMAIL['Congratulations!'] = 'Enhorabuena!';
+$_LANGMAIL['Congratulations!'] = 'Buenas Noticias!';
 $_LANGMAIL['%1$s sent you a link to %2$s'] = '%1$s envió un link a %2$s';
-
+ 
 
 return $_LANGMAIL;

@@ -8,10 +8,12 @@ SetEnv HTTP_MOD_REWRITE On
 </IfModule>
 
 RewriteEngine on
+RewriteCond %{HTTP_HOST} ^cccchile.cl$
 RewriteRule . - [E=REWRITEBASE:/]
 RewriteRule ^api/?(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
 
 # AlphaImageLoader for IE and fancybox
+RewriteCond %{HTTP_HOST} ^cccchile.cl$
 RewriteRule ^images_ie/?([^/]+)\.(jpe?g|png|gif)$ js/jquery/plugins/fancybox/images/$1.$2 [L]
 </IfModule>
 

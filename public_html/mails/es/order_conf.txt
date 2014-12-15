@@ -39,10 +39,6 @@ TRANSPORTE
 
 {total_shipping} 
 
-IMPUESTO TOTAL 
-
-{total_tax_paid} 
-
 PAGO TOTAL 
 
 {total_paid} 

@@ -15,7 +15,7 @@ $_MODULE['<{crossselling}prestashop>crossselling_19a799a6afd0aaf89bc7a4f7588bbf2
 $_MODULE['<{crossselling}prestashop>crossselling_02128de6a3b085c72662973cd3448df2'] = 'Establecer el número de productos que se muestran en este bloque.';
 $_MODULE['<{crossselling}prestashop>crossselling_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
 $_MODULE['<{crossselling}prestashop>crossselling_ef2b66b0b65479e08ff0cce29e19d006'] = 'Los clientes que compraron este producto también han comprado...';
-$_MODULE['<{crossselling}prestashop>crossselling_dd1f775e443ff3b9a89270713580a51b'] = 'Los clientes que compraron este producto también han comprado:';
+$_MODULE['<{crossselling}prestashop>crossselling_dd1f775e443ff3b9a89270713580a51b'] = 'Previo';
 $_MODULE['<{crossselling}prestashop>crossselling_4351cfebe4b61d8aa5efa1d020710005'] = 'Ver';
 $_MODULE['<{crossselling}prestashop>crossselling_10ac3d04253ef7e1ddc73e6091c0cd55'] = 'Siguiente';
 $_MODULE['<{crossselling}prestashop>crossselling_0f169d3dc0db47a4074489a89cb034b5'] = 'Recomendamos';

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-10-08 23:43:30
+<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 14:21:43
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blockcart/crossselling.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7249414085435f65250cfd2-65901936%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1490522155548b2427d31a34-93914054%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '7249414085435f65250cfd2-65901936',
+  'nocache_hash' => '1490522155548b2427d31a34-93914054',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_5435f6525c8e46_98337011',
+  'unifunc' => 'content_548b2427e83624_98118378',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5435f6525c8e46_98337011')) {function content_5435f6525c8e46_98337011($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_548b2427e83624_98118378')) {function content_548b2427e83624_98118378($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['orderProducts']->value)&&count($_smarty_tpl->tpl_vars['orderProducts']->value)>0){?>
 	<div class="crossseling-content">
 		<h2><?php echo smartyTranslate(array('s'=>'Customers who bought this product also bought:','mod'=>'blockcart'),$_smarty_tpl);?>

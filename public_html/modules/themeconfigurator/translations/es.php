@@ -5,7 +5,7 @@ $_MODULE = array();
 
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_e92dabb4907f1957cabc469cca4deefc'] = 'Configurador de temas';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_cf8fdaf6e745133c90516eb9b74e31c3'] = 'Configura los elementos principales de tu tema.';
-$_MODULE['<{themeconfigurator}prestashop>themeconfigurator_eedb7e9e8a884cb0a78a55528e8b8fab'] = '¡Más de 500 plantillas para usuarios premium! ¡Míralas ya!';
+$_MODULE['<{themeconfigurator}prestashop>themeconfigurator_dd2eaa9871e00e3c9242934ce942c27c'] = '¡Más de 800 Plantilas Premium en Prestashop! ¡Ir ahora!';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_ec870aa68b135c4f3adc9a3a2731ddbc'] = 'No se puede eliminar eso.';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_3ee0c881516fce384747e3107dbfc538'] = 'Contenido no válido';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_dd2681ec1593dd537587be3389ee24d3'] = 'Se ha producido un error al guardar los datos.';
@@ -25,7 +25,6 @@ $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_2f4fe84a25dc0024c9e80
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_6080ab31226b39af728c2d40fd57f0d0'] = 'Mostrar el bloque de Facebook en la página principal';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_2debd734d0a150ccfd48e8d1e8e914b0'] = 'Mostrar el bloque de información CMS personalizada';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_bfebda351190d4dbbd3499558175c7b9'] = 'Muestra la ventana de vista rápida en la página de inicio y las páginas de categorías';
-$_MODULE['<{themeconfigurator}prestashop>themeconfigurator_9f6bd6f9952796a0567d211f5b858cc1'] = 'Muestra las categorías de productos en una lista';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_419e2c499b79ae49a7d50b510cddc28e'] = 'Muestra el banner superior';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_2393b3a8e21e442273b6ad9219f4786c'] = 'Mostrar los logos de los medios de pago disponibles';
 $_MODULE['<{themeconfigurator}prestashop>themeconfigurator_905791e2e93ced2cb9b092985604cc55'] = 'Muestra Live Configurator';
@@ -36,6 +35,7 @@ $_MODULE['<{themeconfigurator}prestashop>items_d3d2e617335f08df83599665eef8a418'
 $_MODULE['<{themeconfigurator}prestashop>items_e8cf85cec621489ec026f7e06c67eb4e'] = 'Eliminar elemento';
 $_MODULE['<{themeconfigurator}prestashop>items_2faec1f9f8cc7f8f40d521c4dd574f49'] = 'Activado';
 $_MODULE['<{themeconfigurator}prestashop>items_cf82fa946fab5855cd8c6479b0eb95d1'] = 'Título de la imagen';
+$_MODULE['<{themeconfigurator}prestashop>items_2c92d496fa8efe3d5b2b38c185f9b7f7'] = 'Usar título frontal';
 $_MODULE['<{themeconfigurator}prestashop>items_91081fbf39583a57fdde5efa138d0564'] = 'Hook para el que se pueden añadir imágenes';
 $_MODULE['<{themeconfigurator}prestashop>items_100eb3bd7b79830fe86288a63e13d485'] = 'Cargar su imagen';
 $_MODULE['<{themeconfigurator}prestashop>items_6fed80a8c8ded2f5e14a687e4a443abc'] = 'Ancho de imagen';
@@ -49,7 +49,7 @@ $_MODULE['<{themeconfigurator}prestashop>items_c9cc8cce247e49bae79f15173ce97354'
 $_MODULE['<{themeconfigurator}prestashop>items_f453e0c33edd79653febd0b9bc8f09b3'] = 'No hay elementos disponibles';
 $_MODULE['<{themeconfigurator}prestashop>new_ff19c966036b4a0c7350b2fc7e2861c2'] = 'Añadir elemento';
 $_MODULE['<{themeconfigurator}prestashop>new_4994a8ffeba4ac3140beb89e8d41f174'] = 'Idioma';
-$_MODULE['<{themeconfigurator}prestashop>new_b78a3223503896721cca1303f776159b'] = 'Tratamiento';
+$_MODULE['<{themeconfigurator}prestashop>new_cf82fa946fab5855cd8c6479b0eb95d1'] = 'Título de la imagen';
 $_MODULE['<{themeconfigurator}prestashop>new_2c92d496fa8efe3d5b2b38c185f9b7f7'] = 'Usar título frontal';
 $_MODULE['<{themeconfigurator}prestashop>new_b9b371458ab7c314f88b81c553f6ce51'] = 'Gancho';
 $_MODULE['<{themeconfigurator}prestashop>new_be53a0541a6d36f6ecb879fa2c584b08'] = 'Imagen';

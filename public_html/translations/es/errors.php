@@ -369,7 +369,7 @@ $_ERRORS['0bd212ed072143f56147f2f119892d03'] = 'Selección no válida';
 $_ERRORS['64bebbfcf422901ff5898cd0d0f92ba4'] = 'SSL está activado. Sin embargo, a tu IP se le permite utilizar el modo no seguro para mantenimiento o incidencias de IP local.';
 $_ERRORS['ac1f38f4de6b8dcc731e7e1cf2b45268'] = 'SSL está activado. Por favor conectese usando el siguiente enlace para  <a href=\\"%s\\">iniciar sesión en modo seguro (https://)</a>';
 $_ERRORS['becfb58422969ec127b4bf1af46650ab'] = 'El email está vacío.';
-$_ERRORS['e267e2be02cf3e29f4ba53b5d97cf78a'] = 'dirección email inválida';
+$_ERRORS['e267e2be02cf3e29f4ba53b5d97cf78a'] = 'Dirección email inválida.';
 $_ERRORS['5ee800d2d30225decb5b057d846103b7'] = 'El campo de la contraseña está vacío.';
 $_ERRORS['855eb8db89b4921c42072832d33d2dc2'] = 'contraseña incorrecta';
 $_ERRORS['7dfeeba894aeae239f41d06d89c1770c'] = 'el empleado no existe o la contraseña es errónea';

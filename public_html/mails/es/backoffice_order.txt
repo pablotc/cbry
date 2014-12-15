@@ -8,6 +8,5 @@ Una nueva orden ha sido generada.
 Por favor, vaya a {order_link} [{order_link}] para
 finalizar el pago. 		 
 
-{shop_name} [{shop_url}] creado por
-PrestaShop(tm) [http://www.prestashop.com/] 
+{shop_name} [{shop_url}]
 

@@ -25,6 +25,5 @@ avísenos inmediatamente.
 Ahora podrá realizar pedidos en nuestra tienda: {shop_name}
 [{shop_url}] 
 
-{shop_name} [{shop_url}] creado por
-PrestaShop(tm) [http://www.prestashop.com/] 
+{shop_name} [{shop_url}] 
 

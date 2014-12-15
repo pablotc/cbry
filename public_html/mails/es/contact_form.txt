@@ -15,4 +15,6 @@ ARCHIVO ADJUNTO: {attached_file}
 
 Le responderemos en el menor tiempo posible 
 
-{shop_name} [{shop_url}]
+{shop_name} [{shop_url}] creado por
+PrestaShop(tm) [http://www.prestashop.com/] 
+

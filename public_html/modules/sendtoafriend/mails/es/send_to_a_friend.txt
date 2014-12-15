@@ -3,8 +3,6 @@
 
 Hola {name},
 
-Gracias por crear una cuenta de cliente en {shop_name}. 
-
 Haga clic aquí para ver este artículo: {product}
 [{product_link}] 
 

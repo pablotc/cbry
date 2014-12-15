@@ -111,6 +111,7 @@
 	<modules type="partner">
 		<module name="addshoppers"/>
 		<module name="adyen"/>
+		<module name="affinityitems"/>
 		<module name="alliance"/>
 		<module name="authorizeaim"/>
 		<module name="avalaratax"/>
@@ -118,8 +119,10 @@
 		<module name="boxdropshipment"/>
 		<module name="browsi"/>
 		<module name="clickline"/>
+		<module name="dpdpoland"/>
 		<module name="ebay"/>
 		<module name="ecopresto"/>
+		<module name="envoimoinscher"/>
 		<module name="feedaty"/>
 		<module name="ferbuy"/>
 		<module name="fianetfraud"/>
@@ -141,12 +144,15 @@
 		<module name="moneybookers"/>
 		<module name="netreviews"/>
 		<module name="nqgatewayneteven"/>
+		<module name="nostotagging"/>
 		<module name="ogone"/>
 		<module name="pagseguro"/>
 		<module name="paymentsense"/>
 		<module name="paypal"/>
 		<module name="paypalusa"/>
+		<module name="payplug"/>
 		<module name="payulatam"/>
+		<module name="pigmbhpaymill"/>
 		<module name="prediggo"/>
 		<module name="realexredirect"/>
 		<module name="sendinblue"/>

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-10-02 18:19:12
+<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 01:46:05
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/content.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1955872311542dc151011629-56989623%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:911517212548a730d43e962-82316647%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1955872311542dc151011629-56989623',
+  'nocache_hash' => '911517212548a730d43e962-82316647',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_542dc151036659_93449861',
+  'unifunc' => 'content_548a730d472374_39878604',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_542dc151036659_93449861')) {function content_542dc151036659_93449861($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_548a730d472374_39878604')) {function content_548a730d472374_39878604($_smarty_tpl) {?>
 <div id="ajax_confirmation" class="alert alert-success hide"></div>
 
 <div id="ajaxBox" style="display:none"></div>

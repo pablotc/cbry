@@ -15,3 +15,35 @@
 [10-Oct-2014 11:49:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
 [15-Oct-2014 00:40:14 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
 [21-Oct-2014 10:30:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[07-Nov-2014 17:17:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[11-Nov-2014 01:57:57 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[12-Nov-2014 11:52:38 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[13-Nov-2014 14:03:50 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[16-Nov-2014 13:05:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[23-Nov-2014 19:56:38 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Nov-2014 12:24:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 255
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'title' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 256
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 258
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'description' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 259
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 255
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'title' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 256
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 258
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'description' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 259
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 255
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'title' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 256
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 258
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'description' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 259
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 255
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'title' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 256
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 258
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'description' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 259
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 255
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'title' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 256
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'href' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 258
+[27-Nov-2014 23:43:14 America/Santiago] PHP Warning:  Illegal string offset 'description' in /home2/amorales/public_html/cache/smarty/compile/7c/32/9c/7c329c2b76092f032792dc607fd6dfe10fbe49d7.file.view.tpl.php on line 259
+[30-Nov-2014 20:55:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[03-Dec-2014 10:02:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[09-Dec-2014 01:19:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[11-Dec-2014 22:55:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[14-Dec-2014 22:50:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323

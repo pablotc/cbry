@@ -1,5 +1,7 @@
 # Use PHP54 as default
 AddHandler application/x-httpd-php54 .php
+# BEGIN custom php.ini PHP54
 <IfModule mod_suphp.c>
-    suPHP_ConfigPath /opt/php54/lib
+    suPHP_ConfigPath /home2/amorales
 </IfModule>
+# END custom php.ini

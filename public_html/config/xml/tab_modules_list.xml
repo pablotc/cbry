@@ -50,8 +50,8 @@
 <module name="prestafraud" position="11"/>
 </tab>
 <tab class_name="AdminInvoices" display_type="slider_list">
-<module name="neotaxesupdater" position="2"/>
-<module name="ordertaxprofitreport" position="3"/>
+<module name="neotaxesupdater" position="1"/>
+<module name="ordertaxprofitreport" position="2"/>
 </tab>
 <tab class_name="AdminDeliverySlip" display_type="slider_list">
 <module name="globkurier" position="1"/>

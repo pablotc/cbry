@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-10-02 18:25:11
+<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:24:00
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/product-list.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2062140960542dc2b7e05871-84346407%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:898080174548ac240b20970-89287798%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2062140960542dc2b7e05871-84346407',
+  'nocache_hash' => '898080174548ac240b20970-89287798',
   'function' => 
   array (
   ),
@@ -44,9 +44,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_542dc2b88172d1_38028338',
+  'unifunc' => 'content_548ac2412e1590_88393084',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_542dc2b88172d1_38028338')) {function content_542dc2b88172d1_38028338($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/home2/amorales/public_html/tools/smarty/plugins/function.math.php';
+<?php if ($_valid && !is_callable('content_548ac2412e1590_88393084')) {function content_548ac2412e1590_88393084($_smarty_tpl) {?><?php if (!is_callable('smarty_function_math')) include '/home2/amorales/public_html/tools/smarty/plugins/function.math.php';
 ?>
 <?php if (isset($_smarty_tpl->tpl_vars['products']->value)&&$_smarty_tpl->tpl_vars['products']->value){?>
 	

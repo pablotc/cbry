@@ -30,6 +30,5 @@ Si usted tiene una cuenta de invitado, puede seguir su pedido a
 través del "Tracking Invitado"
 [{guest_tracking_url}] sección de nuestra tienda. 
 
-{shop_name} [{shop_url}] creado por
-PrestaShop(tm) [http://www.prestashop.com/] 
+{shop_name} [{shop_url}]
 

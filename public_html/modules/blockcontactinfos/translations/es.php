@@ -12,7 +12,7 @@ $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_dd7bf230fde8d48369178
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_1f8261d17452a959e013666c5df45e07'] = 'Número telefónico';
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Correo electrónico';
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
-$_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_02d4482d332e1aef3437cd61c9bcc624'] = 'Contacto';
+$_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_02d4482d332e1aef3437cd61c9bcc624'] = 'Contacte con nosotros';
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_2e006b735fbd916d8ab26978ae6714d4'] = 'Tel.:';
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_6a1e265f92087bb6dd18194833fe946b'] = 'Escriba su dirección email:';
 $_MODULE['<{blockcontactinfos}prestashop>blockcontactinfos_80a11d2a54a677f6fadd9c041c0d6b98'] = 'Configuración la tienda';

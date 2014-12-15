@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-10-06 20:41:14
+<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 14:31:27
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/helpers/calendar/calendar.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:17260951545433289a61e054-96724881%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:659388701548b266f2cb103-51956076%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '17260951545433289a61e054-96724881',
+  'nocache_hash' => '659388701548b266f2cb103-51956076',
   'function' => 
   array (
   ),
@@ -29,9 +29,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_5433289abb5a90_61013324',
+  'unifunc' => 'content_548b266f4f2514_55540869',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5433289abb5a90_61013324')) {function content_5433289abb5a90_61013324($_smarty_tpl) {?><div id="datepicker" class="row row-padding-top hide">
+<?php if ($_valid && !is_callable('content_548b266f4f2514_55540869')) {function content_548b266f4f2514_55540869($_smarty_tpl) {?><div id="datepicker" class="row row-padding-top hide">
 	<div class="col-lg-12">
 		<div class="daterangepicker-days">
 			<div class="row">	

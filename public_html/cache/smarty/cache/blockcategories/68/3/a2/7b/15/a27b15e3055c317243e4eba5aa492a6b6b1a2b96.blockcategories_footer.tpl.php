@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:587483428542dc1632c8299-89155190%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:708143788548abf14bfaa02-87320921%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,13 +15,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '587483428542dc1632c8299-89155190',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_542dc2e82e4421_35162728',
+  'nocache_hash' => '708143788548abf14bfaa02-87320921',
+  'variables' => 
+  array (
+    'isDhtml' => 0,
+    'blockCategTree' => 0,
+    'child' => 0,
+    'numberColumn' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_548abf14de95e9_30624495',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_542dc2e82e4421_35162728')) {function content_542dc2e82e4421_35162728($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_548abf14de95e9_30624495')) {function content_548abf14de95e9_30624495($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Categorías</h4>
@@ -31,26 +38,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li >
 	<a 
-	href="http://cccchile.cl/index.php?id_category=13&amp;controller=category" title="">
-		MEN
-	</a>
-	</li>
-
-							
-																
-<li >
-	<a 
 	href="http://cccchile.cl/index.php?id_category=17&amp;controller=category" title="">
 		SHORTS
-	</a>
-	</li>
-
-							
-																
-<li >
-	<a 
-	href="http://cccchile.cl/index.php?id_category=14&amp;controller=category" title="">
-		WOMEN
 	</a>
 	</li>
 
@@ -83,46 +72,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 							
 																
-<li >
+<li class="last">
 	<a 
 	href="http://cccchile.cl/index.php?id_category=19&amp;controller=category" title="">
 		FOOTWEAR
 	</a>
-	</li>
-
-							
-																
-<li class="last">
-	<a 
-	href="http://cccchile.cl/index.php?id_category=20&amp;controller=category" title="">
-		SALE!
-	</a>
-			<ul>
-												
-<li >
-	<a 
-	href="http://cccchile.cl/index.php?id_category=21&amp;controller=category" title="">
-		INVIERNO 2014
-	</a>
-	</li>
-
-																
-<li >
-	<a 
-	href="http://cccchile.cl/index.php?id_category=22&amp;controller=category" title="">
-		30% OFF
-	</a>
-	</li>
-
-																
-<li class="last">
-	<a 
-	href="http://cccchile.cl/index.php?id_category=23&amp;controller=category" title="">
-		50% OFF
-	</a>
-	</li>
-
-									</ul>
 	</li>
 
 							
