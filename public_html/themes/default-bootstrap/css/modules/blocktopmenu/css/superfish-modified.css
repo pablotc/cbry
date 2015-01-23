@@ -70,10 +70,10 @@
 #!EDIT
 	}
   .sf-menu > li.sfHover > a,
-  .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {
+  .sf-menu > li > a, .sf-menu > li.sfHoverForce > a {
     background: #333333;
     border-bottom-color: #666666;
-    color: white; }
+    color: white; } 
 
 .sf-menu li li li a {
   display: inline-block;

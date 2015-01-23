@@ -1,0 +1,67 @@
+Return-path: <movilgmorales@spindeportes.cl>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Mon, 20 Oct 2014 12:17:22 -0500
+Received: from mail-bn1on0062.outbound.protection.outlook.com ([157.56.110.62]:38272 helo=na01-bn1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <movilgmorales@spindeportes.cl>)
+	id 1XgGaA-000BPq-8a
+	for logistics@cccchile.cl; Mon, 20 Oct 2014 12:17:22 -0500
+Received: from BL2PR02MB324.namprd02.prod.outlook.com (10.141.91.26) by
+ BL2PR02MB530.namprd02.prod.outlook.com (10.141.89.26) with Microsoft SMTP
+ Server (TLS) id 15.0.1054.13; Mon, 20 Oct 2014 17:17:00 +0000
+Received: from BL2PR02MB324.namprd02.prod.outlook.com ([10.141.91.26]) by
+ BL2PR02MB324.namprd02.prod.outlook.com ([10.141.91.26]) with mapi id
+ 15.00.1054.004; Mon, 20 Oct 2014 17:17:00 +0000
+From: "movilgmorales@spindeportes.cl" <movilgmorales@spindeportes.cl>
+To: "contabilidad@spindeportes.cl" <contabilidad@spindeportes.cl>
+CC: "logistics@cccchile.cl" <logistics@cccchile.cl>,
+	"mgallardo@spindeportes.cl" <mgallardo@spindeportes.cl>, andres morales
+	<andres.moralesg@gmail.com>
+Subject: Desaduanar CCC
+Thread-Topic: Desaduanar CCC
+Thread-Index: AQHP7ImoWDuSYTfo7k+E27No9eI81Q==
+Date: Mon, 20 Oct 2014 17:17:00 +0000
+Message-ID: <x2d2w28903jwbf9sstxj7yf3.1413825415622@email.android.com>
+Accept-Language: es-CL, en-US
+Content-Language: es-CL
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [31.221.87.87]
+x-microsoft-antispam: BCL:0;PCL:0;RULEID:;SRVR:BL2PR02MB530;
+x-exchange-antispam-report-test: UriScan:;
+x-forefront-prvs: 03706074BC
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(6009001)(199003)(189002)(95666004)(107046002)(110136001)(40100003)(54356999)(95246002)(16236675004)(87936001)(31966008)(106356001)(106116001)(229853001)(105586002)(2351001)(99286002)(4396001)(33646002)(558084003)(46102003)(80022003)(76482002)(101416001)(74482002)(63666004)(21056001)(2501002)(85306004)(97736003)(86582001)(86362001)(99396003)(2656002)(50986999)(66066001)(120916001)(221733001)(122556002)(92726001)(92566001)(85852003)(20776003)(64706001);DIR:OUT;SFP:1101;SCL:1;SRVR:BL2PR02MB530;H:BL2PR02MB324.namprd02.prod.outlook.com;FPR:;MLV:sfv;PTR:InfoNoRecords;A:0;MX:1;LANG:es;
+Content-Type: multipart/alternative;
+	boundary="_000_x2d2w28903jwbf9sstxj7yf31413825415622emailandroidcom_"
+MIME-Version: 1.0
+X-OriginatorOrg: spindeportes.cl
+
+--_000_x2d2w28903jwbf9sstxj7yf31413825415622emailandroidcom_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+DQpBbmEgTWFyaWENCkxsZWdhcm9uIGxhcyBjb3NhcyBkZSBDYW50ZXJidXJ5IHBvciBESEwuIEFw
+dXJlIGEgUm9zc2kgY29uIGVsIHJldGlybyBkZSBkb2N1bWVudG8geSBxdWUgbWFuZGVuIGxhIHBy
+b3Zpc2lvbiBkZSBmb25kb3MuDQpTaSB0aWVuZSBkdWRhcyBsbGFtZSBhIE5pY29sYXMgUGl6YXJy
+byB0ZWwgODg0NTI3MDQNCkRlcG9zaXRhcm9uIGVsIGNoZXF1ZSBkZSB0cm9uY29zPw0KDQpFbnZp
+YWRvIGRlc2RlIFNhbXN1bmcgTW9iaWxlDQo=
+
+--_000_x2d2w28903jwbf9sstxj7yf31413825415622emailandroidcom_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <4DD88D07A0B62947BA7AD9D6F0E5EBC4@spindeportes.cl>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5Pg0KPGRpdj48YnI+DQo8
+L2Rpdj4NCjxkaXY+QW5hIE1hcmlhPC9kaXY+DQo8ZGl2PkxsZWdhcm9uIGxhcyBjb3NhcyBkZSBD
+YW50ZXJidXJ5IHBvciBESEwuIEFwdXJlIGEgUm9zc2kgY29uIGVsIHJldGlybyBkZSBkb2N1bWVu
+dG8geSBxdWUgbWFuZGVuIGxhIHByb3Zpc2lvbiBkZSBmb25kb3MuPC9kaXY+DQo8ZGl2PlNpIHRp
+ZW5lIGR1ZGFzIGxsYW1lIGEgTmljb2xhcyBQaXphcnJvIHRlbCA4ODQ1MjcwNDwvZGl2Pg0KPGRp
+dj5EZXBvc2l0YXJvbiBlbCBjaGVxdWUgZGUgdHJvbmNvcz88L2Rpdj4NCjxkaXY+PGJyPg0KPC9k
+aXY+DQo8ZGl2Pg0KPGRpdiBzdHlsZT0iZm9udC1zaXplOjEwcHg7Y29sb3I6IzU3NTc1NyI+RW52
+aWFkbyBkZXNkZSBTYW1zdW5nIE1vYmlsZTwvZGl2Pg0KPC9kaXY+DQo8L2JvZHk+DQo8L2h0bWw+
+DQo=
+
+--_000_x2d2w28903jwbf9sstxj7yf31413825415622emailandroidcom_--

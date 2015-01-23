@@ -1,0 +1,67 @@
+Return-path: <mtezanos@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 01 Dec 2014 15:19:48 -0600
+Received: from mail-vc0-f174.google.com ([209.85.220.174]:64218)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <mtezanos@gmail.com>)
+	id 1XvYNn-0008lP-HK
+	for amorales@cccchile.cl; Mon, 01 Dec 2014 15:19:47 -0600
+Received: by mail-vc0-f174.google.com with SMTP id id10so5127525vcb.19
+        for <amorales@cccchile.cl>; Mon, 01 Dec 2014 13:19:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=tpNWmaH5QGpy7AhElaG8S5SsDVIIQ9QiKUOKm6A7IEY=;
+        b=K9co/iq+UpJL3HiTc/RTogb2EwSw4rTLPWu8EJFxuiYn5DoFjl7LOPSaOmVBxGUmtR
+         /5BWpa/0r0rErPMQpHRv3lg/P/OjkOOh7/7z963MGIBWI5CGLSoNMdQTZqUiIKTs0fmI
+         pCsdFx8ftLj19/CcFzKE8748fOVi1SmyiNJ9rv1EqFt7EAKQFqG/EYOoIdfxnl4ZcUr8
+         voq+Yt/YPDsvB0wK8X/z98Ax4ubwZ3to/GURHheQXFRJmkI1O5JaHkgYXHIwhCMItiDu
+         sihAJMJXNtXh5AwmZmTNNT9/gd5dbJN7E0wInOnfHP47AOlYEUe58T+9xdFPoH3bEQ+h
+         qIBw==
+MIME-Version: 1.0
+X-Received: by 10.52.138.168 with SMTP id qr8mr11804026vdb.73.1417468783982;
+ Mon, 01 Dec 2014 13:19:43 -0800 (PST)
+Received: by 10.52.108.1 with HTTP; Mon, 1 Dec 2014 13:19:43 -0800 (PST)
+Received: by 10.52.108.1 with HTTP; Mon, 1 Dec 2014 13:19:43 -0800 (PST)
+In-Reply-To: <CAD67uGaH8-zq7a-XqfbJXy1ggcw4xOYb8ccir0NHvoyS8=G-kA@mail.gmail.com>
+References: <CAD67uGaH8-zq7a-XqfbJXy1ggcw4xOYb8ccir0NHvoyS8=G-kA@mail.gmail.com>
+Date: Mon, 1 Dec 2014 18:19:43 -0300
+Message-ID: <CAD67uGbcKffvoRb3wHzpA7Cs7DJemHOhZ2dXWjaVEqUwFev3Mg@mail.gmail.com>
+Subject: =?UTF-8?Q?Reuni=C3=B3n_y_productos?=
+From: Manuel DTP <mtezanos@gmail.com>
+To: amorales@cccchile.cl
+Cc: "Andres Morales (Chile-SCI)" <Andres.Morales@am.sony.com>
+Content-Type: multipart/alternative; boundary=bcaec51b1da9597f5c05092e2b6a
+
+--bcaec51b1da9597f5c05092e2b6a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Andr=C3=A9s
+
+Nos juntamos el jueves 4 a las 10:30 am.
+
+Te mando los productos para el canje del Dakar
+
+Tel=C3=A9fono Xperia Z3 LTE (idealmente negro)
+Walkman Contra agua NWZW273S o 274S
+
+Nos vemos
+
+Abrazo
+
+--bcaec51b1da9597f5c05092e2b6a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Hola Andr=C3=A9s</p>
+<p dir=3D"ltr">Nos juntamos el jueves 4 a las 10:30 am.</p>
+<p dir=3D"ltr">Te mando los productos para el canje del Dakar</p>
+<p dir=3D"ltr">Tel=C3=A9fono Xperia Z3 LTE (idealmente negro)<br>
+Walkman Contra agua NWZW273S o 274S</p>
+<p dir=3D"ltr">Nos vemos</p>
+<p dir=3D"ltr">Abrazo</p>
+
+--bcaec51b1da9597f5c05092e2b6a--

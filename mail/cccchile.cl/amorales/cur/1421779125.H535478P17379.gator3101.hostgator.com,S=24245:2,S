@@ -1,0 +1,423 @@
+Return-path: <Felipe.Ponce@carat.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 20 Jan 2015 12:38:45 -0600
+Received: from mail-am1on0146.outbound.protection.outlook.com ([157.56.112.146]:16464 helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <Felipe.Ponce@carat.com>)
+	id 1YDdhM-0004TT-Nb
+	for amorales@cccchile.cl; Tue, 20 Jan 2015 12:38:45 -0600
+Received: from DBXPR04CA0040.eurprd04.prod.outlook.com (10.141.8.168) by
+ DB3PR04MB0826.eurprd04.prod.outlook.com (25.160.53.23) with Microsoft SMTP
+ Server (TLS) id 15.1.59.20; Tue, 20 Jan 2015 18:38:41 +0000
+Received: from AM1FFO11FD025.protection.gbl (2a01:111:f400:7e00::168) by
+ DBXPR04CA0040.outlook.office365.com (2a01:111:e400:9414::40) with Microsoft
+ SMTP Server (TLS) id 15.1.59.20 via Frontend Transport; Tue, 20 Jan 2015
+ 18:38:42 +0000
+Received: from EMDC1HCM04.media.global.loc (193.240.1.94) by
+ AM1FFO11FD025.mail.protection.outlook.com (10.174.64.214) with Microsoft SMTP
+ Server (TLS) id 15.1.59.14 via Frontend Transport; Tue, 20 Jan 2015 18:38:41
+ +0000
+Received: from EMDC1MBM05.media.global.loc ([fe80::8032:ac8:be9d:7f4f]) by
+ EMDC1HCM04.media.global.loc ([fe80::8cf4:3ceb:73c0:271d%10]) with mapi id
+ 14.03.0210.002; Tue, 20 Jan 2015 18:38:40 +0000
+From: Felipe Ponce <Felipe.Ponce@carat.com>
+To: "cienxcientorugby@yahoo.es" <cienxcientorugby@yahoo.es>
+CC:
+	=?iso-8859-1?Q?Andr=E9s_Morales_=28CCC-CHILE=29_=28amorales=40cccchile=2E?=
+ =?iso-8859-1?Q?cl=29?= <amorales@cccchile.cl>, Alejandra Villanueva
+	<Alejandra.Villanueva@carat.com>
+Subject: =?iso-8859-1?Q?M=E9tricas_Programa?=
+Thread-Topic: =?iso-8859-1?Q?M=E9tricas_Programa?=
+Thread-Index: AdA02+F+UF92SN3uQ/GZFP6IA0jovA==
+Date: Tue, 20 Jan 2015 18:38:40 +0000
+Message-ID: <4C2CC8C79F154640A80B49195B2158F3E643FA@EMDC1MBM05.media.global.loc>
+Accept-Language: es-CL, en-GB, en-US
+Content-Language: es-ES
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.11.163.241]
+x-exclaimer-md-config: a158a446-66eb-454e-968f-6fa7a2431270
+Content-Type: multipart/related;
+	boundary="_005_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of carat.com designates
+ 193.240.1.94 as permitted sender) receiver=protection.outlook.com;
+ client-ip=193.240.1.94; helo=EMDC1HCM04.media.global.loc;
+Authentication-Results: spf=pass (sender IP is 193.240.1.94)
+ smtp.mailfrom=Felipe.Ponce@carat.com; 
+X-Forefront-Antispam-Report:
+	CIP:193.240.1.94;CTRY:GB;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(438002)(189002)(199003)(50944004)(92566002)(110136001)(19625215002)(33656002)(55846006)(67866002)(97736003)(19627595001)(104016003)(2501002)(87936001)(19300405004)(66926002)(84326002)(64706001)(18206015028)(224303003)(2920100001)(19580405001)(15975445007)(2930100002)(2900100001)(2656002)(86362001)(512934002)(6806004)(2351001)(68736005)(77156002)(229853001)(19580395003)(62966003)(102836002)(224313004)(50986999)(99936001)(54356999)(16236675004)(106466001)(17760045003)(46102003)(19627235001);DIR:OUT;SFP:1102;SCL:1;SRVR:DB3PR04MB0826;H:EMDC1HCM04.media.global.loc;FPR:;SPF:Pass;MLV:sfv;PTR:InfoDomainNonexistent;MX:1;A:1;LANG:es;
+X-DmarcAction-Test: None
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(3005004);SRVR:DB3PR04MB0826;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:DB3PR04MB0826;
+X-Forefront-PRVS: 0462918D61
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:DB3PR04MB0826;
+X-OriginatorOrg: carat.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 20 Jan 2015 18:38:41.5383
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 6e8992ec-76d5-4ea5-8eae-b0c5e558749a
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=6e8992ec-76d5-4ea5-8eae-b0c5e558749a;Ip=[193.240.1.94]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB3PR04MB0826
+
+--_005_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_
+Content-Type: multipart/alternative;
+	boundary="_000_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_"
+
+--_000_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Fernando, mucho gusto!
+
+Te escribo porque Andr=E9s nos comparti=F3 la propuesta que le enviaste y n=
+ecesitamos que nos env=EDes cuantas son las visitas que tiene el sitio, tie=
+mpo de estadia en esta y cu=E1nto tiempo los usuarios se quedan viendo el p=
+rograma, con esto podemos tener una mejor visi=F3n de c=F3mo nos aportar=ED=
+a esta propuesta.
+
+Quedamos atentos.
+Saludos!
+Felipe.
+
+Felipe Ponce P. | Digital Director
+felipe.ponce@carat.com<mailto:felipe.ponce@carat.com>
+Carat Chile
+Tel=E9fono: (56 2) 2 756 1833
+Av. Presidente Riesco 5335 oficina 402, Las Condes - 7561127
+Santiago - Chile
+[Descripci=F3n: Descripci=F3n: Description: Carat Global Email Signature FI=
+NAL]
+[Descripci=F3n: Descripci=F3n: Please consider the environment before print=
+ing this email]
+
+
+
+
+--_000_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Rounded MT Bold";
+	panose-1:2 15 7 4 3 5 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EstiloCorreo17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ES-CL" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hola Fernando, mucho gusto!<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Te escribo porque Andr=E9s nos comparti=F3 la propue=
+sta que le enviaste y necesitamos que nos env=EDes cuantas son las visitas =
+que tiene el sitio, tiempo de estadia en esta y cu=E1nto tiempo los usuario=
+s se quedan viendo el programa, con esto podemos
+ tener una mejor visi=F3n de c=F3mo nos aportar=EDa esta propuesta.<o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Quedamos atentos.<o:p></o:p></p>
+<p class=3D"MsoNormal">Saludos!<o:p></o:p></p>
+<p class=3D"MsoNormal">Felipe.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:9.0pt;font-f=
+amily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999;mso-fareast-la=
+nguage:ES-CL">Felipe Ponce P. |</span></b><span lang=3D"ES" style=3D"font-s=
+ize:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#99999=
+9;mso-fareast-language:ES-CL">
+ Digital Director<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;color:#9=
+99999;mso-fareast-language:ES-CL"><a href=3D"mailto:felipe.ponce@carat.com"=
+><span style=3D"color:blue">felipe.ponce@carat.com</span></a></span><u><spa=
+n style=3D"font-size:10.0pt;color:blue;mso-fareast-language:ES-CL"><o:p></o=
+:p></span></u></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;;color:#999999;=
+mso-fareast-language:ES-CL">Carat Chile</span><span style=3D"font-family:&q=
+uot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;;color:#999999;mso-fa=
+reast-language:ES-CL"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt;font=
+-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999;mso-fareast-=
+language:ES-CL">Tel=E9fono: (56 2) 2 756 1833</span><span lang=3D"ES" style=
+=3D"font-size:10.0pt;font-family:&quot;Arial Rounded MT Bold&quot;,&quot;sa=
+ns-serif&quot;;color:#999999;mso-fareast-language:ES-CL"><o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt;font=
+-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999;mso-fareast-=
+language:ES-CL">Av. Presidente Riesco 5335 oficina 402, Las Condes &#8211; =
+7561127<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt;font=
+-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#999999;mso-fareast-=
+language:ES-CL">Santiago - Chile<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:#1F497D;mso-fa=
+reast-language:ES-CL"><img border=3D"0" width=3D"271" height=3D"95" id=3D"I=
+magen_x0020_1" src=3D"cid:image001.jpg@01D034C2.BC327EB0" alt=3D"Descripci=
+=F3n: Descripci=F3n: Description: Carat Global Email Signature FINAL"></spa=
+n><span lang=3D"ES" style=3D"color:#1F497D;mso-fareast-language:ES-CL"><o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:7.5pt;color:#1F497D;mso-far=
+east-language:ES-CL"><img border=3D"0" width=3D"310" height=3D"29" id=3D"Im=
+agen_x0020_2" src=3D"cid:image002.png@01D034C2.BC327EB0" alt=3D"Descripci=
+=F3n: Descripci=F3n: Please consider the environment before printing this e=
+mail"></span><span lang=3D"ES-TRAD" style=3D"font-size:8.0pt;color:#1F497D;=
+mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"color:#1F497D;mso-fareast=
+-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:ES-CL"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_--
+
+--_005_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=6754;
+	creation-date="Tue, 20 Jan 2015 18:38:35 GMT";
+	modification-date="Tue, 20 Jan 2015 18:38:35 GMT"
+Content-ID: <image001.jpg@01D034C2.BC327EB0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABfAQ8DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiuU
+8WeKJdNlWw08A3TAFnxnZnoAO5NZI03xesX2oXE+7GfL87Lf989Pwrohhm4qUmlfa5w1MdGM3CEX
+K29uh6DRVHRp57rR7Wa7/wBe8YZ/l28/TtXP6r4r+x+LLe2V/wDRIv3c/oWbv/wHj9azhRlOTjHo
+b1MRCnBTlonb8TrqKax+QkelecaVf+JNZmlSz1Bi0Q3EOVGefpVUqLqJu6Vu5OIxSouMeVtvsek0
+VyvhXxFeX17Pp2pqDcRAkOBg8HBBxxWv4g1QaRo81zkeZjZGPVj0/wAfwqZUZRnyPccMTTnSdVbL
+9DSpa5/w5q0ur+G2w5a9iQxsSeS2PlP48frXNX8vi3S7Q3F5cyJECFJDoeT9K0hhnKTg2k0ZVMbG
+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
+Faul2sllpVrbTSeZJFGqM3qQKt0UAFFFFAH/2Q==
+
+--_005_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=2018;
+	creation-date="Tue, 20 Jan 2015 18:38:36 GMT";
+	modification-date="Tue, 20 Jan 2015 18:38:36 GMT"
+Content-ID: <image002.png@01D034C2.BC327EB0>
+Content-Transfer-Encoding: base64
+
+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
+Av8C62gCHnmJwrIAAAAASUVORK5CYII=
+
+--_005_4C2CC8C79F154640A80B49195B2158F3E643FAEMDC1MBM05mediagl_--

@@ -1,0 +1,128 @@
+Return-path: <Bryan.Iturrieta@carat.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 20 Jan 2015 08:19:22 -0600
+Received: from mail-db3on0113.outbound.protection.outlook.com ([157.55.234.113]:47808 helo=emea01-db3-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <Bryan.Iturrieta@carat.com>)
+	id 1YDZeL-0000ba-TJ
+	for amorales@cccchile.cl; Tue, 20 Jan 2015 08:19:22 -0600
+Received: from AM3PR04CA0042.eurprd04.prod.outlook.com (10.242.16.42) by
+ DB4PR04MB0829.eurprd04.prod.outlook.com (10.242.194.24) with Microsoft SMTP
+ Server (TLS) id 15.1.59.20; Tue, 20 Jan 2015 14:19:16 +0000
+Received: from AM1FFO11FD016.protection.gbl (2a01:111:f400:7e00::181) by
+ AM3PR04CA0042.outlook.office365.com (2a01:111:e400:8814::42) with Microsoft
+ SMTP Server (TLS) id 15.1.59.20 via Frontend Transport; Tue, 20 Jan 2015
+ 14:19:16 +0000
+Received: from EMDC2HCM02.media.global.loc (193.240.1.94) by
+ AM1FFO11FD016.mail.protection.outlook.com (10.174.64.94) with Microsoft SMTP
+ Server (TLS) id 15.1.59.14 via Frontend Transport; Tue, 20 Jan 2015 14:19:16
+ +0000
+Received: from EMDC2MBM04.media.global.loc ([fe80::c5b2:86a4:a42:7897]) by
+ EMDC2HCM02.media.global.loc ([fe80::e106:5e9b:db6b:1726%10]) with mapi id
+ 14.03.0210.002; Tue, 20 Jan 2015 14:19:15 +0000
+From: Bryan Iturrieta <Bryan.Iturrieta@carat.com>
+To: =?utf-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+CC: Felipe Ponce <Felipe.Ponce@carat.com>, Pablo Pozarski
+	<Pablo.Pozarski@carat.com>
+Subject: Facebook
+Thread-Topic: Facebook
+Thread-Index: AdA0u7M1YM6dHFqaSZKRsw7HdFcvCA==
+Date: Tue, 20 Jan 2015 14:19:15 +0000
+Message-ID: <4D433FC4E3403E45842F28B513FBB9E0FE641E@EMDC2MBM04.media.global.loc>
+Accept-Language: en-GB, en-US
+Content-Language: es-ES
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.16.102.242]
+x-exclaimer-md-config: a158a446-66eb-454e-968f-6fa7a2431270
+Content-Type: multipart/alternative;
+	boundary="_000_4D433FC4E3403E45842F28B513FBB9E0FE641EEMDC2MBM04mediagl_"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of carat.com designates
+ 193.240.1.94 as permitted sender) receiver=protection.outlook.com;
+ client-ip=193.240.1.94; helo=EMDC2HCM02.media.global.loc;
+Authentication-Results: spf=pass (sender IP is 193.240.1.94)
+ smtp.mailfrom=Bryan.Iturrieta@carat.com; 
+X-Forefront-Antispam-Report:
+	CIP:193.240.1.94;CTRY:GB;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(6009001)(438002)(189002)(122424002)(199003)(229853001)(62966003)(87936001)(19580395003)(84326002)(6806004)(68736005)(2920100001)(102836002)(2900100001)(2930100002)(450100001)(77156002)(86362001)(16236675004)(19300405004)(15975445007)(54356999)(46102003)(106466001)(104016003)(97736003)(92566002)(19625215002)(55846006)(33656002)(64706001)(50986999)(2656002)(110136001)(512874002)(221733001)(19627235001);DIR:OUT;SFP:1102;SCL:1;SRVR:DB4PR04MB0829;H:EMDC2HCM02.media.global.loc;FPR:;SPF:Pass;MLV:sfv;PTR:InfoDomainNonexistent;MX:1;A:1;LANG:es;
+X-DmarcAction-Test: None
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(3005004);SRVR:DB4PR04MB0829;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:DB4PR04MB0829;
+X-Forefront-PRVS: 0462918D61
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:DB4PR04MB0829;
+X-OriginatorOrg: carat.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 20 Jan 2015 14:19:16.1886
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 6e8992ec-76d5-4ea5-8eae-b0c5e558749a
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=6e8992ec-76d5-4ea5-8eae-b0c5e558749a;Ip=[193.240.1.94]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB4PR04MB0829
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FE641EEMDC2MBM04mediagl_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+SG9sYSBBbmRyw6lzIMK/Q8OzbW8gZXN0w6FzPw0KDQpNZSBndXN0YXLDrWEgY29tZW50YXJ0ZSBx
+dWUgZWwgRmFjZWJvb2sgZW5sYXphZG8gYWwgc2l0aW8gY2NjY2hpbGUuY2wgbm8gY29ycmVzcG9u
+ZGUgYWwgZmFuLXBhZ2UgbmFjaW9uYWwsDQrCv0V4aXN0ZSBsYSBwb3NpYmlsaWRhZCBkZSBjYW1i
+aWFybG8gYWwgbnVlc3Rybz8sIHNlcsOtYSBkZSBtdWNoYSBheXVkYSBwYXJhIGNhcHRhciBsaWtl
+cyBjdWFuZG8gbGFzIHBlcnNvbmFzIGluZ3Jlc2FuIGFsIHNpdGlvLg0KDQpRdWVkbyBhdGVudG8g
+YSB0dSByZXNwdWVzdGEsDQpTYWx1ZG9zLA0K
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FE641EEMDC2MBM04mediagl_
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
+YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
+cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
+VFIvUkVDLWh0bWw0MCI+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIg
+Y29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxtZXRhIG5hbWU9IkdlbmVyYXRv
+ciIgY29udGVudD0iTWljcm9zb2Z0IFdvcmQgMTQgKGZpbHRlcmVkIG1lZGl1bSkiPg0KPHN0eWxl
+PjwhLS0NCi8qIEZvbnQgRGVmaW5pdGlvbnMgKi8NCkBmb250LWZhY2UNCgl7Zm9udC1mYW1pbHk6
+Q2FsaWJyaTsNCglwYW5vc2UtMToyIDE1IDUgMiAyIDIgNCAzIDIgNDt9DQpAZm9udC1mYWNlDQoJ
+e2ZvbnQtZmFtaWx5OlRhaG9tYTsNCglwYW5vc2UtMToyIDExIDYgNCAzIDUgNCA0IDIgNDt9DQov
+KiBTdHlsZSBEZWZpbml0aW9ucyAqLw0KcC5Nc29Ob3JtYWwsIGxpLk1zb05vcm1hbCwgZGl2Lk1z
+b05vcm1hbA0KCXttYXJnaW46MGNtOw0KCW1hcmdpbi1ib3R0b206LjAwMDFwdDsNCglmb250LXNp
+emU6MTIuMHB0Ow0KCWZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLCJzZXJpZiI7fQ0KYTps
+aW5rLCBzcGFuLk1zb0h5cGVybGluaw0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJY29sb3I6
+Ymx1ZTsNCgl0ZXh0LWRlY29yYXRpb246dW5kZXJsaW5lO30NCmE6dmlzaXRlZCwgc3Bhbi5Nc29I
+eXBlcmxpbmtGb2xsb3dlZA0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJY29sb3I6cHVycGxl
+Ow0KCXRleHQtZGVjb3JhdGlvbjp1bmRlcmxpbmU7fQ0KcC5Nc29BY2V0YXRlLCBsaS5Nc29BY2V0
+YXRlLCBkaXYuTXNvQWNldGF0ZQ0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJbXNvLXN0eWxl
+LWxpbms6IlRleHRvIGRlIGdsb2JvIENhciI7DQoJbWFyZ2luOjBjbTsNCgltYXJnaW4tYm90dG9t
+Oi4wMDAxcHQ7DQoJZm9udC1zaXplOjguMHB0Ow0KCWZvbnQtZmFtaWx5OiJUYWhvbWEiLCJzYW5z
+LXNlcmlmIjt9DQpzcGFuLkVzdGlsb0NvcnJlbzE3DQoJe21zby1zdHlsZS10eXBlOnBlcnNvbmFs
+LXJlcGx5Ow0KCWZvbnQtZmFtaWx5OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7DQoJY29sb3I6IzFG
+NDk3RDt9DQpzcGFuLlRleHRvZGVnbG9ib0Nhcg0KCXttc28tc3R5bGUtbmFtZToiVGV4dG8gZGUg
+Z2xvYm8gQ2FyIjsNCgltc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJbXNvLXN0eWxlLWxpbms6IlRl
+eHRvIGRlIGdsb2JvIjsNCglmb250LWZhbWlseToiVGFob21hIiwic2Fucy1zZXJpZiI7DQoJbXNv
+LWZhcmVhc3QtbGFuZ3VhZ2U6RVMtQ0w7fQ0KLk1zb0NocERlZmF1bHQNCgl7bXNvLXN0eWxlLXR5
+cGU6ZXhwb3J0LW9ubHk7DQoJZm9udC1mYW1pbHk6IkNhbGlicmkiLCJzYW5zLXNlcmlmIjsNCglt
+c28tZmFyZWFzdC1sYW5ndWFnZTpFTi1VUzt9DQpAcGFnZSBXb3JkU2VjdGlvbjENCgl7c2l6ZTo2
+MTIuMHB0IDc5Mi4wcHQ7DQoJbWFyZ2luOjcwLjg1cHQgMy4wY20gNzAuODVwdCAzLjBjbTt9DQpk
+aXYuV29yZFNlY3Rpb24xDQoJe3BhZ2U6V29yZFNlY3Rpb24xO30NCi0tPjwvc3R5bGU+PCEtLVtp
+ZiBndGUgbXNvIDldPjx4bWw+DQo8bzpzaGFwZWRlZmF1bHRzIHY6ZXh0PSJlZGl0IiBzcGlkbWF4
+PSIxMDI2IiAvPg0KPC94bWw+PCFbZW5kaWZdLS0+PCEtLVtpZiBndGUgbXNvIDldPjx4bWw+DQo8
+bzpzaGFwZWxheW91dCB2OmV4dD0iZWRpdCI+DQo8bzppZG1hcCB2OmV4dD0iZWRpdCIgZGF0YT0i
+MSIgLz4NCjwvbzpzaGFwZWxheW91dD48L3htbD48IVtlbmRpZl0tLT4NCjwvaGVhZD4NCjxib2R5
+IGxhbmc9IkVTLUNMIiBsaW5rPSJibHVlIiB2bGluaz0icHVycGxlIj4NCjxkaXYgY2xhc3M9Ildv
+cmRTZWN0aW9uMSI+DQo8ZGl2Pg0KPGRpdj4NCjxkaXY+DQo8ZGl2Pg0KPGRpdj4NCjxkaXY+DQo8
+cCBjbGFzcz0iTXNvTm9ybWFsIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOjExLjBwdDtmb250LWZh
+bWlseTomcXVvdDtDYWxpYnJpJnF1b3Q7LCZxdW90O3NhbnMtc2VyaWYmcXVvdDs7Y29sb3I6IzFG
+NDk3RCI+SG9sYSBBbmRyw6lzIMK/Q8OzbW8gZXN0w6FzPzxicj4NCjxicj4NCk1lIGd1c3RhcsOt
+YSBjb21lbnRhcnRlIHF1ZSBlbCBGYWNlYm9vayBlbmxhemFkbyBhbCBzaXRpbyBjY2NjaGlsZS5j
+bCBubyBjb3JyZXNwb25kZSBhbCBmYW4tcGFnZSBuYWNpb25hbCwNCjxicj4NCsK/RXhpc3RlIGxh
+IHBvc2liaWxpZGFkIGRlIGNhbWJpYXJsbyBhbCBudWVzdHJvPywgc2Vyw61hIGRlIG11Y2hhIGF5
+dWRhIHBhcmEgY2FwdGFyIGxpa2VzIGN1YW5kbyBsYXMgcGVyc29uYXMgaW5ncmVzYW4gYWwgc2l0
+aW8uDQo8YnI+DQo8YnI+DQpRdWVkbyBhdGVudG8gYSB0dSByZXNwdWVzdGEsIDxicj4NClNhbHVk
+b3MsIDxvOnA+PC9vOnA+PC9zcGFuPjwvcD4NCjwvZGl2Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2
+Pg0KPC9kaXY+DQo8L2Rpdj4NCjwvZGl2Pg0KPC9ib2R5Pg0KPC9odG1sPg0K
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FE641EEMDC2MBM04mediagl_--

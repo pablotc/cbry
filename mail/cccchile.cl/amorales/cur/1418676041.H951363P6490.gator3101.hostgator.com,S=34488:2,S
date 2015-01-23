@@ -1,0 +1,672 @@
+Return-path: <josefinaacorrea@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 15 Dec 2014 14:40:41 -0600
+Received: from mail-qc0-f175.google.com ([209.85.216.175]:33173)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <josefinaacorrea@gmail.com>)
+	id 1Y0cRd-0001eP-LZ
+	for amorales@cccchile.cl; Mon, 15 Dec 2014 14:40:41 -0600
+Received: by mail-qc0-f175.google.com with SMTP id b13so10319516qcw.6
+        for <amorales@cccchile.cl>; Mon, 15 Dec 2014 12:40:39 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc:content-type;
+        bh=GP5fMMFs6myRLGGc7EMJIwUS2JqmTKhsRjP3VUzDDt8=;
+        b=Z+Ea38Pni0EjG4zIlQ9SWC8Le2+7pdrxe68+C2o7liB6V1w8rxqw+tl/wOQ9eUPjhS
+         7GaN6cCP2uRB7bafvUjXdyK5PGnpjHAmu5QHxGOa8TiH0HPC6XBVGZIha7clvbiOKy6e
+         IF22aM47QnvZZN0NZbe6WxLzwkUCWVKvpvOFDFdvfsh++VI/cUN/rtM0L9n8VmD4f6ix
+         P1fGAyE/eDpONyVuYNw4KdWzR+QAfMWEskc3dAtR/Y8nYDHx/18wjRHLVpKU4b/BAlRU
+         QoVXT/qr9D2Diat4uD/ut6nzB/mq7AjFyLnzXe5yjnrmSoO1fLQpf4C/AOQuo7vjnpD2
+         uUEg==
+X-Received: by 10.140.92.202 with SMTP id b68mr46386602qge.10.1418676039316;
+ Mon, 15 Dec 2014 12:40:39 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.140.108.74 with HTTP; Mon, 15 Dec 2014 12:40:19 -0800 (PST)
+In-Reply-To: <CAKggD2ScgDHJ5FVAyiwcY-h7HuuHzpVkP0Y1cYw6FjRZkuvkSA@mail.gmail.com>
+References: <CA+Jkm6OUHtVMf3w518cx5mvq628ne3ok4NwFa_SjzHL3mc-uug@mail.gmail.com>
+ <060801d00f33$0174e090$045ea1b0$@spindeportes.cl> <52085C0F-FF8D-4FB9-83E7-C316FF73B64F@gmail.com>
+ <CAKggD2QmEF8TZ89K+YvTihXDeoVt2QfOAo4to_eTCgmE0DkcUA@mail.gmail.com>
+ <CAKggD2RdcQNok88Y5Y=pecL6jYNZFhHP_pcvnhMj1C=EOGPDvw@mail.gmail.com>
+ <B3DC7779-7BF4-482D-BBBA-C9D13A32F998@gmail.com> <CAKggD2SdtfHkB7_L2Ayymuj9CBA2vFORamjOeyMesHeQjaX7hA@mail.gmail.com>
+ <CA+Jkm6OoXshFbNB2Mn5rzkCi+jiKcZJKXwh0jxYjBG0_BDv-5Q@mail.gmail.com>
+ <CA+Jkm6O0ByKRFA-aDLZUHta0zvOtvAMWxoqE9cziFi4Tr_y3tA@mail.gmail.com>
+ <CAPbtxXuGXaKoGnJRnOTH6VtDv1bY+M669TJUv9tgBJq6iPkSGw@mail.gmail.com>
+ <CAKggD2TwC3cgRPe-AYXERSzVct3OgmM69hiGwjgZir=UPw7sgg@mail.gmail.com>
+ <CAPbtxXs8W0NSrLV3U325Xy+Coid6VP=FAsz0BFFE7v_mhLjhkg@mail.gmail.com>
+ <CAKggD2QVMuX=7xJeqGnnMH2VoY4R5f=6kqUueMjHXNYra7i_CA@mail.gmail.com>
+ <CAKggD2RbAnkmyMBd8WXqwK-rPXTUZLMX7c1MCaZOrB97r+icng@mail.gmail.com>
+ <CAPbtxXt=BPkqj_LoGrW=vi=Sj0Y4hVxbND+ehC=amCqBYQRpHw@mail.gmail.com>
+ <CAKggD2QNFo2Kp3vZMV0_P_0MepCdXx3yYMB66WEugyfSOrt0AQ@mail.gmail.com>
+ <CAKggD2TLmgEnQUdUPB4adM3Jkq69zSfoBQAd1ax0Re3NLMCDsg@mail.gmail.com>
+ <CAKggD2QJrpjCPii95WanYR-kcCWjbCDWFOOxtQt8DQcM8n_Q+Q@mail.gmail.com>
+ <CAPbtxXuH2cmO9go0Uv+5_8gB7BQXjJKmkEfafbuCArT_pxp0iA@mail.gmail.com>
+ <CAKggD2T2RWH0MvZBTMv5DxEmK4b381=yeO68YoxJd5iFw=egkg@mail.gmail.com>
+ <CAPbtxXvbgu1AUxY7SVA_FsUE-sESaz6uZMF3PrvrzL=m7Qfc_Q@mail.gmail.com> <CAKggD2ScgDHJ5FVAyiwcY-h7HuuHzpVkP0Y1cYw6FjRZkuvkSA@mail.gmail.com>
+From: Josefina Correa <josefinaacorrea@gmail.com>
+Date: Mon, 15 Dec 2014 17:40:19 -0300
+Message-ID: <CAPbtxXu3UjnnQ6LWS9CT3HrvUVQ_sFzeRA9u6jHX_Kwa=e+JeQ@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Canterbury_=2D_Selecci=C3=B3n_Chilena_de_Hockey_Femeni?=
+	=?UTF-8?Q?no?=
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Cc: Carolina de la maza <carodelamaza@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1139a5d2601d28050a474155
+
+--001a1139a5d2601d28050a474155
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Obvio, no te preocupes. Nosotras te contaremos si aparecen nuevos proyectos
+que podr=C3=ADan interesarte.
+Qu=C3=A9 est=C3=A9s bien!
+Saludos,
+Josefina Correa
+
+2014-12-15 13:02 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchi=
+le.cl>
+:
+>
+> Ok, entiendo. No te preocupes.
+> Vamos a estar atentos por si necestan algo mas en un futuro proximo. Creo
+> que necesitan mas apoyo de su federecion...
+>
+> Te mando un abrazo..
+> PD nose si pueda ir porque voy a ser papa probto
+>
+>
+> El lunes, 15 de diciembre de 2014, Josefina Correa <
+> josefinaacorrea@gmail.com> escribi=C3=B3:
+>
+> Hola Andr=C3=A9s,
+>> C=C3=B3mo est=C3=A1s? Perdona por no haberte respondido antes (estamos f=
+ull con el
+>> lanzamiento). Te cuento que finalmente las hockistas decidieron buscar
+>> alguna alternativa m=C3=A1s barata por esta vez porque est=C3=A1n muy en=
+cima del
+>> campeonato y no pueden comprometerse a pagar la ropa.
+>> De todas maneras nos gustar=C3=ADa que participaras del lanzamiento de e=
+sta
+>> iniciativa este mi=C3=A9rcoles 17 a las 9:30AM en el Hard Rock Caf=C3=A9=
+ (adjunto la
+>> invitaci=C3=B3n). Invitamos tambi=C3=A9n seleccionados de rugby por si t=
+e interesa,
+>> quiz=C3=A1s m=C3=A1s adelante puede salir un proyecto con ellos.
+>> =C2=A1Mil gracias por tu motivaci=C3=B3n y ojal=C3=A1 nos puedas acompa=
+=C3=B1ar en el
+>> lanzamiento!
+>> =C2=A1Qu=C3=A9 est=C3=A9s muy bien!
+>> Saludos!!
+>> Josefina Correa
+>>
+>> 2014-12-10 12:43 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <
+>> amorales@cccchile.cl>:
+>>>
+>>> Lo que pasa es que es la calidad que tenemos para ofrecer, no hay otras
+>>> alternativas mucho mas baratas, ya pedi que me mandaran lo mas barato p=
+ero
+>>> con la calidad que merece una seleccion. Es posible que la federacion p=
+onga
+>>> otras 10.000? Asi ya es menos.
+>>> Lo otro, te puedo dar facilidades de pago algo al dia, 30 y 60....
+>>> Avisame..quedo atento.
+>>>
+>>> Sls
+>>>
+>>>
+>>> El mi=C3=A9rcoles, 10 de diciembre de 2014, Josefina Correa <
+>>> josefinaacorrea@gmail.com> escribi=C3=B3:
+>>>
+>>> Hola Andr=C3=A9s,
+>>>> Gracias por hacernos un precio y por toda la motivaci=C3=B3n. Estamos
+>>>> armando el proyecto completo de las hockistas y viendo c=C3=B3mo lo po=
+demos
+>>>> hacer, porque para cada una ser=C3=ADan 2 packs b=C3=A1sicos lo que su=
+mar=C3=ADa 92.000 y
+>>>> si no logramos que la gente los pague (porque tienen que recopilar ade=
+m=C3=A1s
+>>>> 5.000.000 para poder viajar) ellas tendr=C3=ADan que poner la diferenc=
+ia.
+>>>> =C2=BFExiste alguna alternativa de menor calidad que sea m=C3=A1s bara=
+ta? Lo
+>>>> otro, ser=C3=ADa ideal si insistieras con tu amigo de Sony para ver si=
+ se puede
+>>>> hacer alguna alianza estrat=C3=A9gica.
+>>>> Te respondemos lo antes posible porque sabemos que estamos contra el
+>>>> tiempo.
+>>>> =C2=A1Qu=C3=A9 est=C3=A9s bien!
+>>>> Saludos,
+>>>> Josefina Correa
+>>>> PS: mil disculpas por el caf=C3=A9 de ayer!!! Te debemos uno ;)
+>>>>
+>>>> 2014-12-10 0:36 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <
+>>>> amorales@cccchile.cl>:
+>>>>
+>>>>> Estimadas,
+>>>>>
+>>>>> Estuvimos revisando lo de ustedes y el mejor precio que podemos hacer
+>>>>> por el siguiente detalle es:
+>>>>> 1 Polera + 1 falda (c/calza) + 1 media =3D $38.655 + iva ($46.000 iva
+>>>>> incl.)
+>>>>>
+>>>>> Rev=C3=ADsenlo y me cuentan, pero lamentablemente no podemos hacer m=
+=C3=A1s
+>>>>> esfuerzo. Ojal=C3=A1 resulte, a nosotros nos encantar=C3=ADa vestir a=
+ la selecci=C3=B3n.
+>>>>> Ojal=C3=A1 la iniciativa pueda recaudar lo m=C3=A1ximo posible para q=
+ue cada jugadora
+>>>>> ponga la menor plata posible.
+>>>>> Si por ejemplo, cada jugadora pone $10.000, deber=C3=ADa hacer el lla=
+mado
+>>>>> del proyecto por $36.000, etc.
+>>>>>
+>>>>> denle un vuelta...
+>>>>> Quedo atento!
+>>>>>
+>>>>> El 9 de diciembre de 2014, 15:12, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>
+>>>>> Llegaron?
+>>>>>>
+>>>>>> El martes, 9 de diciembre de 2014, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>
+>>>>>> ok, nos vemos!
+>>>>>>>
+>>>>>>> El 9 de diciembre de 2014, 11:30, Josefina Correa <
+>>>>>>> josefinaacorrea@gmail.com> escribi=C3=B3:
+>>>>>>>
+>>>>>>>> Por nuestra parte tambi=C3=A9n. =C2=BFEn el starbucks del metro el=
+ golf? (es
+>>>>>>>> en apoquindo, vereda norte, una cuadra m=C3=A1s arriba de la munic=
+ipalidad de
+>>>>>>>> las condes).
+>>>>>>>> Saludos!
+>>>>>>>> Josefina Correa
+>>>>>>>>
+>>>>>>>> 2014-12-09 11:26 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>>>>> amorales@cccchile.cl>:
+>>>>>>>>
+>>>>>>>> Hola Josefina, nos juntamos a las 3:00?
+>>>>>>>>> por mi lado esta ok.
+>>>>>>>>>
+>>>>>>>>> sls.
+>>>>>>>>>
+>>>>>>>>> El 9 de diciembre de 2014, 3:06, Andr=C3=A9s Morales (CCC-CHILE) =
+<
+>>>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>
+>>>>>>>>> Hola Hablemos ma=C3=B1ana durante la ma=C3=B1ana.
+>>>>>>>>>>
+>>>>>>>>>> sls.
+>>>>>>>>>>
+>>>>>>>>>> El 8 de diciembre de 2014, 23:26, Josefina Correa <
+>>>>>>>>>> josefinaacorrea@gmail.com> escribi=C3=B3:
+>>>>>>>>>>
+>>>>>>>>>> Ok! =C2=BFTe parece en el starbucks del metro el golf? Es una cu=
+adra
+>>>>>>>>>>> m=C3=A1s arriba de la municipalidad de las Condes (vereda norte=
+).
+>>>>>>>>>>> Av=C3=ADsame.
+>>>>>>>>>>> Saludos,
+>>>>>>>>>>> Josefina Correa
+>>>>>>>>>>>
+>>>>>>>>>>> 2014-12-08 11:33 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>>>>>>>> amorales@cccchile.cl>:
+>>>>>>>>>>>
+>>>>>>>>>>> Ok, no hay problema. Dime donde.
+>>>>>>>>>>>> Uds, le dieron la vuelta a como se puede financiar? La verdad
+>>>>>>>>>>>> no.ne.interrsa mucho el como, miebtras me digan que si.
+>>>>>>>>>>>> Sls
+>>>>>>>>>>>>
+>>>>>>>>>>>> El viernes, 5 de diciembre de 2014, Josefina Correa <
+>>>>>>>>>>>> josefinaacorrea@gmail.com> escribi=C3=B3:
+>>>>>>>>>>>>
+>>>>>>>>>>>> Hola Andr=C3=A9s,
+>>>>>>>>>>>>> Habl=C3=A9 con la Camila Caram (la capitana de la selecci=C3=
+=B3n de
+>>>>>>>>>>>>> hockey) y le fascin=C3=B3 todo. Dijo que nos junt=C3=A1ramos =
+el martes en la tarde a
+>>>>>>>>>>>>> definir todo, =C2=BFpuedes a las 3PM?
+>>>>>>>>>>>>> Saludos!
+>>>>>>>>>>>>> Josefina Correa
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> 2014-12-05 18:20 GMT-03:00 Carolina de la maza <
+>>>>>>>>>>>>> carodelamaza@gmail.com>:
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>> ---------- Mensaje reenviado ----------
+>>>>>>>>>>>>>> De: Carolina de la maza <carodelamaza@gmail.com>
+>>>>>>>>>>>>>> Fecha: 4 de diciembre de 2014, 18:56
+>>>>>>>>>>>>>> Asunto: Re: Canterbury - Selecci=C3=B3n Chilena de Hockey Fe=
+menino
+>>>>>>>>>>>>>> Para: "Andr=C3=A9s Morales (CCC-CHILE)" <amorales@cccchile.c=
+l>
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>> Puedo a cualquier hora en la tarde menos a las 4.
+>>>>>>>>>>>>>> =C2=BFTe tinca a las 14:30? sino a las 17:30....
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>> El 4 de diciembre de 2014, 18:54, Andr=C3=A9s Morales (CCC-C=
+HILE)
+>>>>>>>>>>>>>> <amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>> Hola Carolina,
+>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>> Me es dif=C3=ADcil finalmente almorrzar ma=C3=B1ana. Puedes=
+ en la
+>>>>>>>>>>>>>>> tarde? Dime.tu la hora.
+>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>> Sls
+>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>> El mi=C3=A9rcoles, 3 de diciembre de 2014, Carolina De La M=
+aza <
+>>>>>>>>>>>>>>> carodelamaza@gmail.com> escribi=C3=B3:
+>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>> Ok! Si te trate de llamar y me sal=C3=ADa a pagado. Es el 7=
+9795659
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>> Enviado desde mi iPhone
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>> El 03-12-2014, a las 22:17, Andr=C3=A9s Morales (CCC-CHILE=
+) <
+>>>>>>>>>>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>> Hablemos ma=C3=B1ana en la ma=C3=B1ana
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>> Me pasas tu cel?
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>> El mi=C3=A9rcoles, 3 de diciembre de 2014, Andr=C3=A9s Mor=
+ales
+>>>>>>>>>>>>>>>> (CCC-CHILE) <amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>> Te paso mi cel: 84495251.
+>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>> sls.
+>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>> El 3 de diciembre de 2014, 17:45, Carolina De La Maza <
+>>>>>>>>>>>>>>>>> carodelamaza@gmail.com> escribi=C3=B3:
+>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Gracias Guillermo.
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Hola Andr=C3=A9s! Te parece si nos juntamos ma=C3=B1ana =
+o el
+>>>>>>>>>>>>>>>>>> viernes para contarte? Cu=C3=A9ntame porfa que opciones =
+de agenda podr=C3=ADan ser
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Saludos,
+>>>>>>>>>>>>>>>>>> Carolina
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Enviado desde mi iPhone
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> El 03-12-2014, a las 16:54, Guillermo Morales - Spin Ltd=
+a
+>>>>>>>>>>>>>>>>>> <gmorales@spindeportes.cl> escribi=C3=B3:
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Andres
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Carolina se contacto conmigo para ver la posibilidad de
+>>>>>>>>>>>>>>>>>> hacer algo en conjunto con las seleccionadas de Hockey d=
+e Chile para ir a
+>>>>>>>>>>>>>>>>>> Rio.
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Conversa tu con ella  para ver la posibilidad con
+>>>>>>>>>>>>>>>>>> Canterbury.
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> saludos
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> GM
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Carolina: 79795659
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Andres:84495251
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> *De:* Carolina de la maza [mailto:carodelamaza@gmail.com=
+]
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> *Enviado el:* mi=C3=A9rcoles, 03 de diciembre de 2014 16=
+:33
+>>>>>>>>>>>>>>>>>> *Para:* gmorales@spindeportes.cl
+>>>>>>>>>>>>>>>>>> *Asunto:* Canterbury - Selecci=C3=B3n Chilena de Hockey
+>>>>>>>>>>>>>>>>>> Femenino
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Hola Guillermo!! Seg=C3=BAn conversamos aqu=C3=AD te man=
+do el
+>>>>>>>>>>>>>>>>>> resumen del proyecto para que eval=C3=BAen como podr=C3=
+=ADan participar, nos parece
+>>>>>>>>>>>>>>>>>> que es una gran oportunidad para Canterbury!!
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> "Las Diablas", selecci=C3=B3n chilena de hockey femenino=
+.
+>>>>>>>>>>>>>>>>>> Pr=C3=B3ximamente realizar=C3=A1n su tour internacional =
+para clasificar a las
+>>>>>>>>>>>>>>>>>> olimpiadas de R=C3=ADo 2016 y lanzar=C3=A1n una campa=C3=
+=B1a de "crowdfunding"
+>>>>>>>>>>>>>>>>>> (financiamiento colectivo) en nuestra plataforma llamada=
+ "Let=C2=B4s Fand". Esta
+>>>>>>>>>>>>>>>>>> funciona a trave=CC=81s de la creacio=CC=81n del proyect=
+os con un objetivo puntual,
+>>>>>>>>>>>>>>>>>> una meta y un plazo para lograrla. Una vez creado el pro=
+yecto, este se
+>>>>>>>>>>>>>>>>>> difunde en las redes sociales y la comunidad participa r=
+ealizando aportes
+>>>>>>>>>>>>>>>>>> monetarios, recibiendo a cambio una recompensas de acuer=
+do al aporte
+>>>>>>>>>>>>>>>>>> realizado. Por ejemplo: un saludo en las redes sociales,
+>>>>>>>>>>>>>>>>>> productos deportivos, cl=C3=ADnicas de hockey con la Sel=
+ecci=C3=B3n, etc.
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> El lanzamiento oficial ser=C3=A1 el d=C3=ADa 17 de Dicie=
+mbre en el
+>>>>>>>>>>>>>>>>>> Hard Rock Caf=C3=A9, donde contaremos con la presencia d=
+e full prensa,
+>>>>>>>>>>>>>>>>>> deportistas potentes, auspiciadores, CORFO, institucione=
+s ligadas al
+>>>>>>>>>>>>>>>>>> deporte y al emprendimiento etc.
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> La idea ser=C3=ADa que pudieran participar como auspicia=
+dores
+>>>>>>>>>>>>>>>>>> de la campa=C3=B1a de "Las Diablas" a trav=C3=A9s de can=
+je de productos (los cuales
+>>>>>>>>>>>>>>>>>> podr=C3=ADamos sortear en las cl=C3=ADnicas de Hockey) y=
+ vestimenta oficial para la
+>>>>>>>>>>>>>>>>>> Selecci=C3=B3n (ellas no cuentan con ning=C3=BAn auspici=
+ador de vestuario
+>>>>>>>>>>>>>>>>>> actualmente).
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Ser=C3=ADa ideal que pudi=C3=A9ramos coordinar una reuni=
+=C3=B3n para
+>>>>>>>>>>>>>>>>>> contarles en detalle el proyecto y la forma de participa=
+r. Les adjunto una
+>>>>>>>>>>>>>>>>>> presentaci=C3=B3n de apoyo para que vean de que se trata=
+!!
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Quedo atenta a sus comentarios :)
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Saludos,
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>> Carolina
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>
+>>>>>>>
+>>>>>
+>>>>
+
+--001a1139a5d2601d28050a474155
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Obvio, no te preocupes. Nosotras te contaremos si aparecen=
+ nuevos proyectos que podr=C3=ADan interesarte.<div>Qu=C3=A9 est=C3=A9s bie=
+n!</div><div>Saludos,</div><div>Josefina Correa</div></div><div class=3D"gm=
+ail_extra"><br><div class=3D"gmail_quote">2014-12-15 13:02 GMT-03:00 Andr=
+=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a href=3D"mailto:amorale=
+s@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt;</span>:<block=
+quote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc=
+ solid;padding-left:1ex">Ok, entiendo. No te preocupes.<div>Vamos a estar a=
+tentos por si necestan algo mas en un futuro proximo. Creo que necesitan ma=
+s apoyo de su federecion...</div><div><br></div><div>Te mando un abrazo..</=
+div><div>PD nose si pueda ir porque voy a ser papa probto<br><div><br><br>E=
+l lunes, 15 de diciembre de 2014, Josefina Correa &lt;<a href=3D"mailto:jos=
+efinaacorrea@gmail.com" target=3D"_blank">josefinaacorrea@gmail.com</a>&gt;=
+ escribi=C3=B3:<div><div class=3D"h5"><br><blockquote class=3D"gmail_quote"=
+ style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><d=
+iv dir=3D"ltr">Hola Andr=C3=A9s,<div>C=C3=B3mo est=C3=A1s? Perdona por no h=
+aberte respondido antes (estamos full con el lanzamiento). Te cuento que fi=
+nalmente las hockistas decidieron buscar alguna alternativa m=C3=A1s barata=
+ por esta vez porque est=C3=A1n muy encima del campeonato y no pueden compr=
+ometerse a pagar la ropa.</div><div>De todas maneras nos gustar=C3=ADa que =
+participaras del lanzamiento de esta iniciativa este mi=C3=A9rcoles 17 a la=
+s 9:30AM en el Hard Rock Caf=C3=A9 (adjunto la invitaci=C3=B3n). Invitamos =
+tambi=C3=A9n seleccionados de rugby por si te interesa, quiz=C3=A1s m=C3=A1=
+s adelante puede salir un proyecto con ellos.</div><div>=C2=A1Mil gracias p=
+or tu motivaci=C3=B3n y ojal=C3=A1 nos puedas acompa=C3=B1ar en el lanzamie=
+nto!</div><div>=C2=A1Qu=C3=A9 est=C3=A9s muy bien!</div><div>Saludos!!</div=
+><div>Josefina Correa</div><div class=3D"gmail_extra"><br><div class=3D"gma=
+il_quote">2014-12-10 12:43 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <span =
+dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span>:<blockquote class=3D=
+"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding=
+-left:1ex">Lo que pasa es que es la calidad que tenemos para ofrecer, no ha=
+y otras alternativas mucho mas baratas, ya pedi que me mandaran lo mas bara=
+to pero con la calidad que merece una seleccion. Es posible que la federaci=
+on ponga otras 10.000? Asi ya es menos.<div>Lo otro, te puedo dar facilidad=
+es de pago algo al dia, 30 y 60....</div><div>Avisame..quedo atento.</div><=
+div><br></div><div>Sls<br><div><br><br>El mi=C3=A9rcoles, 10 de diciembre d=
+e 2014, Josefina Correa &lt;<a>josefinaacorrea@gmail.com</a>&gt; escribi=C3=
+=B3:<div><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Andr=
+=C3=A9s,<div>Gracias por hacernos un precio y por toda la motivaci=C3=B3n. =
+Estamos armando el proyecto completo de las hockistas y viendo c=C3=B3mo lo=
+ podemos hacer, porque para cada una ser=C3=ADan 2 packs b=C3=A1sicos lo qu=
+e sumar=C3=ADa 92.000 y si no logramos que la gente los pague (porque tiene=
+n que recopilar adem=C3=A1s 5.000.000 para poder viajar) ellas tendr=C3=ADa=
+n que poner la diferencia.</div><div>=C2=BFExiste alguna alternativa de men=
+or calidad que sea m=C3=A1s barata? Lo otro, ser=C3=ADa ideal si insistiera=
+s con tu amigo de Sony para ver si se puede hacer alguna alianza estrat=C3=
+=A9gica.</div><div>Te respondemos lo antes posible porque sabemos que estam=
+os contra el tiempo.</div><div>=C2=A1Qu=C3=A9 est=C3=A9s bien!</div><div>Sa=
+ludos,</div><div>Josefina Correa</div><div>PS: mil disculpas por el caf=C3=
+=A9 de ayer!!! Te debemos uno ;)</div></div><div class=3D"gmail_extra"><br>=
+<div class=3D"gmail_quote">2014-12-10 0:36 GMT-03:00 Andr=C3=A9s Morales (C=
+CC-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span>:<br>=
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr">Estimadas,<div><br></div><d=
+iv>Estuvimos revisando lo de ustedes y el mejor precio que podemos hacer po=
+r el siguiente detalle es:</div><div>1 Polera + 1 falda (c/calza) + 1 media=
+ =3D $38.655 + iva ($46.000 iva incl.)</div><div><br></div><div>Rev=C3=ADse=
+nlo y me cuentan, pero lamentablemente no podemos hacer m=C3=A1s esfuerzo. =
+Ojal=C3=A1 resulte, a nosotros nos encantar=C3=ADa vestir a la selecci=C3=
+=B3n. Ojal=C3=A1 la iniciativa pueda recaudar lo m=C3=A1ximo posible para q=
+ue cada jugadora ponga la menor plata posible.</div><div>Si por ejemplo, ca=
+da jugadora pone $10.000, deber=C3=ADa hacer el llamado del proyecto por $3=
+6.000, etc.</div><div><br></div><div>denle un vuelta...</div><div>Quedo ate=
+nto!</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">E=
+l 9 de diciembre de 2014, 15:12, Andr=C3=A9s Morales (CCC-CHILE) <span dir=
+=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<div><div=
+><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-le=
+ft:1px #ccc solid;padding-left:1ex">Llegaron?<br><br>El martes, 9 de diciem=
+bre de 2014, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a>amorales@cccchile.cl</a=
+>&gt; escribi=C3=B3:<div><div><br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=
+=3D"ltr">ok, nos vemos!</div><div class=3D"gmail_extra"><br><div class=3D"g=
+mail_quote">El 9 de diciembre de 2014, 11:30, Josefina Correa <span dir=3D"=
+ltr">&lt;<a>josefinaacorrea@gmail.com</a>&gt;</span> escribi=C3=B3:<br><blo=
+ckquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #c=
+cc solid;padding-left:1ex"><div dir=3D"ltr">Por nuestra parte tambi=C3=A9n.=
+ =C2=BFEn el starbucks del metro el golf? (es en apoquindo, vereda norte, u=
+na cuadra m=C3=A1s arriba de la municipalidad de las condes).<div>Saludos!<=
+/div><div>Josefina Correa</div></div><div class=3D"gmail_extra"><br><div cl=
+ass=3D"gmail_quote">2014-12-09 11:26 GMT-03:00 Andr=C3=A9s Morales (CCC-CHI=
+LE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span>:<div><div>=
+<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-lef=
+t:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Josefina, nos junt=
+amos a las 3:00?<div>por mi lado esta ok.</div><div><br></div><div>sls.</di=
+v></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 9 de d=
+iciembre de 2014, 3:06, Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&=
+lt;<a>amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<div><div><br><bloc=
+kquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #cc=
+c solid;padding-left:1ex"><div dir=3D"ltr">Hola Hablemos ma=C3=B1ana durant=
+e la ma=C3=B1ana.<div><br></div><div>sls.</div></div><div class=3D"gmail_ex=
+tra"><br><div class=3D"gmail_quote">El 8 de diciembre de 2014, 23:26, Josef=
+ina Correa <span dir=3D"ltr">&lt;<a>josefinaacorrea@gmail.com</a>&gt;</span=
+> escribi=C3=B3:<div><div><br><blockquote class=3D"gmail_quote" style=3D"ma=
+rgin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"lt=
+r">Ok! =C2=BFTe parece en el starbucks del metro el golf? Es una cuadra m=
+=C3=A1s arriba de la municipalidad de las Condes (vereda norte).<div>Av=C3=
+=ADsame.</div><div>Saludos,</div><div>Josefina Correa</div></div><div class=
+=3D"gmail_extra"><br><div class=3D"gmail_quote">2014-12-08 11:33 GMT-03:00 =
+Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.=
+cl</a>&gt;</span>:<div><div><br><blockquote class=3D"gmail_quote" style=3D"=
+margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Ok, no hay p=
+roblema. Dime donde.<div>Uds, le dieron la vuelta a como se puede financiar=
+? La verdad no.ne.interrsa mucho el como, miebtras me digan que si.</div><d=
+iv>Sls<br><br>El viernes, 5 de diciembre de 2014, Josefina Correa &lt;<a>jo=
+sefinaacorrea@gmail.com</a>&gt; escribi=C3=B3:<div><div><br><blockquote cla=
+ss=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pa=
+dding-left:1ex"><div dir=3D"ltr">Hola Andr=C3=A9s,<div>Habl=C3=A9 con la Ca=
+mila Caram (la capitana de la selecci=C3=B3n de hockey) y le fascin=C3=B3 t=
+odo. Dijo que nos junt=C3=A1ramos el martes en la tarde a definir todo, =C2=
+=BFpuedes a las 3PM?</div><div>Saludos!</div><div>Josefina Correa<br><div c=
+lass=3D"gmail_extra"><br><div class=3D"gmail_quote">2014-12-05 18:20 GMT-03=
+:00 Carolina de la maza <span dir=3D"ltr">&lt;<a>carodelamaza@gmail.com</a>=
+&gt;</span>:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div class=
+=3D"gmail_quote">---------- Mensaje reenviado ----------<br>De: <b class=3D=
+"gmail_sendername">Carolina de la maza</b> <span dir=3D"ltr">&lt;<a>carodel=
+amaza@gmail.com</a>&gt;</span><br>Fecha: 4 de diciembre de 2014, 18:56<br>A=
+sunto: Re: Canterbury - Selecci=C3=B3n Chilena de Hockey Femenino<br>Para: =
+&quot;Andr=C3=A9s Morales (CCC-CHILE)&quot; &lt;<a>amorales@cccchile.cl</a>=
+&gt;<br><br><br><div dir=3D"ltr">Puedo a cualquier hora en la tarde menos a=
+ las 4.=C2=A0<div>=C2=BFTe tinca a las 14:30? sino a las 17:30....</div></d=
+iv><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 4 de diciem=
+bre de 2014, 18:54, Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<=
+a>amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<div><div><br><blockquo=
+te class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc so=
+lid;padding-left:1ex">Hola Carolina,<div><br></div><div>Me es dif=C3=ADcil =
+finalmente almorrzar ma=C3=B1ana. Puedes en la tarde? Dime.tu la hora.</div=
+><div><br></div><div>Sls<br><br>El mi=C3=A9rcoles, 3 de diciembre de 2014, =
+Carolina De La Maza &lt;<a>carodelamaza@gmail.com</a>&gt; escribi=C3=B3:<di=
+v><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bor=
+der-left:1px #ccc solid;padding-left:1ex"><div dir=3D"auto"><div>Ok! Si te =
+trate de llamar y me sal=C3=ADa a pagado. Es el 79795659<br><br>Enviado des=
+de mi iPhone</div><div><br>El 03-12-2014, a las 22:17, Andr=C3=A9s Morales =
+(CCC-CHILE) &lt;<a>amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div=
+><blockquote type=3D"cite"><div>Hablemos ma=C3=B1ana en la ma=C3=B1ana<div>=
+<br></div><div>Me pasas tu cel?<br><br>El mi=C3=A9rcoles, 3 de diciembre de=
+ 2014, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a>amorales@cccchile.cl</a>&gt; =
+escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Te paso m=
+i cel: 84495251.<div><br></div><div>sls.</div></div><div class=3D"gmail_ext=
+ra"><br><div class=3D"gmail_quote">El 3 de diciembre de 2014, 17:45, Caroli=
+na De La Maza <span dir=3D"ltr">&lt;<a>carodelamaza@gmail.com</a>&gt;</span=
+> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0=
+ .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"auto"><div>G=
+racias Guillermo.=C2=A0</div><div><br></div><div>Hola Andr=C3=A9s! Te parec=
+e si nos juntamos ma=C3=B1ana o el viernes para contarte? Cu=C3=A9ntame por=
+fa que opciones de agenda podr=C3=ADan ser</div><div><br></div><div>Saludos=
+,</div><div>Carolina<br><br>Enviado desde mi iPhone</div><div><br>El 03-12-=
+2014, a las 16:54, Guillermo Morales - Spin Ltda &lt;<a>gmorales@spindeport=
+es.cl</a>&gt; escribi=C3=B3:<br><br></div><div><div><blockquote type=3D"cit=
+e"><div><div><p class=3D"MsoNormal" style=3D"text-indent:35.4pt"><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1f497d">Andres<u></u><u></u></span></p><p class=3D"MsoNormal" styl=
+e=3D"text-indent:35.4pt"><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Carolina se contacto co=
+nmigo para ver la posibilidad de hacer algo en conjunto con las seleccionad=
+as de Hockey de Chile para ir a Rio. <u></u><u></u></span></p><p class=3D"M=
+soNormal" style=3D"text-indent:35.4pt"><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Conversa =
+tu con ella=C2=A0 para ver la posibilidad con Canterbury.<u></u><u></u></sp=
+an></p><p class=3D"MsoNormal" style=3D"text-indent:35.4pt"><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">saludos<u></u><u></u></span></p><p class=3D"MsoNormal" style=3D"=
+text-indent:35.4pt"><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">GM<u></u><u></u></span></p><=
+p class=3D"MsoNormal" style=3D"text-indent:35.4pt"><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497=
+d">Carolina: 79795659<u></u><u></u></span></p><p class=3D"MsoNormal" style=
+=3D"text-indent:35.4pt"><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Andres:84495251<u></u><u=
+></u></span></p><p class=3D"MsoNormal" style=3D"text-indent:35.4pt"><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p class=3D"MsoNor=
+mal"><b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quo=
+t;sans-serif&quot;">De:</span></b><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Carolina de la maza [<a>mail=
+to:carodelamaza@gmail.com</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 03 de=
+ diciembre de 2014 16:33<br><b>Para:</b> <a>gmorales@spindeportes.cl</a><br=
+><b>Asunto:</b> Canterbury - Selecci=C3=B3n Chilena de Hockey Femenino<u></=
+u><u></u></span></p><div><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></=
+p><div><p class=3D"MsoNormal">Hola Guillermo!! Seg=C3=BAn conversamos aqu=
+=C3=AD te mando el resumen del proyecto para que eval=C3=BAen como podr=C3=
+=ADan participar, nos parece que es una gran oportunidad para Canterbury!!<=
+u></u><u></u></p><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div>=
+<div><div><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-famil=
+y:&quot;Arial&quot;,&quot;sans-serif&quot;">&quot;Las Diablas&quot;, selecc=
+i=C3=B3n chilena de hockey femenino. Pr=C3=B3ximamente realizar=C3=A1n su t=
+our internacional para clasificar a las olimpiadas de R=C3=ADo 2016 y lanza=
+r=C3=A1n una campa=C3=B1a de &quot;crowdfunding&quot; (financiamiento colec=
+tivo) en nuestra plataforma llamada &quot;Let=C2=B4s Fand&quot;. Esta funci=
+ona a trave=CC=81s de la creacio=CC=81n del proyectos con un objetivo puntu=
+al, una meta y un plazo para lograrla. Una vez creado el proyecto, este se =
+difunde en las redes sociales y la comunidad participa realizando aportes m=
+onetarios, recibiendo a cambio una recompensas de acuerdo al aporte realiza=
+do.=C2=A0<span style=3D"color:black">Por ejemplo: un saludo en las redes so=
+ciales, productos deportivos, cl=C3=ADnicas de hockey con la Selecci=C3=B3n=
+, etc.</span><u></u><u></u></span></p></div><div><p class=3D"MsoNormal"><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif=
+&quot;"><u></u>=C2=A0<u></u></span></p></div><div><p class=3D"MsoNormal"><s=
+pan style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-seri=
+f&quot;">El lanzamiento oficial ser=C3=A1 el d=C3=ADa 17 de Diciembre en el=
+ Hard Rock Caf=C3=A9, donde contaremos con la presencia de full prensa, dep=
+ortistas potentes, auspiciadores, CORFO, instituciones ligadas al deporte y=
+ al emprendimiento etc.<u></u><u></u></span></p></div><div><p class=3D"MsoN=
+ormal" style=3D"text-align:justify"><u></u>=C2=A0<u></u></p><p class=3D"Mso=
+Normal" style=3D"text-align:justify"><span style=3D"font-family:&quot;Arial=
+&quot;,&quot;sans-serif&quot;">La idea ser=C3=ADa que pudieran participar c=
+omo auspiciadores de la campa=C3=B1a de &quot;Las Diablas&quot; a trav=C3=
+=A9s de canje de productos (los cuales podr=C3=ADamos sortear en las cl=C3=
+=ADnicas de Hockey) y vestimenta oficial para la Selecci=C3=B3n (ellas no c=
+uentan con ning=C3=BAn auspiciador de vestuario actualmente).=C2=A0</span><=
+u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;">Ser=C3=ADa ideal que pudi=C3=A9ramos coor=
+dinar una reuni=C3=B3n para contarles en detalle el proyecto y la forma de =
+participar. Les adjunto una presentaci=C3=B3n de apoyo para que vean de que=
+ se trata!!</span><u></u><u></u></p></div></div><div><p class=3D"MsoNormal"=
+><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-s=
+erif&quot;"><u></u>=C2=A0<u></u></span></p></div><div><p class=3D"MsoNormal=
+"><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;">Quedo atenta a sus comentarios :)<u></u><u></u></span></p></di=
+v><div><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&=
+quot;Arial&quot;,&quot;sans-serif&quot;"><u></u>=C2=A0<u></u></span></p></d=
+iv><div><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:=
+&quot;Arial&quot;,&quot;sans-serif&quot;">Saludos,<u></u><u></u></span></p>=
+</div><div><p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Arial&quot;,&quot;sans-serif&quot;">Carolina<u></u><u></u></span><=
+/p></div></div></div></div></div></div></blockquote></div></div></div></blo=
+ckquote></div><br></div>
+</blockquote></div>
+</div></blockquote></div></blockquote></div></div></div>
+</blockquote></div></div></div><br></div>
+</div><br></div>
+</blockquote></div><br></div></div></div>
+</blockquote></div></div></div>
+</blockquote></div></div></div><br></div>
+</blockquote></div></div></div><br></div>
+</blockquote></div></div></div><br></div>
+</blockquote></div></div></div><br></div>
+</blockquote></div><br></div>
+</blockquote>
+</div></div></blockquote></div></div></div><br></div>
+</blockquote></div><br></div>
+</blockquote></div></div></div></div>
+</blockquote></div></div></div>
+</blockquote></div></div></div></div>
+</blockquote></div></div>
+
+--001a1139a5d2601d28050a474155--

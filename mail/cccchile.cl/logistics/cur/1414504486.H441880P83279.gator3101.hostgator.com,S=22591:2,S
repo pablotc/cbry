@@ -1,0 +1,320 @@
+Return-path: <nico_piza@yahoo.es>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Tue, 28 Oct 2014 08:54:46 -0500
+Received: from nm28-vm5.bullet.mail.ir2.yahoo.com ([212.82.97.65]:47189)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <nico_piza@yahoo.es>)
+	id 1Xj7ET-000Lat-Qy
+	for logistics@cccchile.cl; Tue, 28 Oct 2014 08:54:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s2048; t=1414504483; bh=JvGBTmg+e6NwR9mnDXh26LJBJl3Qgnetyz2CnD+C5Tw=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject; b=p20/w0xGKltjDxM58sOkyBIjWh7Ia1SD1dzu6MhQdAXkd/APmnplOhJnmX/8m15OdHTVRy2ZHg7ubuphp8PwZBssBBoQccvrqOPLlIGhcKsULYooXm6tA+1RG3RVLCHOvt92NTkpM1MJypjkGAfaYLCC8FVJhWGu791W9AWXceaAgCS/47Dte7UpKjWowQPX+6pEA+GgPLtIp6HnrMcdbiNY9vC74LnyoPwjYvdVmc3TQqZG4EPRi27JSwxfOEtFfVs0IzOj7e9xmFLhiF1C813+JelijNOowcGlAdcNOCf/x/h8MIaghkv4wI2VNdFY4Ckah/haR2jIYzowruR7iw==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.es;
+	b=Uj9RREDceX/PPpOnbkUGla7fq7ZGKSDmZdc4cyULqLWt9L49uOhXT1LbmTRSrhwdg2syBraFUKYEEmCYab6rkD1k7z3IVfzLqFb+Mnd/7pC0KTcdgsGDT6vriCNp3LmIkABs2QJ3eS4pANVGtZhY70AppMf7ejdM4aLmtIBmepJAI921SHAOepuDWPg9VR7W+2Z1gBy28mVDJ5qFlK87rDlbk1o3eYajR3RVYutHMJ054xLEoCHwT5XzpBFey8y+pDy5CoPPGp+mmScQZV93VZxUKBqHIn3M8hI7jhFPXGCQNRwxRqjB9AAKXU9jfylkRPZ7lmu46Vr6781zCTjuKQ==;
+Received: from [212.82.98.125] by nm28.bullet.mail.ir2.yahoo.com with NNFMP; 28 Oct 2014 13:54:43 -0000
+Received: from [212.82.98.64] by tm18.bullet.mail.ir2.yahoo.com with NNFMP; 28 Oct 2014 13:54:43 -0000
+Received: from [127.0.0.1] by omp1001.mail.ir2.yahoo.com with NNFMP; 28 Oct 2014 13:54:43 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 36010.3252.bm@omp1001.mail.ir2.yahoo.com
+X-YMail-OSG: 6jwxNXEVM1l0WknIbyCyCqCJnJlmLj3LE9HpR6y1DeMYPfu.Dnqe937Vw1_sleU
+ u3rZaTISdJI86DdmHpo95mg46_sh_MCF5i1VqDuQqlyrNDRCM3si59sHHPRRCmB_SRcombVRlyEd
+ xxUsQEd2Gc39Xn1_1k_UIv4IR43s_2VAryUwpQatH7T6dtC06nAm3JxBghatB_EFpGrXsVrHj24j
+ Nw7HOFfgcVWfvwCmETEMRhCrL058b2DlwWCgrqHfblLM573hisD02JLhfC.UQAndSJJhu0k_q5GG
+ PQVzBXfmw1SUc1xmxYw4tidjxdtaOs8OY0IxkkUEWAocCKcewDs5CVB_K7_rFsbTcuv.HJsDFzRQ
+ 1xpeW3y8nciSPNjGMGZdIAcpnxRoVoweFQXIAk7Sq0bxPwk0asUv9CQegiI8lmemQJIw7yQiIJwC
+ lixl7pHXoYnrT_ZbT5YqJtvFm.xV0JB4.sTtuBjiSPydrGfN8QRHBouVjxtmXeWDQNqrjFA--
+Received: by 212.82.98.120; Tue, 28 Oct 2014 13:54:42 +0000 
+Date: Tue, 28 Oct 2014 13:54:41 +0000 (UTC)
+From: =?UTF-8?Q?Nicol=C3=A1s_Pizarro?= <nico_piza@yahoo.es>
+Reply-To: =?UTF-8?Q?Nicol=C3=A1s_Pizarro?= <nico_piza@yahoo.es>
+To: Nicolas Pizarro <logistics@cccchile.cl>, 
+	"lriquelme@craft.cl" <lriquelme@craft.cl>
+Message-ID: <1762088061.1448952.1414504481850.JavaMail.yahoo@jws11111.mail.ir2.yahoo.com>
+In-Reply-To: <7A891B64-4157-414E-A212-EA5C62ADA821@cccchile.cl>
+References: <7A891B64-4157-414E-A212-EA5C62ADA821@cccchile.cl>
+Subject: Re: Productos
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1448951_1053809241.1414504481839"
+Content-Length: 19606
+
+------=_Part_1448951_1053809241.1414504481839
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Lidia,
+Dame los datos de tu agente de Hong Kong, lo van a contactar para ir de dej=
+ar la carga de m=C3=A1s arriba.Fue una compra FOB.
+=C2=A0Nicol=C3=A1s Felipe Pizarro C.+56 9 88452704nico_piza@yahoo.es=C2=A0=
+=20
+
+     El Lunes 20 de octubre de 2014 22:56, Nicolas Pizarro <logistics@cccch=
+ile.cl> escribi=C3=B3:
+  =20
+=20
+
+=20
+Hola Lidia
+Como estai? Te escribe Nicolas Pizarro, y por fin me sali=C3=B3 el negocioO=
+ie necesito traerme el detalle de mas abajo desde Donguan, China, el embarq=
+ue es realNada mas de cotizaciones ahora si que si
+
+
+
+| color code | item | qty/carton | total cartons | =E3=80=80 | GW/carton | =
+=E3=80=80 | NW/carton | =E3=80=80 | carton size | CBM |
+| 989 | E20 1013 | 10 | 4 | =E3=80=80 | 6.4 | =E3=80=80 | 5.24 | KG | 52=C2=
+=A0 | X | 35=C2=A0 | X | 32=C2=A0 | CM | 0.23=C2=A0 |
+| 989 | E20 1014 | 10 | 1 | =E3=80=80 | 6.78 | =E3=80=80 | 5.59 | KG | 57=
+=C2=A0 | X | 30=C2=A0 | X | 37=C2=A0 | CM | 0.06=C2=A0 |
+|  |  | total | 5 | 32.38 | kgs | 26.55 | kgs | =E3=80=80 | =E3=80=80 | =E3=
+=80=80 | =E3=80=80 | =E3=80=80 | =E3=80=80 | 0.30=C2=A0 |
+
+=C2=A0
+Me puedes informar m=C3=A1s proxima por favor, es posible que lo retiren po=
+r favor?Quedo atento a tus comentarios
+Nicolas Pizarro88452704
+
+Enviado desde mi cel.
+
+=20
+   
+------=_Part_1448951_1053809241.1414504481839
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:13px"><div id=3D"yui_3_16_0_1_1414501570671_31925" dir=3D"ltr"><spa=
+n id=3D"yui_3_16_0_1_1414501570671_35424">Hola Lidia,</span></div><div id=
+=3D"yui_3_16_0_1_1414501570671_31925" dir=3D"ltr"><span><br></span></div><d=
+iv id=3D"yui_3_16_0_1_1414501570671_31925" dir=3D"ltr">Dame los datos de tu=
+ agente de Hong Kong, lo van a contactar para ir de dejar la carga de m=C3=
+=A1s arriba.</div><div id=3D"yui_3_16_0_1_1414501570671_31925" dir=3D"ltr">=
+Fue una compra FOB.</div><div id=3D"yui_3_16_0_1_1414501570671_31925" dir=
+=3D"ltr"><br></div><div></div><div id=3D"yui_3_16_0_1_1414501570671_31933">=
+&nbsp;</div><div class=3D"signature" id=3D"yui_3_16_0_1_1414501570671_35429=
+"><div id=3D"yui_3_16_0_1_1414501570671_35428"><font style=3D"font-weight:b=
+old;" size=3D"2"><span style=3D"font-family:'bookman old style', 'new york'=
+, times, serif;">Nicol=C3=A1s Felipe Pizarro C.</span></font></div><div sty=
+le=3D"color:rgb(0, 0, 0);font-size:13px;font-family:'bookman old style', 'n=
+ew york', times, serif;background-color:transparent;font-style:normal;" id=
+=3D"yui_3_16_0_1_1414501570671_35430"><font style=3D"font-weight:bold;" siz=
+e=3D"2" id=3D"yui_3_16_0_1_1414501570671_35432"><span style=3D"font-family:=
+'bookman old style', 'new york', times, serif;" id=3D"yui_3_16_0_1_14145015=
+70671_35431">+56 9 88452704</span></font></div><div style=3D"color:rgb(0, 0=
+, 0);font-size:13px;font-family:'bookman old style', 'new york', times, ser=
+if;background-color:transparent;font-style:normal;" id=3D"yui_3_16_0_1_1414=
+501570671_35433"><font style=3D"font-weight:bold;" size=3D"2"><span style=
+=3D"font-family:'bookman old style', 'new york', times, serif;">nico_piza@y=
+ahoo.es&nbsp;</span></font></div></div> <div class=3D"qtdSeparateBR"><br><b=
+r></div><div class=3D"yahoo_quoted" style=3D"display: block;"> <div style=
+=3D"font-family: HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Gr=
+ande, sans-serif; font-size: 13px;"> <div style=3D"font-family: HelveticaNe=
+ue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size:=
+ 16px;"> <div dir=3D"ltr"> <font size=3D"2" face=3D"Arial"> El Lunes 20 de =
+octubre de 2014 22:56, Nicolas Pizarro &lt;logistics@cccchile.cl&gt; escrib=
+i=C3=B3:<br> </font> </div> <blockquote style=3D"border-left: 2px solid rgb=
+(16, 16, 255); margin-left: 5px; margin-top: 5px; padding-left: 5px;">  <br=
+><br> <div class=3D"y_msg_container"><div id=3D"yiv5083836928"><div><div><d=
+iv><br>Hola Lidia</div><div><br></div><div>Como estai? Te escribe Nicolas P=
+izarro, y por fin me sali=C3=B3 el negocio</div><div>Oie necesito traerme e=
+l detalle de mas abajo desde Donguan, China, el embarque es real</div><div>=
+Nada mas de cotizaciones ahora si que si</div><div><br><br><br><table cells=
+pacing=3D"0" cellpadding=3D"0" width=3D"782" border=3D"0" style=3D"width:58=
+8pt;border-collapse:collapse;"><tbody><tr height=3D"34" style=3D"height:25.=
+5pt;"><td class=3D"yiv5083836928xl48" width=3D"77" height=3D"34" style=3D"b=
+order-color:windowtext rgb(236, 233, 216) windowtext windowtext;border-top-=
+width:1pt;border-top-style:solid;border-left-width:1pt;border-left-style:so=
+lid;width:58pt;border-bottom-width:1pt;border-bottom-style:solid;height:25.=
+5pt;"><span style=3D"">color code</span></td><td class=3D"yiv5083836928xl49=
+" width=3D"78" style=3D"border-color:windowtext rgb(236, 233, 216) windowte=
+xt windowtext;border-top-width:1pt;border-top-style:solid;border-left-width=
+:1pt;border-left-style:solid;width:59pt;border-bottom-width:1pt;border-bott=
+om-style:solid;"><span style=3D"">item</span></td><td class=3D"yiv508383692=
+8xl50" width=3D"101" style=3D"border-color:windowtext rgb(236, 233, 216) wi=
+ndowtext windowtext;border-top-width:1pt;border-top-style:solid;border-left=
+-width:1pt;border-left-style:solid;width:76pt;border-bottom-width:1pt;borde=
+r-bottom-style:solid;"><span style=3D"">qty/carton</span></td><td class=3D"=
+yiv5083836928xl50" width=3D"80" style=3D"border-color:windowtext rgb(236, 2=
+33, 216) windowtext windowtext;border-top-width:1pt;border-top-style:solid;=
+width:60pt;border-bottom-width:1pt;border-bottom-style:solid;"><span style=
+=3D"">total cartons</span></td><td class=3D"yiv5083836928xl51" width=3D"26"=
+ style=3D"border-color:windowtext windowtext windowtext rgb(236, 233, 216);=
+border-right-width:1pt;border-right-style:solid;border-top-width:1pt;border=
+-top-style:solid;width:20pt;border-bottom-width:1pt;border-bottom-style:sol=
+id;"><span style=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl50" =
+width=3D"86" style=3D"border-color:windowtext rgb(236, 233, 216) windowtext=
+ windowtext;border-top-width:1pt;border-top-style:solid;width:65pt;border-b=
+ottom-width:1pt;border-bottom-style:solid;"><span style=3D"">GW/carton</spa=
+n></td><td class=3D"yiv5083836928xl51" width=3D"27" style=3D"border-color:w=
+indowtext windowtext windowtext rgb(236, 233, 216);border-right-width:1pt;b=
+order-right-style:solid;border-top-width:1pt;border-top-style:solid;width:2=
+0pt;border-bottom-width:1pt;border-bottom-style:solid;"><span style=3D"">=
+=E3=80=80</span></td><td class=3D"yiv5083836928xl50" width=3D"65" style=3D"=
+border-color:windowtext rgb(236, 233, 216) windowtext windowtext;border-top=
+-width:1pt;border-top-style:solid;width:49pt;border-bottom-width:1pt;border=
+-bottom-style:solid;"><span style=3D"">NW/carton</span></td><td class=3D"yi=
+v5083836928xl51" width=3D"23" style=3D"border-color:windowtext windowtext w=
+indowtext rgb(236, 233, 216);border-right-width:1pt;border-right-style:soli=
+d;border-top-width:1pt;border-top-style:solid;width:17pt;border-bottom-widt=
+h:1pt;border-bottom-style:solid;"><span style=3D"">=E3=80=80</span></td><td=
+ class=3D"yiv5083836928xl52" width=3D"167" colspan=3D"6" style=3D"border-co=
+lor:windowtext black windowtext windowtext;border-right-width:1pt;border-ri=
+ght-style:solid;border-top-width:1pt;border-top-style:solid;width:125pt;bor=
+der-bottom-width:1pt;border-bottom-style:solid;"><span style=3D"">carton si=
+ze</span></td><td class=3D"yiv5083836928xl55" width=3D"52" style=3D"border-=
+color:windowtext;border-right-width:1pt;border-right-style:solid;border-top=
+-width:1pt;border-top-style:solid;width:39pt;border-bottom-width:1pt;border=
+-bottom-style:solid;"><span style=3D"">CBM</span></td></tr><tr height=3D"19=
+" style=3D"height:14.25pt;"><td class=3D"yiv5083836928xl31" width=3D"77" he=
+ight=3D"19" style=3D"border-color:windowtext rgb(236, 233, 216);border-top-=
+width:0.5pt;border-top-style:solid;width:58pt;border-bottom-width:0.5pt;bor=
+der-bottom-style:solid;height:14.25pt;"><span style=3D"">989</span></td><td=
+ class=3D"yiv5083836928xl29" width=3D"78" style=3D"border:0.5pt solid windo=
+wtext;width:59pt;"><span style=3D"">E20 1013</span></td><td class=3D"yiv508=
+3836928xl32" width=3D"101" style=3D"border-color:windowtext rgb(236, 233, 2=
+16) windowtext windowtext;border-top-width:0.5pt;border-top-style:solid;wid=
+th:76pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">10</span></td><td class=3D"yiv5083836928xl33" width=3D"80" style=3D"b=
+order-color:rgb(236, 233, 216) rgb(236, 233, 216) windowtext windowtext;wid=
+th:60pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">4</span></td><td class=3D"yiv5083836928xl34" width=3D"26" style=3D"bo=
+rder-color:windowtext rgb(236, 233, 216);border-top-width:0.5pt;border-top-=
+style:solid;width:20pt;border-bottom-width:0.5pt;border-bottom-style:solid;=
+"><span style=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl32" wid=
+th=3D"86" style=3D"border-color:windowtext rgb(236, 233, 216) windowtext wi=
+ndowtext;border-top-width:0.5pt;border-top-style:solid;border-left-width:0.=
+5pt;border-left-style:solid;width:65pt;border-bottom-width:0.5pt;border-bot=
+tom-style:solid;"><span style=3D"">6.4</span></td><td class=3D"yiv508383692=
+8xl35" width=3D"27" style=3D"border-color:windowtext windowtext windowtext =
+rgb(236, 233, 216);border-right-width:0.5pt;border-right-style:solid;border=
+-top-width:0.5pt;border-top-style:solid;width:20pt;border-bottom-width:0.5p=
+t;border-bottom-style:solid;"><span style=3D"">=E3=80=80</span></td><td cla=
+ss=3D"yiv5083836928xl31" width=3D"65" style=3D"border-color:windowtext rgb(=
+236, 233, 216);border-top-width:0.5pt;border-top-style:solid;width:49pt;bor=
+der-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">5.24</s=
+pan></td><td class=3D"yiv5083836928xl35" width=3D"23" style=3D"border-color=
+:windowtext windowtext windowtext rgb(236, 233, 216);border-right-width:0.5=
+pt;border-right-style:solid;border-top-width:0.5pt;border-top-style:solid;w=
+idth:17pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">KG</span></td><td class=3D"yiv5083836928xl36" width=3D"28" style=3D"b=
+order-color:windowtext rgb(236, 233, 216) windowtext windowtext;border-top-=
+width:0.5pt;border-top-style:solid;width:21pt;border-bottom-width:0.5pt;bor=
+der-bottom-style:solid;"><span style=3D"">52&nbsp;</span></td><td class=3D"=
+yiv5083836928xl37" width=3D"28" style=3D"border-color:rgb(236, 233, 216) rg=
+b(236, 233, 216) windowtext;width:21pt;border-bottom-width:0.5pt;border-bot=
+tom-style:solid;"><span style=3D"">X</span></td><td class=3D"yiv5083836928x=
+l37" width=3D"28" style=3D"border-color:rgb(236, 233, 216) rgb(236, 233, 21=
+6) windowtext;width:21pt;border-bottom-width:0.5pt;border-bottom-style:soli=
+d;"><span style=3D"">35&nbsp;</span></td><td class=3D"yiv5083836928xl37" wi=
+dth=3D"28" style=3D"border-color:rgb(236, 233, 216) rgb(236, 233, 216) wind=
+owtext;width:21pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><sp=
+an style=3D"">X</span></td><td class=3D"yiv5083836928xl38" width=3D"28" sty=
+le=3D"border-color:windowtext rgb(236, 233, 216);border-top-width:0.5pt;bor=
+der-top-style:solid;width:21pt;border-bottom-width:0.5pt;border-bottom-styl=
+e:solid;"><span style=3D"">32&nbsp;</span></td><td class=3D"yiv5083836928xl=
+39" width=3D"27" style=3D"border-color:windowtext windowtext windowtext rgb=
+(236, 233, 216);border-right-width:0.5pt;border-right-style:solid;border-to=
+p-width:0.5pt;border-top-style:solid;width:20pt;border-bottom-width:0.5pt;b=
+order-bottom-style:solid;"><span style=3D"">CM</span></td><td class=3D"yiv5=
+083836928xl40" width=3D"52" style=3D"border-color:rgb(236, 233, 216) window=
+text windowtext rgb(236, 233, 216);border-right-width:1pt;border-right-styl=
+e:solid;width:39pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><s=
+pan style=3D"">0.23&nbsp;</span></td></tr><tr height=3D"19" style=3D"height=
+:14.25pt;"><td class=3D"yiv5083836928xl31" width=3D"77" height=3D"19" style=
+=3D"border-color:windowtext rgb(236, 233, 216);width:58pt;border-bottom-wid=
+th:0.5pt;border-bottom-style:solid;height:14.25pt;"><span style=3D"">989</s=
+pan></td><td class=3D"yiv5083836928xl29" width=3D"78" style=3D"border-color=
+:windowtext;border-right-width:0.5pt;border-right-style:solid;border-left-w=
+idth:0.5pt;border-left-style:solid;width:59pt;border-bottom-width:0.5pt;bor=
+der-bottom-style:solid;"><span style=3D"">E20 1014</span></td><td class=3D"=
+yiv5083836928xl32" width=3D"101" style=3D"border-color:windowtext rgb(236, =
+233, 216) windowtext windowtext;width:76pt;border-bottom-width:0.5pt;border=
+-bottom-style:solid;"><span style=3D"">10</span></td><td class=3D"yiv508383=
+6928xl33" width=3D"80" style=3D"border-color:rgb(236, 233, 216) rgb(236, 23=
+3, 216) windowtext windowtext;width:60pt;border-bottom-width:0.5pt;border-b=
+ottom-style:solid;"><span style=3D"">1</span></td><td class=3D"yiv508383692=
+8xl34" width=3D"26" style=3D"border-color:windowtext rgb(236, 233, 216);wid=
+th:20pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl32" width=3D"86" sty=
+le=3D"border-color:windowtext rgb(236, 233, 216) windowtext windowtext;bord=
+er-left-width:0.5pt;border-left-style:solid;width:65pt;border-bottom-width:=
+0.5pt;border-bottom-style:solid;"><span style=3D"">6.78</span></td><td clas=
+s=3D"yiv5083836928xl35" width=3D"27" style=3D"border-color:windowtext windo=
+wtext windowtext rgb(236, 233, 216);border-right-width:0.5pt;border-right-s=
+tyle:solid;width:20pt;border-bottom-width:0.5pt;border-bottom-style:solid;"=
+><span style=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl31" widt=
+h=3D"65" style=3D"border-color:windowtext rgb(236, 233, 216);width:49pt;bor=
+der-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">5.59</s=
+pan></td><td class=3D"yiv5083836928xl35" width=3D"23" style=3D"border-color=
+:windowtext windowtext windowtext rgb(236, 233, 216);border-right-width:0.5=
+pt;border-right-style:solid;width:17pt;border-bottom-width:0.5pt;border-bot=
+tom-style:solid;"><span style=3D"">KG</span></td><td class=3D"yiv5083836928=
+xl36" width=3D"28" style=3D"border-color:windowtext rgb(236, 233, 216) wind=
+owtext windowtext;width:21pt;border-bottom-width:0.5pt;border-bottom-style:=
+solid;"><span style=3D"">57&nbsp;</span></td><td class=3D"yiv5083836928xl37=
+" width=3D"28" style=3D"border-color:rgb(236, 233, 216) rgb(236, 233, 216) =
+windowtext;width:21pt;border-bottom-width:0.5pt;border-bottom-style:solid;"=
+><span style=3D"">X</span></td><td class=3D"yiv5083836928xl37" width=3D"28"=
+ style=3D"border-color:rgb(236, 233, 216) rgb(236, 233, 216) windowtext;wid=
+th:21pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">30&nbsp;</span></td><td class=3D"yiv5083836928xl37" width=3D"28" styl=
+e=3D"border-color:rgb(236, 233, 216) rgb(236, 233, 216) windowtext;width:21=
+pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">X=
+</span></td><td class=3D"yiv5083836928xl38" width=3D"28" style=3D"border-co=
+lor:windowtext rgb(236, 233, 216);width:21pt;border-bottom-width:0.5pt;bord=
+er-bottom-style:solid;"><span style=3D"">37&nbsp;</span></td><td class=3D"y=
+iv5083836928xl39" width=3D"27" style=3D"border-color:windowtext windowtext =
+windowtext rgb(236, 233, 216);border-right-width:0.5pt;border-right-style:s=
+olid;width:20pt;border-bottom-width:0.5pt;border-bottom-style:solid;"><span=
+ style=3D"">CM</span></td><td class=3D"yiv5083836928xl40" width=3D"52" styl=
+e=3D"border-color:rgb(236, 233, 216) windowtext windowtext rgb(236, 233, 21=
+6);border-right-width:1pt;border-right-style:solid;width:39pt;border-bottom=
+-width:0.5pt;border-bottom-style:solid;"><span style=3D"">0.06&nbsp;</span>=
+</td></tr><tr height=3D"19" style=3D"height:14.25pt;"><td class=3D"yiv50838=
+36928xl28" height=3D"19" style=3D"border:rgb(236, 233, 216);height:14.25pt;=
+"></td><td class=3D"yiv5083836928xl28" style=3D"border:rgb(236, 233, 216);"=
+></td><td class=3D"yiv5083836928xl41" style=3D"border-color:windowtext;bord=
+er-right-width:0.5pt;border-right-style:solid;border-left-width:0.5pt;borde=
+r-left-style:solid;border-bottom-width:0.5pt;border-bottom-style:solid;"><s=
+pan style=3D"">total</span></td><td class=3D"yiv5083836928xl42" colspan=3D"=
+2" style=3D"border-color:windowtext black windowtext windowtext;border-righ=
+t-width:0.5pt;border-right-style:solid;border-top-width:0.5pt;border-top-st=
+yle:solid;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=
+=3D"">5</span></td><td class=3D"yiv5083836928xl44" style=3D"border-color:wi=
+ndowtext rgb(236, 233, 216) windowtext windowtext;border-bottom-width:0.5pt=
+;border-bottom-style:solid;"><span style=3D"">32.38</span></td><td class=3D=
+"yiv5083836928xl45" style=3D"border-color:windowtext windowtext windowtext =
+rgb(236, 233, 216);border-right-width:0.5pt;border-right-style:solid;border=
+-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">kgs</span>=
+</td><td class=3D"yiv5083836928xl44" style=3D"border-color:windowtext rgb(2=
+36, 233, 216) windowtext windowtext;border-bottom-width:0.5pt;border-bottom=
+-style:solid;"><span style=3D"">26.55</span></td><td class=3D"yiv5083836928=
+xl45" style=3D"border-color:windowtext windowtext windowtext rgb(236, 233, =
+216);border-right-width:0.5pt;border-right-style:solid;border-bottom-width:=
+0.5pt;border-bottom-style:solid;"><span style=3D"">kgs</span></td><td class=
+=3D"yiv5083836928xl44" style=3D"border-color:windowtext rgb(236, 233, 216) =
+windowtext windowtext;border-bottom-width:0.5pt;border-bottom-style:solid;"=
+><span style=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl46" styl=
+e=3D"border-color:windowtext rgb(236, 233, 216);border-bottom-width:0.5pt;b=
+order-bottom-style:solid;"><span style=3D"">=E3=80=80</span></td><td class=
+=3D"yiv5083836928xl46" style=3D"border-color:windowtext rgb(236, 233, 216);=
+border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">=E3=
+=80=80</span></td><td class=3D"yiv5083836928xl46" style=3D"border-color:win=
+dowtext rgb(236, 233, 216);border-bottom-width:0.5pt;border-bottom-style:so=
+lid;"><span style=3D"">=E3=80=80</span></td><td class=3D"yiv5083836928xl46"=
+ style=3D"border-color:windowtext rgb(236, 233, 216);border-bottom-width:0.=
+5pt;border-bottom-style:solid;"><span style=3D"">=E3=80=80</span></td><td c=
+lass=3D"yiv5083836928xl45" style=3D"border-color:windowtext windowtext wind=
+owtext rgb(236, 233, 216);border-right-width:0.5pt;border-right-style:solid=
+;border-bottom-width:0.5pt;border-bottom-style:solid;"><span style=3D"">=E3=
+=80=80</span></td><td class=3D"yiv5083836928xl47" style=3D"border-color:win=
+dowtext;border-right-width:0.5pt;border-right-style:solid;border-bottom-wid=
+th:0.5pt;border-bottom-style:solid;"><span style=3D"">0.30&nbsp;</span></td=
+></tr></tbody></table></div><div><span style=3D"">&nbsp;</span></div><div><=
+br></div>Me puedes informar m=C3=A1s proxima por favor, es posible que lo r=
+etiren por favor?</div><div>Quedo atento a tus comentarios</div><div><br></=
+div><div>Nicolas Pizarro</div><div>88452704</div><div><br></div><div><br>En=
+viado desde mi cel.</div></div></div><br><br></div> </blockquote>  </div> <=
+/div>   </div> </div></body></html>
+------=_Part_1448951_1053809241.1414504481839--

@@ -1,0 +1,72 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 12 Jan 2015 09:32:21 -0600
+Received: from mail-ob0-f182.google.com ([209.85.214.182]:59956)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YAgyb-0003At-DB
+	for amorales@cccchile.cl; Mon, 12 Jan 2015 09:32:21 -0600
+Received: by mail-ob0-f182.google.com with SMTP id wo20so22623753obc.13
+        for <amorales@cccchile.cl>; Mon, 12 Jan 2015 07:32:19 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=iWQAsIbY/y0CKe5TzdGzUqUthRi1WgsbLUMpHCa1ZW8=;
+        b=EjkUo4vqTN1Zb2v8wutvI6RLKDMRgZ/cBNvqMLWqOzNG6+nR17GkZpErXnpET0mDUT
+         YSpYuvcWgbEIMR53SmcaEw3b/wWWkvOz4tTAAXk3omNSKzbtH1NIbdNWVqLLZllqN4oK
+         DkQf/XBMAOhi90YFuWaMZBKzwv6ML4zmwPk9M3rbK57dLwVRPz1deB/o+RjjjcWBjSTg
+         +fjjo+E6u+gjeEYwIB90v2UkeGmtaMRxmR6TgKaZXSstqMIk9caJAaNQJ6hW7YWfhCf5
+         p16KI5qCrHkvk/fNRQx0cNI/WN2fvupcEcPA0Qzd3KmbnBq3xWhM9tS8sWEO05AvKSaI
+         /+Ng==
+X-Gm-Message-State: ALoCoQntmSpgQRaC8I045D6KPlLEZ9cdnqlNKUzsQ3Uk2fFJfxql8bI73ooXC7YzlBSqkUfCK2rQ
+MIME-Version: 1.0
+X-Received: by 10.60.131.232 with SMTP id op8mr17871195oeb.59.1421076739791;
+ Mon, 12 Jan 2015 07:32:19 -0800 (PST)
+Received: by 10.182.28.72 with HTTP; Mon, 12 Jan 2015 07:32:19 -0800 (PST)
+X-Originating-IP: [201.220.243.147]
+Date: Mon, 12 Jan 2015 12:32:19 -0300
+Message-ID: <CAJbDu1n9BO_AE5ktqLrJBxwoucRDhuy-UOg+PEC5jsgfyu_Peg@mail.gmail.com>
+Subject: COTIZACION SPORTING
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: Guillermo Morales M <gmorales@spindeportes.cl>, 
+	=?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7b47266a462eeb050c76368c
+
+--047d7b47266a462eeb050c76368c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Guillermo,
+
+Voy a mandar la cotizaci=C3=B3n a SPORTING.
+Me confirmas los precios ESCUELITA 2015?
+
+*ADULTO*
+camiseta: $28.000
+short: $16.000
+medias: $5.000
+
+*ESCUELITA:*
+camiseta: $
+short: $
+medias: $
+
+Gracias.
+Saludos
+VI
+
+--047d7b47266a462eeb050c76368c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Guillermo,=C2=A0<div><br></div><div>Voy a mandar la cotiza=
+ci=C3=B3n a SPORTING.</div><div>Me confirmas los precios ESCUELITA 2015?</d=
+iv><div><br></div><div><b>ADULTO</b></div><div>camiseta: $28.000</div><div>=
+short: $16.000</div><div>medias: $5.000</div><div><br></div><div><b>ESCUELI=
+TA:</b></div><div><div>camiseta: $</div><div>short: $</div><div>medias: $</=
+div></div><div><br></div><div>Gracias.</div><div>Saludos</div><div>VI</div>=
+</div>
+
+--047d7b47266a462eeb050c76368c--

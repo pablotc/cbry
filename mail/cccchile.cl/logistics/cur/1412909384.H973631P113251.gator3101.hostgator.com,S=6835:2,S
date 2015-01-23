@@ -1,0 +1,150 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Thu, 09 Oct 2014 21:49:44 -0500
+Received: from mail-wi0-f180.google.com ([209.85.212.180]:51663)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1XcQH2-000TOL-Mq
+	for logistics@cccchile.cl; Thu, 09 Oct 2014 21:49:44 -0500
+Received: by mail-wi0-f180.google.com with SMTP id em10so685495wid.13
+        for <logistics@cccchile.cl>; Thu, 09 Oct 2014 19:49:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=D/GaHAwmoe51sRoNONJJ3RCBrNXmQdTqZUjKZ6YBp/s=;
+        b=udx0kAwInc9+0HOML1bDcsr3FfFfrvJFXAXI0ZkyR5X4cphDXh7HLFkmsLJv8q2QDA
+         R2MU1yGb8iWwQfsJb7mmRxGGsqrehN9IrGfK0fmIEgdDm9JR4bi/JnytOSFcySGOJitf
+         d2lYC/BsWSyeGRECSvLNo6CXbxUKEvvp8FegHxqPfSS6c/ptgkXndj2661BoBZV19jyt
+         NYdGhhmDzC+ZEWEShM2iviPA+DQD0Un6+sKxkiiHA3vIEHKcQ3MdD/phqSpbM1BsoDYl
+         l6nDnwELv7B664aG/MHy3ueV0rf6WYg9sFHME2qDallhmJE2A+qzouCg0qocDYothyEL
+         xngA==
+MIME-Version: 1.0
+X-Received: by 10.180.149.130 with SMTP id ua2mr1693210wib.68.1412909379870;
+ Thu, 09 Oct 2014 19:49:39 -0700 (PDT)
+Received: by 10.194.173.232 with HTTP; Thu, 9 Oct 2014 19:49:39 -0700 (PDT)
+In-Reply-To: <CANcV_6N9QOZ_ztTK36rpLW_2prwZ_j7CEhyr2SW-=gq+6FGonA@mail.gmail.com>
+References: <CAKggD2QPYiNysTKPFiy9GPLOonjs0wmaF=ptO9=FdM5hS=FgaA@mail.gmail.com>
+	<CANcV_6Mzt2qSsuZBJtpB4YeOxNCLyHdn5sBSon+05HKijf-zBQ@mail.gmail.com>
+	<CAKggD2SjpQmyoDYbMhhqAzLU-ikw8N02rbPtY-6gbeCKkD-08A@mail.gmail.com>
+	<CANcV_6N9QOZ_ztTK36rpLW_2prwZ_j7CEhyr2SW-=gq+6FGonA@mail.gmail.com>
+Date: Thu, 9 Oct 2014 23:49:39 -0300
+Message-ID: <CAKggD2Qep_6vv8-tmAdQYPPSSAwN6xqODtwYNnq=A1OkjrSm2w@mail.gmail.com>
+Subject: Re: Alta de Mail
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: =?UTF-8?Q?Nicol=C3=A1s_Pizarro?= <nico_piza@yahoo.es>
+Cc: logistics@cccchile.cl
+Content-Type: multipart/alternative; boundary=001a11c3812aafe310050508993d
+
+--001a11c3812aafe310050508993d
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Nico,
+
+Hable el tema internamente. Estamos ok con el pago de 200.000 por el
+asesoramiento. Posteriormente vemos si lo hacemos cada x tiempo para que lo
+supervises.
+Te pido que mandes los pasos a seguir para ordenar el tema y asi comenzar
+desde ya con la mercaderia que esta pronta a salir.
+Saludos
+
+El jueves, 9 de octubre de 2014, Pablo Tapia <unreamlo@gmail.com> escribi=
+=C3=B3:
+
+> De nada
+> ;)
+>
+> El 9 de octubre de 2014, 16:08, Andr=C3=A9s Morales <andres.moralesg@gmai=
+l.com
+> <javascript:_e(%7B%7D,'cvml','andres.moralesg@gmail.com');>> escribi=C3=
+=B3:
+>
+>> Mil gracias pablo.
+>>
+>> El jueves, 9 de octubre de 2014, Pablo Tapia <unreamlo@gmail.com
+>> <javascript:_e(%7B%7D,'cvml','unreamlo@gmail.com');>> escribi=C3=B3:
+>>
+>> Listo,
+>>>
+>>> El password es Nico2014
+>>> Las instrucciones para configurarlo en outlook o GMAIL est=C3=A1n en la
+>>> p=C3=A1gina luego que inicias sesi=C3=B3n.
+>>> Al acceder al mail le preguntar=C3=A1 el nombre tambi=C3=A9n.
+>>>
+>>> La url para ir al mail es http://cccchile.cl/webmail y el user es el
+>>> mail completo.
+>>>
+>>> Cualquier cosa me avisan.
+>>> Saludos,
+>>>
+>>> El 8 de octubre de 2014, 14:02, Andr=C3=A9s Morales <
+>>> andres.moralesg@gmail.com> escribi=C3=B3:
+>>>
+>>>> Hola Pablo
+>>>>
+>>>> Necesito crear a Nicolas Pizarro que nos va a manejar la parte
+>>>> log=C3=ADstica e inbound.
+>>>>
+>>>> Su mail ser=C3=A1:
+>>>>
+>>>> logistics@cccchile.cl
+>>>>
+>>>> Te pido favor le compartas su clave de acceso y manera de poser
+>>>> activarlo para cuenta outlook o gmail.
+>>>>
+>>>> Me confirmas apenas puedas?
+>>>>
+>>>> Mil gracias.
+>>>>
+>>>>
+>>>
+>
+
+--001a11c3812aafe310050508993d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Nico,<div><br></div><div>Hable el tema internamente. Estamos ok con el pago=
+ de 200.000 por el asesoramiento. Posteriormente vemos si lo hacemos cada x=
+ tiempo para que lo supervises.</div><div>Te pido que mandes los pasos a se=
+guir para ordenar el tema y asi comenzar desde ya con la mercaderia que est=
+a pronta a salir.</div><div>Saludos<br><br>El jueves, 9 de octubre de 2014,=
+ Pablo Tapia &lt;<a href=3D"mailto:unreamlo@gmail.com">unreamlo@gmail.com</=
+a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:=
+0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">De=
+ nada=C2=A0<div>;)</div></div><div class=3D"gmail_extra"><br><div class=3D"=
+gmail_quote">El 9 de octubre de 2014, 16:08, Andr=C3=A9s Morales <span dir=
+=3D"ltr">&lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;andres.mor=
+alesg@gmail.com&#39;);" target=3D"_blank">andres.moralesg@gmail.com</a>&gt;=
+</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Mil gracias pablo.=
+<br><br>El jueves, 9 de octubre de 2014, Pablo Tapia &lt;<a href=3D"javascr=
+ipt:_e(%7B%7D,&#39;cvml&#39;,&#39;unreamlo@gmail.com&#39;);" target=3D"_bla=
+nk">unreamlo@gmail.com</a>&gt; escribi=C3=B3:<div><div><br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pad=
+ding-left:1ex"><div dir=3D"ltr">Listo,<div><br></div><div>El password es Ni=
+co2014</div><div>Las instrucciones para configurarlo en outlook o GMAIL est=
+=C3=A1n en la p=C3=A1gina luego que inicias sesi=C3=B3n.</div><div>Al acced=
+er al mail le preguntar=C3=A1 el nombre tambi=C3=A9n.</div><div><br></div><=
+div>La url para ir al mail es <a href=3D"http://cccchile.cl/webmail" target=
+=3D"_blank">http://cccchile.cl/webmail</a> y el user es el mail completo.</=
+div><div><br></div><div>Cualquier cosa me avisan.</div><div>Saludos,</div><=
+/div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 8 de octu=
+bre de 2014, 14:02, Andr=C3=A9s Morales <span dir=3D"ltr">&lt;<a>andres.mor=
+alesg@gmail.com</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail=
+_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:=
+1ex"><div dir=3D"ltr">Hola Pablo<div><br></div><div>Necesito crear a Nicola=
+s Pizarro que nos va a manejar la parte log=C3=ADstica e inbound.</div><div=
+><br></div><div>Su mail ser=C3=A1:</div><div><br></div><div><a>logistics@cc=
+cchile.cl</a></div><div><br></div><div>Te pido favor le compartas su clave =
+de acceso y manera de poser activarlo para cuenta outlook o gmail.</div><di=
+v><br></div><div>Me confirmas apenas puedas?</div><div><br></div><div>Mil g=
+racias.</div><div><br></div></div>
+</blockquote></div><br></div>
+</blockquote>
+</div></div></blockquote></div><br></div>
+</blockquote></div>
+
+--001a11c3812aafe310050508993d--

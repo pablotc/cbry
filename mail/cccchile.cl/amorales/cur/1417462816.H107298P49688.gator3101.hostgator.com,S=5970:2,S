@@ -1,0 +1,151 @@
+Return-path: <unreamlo@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 01 Dec 2014 13:40:16 -0600
+Received: from mail-qg0-f45.google.com ([209.85.192.45]:48329)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <unreamlo@gmail.com>)
+	id 1XvWpT-000CtL-Tg
+	for amorales@cccchile.cl; Mon, 01 Dec 2014 13:40:15 -0600
+Received: by mail-qg0-f45.google.com with SMTP id f51so8015256qge.4
+        for <amorales@cccchile.cl>; Mon, 01 Dec 2014 11:40:14 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=WF0sa5ap+czzfDfXDuPHTgIeAudpOcrW9xAx8nu0Wow=;
+        b=C/k9AYw/ZwpCDWmJoRuvyoUXGE2xMlhtjSWJ+qBDoBwKsb1FxKihlVid2eJYDt+23R
+         2RNlL+BLgP3u03ncvYJ7gl4ZzIBCfxib6iRKs2TDHayqyBVMnozuWkNPkJ0R/yU/F9Ml
+         0YRsk1DyVURa776zzpLUZIpjgLb00k7XjbgXlk7/oVWvonQ1ifdcJw4yu/FAWY/qG/1W
+         rEAZKYfmahXf8iBdj1Ti0p4tEDEm9ZIqCGCcEOtw8E4Vol6Yd7LWOYejv5HEph8sgoTA
+         MPQqN6EeX+kkNlHm82dmwE7s1jFjUMZisWWgcpZqea9F0+O08mg/YXA+7PiSbGrlZv6E
+         wfiQ==
+X-Received: by 10.224.25.79 with SMTP id y15mr40914602qab.78.1417462813953;
+ Mon, 01 Dec 2014 11:40:13 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.140.21.74 with HTTP; Mon, 1 Dec 2014 11:39:53 -0800 (PST)
+In-Reply-To: <CAKggD2TNs1zZi4MHOKLAHsR7nHEQUZTFGaogB6+qCSiCCGAAOQ@mail.gmail.com>
+References: <866243996.1858551417455687434.JavaMail.root@468719-payuapp02.pagosonline.net>
+ <CAKggD2TNs1zZi4MHOKLAHsR7nHEQUZTFGaogB6+qCSiCCGAAOQ@mail.gmail.com>
+From: Pablo Tapia <unreamlo@gmail.com>
+Date: Mon, 1 Dec 2014 16:39:53 -0300
+Message-ID: <CANcV_6MUb=xRXP5nWwHNfa+w96Aqc9X2UTjC2iZpy6uNwcyBAw@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_=2D=2DError_al_enviar_pagina_de_confirmaci=C3=B3n=2D=2D?=
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7bf0e8f8822fae05092cc7c2
+
+--047d7bf0e8f8822fae05092cc7c2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Mirpe el correo y creo que es de cuando se intent=C3=B3 comprar antes porqu=
+e
+ahora deber=C3=ADa estar todo ok.
+
+El 1 de diciembre de 2014, 16:33, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+> =C2=BF??
+> ---------- Mensaje reenviado ----------
+> De: <no-responder@pagosonline.net>
+> Fecha: 1 de diciembre de 2014, 14:41
+> Asunto: --Error al enviar pagina de confirmaci=C3=B3n--
+> Para: admin@cccchile.cl
+> Cc: test.tech.001@gmail.com
+>
+>
+>
+>   Apreciado(a): Pablo Tapia C,
+>  El sistema realiz=C3=B3 varios intentos para reportar a la p=C3=A1gina d=
+e
+> confirmaci=C3=B3n sin embargo un error impidi=C3=B3 que este proceso se e=
+jecutara de
+> forma exitosa.
+>  La URL de la p=C3=A1gina es :
+> http://cccchile.cl/modules/payulatam/pages/confirmation.php  El c=C3=B3di=
+go de
+> la =C3=B3rden es : 77860585  El c=C3=B3digo de la transacci=C3=B3n es :
+> 7580951e-1698-4926-a9c7-158a976c045f  El c=C3=B3digo HTTP es : 500  El me=
+nsaje
+> del error es:
+>  Si usted no desea utiizar la p=C3=A1gina de confirmaci=C3=B3n comuniques=
+e con
+> Asesor=C3=ADa en l=C3=ADnea en www.pagosonline.net
+>
+>
+
+--047d7bf0e8f8822fae05092cc7c2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Mirpe el correo y creo que es de cuando se intent=C3=B3 co=
+mprar antes porque ahora deber=C3=ADa estar todo ok.</div><div class=3D"gma=
+il_extra"><br><div class=3D"gmail_quote">El 1 de diciembre de 2014, 16:33, =
+Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a href=3D"mailto:amo=
+rales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt;</span> es=
+cribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">=C2=BF??<br=
+><div class=3D"gmail_quote">---------- Mensaje reenviado ----------<br>De: =
+<b class=3D"gmail_sendername"></b> <span dir=3D"ltr">&lt;<a href=3D"mailto:=
+no-responder@pagosonline.net" target=3D"_blank">no-responder@pagosonline.ne=
+t</a>&gt;</span><br>Fecha: 1 de diciembre de 2014, 14:41<br>Asunto: --Error=
+ al enviar pagina de confirmaci=C3=B3n--<br>Para: <a href=3D"mailto:admin@c=
+ccchile.cl" target=3D"_blank">admin@cccchile.cl</a><br>Cc: <a href=3D"mailt=
+o:test.tech.001@gmail.com" target=3D"_blank">test.tech.001@gmail.com</a><di=
+v><div class=3D"h5"><br><br><br>
+<u></u>
+
+
+
+
+
+
+<div>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">Apreciado(a): Pablo Tapia C,</td>
+  </tr>
+</tbody></table>
+<br>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">El sistema realiz=C3=B3 varios intentos para repo=
+rtar a la p=C3=A1gina de confirmaci=C3=B3n sin embargo un error impidi=C3=
+=B3 que este proceso se ejecutara de forma exitosa.</td>
+  </tr>
+</tbody></table>
+<br>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">La URL de la p=C3=A1gina es : <a href=3D"http://c=
+ccchile.cl/modules/payulatam/pages/confirmation.php" target=3D"_blank">http=
+://cccchile.cl/modules/payulatam/pages/confirmation.php</a></td>
+   </tr>
+	<tr>
+	<td align=3D"justify">El c=C3=B3digo de la =C3=B3rden es : 77860585</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El c=C3=B3digo de la transacci=C3=B3n es : 7580951e-=
+1698-4926-a9c7-158a976c045f</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El c=C3=B3digo HTTP es : 500</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El mensaje del error es: </td>
+  </tr>
+</tbody></table>
+<br>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">Si usted no desea utiizar la p=C3=A1gina de confi=
+rmaci=C3=B3n comuniquese con Asesor=C3=ADa en l=C3=ADnea en <a href=3D"http=
+://www.pagosonline.net" target=3D"_blank">www.pagosonline.net</a></td>
+  </tr>
+</tbody></table>
+</div>
+
+</div></div></div><br></div>
+</blockquote></div><br></div>
+
+--047d7bf0e8f8822fae05092cc7c2--

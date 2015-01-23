@@ -1,18 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 12/11/2014 22:02:05
-2014 12 11 22 2 5
-51 51 1 28 0 0 256010 15 2 1
-1 5 116 8 11
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-4 4 36643 1 2 1
-0 0 0 0 0 0
-0 0 0 0 0 0
-47 47 219367 1 13 1
+# Webalizer V2.23-05 Incremental Data - 01/21/2015 11:39:15
+2015 1 21 11 39 15
+53 53 1 17 0 0 133954 0 0 1
+1 4 33 21 21
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -23,6 +12,17 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+53 53 133954 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -41,6 +41,10 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
+1 1 1918 0
+33 33 66347 0
+15 15 52986 0
+4 4 12703 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
@@ -52,15 +56,11 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-0 0 0 0
-0 0 0 0
-42 42 205131 11
-9 9 50879 4
 0 0 0 0
 0
 0
 0
-51
+53
 0
 0
 0
@@ -99,72 +99,50 @@
 0
 0
 # -urls- 
-/home2/amorales/public_html/mails/es/voucher.html
-0 1 14086272 5741 0 0
-/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
-0 1 0 107 0 0
-/home2/amorales/public_html/mails/es/shipped.html
-0 2 13844320 11940 0 0
-/home2/amorales/public_html/modules/zopimfree/es.php
-0 1 0 2125 0 0
-/home2/amorales/public_html/modules/zopimfree/translations/pl.php
-0 1 0 0 0 0
-/home2/amorales/public_html/mails/es/backoffice_order.html
-0 4 0 21183 0 0
-/home2/amorales/public_html/mails/es/order_conf.txt
-0 4 0 3940 1 1
-/home2/amorales/public_html/modules/zopimfree/header-new-widget.tpl
-0 1 0 850 0 0
-/home2/amorales/public_html/modules/zopimfree/img/bottom-bg.png
-0 1 0 5696 0 0
-/home2/amorales/public_html/modules/zopimfree/img/nav-bg.png
-0 1 0 4095 0 0
-/home2/amorales/public_html/mails/es/lang.php
-0 3 14085968 8711 0 0
-/home2/amorales/public_html/mails/es/bankwire.txt
-0 2 13844176 1783 0 0
-/home2/amorales/public_html/modules/zopimfree/logo.gif
-0 1 13842336 1064 0 0
-/home2/amorales/public_html/modules/zopimfree/zopimfree.php
-0 1 0 13596 0 0
-/home2/amorales/public_html/mails/es/account.txt
-0 3 13843568 1749 1 0
-/home2/amorales/public_html/mails/es/shipped.txt
-0 2 14085824 1055 0 0
-/home2/amorales/public_html/modules/zopimfree/header.tpl
-0 1 0 850 0 0
-/home2/amorales/public_html/mails/es/order_conf.html
-0 7 0 118142 0 0
-/home2/amorales/public_html/mails/es/backoffice_order.txt
-0 3 0 633 0 0
-/home2/amorales/public_html/mails/es/bankwire.html
-0 2 13844032 15319 0 0
-/home2/amorales/public_html/modules/zopimfree/fr.php
-0 1 13836464 2138 0 0
-/home2/amorales/public_html/modules/zopimfree/img/color.png
-0 1 0 6127 0 0
-/home2/amorales/public_html/modules/zopimfree/logo-white.png
-0 1 0 4101 0 0
-/home2/amorales/public_html/modules/zopimfree/pl.php
-0 1 13842480 2077 0 0
-/home2/amorales/public_html/modules/zopimfree/de.php
-0 1 13841424 2080 0 0
-/home2/amorales/public_html/modules/zopimfree/it.php
-0 1 13841888 2063 0 0
-/home2/amorales/public_html/mails/es/account.html
-0 2 13843424 13966 0 0
-/home2/amorales/public_html/modules/zopimfree/logo.png
-0 1 13842192 4879 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl
+0 3 39731728 6716 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl
+0 7 39734080 6400 0 0
+/home2/amorales/public_html/modules/blocksearch/blocksearch.tpl
+0 1 0 1899 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css
+0 1 39732416 1378 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/category-tree-branch.tpl
+0 1 39733488 1649 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl
+0 13 39732240 27915 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
+0 14 39732608 26065 0 0
+/home2/amorales/public_html/modules/blockcategories/blockcategories.php
+0 1 0 19878 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch.tpl
+0 1 0 1918 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/category-tree-branch-top.tpl
+0 1 39733680 1718 0 0
+/home2/amorales/public_html/modules/blocksearch/blocksearch-top.tpl
+0 1 0 2374 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/blockcategories_top.tpl
+0 1 39733888 2142 0 0
+/home2/amorales/public_html/modules/blockcategories/category-tree-branch.tpl
+0 1 39732992 1674 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
+0 4 39734272 22204 0 0
+/home2/amorales/public_html/themes/default-bootstrap/header.tpl
+0 1 0 5254 0 0
+/home2/amorales/public_html/modules/blockcategories/blockcategories.tpl
+0 1 0 1922 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
+0 1 39732800 2848 0 0
 # End Of Table - urls
 # -sites- (monthly)
-pc-105-112-162-190.cm.vtr.net
-0 51 51 256010 2 1418335303
-/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
+pc-99-102-156-186.cm.vtr.net
+0 53 53 133954 0 0
+-
 # End Of Table - sites (monthly)
 # -sites- (daily)
-pc-105-112-162-190.cm.vtr.net
-0 47 47 219367 1 1418335303
-/home2/amorales/public_html/mails/es/order_conf_cart_rules.txt
+pc-99-102-156-186.cm.vtr.net
+0 53 53 133954 0 0
+-
 # End Of Table - sites (daily)
 # -referrers- 
 # End Of Table - referrers
@@ -174,5 +152,5 @@ pc-105-112-162-190.cm.vtr.net
 # End Of Table - search strings
 # -usernames- 
 amorales
-0 51 51 256010 3 1418335303
+0 53 53 133954 1 0
 # End Of Table - usernames

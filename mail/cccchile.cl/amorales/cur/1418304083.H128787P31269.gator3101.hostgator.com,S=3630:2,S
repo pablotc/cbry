@@ -1,0 +1,98 @@
+Return-path: <german.angellotti@equitybr.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 11 Dec 2014 07:21:23 -0600
+Received: from mail-ie0-f177.google.com ([209.85.223.177]:53806)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <german.angellotti@equitybr.com>)
+	id 1Xz3gI-00085w-UP
+	for amorales@cccchile.cl; Thu, 11 Dec 2014 07:21:22 -0600
+Received: by mail-ie0-f177.google.com with SMTP id rd18so4735406iec.22
+        for <amorales@cccchile.cl>; Thu, 11 Dec 2014 05:21:21 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:mime-version:thread-index:date:message-id
+         :subject:to:content-type:content-transfer-encoding;
+        bh=qFrEtJeWom4fLKuVG1NAJqb27dXM+6PBpranMLTThIY=;
+        b=QWx2h6hSJvqVEt+npa4dr0ki090DAPZ4NtFtVRNTv88uYwqlFAJikwgE7gabIjpSdf
+         PkX8qj5jc+4qBAQYiGOF0h/8ZSz346hz6V/ZTDbssVLpebHSJC+HebZy8VVMADrJGHZm
+         dbAVTQWWelB0vnSAxmgi2KNWfbVU0Q6py5AZl8by1fkojVC8GfqVir6QzbJKt5vOr2cx
+         QqBBXS2Q2FDo1SYyRgTMZiitcW8ryGp/gV6MZQ5Xey7CUI9z7nTB1uW++AZab5vvj/mp
+         Dunb0cgv7iULa9UGa6e6aYAX0ZBa3mHQ6HjSqDkckUp7BpW1MNQKPOgJp0P+z3QO7yAJ
+         W8OA==
+X-Gm-Message-State: ALoCoQmL+9HMJTfR7oScOlFii/yAFWr+eF0VP1WXPJ32aItDp+60c5Z89JfmK57EAaNF6Xhm3PTQ
+X-Received: by 10.107.133.17 with SMTP id h17mr9321374iod.47.1418304080963;
+ Thu, 11 Dec 2014 05:21:20 -0800 (PST)
+From: german.angellotti@equitybr.com
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdAVRS6Nm+VEXQd9RyGQF5+Q01xAPgAACqfg
+Date: Thu, 11 Dec 2014 10:21:19 -0300
+Message-ID: <36373e5c2abc8cbdf81b1d615b039f05@mail.gmail.com>
+Subject: Reunion Canterbury
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: text/calendar; charset=UTF-8; method=REQUEST
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Pacific SA Standard Time
+BEGIN:STANDARD
+DTSTART:16010428T235900
+RRULE:FREQ=3DYEARLY;BYDAY=3D-1SA;BYMONTH=3D4
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0400
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010901T235900
+RRULE:FREQ=3DYEARLY;BYDAY=3D1SA;BYMONTH=3D9
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=3D"'Andr=C3=A9s Morales (CCC-CHILE)'";RSVP=3DTRUE:mailto:amoral=
+es@cccch
+	ile.cl
+CLASS:PUBLIC
+CREATED:20141211T132118Z
+DESCRIPTION:\n
+DTEND;TZID=3D"Pacific SA Standard Time":20141212T120000
+DTSTAMP:20141211T132118Z
+DTSTART;TZID=3D"Pacific SA Standard Time":20141212T110000
+LAST-MODIFIED:20141211T132119Z
+LOCATION:Av. Kennedy 5454\, of. 1103
+ORGANIZER;CN=3Dgerman.angellotti@equitybr.com:mailto:german.angellotti@equi=
+ty
+	br.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=3Des-cl:Reunion Canterbury
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E05EDE332C15D001000000000000000
+	0100000006C8F0FDE26E8054E86AF22D28D89707B
+X-ALT-DESC;FMTTYPE=3Dtext/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2/=
+/E
+	N">\n<HTML>\n<HEAD>\n<META NAME=3D"Generator" CONTENT=3D"MS Exchange Serve=
+r ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=3DLTR><SPAN LANG=3D"es-cl"></SPAN></P>\n=
+\n</
+	BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

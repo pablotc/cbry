@@ -1,0 +1,68 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 18 Nov 2014 14:33:49 -0600
+Received: from mail-wi0-f172.google.com ([209.85.212.172]:43142)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1XqpTA-000I9A-TR
+	for amorales@cccchile.cl; Tue, 18 Nov 2014 14:33:49 -0600
+Received: by mail-wi0-f172.google.com with SMTP id n3so3192390wiv.17
+        for <amorales@cccchile.cl>; Tue, 18 Nov 2014 12:33:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type;
+        bh=UAgvaG9aVv9zIVbpE5i+BU7ePx4wMgzeKSoggTK+uqQ=;
+        b=lFwwZZMjUnZVjRKHDumhU7gr/NoqP7eIuGWQi4toZl23U4Q6tGrnj4Jh5MeQDdC/2y
+         ZPQfhu/FMDA4xwhZQ0nXYF9AhmKDN7o8heQchFE5mlNRfoEda7f5IH1sIGSg/h0C3ueQ
+         UAhRsh313/japPWTNJh7QiiBPXPRdaojDDngsXRvTbtZUdZaw154n018JtDeDdaZ9Llj
+         1XTes1TkYm7VN36AxaVqnUaKDBYBbVTVctTZA/DBn/nVsq7WWEcBSmSrfMH6A4ZIr4ym
+         E3jX7LRrPerrozVmqezmjw1+mKz+SxW7BQKnLtRJu2C8pfYju7V03xAi2jDQ8erznm8n
+         Xx5A==
+MIME-Version: 1.0
+X-Received: by 10.180.14.226 with SMTP id s2mr42047951wic.61.1416342825133;
+ Tue, 18 Nov 2014 12:33:45 -0800 (PST)
+Received: by 10.194.178.226 with HTTP; Tue, 18 Nov 2014 12:33:45 -0800 (PST)
+Date: Tue, 18 Nov 2014 17:33:45 -0300
+Message-ID: <CAKggD2QbVHuR0tSy-hSnBEUOJLF2WBnWAwb5rxini6CEREVzYQ@mail.gmail.com>
+Subject: Canterbury
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: rbaylis@sangabriel.cl
+Cc: Guillermo Morales <gmorales@spindeportes.cl>, =?UTF-8?Q?Andr=C3=A9s_Morales?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=f46d04138c9ff8eb9d050828023e
+
+--f46d04138c9ff8eb9d050828023e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Richard,
+
+Primero agradecer el tiempo de la reuni=C3=B3n con nosotros y la entretenid=
+a
+conversaci=C3=B3n que se gener=C3=B3..
+Quedamos a disposici=C3=B3n de ustedes para seguir adelante con una posible
+alianza.
+
+Nuestros Telefonos:
+
+Andr=C3=A9s: +569 84495251
+Guillermo: +569 8250650.
+
+Un Abrazo,
+
+Andr=C3=A9s.
+CCC
+
+--f46d04138c9ff8eb9d050828023e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Richard,<div><br></div><div>Primero agradecer el tiem=
+po de la reuni=C3=B3n con nosotros y la entretenida conversaci=C3=B3n que s=
+e gener=C3=B3..</div><div>Quedamos a disposici=C3=B3n de ustedes para segui=
+r adelante con una posible alianza.</div><div><br></div><div>Nuestros Telef=
+onos:</div><div><br></div><div>Andr=C3=A9s: +569 84495251</div><div>Guiller=
+mo: +569 8250650.</div><div><br></div><div>Un Abrazo,</div><div><br></div><=
+div>Andr=C3=A9s.</div><div>CCC</div></div>
+
+--f46d04138c9ff8eb9d050828023e--

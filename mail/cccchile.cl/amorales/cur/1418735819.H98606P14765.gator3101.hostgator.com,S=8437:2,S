@@ -1,0 +1,128 @@
+Return-path: <lilian.lopez@am.sony.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 16 Dec 2014 07:16:59 -0600
+Received: from mail-bn1bon0080.outbound.protection.outlook.com ([157.56.111.80]:52616 helo=na01-bn1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <lilian.lopez@am.sony.com>)
+	id 1Y0rzm-0003nB-QM
+	for amorales@cccchile.cl; Tue, 16 Dec 2014 07:16:59 -0600
+Received: from BN1PR08CA0037.namprd08.prod.outlook.com (10.242.217.165) by
+ BLUPR08MB326.namprd08.prod.outlook.com (10.141.75.147) with Microsoft SMTP
+ Server (TLS) id 15.1.31.17; Tue, 16 Dec 2014 13:16:55 +0000
+Received: from BL2FFO11FD027.protection.gbl (2a01:111:f400:7c09::130) by
+ BN1PR08CA0037.outlook.office365.com (2a01:111:e400:16::37) with Microsoft
+ SMTP Server (TLS) id 15.1.31.17 via Frontend Transport; Tue, 16 Dec 2014
+ 13:16:54 +0000
+Received: from usculsndmail03v.am.sony.com (160.33.194.230) by
+ BL2FFO11FD027.mail.protection.outlook.com (10.173.161.106) with Microsoft
+ SMTP Server (TLS) id 15.1.26.17 via Frontend Transport; Tue, 16 Dec 2014
+ 13:16:54 +0000
+Received: from usculsndmail12v.am.sony.com (usculsndmail12v.am.sony.com [146.215.230.103])
+	by usculsndmail03v.am.sony.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with ESMTP id sBGDGs6B029834
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=NO)
+	for <amorales@cccchile.cl>; Tue, 16 Dec 2014 13:16:54 GMT
+Content-Class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01D01932.8D0AE907"
+Subject: pago
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Date: Tue, 16 Dec 2014 10:16:49 -0300
+Message-ID: <8D4A0DC9A0F4604B929E662B0089CBC101551E3A@CLSANXMS01.am.sony.com>
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Thread-Topic: pago
+thread-index: AdAZMolHBIPKLXPQQvm4Z586KdrA6w==
+From: "Lopez, Lilian" <Lilian.Lopez@am.sony.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+X-OriginalArrivalTime: 16 Dec 2014 13:16:53.0946 (UTC) FILETIME=[8F72A9A0:01D01932]
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of am.sony.com designates
+ 160.33.194.230 as permitted sender) receiver=protection.outlook.com;
+ client-ip=160.33.194.230; helo=usculsndmail03v.am.sony.com;
+Authentication-Results: spf=pass (sender IP is 160.33.194.230)
+ smtp.mailfrom=lilian.lopez@am.sony.com; 
+X-Forefront-Antispam-Report:
+	CIP:160.33.194.230;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10009020)(6009001)(438002)(122424002)(189002)(199003)(229853001)(87936001)(58546002)(84326002)(33656002)(106466001)(2656002)(107886001)(6806004)(19625215002)(221733001)(19580395003)(50986999)(4396001)(62236002)(16236675004)(2920100001)(512874002)(86362001)(20776003)(72046001)(92566001)(19300405004)(55846006)(120916001)(21056001)(110136001)(102836002)(81816999)(71186001)(107046002)(54356999)(15975445007)(77156002)(62966003)(31966008)(450100001)(99396003)(104016003)(46102003)(220243001)(217283001)(19627235001);DIR:OUT;SFP:1101;SCL:1;SRVR:BLUPR08MB326;H:usculsndmail03v.am.sony.com;FPR:;SPF:Pass;MLV:sfv;PTR:mail03.sonyusa.com,mail.sonyusa.com;MX:1;A:0;LANG:es;
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:;SRVR:BLUPR08MB326;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:BLUPR08MB326;
+X-Forefront-PRVS: 04270EF89C
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:BLUPR08MB326;
+X-OriginatorOrg: am.sony.com
+
+------_=_NextPart_001_01D01932.8D0AE907
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+QW5kcsOpcywgDQoNCiANCg0KUHJlZ3VudGEsIHR1IHJldmlzYXN0ZSBlbCBjw6FsY3VsbyBkZSBm
+aW5pcXVpdG8/PywgeWEgdGVuZ28gZWwgY2hlcXVlIGxpc3RvIHBhcmEgZW52aWFyIGEgbm90YXLD
+rWEsIHNpIFBhYmxvIG1lIGNvbnRlc3RhIGhveSBsbyBlbnbDrW8gYSBub3RhcsOtYS4NCg0KIA0K
+DQpTYWx1ZG9zLA0KDQogDQoNCkxpbGlhbg0KDQo=
+
+------_=_NextPart_001_01D01932.8D0AE907
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWwgeG1sbnM6dj0idXJuOnNjaGVtYXMtbWljcm9zb2Z0LWNvbTp2bWwiIHhtbG5zOm89InVy
+bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206b2ZmaWNlOm9mZmljZSIgeG1sbnM6dz0idXJuOnNjaGVt
+YXMtbWljcm9zb2Z0LWNvbTpvZmZpY2U6d29yZCIgeG1sbnM6bT0iaHR0cDovL3NjaGVtYXMubWlj
+cm9zb2Z0LmNvbS9vZmZpY2UvMjAwNC8xMi9vbW1sIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv
+VFIvUkVDLWh0bWw0MCI+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj1Db250ZW50LVR5cGUgY29udGVu
+dD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij48bWV0YSBuYW1lPUdlbmVyYXRvciBjb250ZW50
+PSJNaWNyb3NvZnQgV29yZCAxNCAoZmlsdGVyZWQgbWVkaXVtKSI+PHN0eWxlPjwhLS0NCi8qIEZv
+bnQgRGVmaW5pdGlvbnMgKi8NCkBmb250LWZhY2UNCgl7Zm9udC1mYW1pbHk6Q2FsaWJyaTsNCglw
+YW5vc2UtMToyIDE1IDUgMiAyIDIgNCAzIDIgNDt9DQpAZm9udC1mYWNlDQoJe2ZvbnQtZmFtaWx5
+OlRhaG9tYTsNCglwYW5vc2UtMToyIDExIDYgNCAzIDUgNCA0IDIgNDt9DQovKiBTdHlsZSBEZWZp
+bml0aW9ucyAqLw0KcC5Nc29Ob3JtYWwsIGxpLk1zb05vcm1hbCwgZGl2Lk1zb05vcm1hbA0KCXtt
+YXJnaW46MGNtOw0KCW1hcmdpbi1ib3R0b206LjAwMDFwdDsNCglmb250LXNpemU6MTIuMHB0Ow0K
+CWZvbnQtZmFtaWx5OiJUaW1lcyBOZXcgUm9tYW4iLCJzZXJpZiI7fQ0KYTpsaW5rLCBzcGFuLk1z
+b0h5cGVybGluaw0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJY29sb3I6Ymx1ZTsNCgl0ZXh0
+LWRlY29yYXRpb246dW5kZXJsaW5lO30NCmE6dmlzaXRlZCwgc3Bhbi5Nc29IeXBlcmxpbmtGb2xs
+b3dlZA0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJY29sb3I6cHVycGxlOw0KCXRleHQtZGVj
+b3JhdGlvbjp1bmRlcmxpbmU7fQ0KcA0KCXttc28tc3R5bGUtcHJpb3JpdHk6OTk7DQoJbXNvLW1h
+cmdpbi10b3AtYWx0OmF1dG87DQoJbWFyZ2luLXJpZ2h0OjBjbTsNCgltc28tbWFyZ2luLWJvdHRv
+bS1hbHQ6YXV0bzsNCgltYXJnaW4tbGVmdDowY207DQoJZm9udC1zaXplOjEyLjBwdDsNCglmb250
+LWZhbWlseToiVGltZXMgTmV3IFJvbWFuIiwic2VyaWYiO30NCnAuTXNvQWNldGF0ZSwgbGkuTXNv
+QWNldGF0ZSwgZGl2Lk1zb0FjZXRhdGUNCgl7bXNvLXN0eWxlLXByaW9yaXR5Ojk5Ow0KCW1zby1z
+dHlsZS1saW5rOiJUZXh0byBkZSBnbG9ibyBDYXIiOw0KCW1hcmdpbjowY207DQoJbWFyZ2luLWJv
+dHRvbTouMDAwMXB0Ow0KCWZvbnQtc2l6ZTo4LjBwdDsNCglmb250LWZhbWlseToiVGFob21hIiwi
+c2Fucy1zZXJpZiI7fQ0Kc3Bhbi5UZXh0b2RlZ2xvYm9DYXINCgl7bXNvLXN0eWxlLW5hbWU6IlRl
+eHRvIGRlIGdsb2JvIENhciI7DQoJbXNvLXN0eWxlLXByaW9yaXR5Ojk5Ow0KCW1zby1zdHlsZS1s
+aW5rOiJUZXh0byBkZSBnbG9ibyI7DQoJZm9udC1mYW1pbHk6IlRhaG9tYSIsInNhbnMtc2VyaWYi
+Ow0KCW1zby1mYXJlYXN0LWxhbmd1YWdlOkVTLUNMO30NCnNwYW4uRXN0aWxvQ29ycmVvMjANCgl7
+bXNvLXN0eWxlLXR5cGU6cGVyc29uYWwtcmVwbHk7DQoJZm9udC1mYW1pbHk6IkNhbGlicmkiLCJz
+YW5zLXNlcmlmIjsNCgljb2xvcjojMUY0OTdEO30NCi5Nc29DaHBEZWZhdWx0DQoJe21zby1zdHls
+ZS10eXBlOmV4cG9ydC1vbmx5Ow0KCWZvbnQtZmFtaWx5OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7
+DQoJbXNvLWZhcmVhc3QtbGFuZ3VhZ2U6RU4tVVM7fQ0KQHBhZ2UgV29yZFNlY3Rpb24xDQoJe3Np
+emU6NjEyLjBwdCA3OTIuMHB0Ow0KCW1hcmdpbjo3MC44NXB0IDMuMGNtIDcwLjg1cHQgMy4wY207
+fQ0KZGl2LldvcmRTZWN0aW9uMQ0KCXtwYWdlOldvcmRTZWN0aW9uMTt9DQotLT48L3N0eWxlPjwh
+LS1baWYgZ3RlIG1zbyA5XT48eG1sPg0KPG86c2hhcGVkZWZhdWx0cyB2OmV4dD0iZWRpdCIgc3Bp
+ZG1heD0iMTAyNiIgLz4NCjwveG1sPjwhW2VuZGlmXS0tPjwhLS1baWYgZ3RlIG1zbyA5XT48eG1s
+Pg0KPG86c2hhcGVsYXlvdXQgdjpleHQ9ImVkaXQiPg0KPG86aWRtYXAgdjpleHQ9ImVkaXQiIGRh
+dGE9IjEiIC8+DQo8L286c2hhcGVsYXlvdXQ+PC94bWw+PCFbZW5kaWZdLS0+PC9oZWFkPjxib2R5
+IGxhbmc9RVMtQ0wgbGluaz1ibHVlIHZsaW5rPXB1cnBsZT48ZGl2IGNsYXNzPVdvcmRTZWN0aW9u
+MT48cCBjbGFzcz1Nc29Ob3JtYWw+PHNwYW4gc3R5bGU9J2ZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1m
+YW1pbHk6IkNhbGlicmkiLCJzYW5zLXNlcmlmIjtjb2xvcjojMUY0OTdEJz5BbmRyw6lzLCA8bzpw
+PjwvbzpwPjwvc3Bhbj48L3A+PHAgY2xhc3M9TXNvTm9ybWFsPjxzcGFuIHN0eWxlPSdmb250LXNp
+emU6MTEuMHB0O2ZvbnQtZmFtaWx5OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7Y29sb3I6IzFGNDk3
+RCc+PG86cD4mbmJzcDs8L286cD48L3NwYW4+PC9wPjxwIGNsYXNzPU1zb05vcm1hbD48c3BhbiBz
+dHlsZT0nZm9udC1zaXplOjExLjBwdDtmb250LWZhbWlseToiQ2FsaWJyaSIsInNhbnMtc2VyaWYi
+O2NvbG9yOiMxRjQ5N0QnPlByZWd1bnRhLCB0dSByZXZpc2FzdGUgZWwgY8OhbGN1bG8gZGUgZmlu
+aXF1aXRvPz8sIHlhIHRlbmdvIGVsIGNoZXF1ZSBsaXN0byBwYXJhIGVudmlhciBhIG5vdGFyw61h
+LCBzaSBQYWJsbyBtZSBjb250ZXN0YSBob3kgbG8gZW52w61vIGEgbm90YXLDrWEuPG86cD48L286
+cD48L3NwYW4+PC9wPjxwIGNsYXNzPU1zb05vcm1hbD48c3BhbiBzdHlsZT0nZm9udC1zaXplOjEx
+LjBwdDtmb250LWZhbWlseToiQ2FsaWJyaSIsInNhbnMtc2VyaWYiO2NvbG9yOiMxRjQ5N0QnPjxv
+OnA+Jm5ic3A7PC9vOnA+PC9zcGFuPjwvcD48cCBjbGFzcz1Nc29Ob3JtYWw+PHNwYW4gc3R5bGU9
+J2ZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6IkNhbGlicmkiLCJzYW5zLXNlcmlmIjtjb2xv
+cjojMUY0OTdEJz5TYWx1ZG9zLDxvOnA+PC9vOnA+PC9zcGFuPjwvcD48cCBjbGFzcz1Nc29Ob3Jt
+YWw+PHNwYW4gc3R5bGU9J2ZvbnQtc2l6ZToxMS4wcHQ7Zm9udC1mYW1pbHk6IkNhbGlicmkiLCJz
+YW5zLXNlcmlmIjtjb2xvcjojMUY0OTdEJz48bzpwPiZuYnNwOzwvbzpwPjwvc3Bhbj48L3A+PHAg
+Y2xhc3M9TXNvTm9ybWFsPjxzcGFuIHN0eWxlPSdmb250LXNpemU6MTEuMHB0O2ZvbnQtZmFtaWx5
+OiJDYWxpYnJpIiwic2Fucy1zZXJpZiI7Y29sb3I6IzFGNDk3RCc+TGlsaWFuPG86cD48L286cD48
+L3NwYW4+PC9wPjwvZGl2PjwvYm9keT48L2h0bWw+
+
+------_=_NextPart_001_01D01932.8D0AE907--

@@ -112,3 +112,22 @@ Stack trace:
 #2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*\t')
 #3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ...')
 #4 /home2/ in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[07-Jan-2015 20:58:04 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/29/68/85/51/a0/wrt54adc80ccca732.33388332' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('    <section id...')
+# in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[21-Jan-2015 12:12:54 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl&quot;  on line 42 &quot;{*  ELIMNADO EL BOTON DE LA LUPITA&quot;  - Unexpected &quot;*  &quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*  ')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*  ')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ... in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[21-Jan-2015 12:13:00 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyCompilerException' with message 'Syntax Error in template &quot;/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl&quot;  on line 42 &quot;{*  ELIMNADO EL BOTON DE LA LUPITA&quot;  - Unexpected &quot;*  &quot;' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php:667
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3144): Smarty_Internal_TemplateCompilerBase->trigger_template_error()
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*  ')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*  ')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ... in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667

@@ -10,25 +10,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '1259708838548abf14ac65b9-70086093',
-  'variables' => 
-  array (
-    'facebook_url' => 0,
-    'twitter_url' => 0,
-    'rss_url' => 0,
-    'youtube_url' => 0,
-    'google_plus_url' => 0,
-    'pinterest_url' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf14b7ddb9_78244868',
+  'unifunc' => 'content_54bfb6a88c1122_47001992',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548abf14b7ddb9_78244868')) {function content_548abf14b7ddb9_78244868($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_54bfb6a88c1122_47001992')) {function content_54bfb6a88c1122_47001992($_smarty_tpl) {?>
 <section id="social_block">
 	<ul>
 					<li class="facebook">
-				<a target="_blank" href="http://www.facebook.com/canterbury">
+				<a target="_blank" href="http://www.facebook.com/274016089448842">
 					<span>Facebook</span>
 				</a>
 			</li>

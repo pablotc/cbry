@@ -10,20 +10,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     ),
   ),
   'nocache_hash' => '570679062548abf147fcf63-71590294',
-  'variables' => 
-  array (
-    'facebookurl' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf14816773_81381989',
+  'unifunc' => 'content_54bea09a53ea67_13103736',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548abf14816773_81381989')) {function content_548abf14816773_81381989($_smarty_tpl) {?><div id="fb-root"></div>
+<?php if ($_valid && !is_callable('content_54bea09a53ea67_13103736')) {function content_54bea09a53ea67_13103736($_smarty_tpl) {?><div id="fb-root"></div>
 <div id="facebook_block" class="col-xs-4">
 	<h4 >Síguenos en Facebook</h4>
 	<div class="facebook-fanbox">
-		<div class="fb-like-box" data-href="https://www.facebook.com/canterbury" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false">
+		<div class="fb-like-box" data-href="https://www.facebook.com/274016089448842" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false">
 		</div>
 	</div>
 </div>

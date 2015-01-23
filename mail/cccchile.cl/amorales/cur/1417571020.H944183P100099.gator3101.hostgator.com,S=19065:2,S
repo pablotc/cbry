@@ -1,0 +1,370 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 02 Dec 2014 19:43:40 -0600
+Received: from mail-qg0-f41.google.com ([209.85.192.41]:41054)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1Xvyyi-000Pyr-LH
+	for amorales@cccchile.cl; Tue, 02 Dec 2014 19:43:40 -0600
+Received: by mail-qg0-f41.google.com with SMTP id j5so10308099qga.0
+        for <amorales@cccchile.cl>; Tue, 02 Dec 2014 17:43:37 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=viKbA46YkAYMKJ7XjUJb4wDVx4v+n7d56KmI4rr7iXU=;
+        b=b4TCApw/hTXyhXiRgjR2hmMLYbq0oK32Gp4e95hGAlrJD15odT6JQbLIlAk9Jw/Oqd
+         lKAwClY/dpusLikhAu7jSV2eXmM95mYjNk9dgIbhYQptYSNik3ObOZ3pfXGSIpm45s4K
+         uvtP+oYplfsaDA2CF8Q1fcT2GK0MbCwMdaVmNQxHqBEbUYn1AHnzeCgc67EtfPFr8T05
+         rMCBGYD+j+nJBF0Z3lM6qO0TV3SFRWDkba1oOgVf1OcUzv8Fa6Vp+nU6z584Cvu1DIsB
+         +KLnD3oNGOnzuCzWiEAUcLFHD5prhNJBlFSTcF6FiL22sQhRcobu/d5GeklAX5/BOf3g
+         Qdlg==
+X-Gm-Message-State: ALoCoQkVHhHgkOJxjt2zr670jHu1UhTBJAzW0DI22iiAk/DQEqTsom2vfDhJ6uMe7aS0sxHKch84
+X-Received: by 10.140.101.112 with SMTP id t103mr3660074qge.92.1417571017143;
+        Tue, 02 Dec 2014 17:43:37 -0800 (PST)
+Received: from [10.239.227.48] ([201.220.243.223])
+        by mx.google.com with ESMTPSA id v37sm22037535qge.29.2014.12.02.17.43.35
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 02 Dec 2014 17:43:36 -0800 (PST)
+References: <CAKggD2R37zsQGa9LyB=e2hSxhvZ-xJ=4CLO=DV030FXeW3f_wA@mail.gmail.com> <CAJbDu1nbm1zArsm-y=7fm2CtqvaiOWKZu8_hA__RjfGsJEBJbw@mail.gmail.com> <CAKggD2QxEWC-C0dEiW09bj-9GCHWTf67Kw21nA0rStv1dmSLfw@mail.gmail.com> <AC5BD262-DC21-42DA-8727-42BE7A3B23F8@viaglobal.cl> <CAKggD2QxzOzPHQi--OAAa_dp9F-0sNE9UsmD1Hifa9Yx7XpdwQ@mail.gmail.com> <CAKggD2RzRNUEPRpwi-xURL+z0TtnzA0gz5W4aFwvV5CQCtBGrw@mail.gmail.com> <8B9FEA3C-D23F-423B-AD6A-218F57213EBA@viaglobal.cl> <CAKggD2Q+NP_tEqTHWvexD6n7Y8gmSHR0pFq=W+oFOd0f4oKSyQ@mail.gmail.com> <F97633EE-79F4-4876-A8AB-0119B9CCB055@viaglobal.cl> <CAKggD2TJWcnSHrQMk+qr9H7qmg=aakP1G_s9BHcVcmm2R87TDQ@mail.gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CAKggD2TJWcnSHrQMk+qr9H7qmg=aakP1G_s9BHcVcmm2R87TDQ@mail.gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-A60FCD56-8AEA-4C71-840B-DE27EB05C383
+Content-Transfer-Encoding: 7bit
+Message-Id: <CC3AC6E3-E1EB-4FBB-8D69-06CDBAB05140@viaglobal.cl>
+Cc: Guillermo Morales <gmorales@spindeportes.cl>
+X-Mailer: iPhone Mail (12B411)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: Reunion equipos/inst AW15
+Date: Tue, 2 Dec 2014 22:43:33 -0300
+To: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+
+
+--Apple-Mail-A60FCD56-8AEA-4C71-840B-DE27EB05C383
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Confirmado
+Ma=C3=B1ana 10:30 USM
+Jueves UANDES 12:00
+Pwcc por confirmar
+Old locks por confirmar
+Old newlanders por confirmar
+Gaucho por confirmar
+Mayflower por confirmar
+Troncos pendiente
+
+
+
+
+
+
+> El 02-12-2014, a las 21:27, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccc=
+hile.cl> escribi=C3=B3:
+>=20
+> Victor, nos mandas una agenda con todas las reuniomes??
+>=20
+> Grax!
+>=20
+> El lunes, 1 de diciembre de 2014, V=C3=ADctor Irigoyen <virigoyen@viagloba=
+l.cl> escribi=C3=B3:
+>> Confirmado esta la USM para el mi=C3=A9rcoles 10:00.
+>>=20
+>> Voy armar el excel apenas vayan confirmado horas.
+>>=20
+>> Limpie el showroom (primera pasada)
+>> - Todo lo que esta en caja es para que Don Marcelo se lo lleve.
+>> - las poleras colgadas de los equipos las mantenemos.
+>> - deje el colgador para que coloquemos las muestras.
+>>=20
+>> Me mandas la planilla producto/precio para ir mirando los productos. No i=
+mporta si todav=C3=ADa no esta completa.
+>>=20
+>> Saludos
+>>=20
+>>=20
+>>=20
+>>=20
+>>=20
+>>> El 01-12-2014, a las 12:22, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cc=
+cchile.cl> escribi=C3=B3:
+>>>=20
+>>> Hola,
+>>>=20
+>>> No, no estan en el showroom, estamos coordinando eso.
+>>> las puedes ver obvio,
+>>> Planilla de precio tambi=C3=A9n la tenemos.
+>>>=20
+>>> Independiente las veas o no (yo tampoco las he visto) debemos coordinar l=
+as reuniones.
+>>> SI tienes un excel con las agendas, mucho mejor.
+>>>=20
+>>> sls.
+>>>=20
+>>>=20
+>>> El 1 de diciembre de 2014, 11:29, V=C3=ADctor Irigoyen <virigoyen@viaglo=
+bal.cl> escribi=C3=B3:
+>>>> Ok. Estan en el showroom las muestras?=20
+>>>> Necesito verlas.
+>>>> Tienes la planilla precios?
+>>>> Las coordino desde ma=C3=B1ana entonces.
+>>>> Saludos
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>> El 01-12-2014, a las 11:09, Andr=C3=A9s Morales (CCC-CHILE) <amorales@=
+cccchile.cl> escribi=C3=B3:
+>>>>>=20
+>>>>=20
+>>>>> Hola Victor,
+>>>>>=20
+>>>>> como te fue con las reuniones?=20
+>>>>> La muestras terminaron de llegar el viernes en la tarde. Hoy ya estamo=
+s ok para hacer preventa.
+>>>>>=20
+>>>>> confirmame cuando partimos, dias y horarios para coordinar con guiller=
+mo y si hay alguna la prox semana con fabian.
+>>>>>=20
+>>>>> please...
+>>>>>=20
+>>>>> mil gracias.
+>>>>>=20
+>>>>> El 26 de noviembre de 2014, 15:18, Andr=C3=A9s Morales (CCC-CHILE) <am=
+orales@cccchile.cl> escribi=C3=B3:
+>>>>>> Estan llegando estos dias. Ya tenemos la mayoria.
+>>>>>> Esta semana los inventariamos y estamos listos
+>>>>>>=20
+>>>>>> El mi=C3=A9rcoles, 26 de noviembre de 2014, V=C3=ADctor Irigoyen <vir=
+igoyen@viaglobal.cl> escribi=C3=B3:
+>>>>>>=20
+>>>>>>> Cuando puedo ver los productos?=20
+>>>>>>>=20
+>>>>>>>=20
+>>>>>>>=20
+>>>>>>>=20
+>>>>>>>> El 26-11-2014, a las 12:31, Andr=C3=A9s Morales (CCC-CHILE) <amoral=
+es@cccchile.cl> escribi=C3=B3:
+>>>>>>>>=20
+>>>>>>>> Hola! Buenismo. Gracias por el feedback.
+>>>>>>>> Tenemos casi todo lo que planteas.
+>>>>>>>>=20
+>>>>>>>> El pedido dene estar en el.sistema al dia viernes 12
+>>>>>>>>=20
+>>>>>>>>=20
+>>>>>>>>=20
+>>>>>>>> El mi=C3=A9rcoles, 26 de noviembre de 2014, Victor Irigoyen <virigo=
+yen@viaglobal.cl> escribi=C3=B3:
+>>>>>>>>> Hola Andres,=20
+>>>>>>>>>=20
+>>>>>>>>> Me parece perfecto. Ya tengo conversado con algunos equipos esta r=
+euni=C3=B3n.=20
+>>>>>>>>> Lo mas importante para poder hacer la pre venta.=20
+>>>>>>>>>=20
+>>>>>>>>> - LUGAR PRE VENTA: deber=C3=ADamos usar el showroom para presentar=
+ a cada cliente. Seria nuestro espacio y damos una clara imagen de marca pot=
+ente. As=C3=AD podemos manejar bien los productos y empapar al cliente con l=
+a marca.=20
+>>>>>>>>>=20
+>>>>>>>>> - PRODUCTOS: revisemos bien los productos que se van a ofrecer par=
+a estar alineados.  Es muy importante tener claridad del material, dise=C3=B1=
+os, precios y visualizar su uso en cada equipo. Vestimos el showroom con las=
+ muestras.
+>>>>>>>>>=20
+>>>>>>>>> - PLANILLA PRECIOS: Esto es lo primero y fundamental. Claridad en l=
+os precios, los m=C3=A1rgenes (nos sirve para los posibles descuentos)=20
+>>>>>>>>> foto producto / descripci=C3=B3n / precio distribuidor / precio ve=
+nta publico=20
+>>>>>>>>> claridad en los precios que le damos a los CLUBES para trabajar co=
+n tranquilidad. Esta puede ser una barrera de entrada, hay que evitar la con=
+fusi=C3=B3n.=20
+>>>>>>>>>=20
+>>>>>>>>> - CATALOGO PRODUCTO: no se si estas a tiempo para desarrollar un c=
+atalogo, no se si tienes alg=C3=BAn catalogo de marca que podamos entregar a=
+ los clubes. En caso de no tener nada, podemos adaptar una planilla precios/=
+fotos producto para el cliente.=20
+>>>>>>>>>=20
+>>>>>>>>> Cuando podemos revisar los productos, planilla y armar el showroom=
+?
+>>>>>>>>>=20
+>>>>>>>>> Para el 8 de DICIEMBRE quedan 7 d=C3=ADas h=C3=A1biles. Esta seman=
+a esta perdida, por lo tanto tendr=C3=ADamos 5 d=C3=ADas para presentar?
+>>>>>>>>> Cuando se debe consolidar el pedido?
+>>>>>>>>>=20
+>>>>>>>>> Confirmame como armamos esto para poder hacer una correcta pre ven=
+ta.=20
+>>>>>>>>>=20
+>>>>>>>>> Saludos
+>>>>>>>>>=20
+>>>>>>>>>=20
+>>>>>>>>>=20
+>>>>>>>>>=20
+>>>>>>>>>=20
+>>>>>>>>>=20
+>>>>>>>>> 2014-11-26 9:27 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <amorale=
+s@cccchile.cl>:
+>>>>>>>>>> Hola victor,
+>>>>>>>>>>=20
+>>>>>>>>>> Te cuento que debemos generar reuniones con todos los clubs, univ=
+ersidades etc que tengamos, chicos o grandes.
+>>>>>>>>>> Estos dias se completan las muestras de la proxima temporada y la=
+ idea es mostrarles estos productos para que vean lo que llega en jul-jul y p=
+odamos ir completando las propuestas seguro a mas de algumos que les puedan i=
+nteresar polos, poleras de entrenamiento, bolsos, pelotas..etc...
+>>>>>>>>>> Como son productos de temporada, los costos y precios a ofrecer s=
+on mejores que MTO. Sabemos que no calza con el.inicio de temporada, pero so=
+n los tiempos que tenemos y podemos ofrecer hoy ya para la.prox temporada en=
+tregamos en diciembre y ya calzamos. Tambien sirve para hacernos una idea de=
+ los productos que podamos tener algunas unidades en stock.
+>>>>>>>>>>=20
+>>>>>>>>>> Debemos consolidar y presentar a Fabian que viene la semana del 8=
+ de diciembre, por lo que seria ideal tener las reuniones dentro de la proxi=
+ma semana. Creo que no mas de 1 Hr cada uno.
+>>>>>>>>>>=20
+>>>>>>>>>> Uandes
+>>>>>>>>>> PWCC
+>>>>>>>>>> old locks
+>>>>>>>>>> USM
+>>>>>>>>>> Gauchos
+>>>>>>>>>> Newlanders
+>>>>>>>>>> Troncos
+>>>>>>>>>> Etc...etc..
+>>>>>>>>>>=20
+>>>>>>>>>> Confirmame porfa para coordinar, si hay alguna en la que pueda pa=
+rticipar fabian,mucho mejor y la dejamos para esa semana.
+>>>>>>>>>>=20
+>>>>>>>>>> Sls
+
+--Apple-Mail-A60FCD56-8AEA-4C71-840B-DE27EB05C383
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Confirmado</div><div>Ma=C3=B1ana 10:30=
+ USM</div><div>Jueves UANDES 12:00</div><div>Pwcc por confirmar</div><div>Ol=
+d locks por confirmar</div><div>Old newlanders por confirmar</div><div>Gauch=
+o por confirmar</div><div>Mayflower por confirmar</div><div>Troncos pendient=
+e</div><div><br></div><div><br></div><div><br><br><div><br></div></div><div>=
+<br>El 02-12-2014, a las 21:27, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D=
+"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br=
+><br></div><blockquote type=3D"cite"><div>Victor, nos mandas una agenda con t=
+odas las reuniomes??<div><br></div><div>Grax!<br><br>El lunes, 1 de diciembr=
+e de 2014, V=C3=ADctor Irigoyen &lt;<a href=3D"mailto:virigoyen@viaglobal.cl=
+">virigoyen@viaglobal.cl</a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:=
+1ex"><div dir=3D"auto"><div>Confirmado esta la USM para el mi=C3=A9rcoles 10=
+:00.</div><div><br></div><div>Voy armar el excel apenas vayan confirmado hor=
+as.</div><div><br></div><div>Limpie el showroom (primera pasada)</div><div>-=
+ Todo lo que esta en caja es para que Don Marcelo se lo lleve.</div><div>- l=
+as poleras colgadas de los equipos las mantenemos.</div><div>- deje el colga=
+dor para que coloquemos las muestras.</div><div><br></div><div>Me mandas la p=
+lanilla producto/precio para ir mirando los productos. No importa si todav=C3=
+=ADa no esta completa.</div><div><br></div><div>Saludos</div><div><br></div>=
+<div><br><br><div><br></div></div><div><br>El 01-12-2014, a las 12:22, Andr=C3=
+=A9s Morales (CCC-CHILE) &lt;<a href=3D"javascript:_e(%7B%7D,'cvml','amorale=
+s@cccchile.cl');" target=3D"_blank">amorales@cccchile.cl</a>&gt; escribi=C3=B3=
+:<br><br></div><blockquote type=3D"cite"><div><div dir=3D"ltr">Hola,<div><br=
+></div><div>No, no estan en el showroom, estamos coordinando eso.</div><div>=
+las puedes ver obvio,</div><div>Planilla de precio tambi=C3=A9n la tenemos.<=
+/div><div><br></div><div>Independiente las veas o no (yo tampoco las he vist=
+o) debemos coordinar las reuniones.</div><div>SI tienes un excel con las age=
+ndas, mucho mejor.</div><div><br></div><div>sls.</div><div><br></div></div><=
+div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 1 de diciembre d=
+e 2014, 11:29, V=C3=ADctor Irigoyen <span dir=3D"ltr">&lt;<a href=3D"javascr=
+ipt:_e(%7B%7D,'cvml','virigoyen@viaglobal.cl');" target=3D"_blank">virigoyen=
+@viaglobal.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_qu=
+ote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"=
+><div dir=3D"auto"><div>Ok. Estan en el showroom las muestras?&nbsp;</div><d=
+iv>Necesito verlas.</div><div>Tienes la planilla precios?</div><div>Las coor=
+dino desde ma=C3=B1ana entonces.</div><div>Saludos</div><div><br><br><div><b=
+r></div></div><div><br>El 01-12-2014, a las 11:09, Andr=C3=A9s Morales (CCC-=
+CHILE) &lt;<a href=3D"javascript:_e(%7B%7D,'cvml','amorales@cccchile.cl');" t=
+arget=3D"_blank">amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><d=
+iv><div><blockquote type=3D"cite"><div><div dir=3D"ltr">Hola Victor,<div><br=
+></div><div>como te fue con las reuniones?&nbsp;</div><div>La muestras termi=
+naron de llegar el viernes en la tarde. Hoy ya estamos ok para hacer prevent=
+a.</div><div><br></div><div>confirmame cuando partimos, dias y horarios para=
+ coordinar con guillermo y si hay alguna la prox semana con fabian.</div><di=
+v><br></div><div>please...</div><div><br></div><div>mil gracias.</div></div>=
+<div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 26 de noviembre=
+ de 2014, 15:18, Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a hr=
+ef=3D"javascript:_e(%7B%7D,'cvml','amorales@cccchile.cl');" target=3D"_blank=
+">amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D=
+"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex">Estan llegando estos dias. Ya tenemos la mayoria.<div>Esta semana l=
+os inventariamos y estamos listos<br><br>El mi=C3=A9rcoles, 26 de noviembre d=
+e 2014, V=C3=ADctor Irigoyen &lt;<a href=3D"javascript:_e(%7B%7D,'cvml','vir=
+igoyen@viaglobal.cl');" target=3D"_blank">virigoyen@viaglobal.cl</a>&gt; esc=
+ribi=C3=B3:<div><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0=
+ 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"auto"><di=
+v>Cuando puedo ver los productos?&nbsp;<br><br><br><div><br></div></div><div=
+><br>El 26-11-2014, a las 12:31, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a>amor=
+ales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><blockquote type=3D"cit=
+e"><div>Hola! Buenismo. Gracias por el feedback.<div>Tenemos casi todo lo qu=
+e planteas.</div><div><br></div><div>El pedido dene estar en el.sistema al d=
+ia viernes 12</div><div><br></div><div><br></div><div><br>El mi=C3=A9rcoles,=
+ 26 de noviembre de 2014, Victor Irigoyen &lt;<a>virigoyen@viaglobal.cl</a>&=
+gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0=
+ .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola And=
+res,&nbsp;<div><br></div><div>Me parece perfecto. Ya tengo conversado con al=
+gunos equipos esta reuni=C3=B3n.&nbsp;</div><div>Lo mas importante para pode=
+r hacer la pre venta.&nbsp;</div><div><br></div><div><b>- LUGAR PRE VENTA:</=
+b> deber=C3=ADamos usar el showroom para presentar a cada cliente. Seria nue=
+stro espacio y damos una clara imagen de marca potente. As=C3=AD podemos man=
+ejar bien los productos y empapar al cliente con la marca.&nbsp;</div><div><=
+br></div><div><b>- PRODUCTOS:</b> revisemos bien los productos que se van a o=
+frecer para estar alineados.&nbsp; Es muy importante tener claridad del mate=
+rial, dise=C3=B1os, precios y visualizar su uso en cada equipo. Vestimos el s=
+howroom con las muestras.</div><div><br></div><div><b>- PLANILLA PRECIOS: </=
+b>Esto es lo primero y fundamental. Claridad en los precios, los m=C3=A1rgen=
+es (nos sirve para los posibles descuentos)&nbsp;</div><div>foto producto / d=
+escripci=C3=B3n / precio distribuidor / precio venta publico&nbsp;</div><div=
+>claridad en los precios que le damos a los CLUBES para trabajar con tranqui=
+lidad. Esta puede ser una barrera de entrada, hay que evitar la confusi=C3=B3=
+n.&nbsp;</div><div><br></div><div><b>- CATALOGO PRODUCTO:</b>&nbsp;no se si e=
+stas a tiempo para desarrollar un catalogo, no se si tienes alg=C3=BAn catal=
+ogo de marca que podamos entregar a los clubes. En caso de no tener nada, po=
+demos adaptar una planilla precios/fotos producto para el cliente.&nbsp;</di=
+v><div><br></div><div>Cuando podemos revisar los productos, planilla y armar=
+ el showroom?</div><div><br></div><div>Para el 8 de DICIEMBRE quedan 7 d=C3=AD=
+as h=C3=A1biles. Esta semana esta perdida, por lo tanto tendr=C3=ADamos 5 d=C3=
+=ADas para presentar?</div><div>Cuando se debe consolidar el pedido?</div><d=
+iv><br></div><div>Confirmame como armamos esto para poder hacer una correcta=
+ pre venta.&nbsp;</div><div><br></div><div>Saludos</div><div><br></div><div>=
+<br></div><div><br></div><div><br></div><div><br></div></div><div class=3D"g=
+mail_extra"><br><div class=3D"gmail_quote">2014-11-26 9:27 GMT-03:00 Andr=C3=
+=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&g=
+t;</span>:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;b=
+order-left:1px #ccc solid;padding-left:1ex">Hola victor,<div><br></div><div>=
+Te cuento que debemos generar reuniones con todos los clubs, universidades e=
+tc que tengamos, chicos o grandes.</div><div>Estos dias se completan las mue=
+stras de la proxima temporada y la idea es mostrarles estos productos para q=
+ue vean lo que llega en jul-jul y podamos ir completando las propuestas segu=
+ro a mas de algumos que les puedan interesar polos, poleras de entrenamiento=
+, bolsos, pelotas..etc...</div><div>Como son productos de temporada, los cos=
+tos y precios a ofrecer son mejores que MTO. Sabemos que no calza con el.ini=
+cio de temporada, pero son los tiempos que tenemos y podemos ofrecer hoy ya p=
+ara la.prox temporada entregamos en diciembre y ya calzamos. Tambien sirve p=
+ara hacernos una idea de los productos que podamos tener algunas unidades en=
+ stock.</div><div><br></div><div>Debemos consolidar y presentar a Fabian que=
+ viene la semana del 8 de diciembre, por lo que seria ideal tener las reunio=
+nes dentro de la proxima semana. Creo que no mas de 1 Hr cada uno.</div><div=
+><br></div><div>Uandes</div><div>PWCC</div><div>old locks</div><div>USM</div=
+><div>Gauchos</div><div>Newlanders</div><div>Troncos</div><div>Etc...etc..</=
+div><div><br></div><div>Confirmame porfa para coordinar, si hay alguna en la=
+ que pueda participar fabian,mucho mejor y la dejamos para esa semana.</div>=
+<div><br></div><div>Sls</div><div><br></div>
+</blockquote></div><br></div>
+</blockquote></div>
+</div></blockquote></div></blockquote></div></div></div>
+</blockquote></div><br></div>
+</div></blockquote></div></div></div></blockquote></div><br></div>
+</div></blockquote></div></blockquote></div>
+</div></blockquote></body></html>=
+
+--Apple-Mail-A60FCD56-8AEA-4C71-840B-DE27EB05C383--

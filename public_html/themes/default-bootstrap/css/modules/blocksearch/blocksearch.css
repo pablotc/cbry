@@ -18,6 +18,7 @@ margin-bottom:0px;
     height: 38px;
     text-align: center;
     padding: 10px 0 11px 0; }
+
     #search_block_top .btn.button-search span {
       display: none; }
     #search_block_top .btn.button-search:before {
@@ -31,14 +32,36 @@ margin-bottom:0px;
       color: #6f6f6f; }
   #search_block_top #search_query_top {
     display: inline;
-    padding: 0 13px;
+    padding: 0 0;
     height: 30px;
     line-height: 30px;
     background: #fbfbfb;
     margin-right: 1px; 
-    margin-top: 1px; 
+    margin-top: 1px;
 	}
 
+	@media (max-width: 500px) {
+	#search_block_top {
+		padding-left:0px;
+	}
+	#search_block_top .btn.btn-default.button-search {
+		display:none;		
+	}
+	
+	#search_block_top #search_query_top {
+		display: inline;
+		padding: 0 0;
+		height: 30px;
+		width:150px;
+		line-height: 30px;
+		background: #fbfbfb;
+		margin-right: 1px; 
+		margin-top: 1px; 
+	}
+
+}
+	
+	
 .ac_results {
   background: white;
   border: 1px solid #d6d4d4;

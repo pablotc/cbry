@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:10:28
+<?php /* Smarty version Smarty-3.1.14, created on 2014-12-15 00:31:15
          compiled from "/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:200520390548abf1475a484-22671627%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '82355587375a39f5d8bfd24eadc8e6931a82f638' => 
     array (
       0 => '/home2/amorales/public_html/modules/themeconfigurator/views/templates/hook/hook.tpl',
-      1 => 1413922044,
+      1 => 1418614272,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_548abf147d9572_75376433',
   'variables' => 
   array (
     'htmlitems' => 0,
@@ -22,8 +24,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'hItem' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf147d9572_75376433',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_548abf147d9572_75376433')) {function content_548abf147d9572_75376433($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['htmlitems']->value)&&$_smarty_tpl->tpl_vars['htmlitems']->value){?>
@@ -44,7 +44,7 @@ $_smarty_tpl->tpl_vars['hItem']->_loop = true;
 				<li class="htmlcontent-item-<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->getVariable('smarty')->value['foreach']['items']['iteration'], ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
  col-xs-4">
 			<?php }?>
-				
+						
 						<?php if ($_smarty_tpl->tpl_vars['hItem']->value['html']){?>
 							<div class="item-html">
 								<?php echo $_smarty_tpl->tpl_vars['hItem']->value['html'];?>

@@ -1,0 +1,100 @@
+Return-path: <macunasolivelles@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 02 Dec 2014 10:43:07 -0600
+Received: from nm21-vm2.bullet.mail.ir2.yahoo.com ([212.82.96.253]:36740)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <macunasolivelles@yahoo.com>)
+	id 1XvqXb-000RR4-7n
+	for amorales@cccchile.cl; Tue, 02 Dec 2014 10:43:07 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1417538584; bh=v9hObFTQRUSEvLOztilDZ2ui8B1AtPgTFUIEvqp6lJw=; h=Reply-To:References:In-Reply-To:Subject:To:From:Date:From:Subject; b=bXqbXBSXpx8wRn9MJ5Wa3AXaIHIBs4ruBHOn6y8T45svGpNPW5zn/q3iJekEnm2f4LsojMh+TS/26hc5yvOIIc10UPmAlw904jmmfOgKxJLhTt5iCnht3uj21/tEMCB50kM+QOpkRaiE33jRdkMAX3j4V6zz/e6fc2dlgBTRc2Z7FaSMDS1WrpocFCzRCntm0BA7TmTE41kAvCrSnHCN8ak90P4b2iLt6Hf65ox6lTUhip5/Tfpz5c9d74oC7p8XP3k9xE7U6D88JfB7EyECDVWFQ2ySM4BPKrSEzoq4691bK7cvQY0/NDLUG0d3rCU5Hrh88B4yBqChRuaeXSlHvQ==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.com;
+	b=LQN7vtyW+wWd7LgctKbx1xkmdGUKmsfnIxXqVvSkiAFq2pLnf3HnYJ7zys+qxqgR9Tu9mEnFUqF8wwrCj1s+2S3BJV8mep6pUVODSkyjV1Vn69PkQwX/loSKfzIY9DaZ9ejxOl3YK3IQzOCn7k54gd3/faS7i8sQDI2bMj5ajhMJh82koEEPUeETCnoqoyVKJyPWT3MMrwb3e1mgl/0YkhHv4U086Ef7rcyAX6lN50++BtCXccwtAZU0LpBpmFpbE+rGyhQa8oJfSOz8Z7tLDLL7RY9XKb5W7qNqqNIDQDu/sBX0eGQS1/RWijUrvJa0HxmKC6EtFZ/oaLHGVXwN9w==;
+Received: from [212.82.98.58] by nm21.bullet.mail.ir2.yahoo.com with NNFMP; 02 Dec 2014 16:43:04 -0000
+Received: from [46.228.39.80] by tm11.bullet.mail.ir2.yahoo.com with NNFMP; 02 Dec 2014 16:43:04 -0000
+Received: from [127.0.0.1] by smtp117.mail.ir2.yahoo.com with NNFMP; 02 Dec 2014 16:43:03 -0000
+X-Yahoo-Newman-Id: 631061.95898.bm@smtp117.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: o9QDXnIVM1lsA8Eb1Wnoymek2BONAK1q15tUAP8jSxnUQK4
+ IQRBPX7u2ZKRA4G8QUvUKXmmpNOw0kD7iVzyjmKDAeygu0IMA9MAQ8rqKPMk
+ vmsHAmzVMjIvsCOuNK1XABFxWL0cVnDUvwNQYStVnr63273mDeeIBTI9ffad
+ rVdlLqeFRHkzePs9vd3yN9eypWA7LaTwgJ3t91qk9ovAvFB9Pj56gISO_ZOa
+ rbgEOGENyP58awvUt2vlaftIHh9OvFljVxNz0.pZzVnK8OYujqWNb9afBqJb
+ cad7r.SAYfPZX8CJr71ZCfJcl9CJSUmVVCCU7qidVy6dKi02EnD37.5E66Xr
+ 10ebDgf2I9W8UJdEd3FOM4J21ycVHzpanGiy_n6xsgKIIScn.RTbpcHyN0L0
+ 5GTYc9r9EG2Pg0JtSgvWBXLWI1nBcU0dzQWJ5mQBc2Phbq_q8F5j1kImOlDZ
+ igR9zFOQXEHY_QanYxw2nq_bnlVt3DUUz_Td3PklIs9BGlL3cXNEnrFtHUdY
+ R2j9JKyZrQvnXvKS9dD51ePLnFie2CUXIJq5Q
+X-Yahoo-SMTP: 4MZt.NmswBD5AYj8c39M_Uh3WrspuEEjk7x0Hvo-
+X-rim-org-msg-ref-id:375808320
+Message-ID:<375808320-1417538577-cardhu_decombobulator_blackberry.rim.net-667178406-@b3.c1.bise6.blackberry>
+Reply-To: macunasolivelles@yahoo.com
+X-Priority: Normal
+References: <CAKggD2S+wYHP392dSpJmnpSXXeEr-nO02gj0Rn=KdeJztrq2SQ@mail.gmail.com>
+In-Reply-To: <CAKggD2S+wYHP392dSpJmnpSXXeEr-nO02gj0Rn=KdeJztrq2SQ@mail.gmail.com>
+Sensitivity: Normal
+Importance: Normal
+Subject: Re: Contacto Canterbury
+To: "=?Windows-1252?B?QW5kculzIE1vcmFsZXMgKENDQy1DSElMRSk=?=" <amorales@cccchile.cl>
+From: macunasolivelles@yahoo.com
+Date: Tue, 2 Dec 2014 16:45:10 +0000
+Content-Type: multipart/alternative; boundary="part1432-boundary-2123309513-721991706"
+MIME-Version: 1.0
+
+
+--part1432-boundary-2123309513-721991706
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+
+SG9sYSBBbmRyZXMsDQoNCk1pIG5vbWJyZSBlcyBNaWd1ZWwgQWN1w7FhLCB2aXZvIGVuIFB1ZXJ0
+byBWYXJhcy4gU29tb3MgbWllbWJyb3MgZGVsIGNsdWIgZGUgcnVnYnkgUHVlcnRvIFZhcmFzLCBs
+b3MgSmFiYWzDrWVzLg0KVGVuZW1vcyBkZXNkZSBoYWNlIGFsZ3Vub3MgbWVzZXMgdW5hIGVzY3Vl
+bGl0YSBkZSBpbmZhbnRpbGVzIChoYXN0YSAxMiBhw7FvcyksIHkgbmVjZXNpdGFtb3MgdW5pZm9y
+bWUgY29tcGxldG8gcGFyYSA0MCBuacOxb3MsIGRlIGVudHJlIDYgeSAxMiBhw7Fvcy4gDQpFc3Rh
+bW9zIHNvbGljaXRhbmRvIGNvdGl6YWNpb25lcywgeSBkZWNpZGlybm9zIGxvIGFudGVzIHBvc2li
+bGUgcG9yIHVuIHByb3ZlZWRvciwgcGFyYSBtYW5kYSBhIGNvbmZlY2Npb25hciBkZW50cm8gZGUg
+MTAgZMOtYXMuDQoNCk1pIGNlbHVsYXIgZXMgNjI3NDI5OTIuDQoNCk11Y2hhcyBncmFjaWFzIHBv
+ciBzdSByZXNwdWVzdGEuDQoNCg0KU2xkcw0KDQpNaWd1ZWwNCg0KDQpFbnZpYWRvIGRlc2RlIG1p
+IGVxdWlwbyBCbGFja0JlcnJ5wq4gZGUgQ2xhcm8NCg0KLS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0t
+LS0NCkZyb206IEFuZHLDqXMgTW9yYWxlcyAoQ0NDLUNISUxFKSA8YW1vcmFsZXNAY2NjY2hpbGUu
+Y2w+DQpEYXRlOiBUdWUsIDIgRGVjIDIwMTQgMTM6Mzc6MDcgDQpUbzogPG1hY3VuYXNvbGl2ZWxs
+ZXNAeWFob28uZXM+DQpTdWJqZWN0OiBDb250YWN0byBDYW50ZXJidXJ5DQoNCkhvbGEsDQoNCk5v
+cyBsbGVnw7MgdW4gbWVuc2FqZSBhIHRyYXbDqXMgZGUgbnVlc3RyYSBww6FnaW5hIHdlYi4NCg0K
+Q3XDqW50YW5vcyB1biBwb2NvIG3DoXMgZW4gZGV0YWxsZXMgZGUgdHUgY2x1YiwganVnYWRvcmVz
+LCBkb25kZSBlcywgZXRjLi4uDQpUYW1iacOpbiBwYXJhIGN1YW5kbyBuZWNlc2l0YXLDrWFzIGxh
+IGluZHVtZW50YXJpYSB5IMOxacOxb3MgZGUgcXVlIGVkYWQuDQoNClBvZHLDrWFzIGNvbXBhcnRp
+ciB0dSBub21icmUgeSB0dSBjZWx1bGFyPw0KDQpzbHMuDQoNCg==
+
+--part1432-boundary-2123309513-721991706
+Content-Transfer-Encoding: base64
+Content-Type: text/html; charset="utf-8"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj48aHRtbD48aGVhZD48bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgi
+IGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSI+PC9oZWFkPjxib2R5PkhvbGEgQW5kcmVzLDxici8+
+PGJyLz5NaSBub21icmUgZXMgTWlndWVsIEFjdcOxYSwgdml2byBlbiBQdWVydG8gVmFyYXMuIFNv
+bW9zIG1pZW1icm9zIGRlbCBjbHViIGRlIHJ1Z2J5IFB1ZXJ0byBWYXJhcywgbG9zIEphYmFsw61l
+cy48YnIvPlRlbmVtb3MgZGVzZGUgaGFjZSBhbGd1bm9zIG1lc2VzIHVuYSBlc2N1ZWxpdGEgZGUg
+aW5mYW50aWxlcyAoaGFzdGEgMTIgYcOxb3MpLCB5IG5lY2VzaXRhbW9zIHVuaWZvcm1lIGNvbXBs
+ZXRvIHBhcmEgNDAgbmnDsW9zLCBkZSBlbnRyZSA2IHkgMTIgYcOxb3MuIDxici8+RXN0YW1vcyBz
+b2xpY2l0YW5kbyBjb3RpemFjaW9uZXMsIHkgZGVjaWRpcm5vcyBsbyBhbnRlcyBwb3NpYmxlIHBv
+ciB1biBwcm92ZWVkb3IsIHBhcmEgbWFuZGEgYSBjb25mZWNjaW9uYXIgZGVudHJvIGRlIDEwIGTD
+rWFzLjxici8+PGJyLz5NaSBjZWx1bGFyIGVzIDYyNzQyOTkyLjxici8+PGJyLz5NdWNoYXMgZ3Jh
+Y2lhcyBwb3Igc3UgcmVzcHVlc3RhLjxici8+PGJyLz48YnIvPlNsZHM8YnIvPjxici8+TWlndWVs
+PGJyLz48YnIvPjxkaXY+RW52aWFkbyBkZXNkZSBtaSBlcXVpcG8gQmxhY2tCZXJyecKuIGRlIENs
+YXJvPC9kaXY+PGhyLz48ZGl2PjxiPkZyb206IDwvYj4gQW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJ
+TEUpICZsdDthbW9yYWxlc0BjY2NjaGlsZS5jbCZndDsNCjwvZGl2PjxkaXY+PGI+RGF0ZTogPC9i
+PlR1ZSwgMiBEZWMgMjAxNCAxMzozNzowNyAtMDMwMDwvZGl2PjxkaXY+PGI+VG86IDwvYj4mbHQ7
+bWFjdW5hc29saXZlbGxlc0B5YWhvby5lcyZndDs8L2Rpdj48ZGl2PjxiPlN1YmplY3Q6IDwvYj5D
+b250YWN0byBDYW50ZXJidXJ5PC9kaXY+PGRpdj48YnIvPjwvZGl2PjxkaXYgZGlyPSJsdHIiPkhv
+bGEsPGRpdj48YnI+PC9kaXY+PGRpdj5Ob3MgbGxlZ8OzIHVuIG1lbnNhamUgYSB0cmF2w6lzIGRl
+IG51ZXN0cmEgcMOhZ2luYSB3ZWIuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj5DdcOpbnRhbm9z
+IHVuIHBvY28gbcOhcyBlbiBkZXRhbGxlcyBkZSB0dSBjbHViLCBqdWdhZG9yZXMsIGRvbmRlIGVz
+LCBldGMuLi48L2Rpdj48ZGl2PlRhbWJpw6luIHBhcmEgY3VhbmRvIG5lY2VzaXRhcsOtYXMgbGEg
+aW5kdW1lbnRhcmlhIHkgw7Fpw7FvcyBkZSBxdWUgZWRhZC48L2Rpdj48ZGl2Pjxicj48L2Rpdj48
+ZGl2PlBvZHLDrWFzIGNvbXBhcnRpciB0dSBub21icmUgeSB0dSBjZWx1bGFyPzwvZGl2PjxkaXY+
+PGJyPjwvZGl2PjxkaXY+c2xzLjwvZGl2PjwvZGl2Pg0KDQo8L2JvZHk+PC9odG1sPg==
+
+--part1432-boundary-2123309513-721991706--
+
+

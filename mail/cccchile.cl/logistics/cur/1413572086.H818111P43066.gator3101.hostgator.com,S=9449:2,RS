@@ -1,0 +1,390 @@
+Return-path: <maricel.zuniga.m@dhl.com>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Fri, 17 Oct 2014 13:54:46 -0500
+Received: from gateway1a.dhl.com ([165.72.200.197]:62611)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <maricel.zuniga.m@dhl.com>)
+	id 1XfCfm-000B7C-4y
+	for logistics@cccchile.cl; Fri, 17 Oct 2014 13:54:46 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=dhl.com; l=7053; s=20140901; t=1413572087;
+  h=from:to:subject:date:message-id:references:in-reply-to:
+   content-transfer-encoding:mime-version;
+  bh=418goFsFqYhLSriHCUxF5VIktusUOuToygvKOH+cwZo=;
+  b=fJD/GZ8CDdlAmFGEeWKSXE2OhhYDTJ6lI5j535rV5/+XGT9UlOM861i7
+   1gNpB6ELlsaI+T10vuPmC605kn8lT769VnGhdx4ExW0OsyQAU8TySA2MG
+   sXgv1whX10DumwVKatjdn8H+yxTsmRwSvK57mn0MHxSXg3XvFwQ6+tzUQ
+   /4YsGoD1ykC+34rO/ZvtZ360owXMkW8Lc1UprQJBFECm8YDdWIh/cv8fl
+   LCO3N3FPT1caEcOD09N4FpTTqy3qJ/cw3B4+bKiQT9QwYKEb4gnxqEfwB
+   H+0VKOjvvG6Whi9h4syI/spJg0nZmv+bH/ENJ3qeyK68mzCvR4YsQ6EOt
+   Q==;
+X-IronPort-AV: E=Sophos;i="5.04,740,1406592000"; 
+   d="scan'208";a="55445653"
+Received: from usstzws0016.phx-dc.dhl.com ([7.252.71.147])
+  by gateway1a.dhl.com with ESMTP/TLS/AES128-SHA; 17 Oct 2014 18:54:43 +0000
+Received: from USSTZWS0003.phx-dc.dhl.com ([169.254.3.150]) by
+ USSTZWS0016.phx-dc.dhl.com ([7.252.71.147]) with mapi id 14.03.0158.001; Fri,
+ 17 Oct 2014 11:53:15 -0700
+From: "Maricel Alexandra Zuniga Mazoli (DHL CL)" <maricel.zuniga.m@dhl.com>
+To: =?iso-8859-1?Q?=22Nicol=E1s_Pizarro=22?= <logistics@cccchile.cl>
+Subject: =?iso-8859-1?Q?RE:_FW:_Coordinaci=C3=B3n_de_retiro.?=
+Thread-Topic: =?iso-8859-1?Q?FW:_Coordinaci=C3=B3n_de_retiro.?=
+Thread-Index: AQHP6iW/ZCzMdgppjkmclFgdQXJT4Jw0oqiw
+Date: Fri, 17 Oct 2014 18:53:14 +0000
+Message-ID: <3960816110B6DF41B1089C68580EB2B704365AAC@USSTZWS0003.phx-dc.dhl.com>
+References: <3960816110B6DF41B1089C68580EB2B704365162@USSTZWS0003.phx-dc.dhl.com>
+    <303f8e496fbe3ed8e4bf0825235249fe.squirrel@webmail.cccchile.cl>
+    <CAKggD2Q_FPLHB8fiBMccGw3XxFFHPHFLQq9k4hbRFG9uxapMTA@mail.gmail.com>
+    <CAKggD2QO3842XfZ9Jn9TrdVxNoioYpY33bE0sawY8EKaQBFjnw@mail.gmail.com>
+    <3960816110B6DF41B1089C68580EB2B704365388@USSTZWS0003.phx-dc.dhl.com>
+    <f250d8efe91e57ceac5ee77af594d1ea.squirrel@webmail.cccchile.cl>
+    <3960816110B6DF41B1089C68580EB2B704365468@USSTZWS0003.phx-dc.dhl.com>
+ <983447897441d71b30649f32883d2d01.squirrel@webmail.cccchile.cl>
+In-Reply-To: <983447897441d71b30649f32883d2d01.squirrel@webmail.cccchile.cl>
+Accept-Language: es-CL, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [7.252.97.4]
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Estimado,
+		Me acaban de informar que en formulario de retiro no colocaron tel=E9fono=
+ del proveedor, se consiguieron otro fono pero no tienen respuesta.  Si tie=
+ne alg=FAn n=FAmero de tel=E9fono directo solicito me lo env=EDe a la breve=
+dad.
+
+Saludos,
+
+Maricel Zu=F1iga M.
+Ejecutiva de Cuentas
+Phone: +56 2 6662064
+maricel.zuniga.m@dhl.com
+
+DHL EXPRESS (CHILE) LTDA.
+Rio Itata 9651
+Parque Industrial Enea
+Pudahuel=A0 -=A0 Santiago
+
+Servicio a Clientes desde Red Fija: 800 800 345=20
+Servicio a Clientes desde=A0Celulares:=A0562-666 2050
+www.dhl.com
+
+
+-----Original Message-----
+From: "Nicol=E1s Pizarro" [mailto:logistics@cccchile.cl]=20
+Sent: viernes, 17 de octubre de 2014 13:15
+To: Maricel Alexandra Zuniga Mazoli (DHL CL)
+Cc: "Nicol=E1s Pizarro"
+Subject: RE: FW: Coordinaci=C3=B3n de retiro.
+
+Hoa Maricel
+
+Tienes noticias al respecto.
+
+
+On Thu, October 16, 2014 6:40 pm, Maricel Alexandra Zuniga Mazoli (DHL CL)
+wrote:
+> Estimado,
+> Confirmo recepci=F3n de documentos, se solicito prioridad.  Nuestro=20
+> departamento esta solicitando a Inglaterra contactar a su proveedor.
+>
+> Saludos Cordiales,
+>
+>
+> Maricel Zu=F1iga M.
+> Ejecutiva de Cuentas
+> Phone: +56 2 6662064
+> maricel.zuniga.m@dhl.com
+>
+> DHL EXPRESS (CHILE) LTDA.
+> Rio Itata 9651
+> Parque Industrial Enea
+> Pudahuel=A0 -=A0 Santiago
+>
+>
+> Servicio a Clientes desde Red Fija: 800 800 345 Servicio a Clientes=20
+> desde=A0Celulares:=A0562-666 2050 www.dhl.com
+>
+>
+> -----Original Message-----
+> From: "Nicol=E1s Pizarro" [mailto:logistics@cccchile.cl]
+> Sent: mi=E9rcoles, 15 de octubre de 2014 19:21
+> To: Maricel Alexandra Zuniga Mazoli (DHL CL)
+> Cc: "Andr=C3=A9s Morales"; "Nicol=C3=A1s Pizarro"
+> Subject: RE: FW: Coordinaci=C3=B3n de retiro.
+>
+>
+> Hola,
+>
+>
+> Adjunto formulario.
+> Favor de otorgar servicio m=E1s express posible Adjunto a su vez,=20
+> facturas comerciales. CONSIDERAR:
+> Necesito que hagan 1 AWB por FACTURA para evitar el uso de Agencia de=20
+> Aduana por favor.
+> Adjunto sus respectivas facturas.
+>
+>
+> Quedo atento a sus comentarios
+>
+>
+>
+> On Thu, October 16, 2014 12:55 am, Maricel Alexandra Zuniga Mazoli=20
+> (DHL
+> CL) wrote:
+>
+>> Estimados,
+>> Adjunto el formulario de retiro, ma=C3=B1ana consultare si tenemos=20
+>> posibilidad de tramitar urgente y les comentare novedades.  Favor=20
+>> completar datos y enviar.
+>>
+>> Saludos Cordiales,
+>>
+>>
+>>
+>> Maricel Zu=C3=B1iga M.
+>> Ejecutiva de Cuentas
+>> Phone: +56 2 6662064
+>> maricel.zuniga.m@dhl.com<mailto:maricel.zuniga.m@dhl.com>
+>>
+>>
+>>
+>> DHL EXPRESS (CHILE) LTDA.
+>> Rio Itata 9651
+>> Parque Industrial Enea
+>> Pudahuel  -  Santiago
+>>
+>>
+>>
+>> Servicio a Clientes desde Red Fija: 800 800 345 Servicio a Clientes=20
+>> desde Celulares: 562-666 2050 www.dhl.com<http://www.dhl.com>
+>>
+>>
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]
+>> Sent: mi=C3=A9rcoles, 15 de octubre de 2014 16:53
+>> To: Nicol=C3=A1s Pizarro
+>> Cc: Maricel Alexandra Zuniga Mazoli (DHL CL)
+>> Subject: Re: FW: Coordinaci=C3=B3n de retiro.
+>>
+>>
+>>
+>> El mismo desde uk llama a DHL? Para coordinar retiro?
+>>
+>>
+>>
+>> El mi=C3=A9rcoles, 15 de octubre de 2014, Andr=C3=A9s Morales=20
+>> <andres.moralesg@gmail.com<mailto:andres.moralesg@gmail.com>> escribi=C3=
+=B3:
+>>  Maricel? Creo que.si<http://que.si> no?
+>>
+>>
+>>
+>> El mi=C3=A9rcoles, 15 de octubre de 2014, "Nicol=C3=A1s Pizarro"
+>> <logistics@cccchile.cl<javascript:_e(%7B%7D,'cvml','logistics@cccchil
+>> e
+>> .cl
+>> ');>> escribi=C3=B3:
+>>
+>>
+>>
+>> Hola.
+>>
+>>
+>>
+>> Si hago yo las AWB y se las mando a proveedor en UK, ser=C3=ADa m=C3=A1s=
+=20
+>> r=C3=A1pido?
+>>
+>>
+>>
+>> On Wed, October 15, 2014 7:56 pm, Maricel Alexandra Zuniga Mazoli=20
+>> (DHL
+>> CL)
+>> wrote:
+>>
+>>
+>>> Estimados,
+>>> Informo el tiempo de transito desde Inglaterra es de 3 d=C3=ADas=20
+>>> h=C3=A1biles, siempre que coordine su proveedor directo con DHL origen,=
+=20
+>>> tambi=C3=A9n tenemos la opci=C3=B3n de coordinar desde Chile como Servi=
+cio=20
+>>> de  retiro, tiene una demora adicional de 2 d=C3=ADas y el valor del=20
+>>> servicio $18.900.+ IVA.
+>>> Comunico le solicitaran a su proveedor el n=C3=BAmero de cuenta de=20
+>>> importaci=C3=B3n de Uds., una factura comercial con detalle de la=20
+>>> mercader=C3=ADa a transportar, datos de origen y destino, adem=C3=A1s=20
+>>> cantidad de bultos y kilos.
+>>>
+>>> Quedare atenta a sus solicitudes.
+>>>
+>>>
+>>>
+>>>
+>>> Saludos Cordiales,
+>>>
+>>>
+>>>
+>>>
+>>> Maricel Zu=C3=B1iga M.
+>>> Ejecutiva de Cuentas
+>>> Phone: +56 2 6662064
+>>> maricel.zuniga.m@dhl.com<mailto:maricel.zuniga.m@dhl.com>
+>>>
+>>>
+>>>
+>>> DHL EXPRESS (CHILE) LTDA.
+>>> Rio Itata 9651
+>>> Parque Industrial Enea
+>>> Pudahuel  -  Santiago
+>>>
+>>>
+>>>
+>>>
+>>> Servicio a Clientes desde Red Fija: 800 800 345 Servicio a Clientes=20
+>>> desde Celulares: 562-666 2050 www.dhl.com<http://www.dhl.com>
+>>>
+>>>
+>>> -----Original Message-----
+>>> From: "Nicol=C3=A1s Pizarro" [mailto:logistics@cccchile.cl]
+>>> Sent: martes, 14 de octubre de 2014 19:04
+>>> To: "Nicol=C3=A1s Pizarro"
+>>> Cc: Maria Saavedra (DHL CL);
+>>> amorales@cccchile.cl<mailto:amorales@cccchile.cl>
+>>> Subject: Re: Coordinaci=C3=B3n de retiro.
+>>>
+>>>
+>>>
+>>>
+>>> Hola,
+>>>
+>>>
+>>>
+>>>
+>>> Olvid=C3=A9 juntar la otra.
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> On Wed, October 15, 2014 2:02 am, "Nicol=C3=A1s Pizarro" wrote:
+>>>
+>>>
+>>>
+>>>> Hola Beatriz,
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Favor tu ayuda, necesito retirar dos cajas desde UK con destino a=20
+>>>> Chile
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Se debe retirar en:
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Pentland Distribution
+>>>> Premier Mill
+>>>> West St
+>>>> Great Harwood
+>>>> Blackburn
+>>>> Lancashire
+>>>> BB6 7LT
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Se debe entregar en:
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Spin Confecciones ltda.
+>>>> Calle Til Til 1911
+>>>> =C3'u=C3=B1oa, Santiago, Chile
+>>>> PIC: Jose Guillermo Morales
+>>>> TEl: 98250650
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Adjunto facturas con su valor comercial.
+>>>> Considerar que requiero de 1 AWB por factura, y que la idea es=20
+>>>> evitar customs en Chile, para ser pedido de menos de USD 1,000.
+>>>>
+>>>> Medidas de la cajas como sigue:
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Ctn 1
+>>>> 59x39x29cm
+>>>> 16kg
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Ctn 2
+>>>> 59x39x29
+>>>> 11kg
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> Favor de cargar a la cuenta de 951379062, cargar el servicio m=C3=A1s=
+=20
+>>>> r=C3=A1pido posible por favor, necesitamos esto para el viernes 17,=20
+>>>> alcanzamos Quedo atento a tus comenntarios,
+>>>>
+>>>>
+>>>>
+>>>> Nicol=C3=A1s Pizarro
+>>>> +569 88452704
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> Nicol=C3=A1s Pizarro
+>>> +569 88452704
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>> Nicol=C3=A1s Pizarro
+>> +569 88452704
+>>
+>>
+>>
+>
+>
+> Nicol=E1s Pizarro
+> +569 88452704
+>
+>
+
+
+Nicol=E1s Pizarro
++569 88452704

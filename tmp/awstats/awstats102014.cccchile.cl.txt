@@ -1,0 +1,436 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201410 will be lost/reset.
+# Last config file used to build this data file was /home2/amorales/tmp/awstats/awstats.cccchile.cl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2006                
+POS_TIME 2666                
+POS_VISITOR 9551                
+POS_DAY 12502               
+POS_DOMAIN 3527                
+POS_LOGIN 3870                
+POS_ROBOT 4025                
+POS_WORMS 4274                
+POS_EMAILSENDER 4405                
+POS_EMAILRECEIVER 4548                
+POS_SESSION 13302               
+POS_SIDER 13511               
+POS_FILETYPES 4683                
+POS_DOWNLOADS 4946                
+POS_OS 4994                
+POS_BROWSER 5127                
+POS_SCREENSIZE 5542                
+POS_UNKNOWNREFERER 5616                
+POS_UNKNOWNREFERERBROWSER 6114                
+POS_ORIGIN 6566                
+POS_SEREFERRALS 6709                
+POS_PAGEREFS 6866                
+POS_SEARCHWORDS 7048                
+POS_KEYWORDS 7200                
+POS_MISC 2329                
+POS_ERRORS 7259                
+POS_CLUSTER 3726                
+POS_SIDER_404 7410                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141101082726 1 0 18314775301991
+FirstTime 0
+LastTime 20141031163912
+LastUpdate 20141102092527 1 0 0 0 0
+TotalVisits 113                 
+TotalUnique 64                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 70                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 90 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 237 823 11373956 57 70 592817
+1 31 33 423031 17 35 369384
+2 4 55 722150 18 55 500316
+3 0 0 0 10 18 220229
+4 0 2 0 12 14 238580
+5 9 111 786499 15 37 353994
+6 3 54 798204 18 39 571306
+7 106 727 12243876 46 106 1272010
+8 119 537 8429509 30 38 168184
+9 70 135 2129008 12 20 149174
+10 153 741 12389738 34 65 713770
+11 266 867 10889579 32 97 950895
+12 214 862 13998124 42 69 578888
+13 421 1331 20781450 58 124 1446386
+14 188 832 10217446 30 98 337289
+15 50 431 2107166 21 31 491356
+16 113 752 8982817 40 60 468506
+17 18 76 1697046 24 51 575256
+18 40 389 7598441 32 67 855587
+19 42 320 4908828 30 75 834324
+20 56 448 6798232 32 40 431897
+21 280 1214 8413490 37 73 1005191
+22 201 1018 15330952 38 74 562813
+23 288 845 12446955 38 51 429213
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+cl 2720 11437 152239104
+us 107 919 18052145
+cn 65 65 915858
+gb 13 122 1049825
+ca 2 49 773341
+ar 2 8 55167
+ru 0 2 371533
+co 0 1 9524
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 604 11473419 20141031193351 0
+bot[\s_+:,\.\;\/\\-] 3 75820 20141028234847 0
+crawl 1 25277 20141021101409 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 2960 25832742 0 0
+eot 4 74810 0 0
+png 545 2531990 0 0
+woff 114 3103344 0 0
+php 2768 52676334 0 0
+html 4 0 0 0
+js 4214 53626812 0 0
+jpg 1674 34866271 0 0
+Unknown 19 168439 0 0
+gif 301 585755 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 1059
+winlong 1
+winxp 470
+winvista 8438
+linux 55
+win7 1245
+macosx 1308
+Unknown 27
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 21
+firefox32.0 310
+msie6.0 64
+safari7.0 423
+chrome37.0.2062.124 7933
+chrome37.0.2062.117 211
+chrome35.0.1916.138 190
+chrome38.0.2125.104 422
+android 190
+chrome38.0.2125.101 709
+chrome38.0.2125.111 135
+firefox30.0 110
+chrome38.0.2125.102 346
+chrome32.0.1700.99 122
+msie8.0 554
+mozilla 106
+chrome27.0.1453 55
+firefox6.0 5
+safari8.0 534
+Unknown 5
+safari 89
+safari7.1 90
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+POL_Reporter_v_4.0_[72949355]_(http://www.pagosonline.com) 20141008210833
+POL_Reporter_v_4.0_[73497310]_(http://www.pagosonline.com) 20141015014009
+POL_Reporter_v_4.0_[72952630]_(http://www.pagosonline.com) 20141008215612
+POL_Reporter_v_4.0_[72980110]_(http://www.pagosonline.com) 20141009080417
+Mozilla/4.0_(compatible;) 20141029061309
+POL_Reporter_v_4.0_[72254495]_(http://www.pagosonline.com) 20141001122009
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+POL_Reporter_v_4.0_[72949355]_(http://www.pagosonline.com) 20141008210833
+POL_Reporter_v_4.0_[73497310]_(http://www.pagosonline.com) 20141015014009
+POL_Reporter_v_4.0_[72952630]_(http://www.pagosonline.com) 20141008215612
+POL_Reporter_v_4.0_[72980110]_(http://www.pagosonline.com) 20141009080417
+POL_Reporter_v_4.0_[72254495]_(http://www.pagosonline.com) 20141001122009
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 232 258
+From1 0 0
+From2 19 23
+From3 0 1
+From4 2658 12321
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 19 23
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://apps.pixlr.com/editor/ 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 404 0
+503 22 31170
+206 6 7114
+500 16 269206
+404 248 2183875
+301 13 3967
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 31
+/robots.txt 41 -
+/img/p/2/4/24-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/4/7/47-home_default2x.jpg 4 http://cccchile.cl/index.php
+/img/p/2/8/28-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/4/2/42-home_default2x.jpg 6 http://cccchile.cl/index.php
+/img/p/5/8/58-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/-medium_default.jpg 3 http://cccchile.cl/index.php
+/img/p/5/5/55-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/c/es-default-medium_default2x.jpg 1 http://cccchile.cl/index.php
+/img/p/0/0-home_default.jpg 3 http://cccchile.cl/index.php
+/img/p/8/4/84-home_default2x.jpg 4 http://cccchile.cl/index.php
+/img/p/7/6/76-home_default2x.jpg 6 http://cccchile.cl/index.php
+/history.php 2 http://www.google.com/url
+/img/p/8/1/81-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/6/3/63-home_default2x.jpg 4 http://cccchile.cl/index.php
+/img/p/5/1/51-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/3/6/36-home_default2x.jpg 6 http://cccchile.cl/index.php
+/img/p/8/6/86-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/3/9/39-home_default2x.jpg 6 http://cccchile.cl/index.php
+/cpannel 1 -
+/img/p/7/7/77-home_default2x.jpg 2 http://cccchile.cl/index.php
+/img/canterbury-1406319596.jpg 9 http://cccchile.cl/backoffice/index.php
+/index.php 51 http://www.cccchile.cl/backoffice/index.php
+/img/p/4/3/43-home_default2x.jpg 4 http://cccchile.cl/index.php
+/img/p/7/5/75-home_default2x.jpg 2 http://cccchile.cl/index.php
+/img/p/6/2/62-home_default2x.jpg 6 http://cccchile.cl/index.php
+/img/p/6/9/69-home_default2x.jpg 4 http://cccchile.cl/index.php
+/img/p/3/2/32-home_default2x.jpg 9 http://cccchile.cl/index.php
+/img/p/7/2/72-home_default2x.jpg 6 http://cccchile.cl/index.php
+/img/SOCKS%20SIZE%20CHART.png 1 -
+/img/p/6/6/66-home_default2x.jpg 4 http://cccchile.cl/index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 70
+200.27.139.2 1326 3997 50983910 20141021152535
+190.46.127.254 877 3258 40292546 20141015003522
+190.47.122.34 90 222 3574281 20141006213814
+117.82.185.52 64 64 890581 20141015011444
+201.220.243.118 62 237 1376269 20141008221802
+190.14.49.92 42 203 2044895 20141027083201
+160.33.195.20 34 99 2031620 20141028094117
+160.33.195.21 34 124 2974331 20141030065629
+200.54.98.19 32 330 2825980 20141009104259
+201.220.243.139 24 64 978313 20141013225423
+186.9.133.21 23 168 865676 20141001213041
+186.105.87.147 20 134 2143574 20141009080241
+66.249.83.70 18 210 3240860 20141027101553
+190.215.196.123 16 122 2916308 20141031125631
+190.161.179.174 15 240 3154310 20141018125946
+190.196.158.10 14 123 2325556 20141002162559
+190.161.65.160 13 74 1453228 20141020074008
+190.46.233.233 12 142 2844583 20141021101802
+190.44.55.185 11 193 3422471 20141008182209
+186.106.121.102 11 100 1442329 20141016155546
+186.107.85.58 11 84 1633884 20141015103906
+163.247.49.126 10 110 1652524 20141016145913
+201.241.84.84 9 90 1791361 20141009203123
+190.162.188.56 9 167 3477824 20141030072227
+81.144.224.97 9 111 786499 20141023053422
+66.249.88.131 1 19 429678 20141021141429
+66.249.88.225 0 17 189733 
+198.61.156.98 5 5 0 20141015014009
+186.37.202.32 5 74 1207403 20141009113333
+190.163.54.131 0 1 10886 
+179.127.249.227 0 2 371533 
+181.173.21.242 4 88 1083575 20141027194554
+186.78.52.237 2 54 1269787 20141024185751
+186.103.157.190 0 2 5796 
+201.220.242.133 1 1 8866 20141007224732
+191.116.234.132 0 1 9524 
+186.9.133.223 6 120 1662048 20141028144200
+66.102.6.70 3 164 3693496 20141011083125
+201.220.235.14 2 47 582109 20141021140812
+24.246.58.92 2 49 773341 20141008220827
+86.188.222.130 4 11 263326 20141023183737
+66.249.84.124 1 55 1229252 20141027101753
+186.37.202.85 5 73 505691 20141021142556
+201.220.242.141 3 62 802741 20141029105201
+186.37.97.205 7 80 1655151 20141026132019
+201.220.242.128 2 8 36961 20141015223205
+200.73.224.86 5 5 50962 20141018105636
+64.233.172.70 6 148 2596583 20141011082728
+190.216.144.250 2 8 55167 20141030164705
+186.37.108.41 3 49 770822 20141009121136
+190.8.79.154 3 20 87606 20141031163912
+201.220.243.176 4 69 862251 20141012202611
+201.220.243.202 2 46 671012 20141021202858
+186.41.136.159 4 11 217693 20141028140658
+66.249.88.129 2 21 288093 20141021141440
+200.73.237.193 2 54 1269787 20141029200920
+201.220.243.20 2 10 34899 20141006203354
+186.37.202.244 1 2 13476 20141003163312
+200.111.145.178 5 102 1806995 20141010090237
+183.60.183.26 1 1 25277 20141020081220
+66.249.93.20 3 56 1363234 20141023191834
+186.37.108.39 2 48 770618 20141009063148
+186.37.202.45 4 89 1086298 20141027194145
+69.164.195.250 0 1 15265 
+201.220.243.23 1 9 28095 20141018130232
+190.160.121.3 1 4 27586 20141020201340
+200.83.72.195 2 56 1365906 20141018194127
+201.220.235.15 8 82 1460542 20141021142243
+186.37.202.118 3 49 794156 20141013123305
+190.161.103.162 4 64 889564 20141008224405
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20141001 580 1697 18180488 4
+20141002 116 737 9100790 6
+20141003 11 12 16256 2
+20141005 1 4 36919 1
+20141006 76 207 3571004 4
+20141007 9 25 363240 4
+20141008 260 1442 12455629 9
+20141009 277 1231 17760857 14
+20141010 177 384 4573769 6
+20141011 3 104 2096693 2
+20141012 4 72 871775 1
+20141013 27 113 1772469 3
+20141014 412 1534 23795202 3
+20141015 284 952 13982793 6
+20141016 26 325 5825746 4
+20141017 0 1 0 0
+20141018 22 258 3278117 6
+20141019 1 2 24154 1
+20141020 15 80 1506091 3
+20141021 485 2148 34924921 10
+20141022 0 1 0 0
+20141023 18 180 1772179 4
+20141024 2 54 1269787 1
+20141025 0 1 0 0
+20141026 7 81 1655151 1
+20141027 67 559 7975619 7
+20141028 12 139 1937337 4
+20141029 5 118 2072528 2
+20141030 9 124 2566000 3
+20141031 3 18 80983 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 8
+30s-2mn 18
+15mn-30mn 8
+2mn-5mn 15
+0s-30s 44
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/backoffice/index.php 1066 35052130 12 5
+/backoffice/ajax.php 910 440365 1 11
+/index.php 678 16970895 83 64
+/backoffice/ajax-tab.php 95 4897 0 0
+/themes/default-bootstrap/font/fontawesome-webfont.woff 94 2265744 0 16
+/backoffice/themes/default/fonts/fontawesome-webfont.woff 20 837600 0 0
+/webmail 16 141856 11 11
+/modules/payulatam/payment.php 14 208047 0 0
+/modules/payulatam/validation.php 5 0 4 4
+/ 4 0 1 0
+/themes/default-bootstrap/font/fontawesome-webfont.eot 4 74810 0 0
+/cpanel 3 26583 1 2
+END_SIDER

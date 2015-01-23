@@ -1,0 +1,574 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Wed, 15 Oct 2014 22:38:50 -0500
+Received: from mail-wg0-f51.google.com ([74.125.82.51]:42911)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1Xebtq-000F7a-5g
+	for logistics@cccchile.cl; Wed, 15 Oct 2014 22:38:50 -0500
+Received: by mail-wg0-f51.google.com with SMTP id b13so2741525wgh.22
+        for <logistics@cccchile.cl>; Wed, 15 Oct 2014 20:38:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=0Ak6NaUEF2Ln8s+Dib1w+JJhjZ+d1Yd+f7x7OgLkRtg=;
+        b=Ph7bNvLJJ0xxg8bMj/H0g0M3+2nJPaUwAa/XhplIg5YSrLWyR8VBQdxjLNKgzFKnrt
+         vSNQLWodCgrfFtMuJHPZrLJ19+P7GI6vbxvH5uDoBMg+U9Ar7kTrAxriEc/X4x7XuHga
+         o7wozxLdjSOmVZ/R0Au7cqk0Z1+wWiesIK9lTECW7FnTH3m53e0ziEY6PZuO+rqxYd5y
+         n5FgLuA602ruV4j5bm7veIQ9kR+uHFedkxXBKcFFhjogC9jkpZNyIZVNJBPcWwNRty6a
+         jQMwSlnQa6kUhcMOrkhCuerEYBdyK7UDxM5X8kcRwCi6b9nz2v9PIELQg47/XhJzAbPA
+         Y4bQ==
+MIME-Version: 1.0
+X-Received: by 10.194.57.210 with SMTP id k18mr8132009wjq.110.1413430727299;
+ Wed, 15 Oct 2014 20:38:47 -0700 (PDT)
+Received: by 10.194.173.232 with HTTP; Wed, 15 Oct 2014 20:38:47 -0700 (PDT)
+In-Reply-To: <f250d8efe91e57ceac5ee77af594d1ea.squirrel@webmail.cccchile.cl>
+References: <3960816110B6DF41B1089C68580EB2B704365162@USSTZWS0003.phx-dc.dhl.com>
+	<303f8e496fbe3ed8e4bf0825235249fe.squirrel@webmail.cccchile.cl>
+	<CAKggD2Q_FPLHB8fiBMccGw3XxFFHPHFLQq9k4hbRFG9uxapMTA@mail.gmail.com>
+	<CAKggD2QO3842XfZ9Jn9TrdVxNoioYpY33bE0sawY8EKaQBFjnw@mail.gmail.com>
+	<3960816110B6DF41B1089C68580EB2B704365388@USSTZWS0003.phx-dc.dhl.com>
+	<f250d8efe91e57ceac5ee77af594d1ea.squirrel@webmail.cccchile.cl>
+Date: Thu, 16 Oct 2014 00:38:47 -0300
+Message-ID: <CAKggD2RC_GSmnwvJBfcaN8G46suu91n4OGTA=GxrnBQUki+1+A@mail.gmail.com>
+Subject: =?UTF-8?B?UmU6IEZXOiBDb29yZGluYWNpw4PCs24gZGUgcmV0aXJvLg==?=
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: =?UTF-8?Q?Nicol=C3=A1s_Pizarro?= <logistics@cccchile.cl>
+Cc: "Maricel Alexandra Zuniga Mazoli (DHL CL)" <maricel.zuniga.m@dhl.com>
+Content-Type: multipart/alternative; boundary=047d7ba97e706a588d050581fcd3
+
+--047d7ba97e706a588d050581fcd3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Maricel,
+
+Le pido ayuda con los AWB. favor consideras que en UK son 4 hrs m=C3=A1s po=
+r lo
+que si los enviamos tarde, podemos perder el d=C3=ADa,
+Yo ya coordina=C3=A9 con ellos para que est=C3=A9n atentos y puedan hacer e=
+l pedido
+ellos directamente a DHL para la recoleccion.
+Lo que necesite de nuestro lado h=C3=A1ganos saber.
+
+Miles de gracias!!
+
+sls.
+
+El 15 de octubre de 2014, 19:21, "Nicol=C3=A1s Pizarro" <logistics@cccchile=
+.cl>
+escribi=C3=B3:
+
+> Hola,
+>
+> Adjunto formulario.
+> Favor de otorgar servicio m=C3=A1s express posible
+> Adjunto a su vez, facturas comerciales.
+> CONSIDERAR:
+> Necesito que hagan 1 AWB por FACTURA para evitar el uso de Agencia de
+> Aduana por favor.
+> Adjunto sus respectivas facturas.
+>
+> Quedo atento a sus comentarios
+>
+>
+> On Thu, October 16, 2014 12:55 am, Maricel Alexandra Zuniga Mazoli (DHL
+> CL) wrote:
+> > Estimados,
+> > Adjunto el formulario de retiro, ma=C3=B1ana consultare si tenemos posi=
+bilidad
+> > de tramitar urgente y les comentare novedades.  Favor completar datos y
+> > enviar.
+> >
+> > Saludos Cordiales,
+> >
+> >
+> > Maricel Zu=C3=B1iga M.
+> > Ejecutiva de Cuentas
+> > Phone: +56 2 6662064
+> > maricel.zuniga.m@dhl.com<mailto:maricel.zuniga.m@dhl.com>
+> >
+> >
+> > DHL EXPRESS (CHILE) LTDA.
+> > Rio Itata 9651
+> > Parque Industrial Enea
+> > Pudahuel  -  Santiago
+> >
+> >
+> > Servicio a Clientes desde Red Fija: 800 800 345
+> > Servicio a Clientes desde Celulares: 562-666 2050
+> > www.dhl.com<http://www.dhl.com>
+> >
+> >
+> > From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]
+> > Sent: mi=C3=A9rcoles, 15 de octubre de 2014 16:53
+> > To: Nicol=C3=A1s Pizarro
+> > Cc: Maricel Alexandra Zuniga Mazoli (DHL CL)
+> > Subject: Re: FW: Coordinaci=C3=B3n de retiro.
+> >
+> >
+> > El mismo desde uk llama a DHL? Para coordinar retiro?
+> >
+> >
+> > El mi=C3=A9rcoles, 15 de octubre de 2014, Andr=C3=A9s Morales
+> > <andres.moralesg@gmail.com<mailto:andres.moralesg@gmail.com>> escribi=
+=C3=B3:
+> > Maricel? Creo que.si<http://que.si> no?
+> >
+> >
+> > El mi=C3=A9rcoles, 15 de octubre de 2014, "Nicol=C3=A1s Pizarro"
+> > <logistics@cccchile.cl<javascript:_e(%7B%7D,'cvml','
+> logistics@cccchile.cl
+> > ');>> escribi=C3=B3:
+> >
+> >
+> > Hola.
+> >
+> >
+> > Si hago yo las AWB y se las mando a proveedor en UK, ser=C3=ADa m=C3=A1=
+s r=C3=A1pido?
+> >
+> >
+> >
+> > On Wed, October 15, 2014 7:56 pm, Maricel Alexandra Zuniga Mazoli (DHL
+> > CL)
+> > wrote:
+> >
+> >> Estimados,
+> >> Informo el tiempo de transito desde Inglaterra es de 3 d=C3=ADas h=C3=
+=A1biles,
+> >> siempre que coordine su proveedor directo con DHL origen, tambi=C3=A9n
+> >> tenemos la opci=C3=B3n de coordinar desde Chile como Servicio de retir=
+o,
+> >> tiene una demora adicional de 2 d=C3=ADas y el valor del servicio $18.=
+900.+
+> >> IVA.
+> >> Comunico le solicitaran a su proveedor el n=C3=BAmero de cuenta de
+> >> importaci=C3=B3n de Uds., una factura comercial con detalle de la
+> >> mercader=C3=ADa a transportar, datos de origen y destino, adem=C3=A1s =
+cantidad
+> >> de bultos y kilos.
+> >>
+> >> Quedare atenta a sus solicitudes.
+> >>
+> >>
+> >>
+> >> Saludos Cordiales,
+> >>
+> >>
+> >>
+> >> Maricel Zu=C3=B1iga M.
+> >> Ejecutiva de Cuentas
+> >> Phone: +56 2 6662064
+> >> maricel.zuniga.m@dhl.com<mailto:maricel.zuniga.m@dhl.com>
+> >>
+> >>
+> >> DHL EXPRESS (CHILE) LTDA.
+> >> Rio Itata 9651
+> >> Parque Industrial Enea
+> >> Pudahuel  -  Santiago
+> >>
+> >>
+> >>
+> >> Servicio a Clientes desde Red Fija: 800 800 345
+> >> Servicio a Clientes desde Celulares: 562-666 2050
+> >> www.dhl.com<http://www.dhl.com>
+> >>
+> >>
+> >> -----Original Message-----
+> >> From: "Nicol=C3=A1s Pizarro" [mailto:logistics@cccchile.cl]
+> >> Sent: martes, 14 de octubre de 2014 19:04
+> >> To: "Nicol=C3=A1s Pizarro"
+> >> Cc: Maria Saavedra (DHL CL);
+> >> amorales@cccchile.cl<mailto:amorales@cccchile.cl>
+> >> Subject: Re: Coordinaci=C3=B3n de retiro.
+> >>
+> >>
+> >>
+> >> Hola,
+> >>
+> >>
+> >>
+> >> Olvid=C3=A9 juntar la otra.
+> >>
+> >>
+> >>
+> >>
+> >> On Wed, October 15, 2014 2:02 am, "Nicol=C3=A1s Pizarro" wrote:
+> >>
+> >>
+> >>> Hola Beatriz,
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Favor tu ayuda, necesito retirar dos cajas desde UK con destino a
+> >>> Chile
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Se debe retirar en:
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Pentland Distribution
+> >>> Premier Mill
+> >>> West St
+> >>> Great Harwood
+> >>> Blackburn
+> >>> Lancashire
+> >>> BB6 7LT
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Se debe entregar en:
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Spin Confecciones ltda.
+> >>> Calle Til Til 1911
+> >>> =C3=91u=C3=B1oa, Santiago, Chile
+> >>> PIC: Jose Guillermo Morales
+> >>> TEl: 98250650
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Adjunto facturas con su valor comercial.
+> >>> Considerar que requiero de 1 AWB por factura, y que la idea es evitar
+> >>> customs en Chile, para ser pedido de menos de USD 1,000.
+> >>>
+> >>> Medidas de la cajas como sigue:
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Ctn 1
+> >>> 59x39x29cm
+> >>> 16kg
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Ctn 2
+> >>> 59x39x29
+> >>> 11kg
+> >>>
+> >>>
+> >>>
+> >>>
+> >>>
+> >>> Favor de cargar a la cuenta de 951379062, cargar el servicio m=C3=A1s
+> >>> r=C3=A1pido posible por favor, necesitamos esto para el viernes 17,
+> >>> alcanzamos Quedo atento a tus comenntarios,
+> >>>
+> >>>
+> >>>
+> >>> Nicol=C3=A1s Pizarro
+> >>> +569 88452704
+> >>>
+> >>>
+> >>>
+> >>>
+> >>
+> >>
+> >> Nicol=C3=A1s Pizarro
+> >> +569 88452704
+> >>
+> >>
+> >>
+> >
+> >
+> > Nicol=C3=A1s Pizarro
+> > +569 88452704
+> >
+> >
+>
+>
+> Nicol=C3=A1s Pizarro
+> +569 88452704
+
+--047d7ba97e706a588d050581fcd3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Maricel,<div><br></div><div>Le pido ayuda con los AWB=
+. favor consideras que en UK son 4 hrs m=C3=A1s por lo que si los enviamos =
+tarde, podemos perder el d=C3=ADa,</div><div>Yo ya coordina=C3=A9 con ellos=
+ para que est=C3=A9n atentos y puedan hacer el pedido ellos directamente a =
+DHL para la recoleccion.</div><div>Lo que necesite de nuestro lado h=C3=A1g=
+anos saber.</div><div><br></div><div>Miles de gracias!!</div><div><br></div=
+><div>sls.</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_qu=
+ote">El 15 de octubre de 2014, 19:21, &quot;Nicol=C3=A1s Pizarro&quot; <spa=
+n dir=3D"ltr">&lt;<a href=3D"mailto:logistics@cccchile.cl" target=3D"_blank=
+">logistics@cccchile.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">Hola,<br>
+<br>
+Adjunto formulario.<br>
+Favor de otorgar servicio m=C3=A1s express posible<br>
+Adjunto a su vez, facturas comerciales.<br>
+CONSIDERAR:<br>
+Necesito que hagan 1 AWB por FACTURA para evitar el uso de Agencia de<br>
+Aduana por favor.<br>
+Adjunto sus respectivas facturas.<br>
+<br>
+Quedo atento a sus comentarios<br>
+<br>
+<br>
+On Thu, October 16, 2014 12:55 am, Maricel Alexandra Zuniga Mazoli (DHL<br>
+CL) wrote:<br>
+&gt; Estimados,<br>
+&gt; Adjunto el formulario de retiro, ma=C3=B1ana consultare si tenemos pos=
+ibilidad<br>
+&gt; de tramitar urgente y les comentare novedades.=C2=A0 Favor completar d=
+atos y<br>
+&gt; enviar.<br>
+&gt;<br>
+&gt; Saludos Cordiales,<br>
+&gt;<br>
+&gt;<br>
+&gt; Maricel Zu=C3=B1iga M.<br>
+&gt; Ejecutiva de Cuentas<br>
+&gt; Phone: +56 2 6662064<br>
+&gt; <a href=3D"mailto:maricel.zuniga.m@dhl.com">maricel.zuniga.m@dhl.com</=
+a>&lt;mailto:<a href=3D"mailto:maricel.zuniga.m@dhl.com">maricel.zuniga.m@d=
+hl.com</a>&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; DHL EXPRESS (CHILE) LTDA.<br>
+&gt; Rio Itata 9651<br>
+&gt; Parque Industrial Enea<br>
+&gt; Pudahuel=C2=A0 -=C2=A0 Santiago<br>
+&gt;<br>
+&gt;<br>
+&gt; Servicio a Clientes desde Red Fija: 800 800 345<br>
+&gt; Servicio a Clientes desde Celulares: <a href=3D"tel:562-666%202050" va=
+lue=3D"+15626662050">562-666 2050</a><br>
+&gt; <a href=3D"http://www.dhl.com" target=3D"_blank">www.dhl.com</a>&lt;<a=
+ href=3D"http://www.dhl.com" target=3D"_blank">http://www.dhl.com</a>&gt;<b=
+r>
+&gt;<br>
+&gt;<br>
+&gt; From: Andr=C3=A9s Morales [mailto:<a href=3D"mailto:andres.moralesg@gm=
+ail.com">andres.moralesg@gmail.com</a>]<br>
+&gt; Sent: mi=C3=A9rcoles, 15 de octubre de 2014 16:53<br>
+&gt; To: Nicol=C3=A1s Pizarro<br>
+&gt; Cc: Maricel Alexandra Zuniga Mazoli (DHL CL)<br>
+&gt; Subject: Re: FW: Coordinaci=C3=B3n de retiro.<br>
+&gt;<br>
+&gt;<br>
+&gt; El mismo desde uk llama a DHL? Para coordinar retiro?<br>
+&gt;<br>
+&gt;<br>
+&gt; El mi=C3=A9rcoles, 15 de octubre de 2014, Andr=C3=A9s Morales<br>
+&gt; &lt;<a href=3D"mailto:andres.moralesg@gmail.com">andres.moralesg@gmail=
+.com</a>&lt;mailto:<a href=3D"mailto:andres.moralesg@gmail.com">andres.mora=
+lesg@gmail.com</a>&gt;&gt; escribi=C3=B3:<br>
+&gt; Maricel? Creo <a href=3D"http://que.si" target=3D"_blank">que.si</a>&l=
+t;<a href=3D"http://que.si" target=3D"_blank">http://que.si</a>&gt; no?<br>
+&gt;<br>
+&gt;<br>
+&gt; El mi=C3=A9rcoles, 15 de octubre de 2014, &quot;Nicol=C3=A1s Pizarro&q=
+uot;<br>
+&gt; &lt;<a href=3D"mailto:logistics@cccchile.cl">logistics@cccchile.cl</a>=
+&lt;javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;<a href=3D"mailto:logistics@cc=
+cchile.cl">logistics@cccchile.cl</a><br>
+&gt; &#39;);&gt;&gt; escribi=C3=B3:<br>
+&gt;<br>
+&gt;<br>
+&gt; Hola.<br>
+&gt;<br>
+&gt;<br>
+&gt; Si hago yo las AWB y se las mando a proveedor en UK, ser=C3=ADa m=C3=
+=A1s r=C3=A1pido?<br>
+&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; On Wed, October 15, 2014 7:56 pm, Maricel Alexandra Zuniga Mazoli (DHL=
+<br>
+&gt; CL)<br>
+&gt; wrote:<br>
+&gt;<br>
+&gt;&gt; Estimados,<br>
+&gt;&gt; Informo el tiempo de transito desde Inglaterra es de 3 d=C3=ADas h=
+=C3=A1biles,<br>
+&gt;&gt; siempre que coordine su proveedor directo con DHL origen, tambi=C3=
+=A9n<br>
+&gt;&gt; tenemos la opci=C3=B3n de coordinar desde Chile como Servicio de r=
+etiro,<br>
+&gt;&gt; tiene una demora adicional de 2 d=C3=ADas y el valor del servicio =
+$18.900.+<br>
+&gt;&gt; IVA.<br>
+&gt;&gt; Comunico le solicitaran a su proveedor el n=C3=BAmero de cuenta de=
+<br>
+&gt;&gt; importaci=C3=B3n de Uds., una factura comercial con detalle de la<=
+br>
+&gt;&gt; mercader=C3=ADa a transportar, datos de origen y destino, adem=C3=
+=A1s cantidad<br>
+&gt;&gt; de bultos y kilos.<br>
+&gt;&gt;<br>
+&gt;&gt; Quedare atenta a sus solicitudes.<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Saludos Cordiales,<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Maricel Zu=C3=B1iga M.<br>
+&gt;&gt; Ejecutiva de Cuentas<br>
+&gt;&gt; Phone: +56 2 6662064<br>
+&gt;&gt; <a href=3D"mailto:maricel.zuniga.m@dhl.com">maricel.zuniga.m@dhl.c=
+om</a>&lt;mailto:<a href=3D"mailto:maricel.zuniga.m@dhl.com">maricel.zuniga=
+.m@dhl.com</a>&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; DHL EXPRESS (CHILE) LTDA.<br>
+&gt;&gt; Rio Itata 9651<br>
+&gt;&gt; Parque Industrial Enea<br>
+&gt;&gt; Pudahuel=C2=A0 -=C2=A0 Santiago<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Servicio a Clientes desde Red Fija: 800 800 345<br>
+&gt;&gt; Servicio a Clientes desde Celulares: <a href=3D"tel:562-666%202050=
+" value=3D"+15626662050">562-666 2050</a><br>
+&gt;&gt; <a href=3D"http://www.dhl.com" target=3D"_blank">www.dhl.com</a>&l=
+t;<a href=3D"http://www.dhl.com" target=3D"_blank">http://www.dhl.com</a>&g=
+t;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; -----Original Message-----<br>
+&gt;&gt; From: &quot;Nicol=C3=A1s Pizarro&quot; [mailto:<a href=3D"mailto:l=
+ogistics@cccchile.cl">logistics@cccchile.cl</a>]<br>
+&gt;&gt; Sent: martes, 14 de octubre de 2014 19:04<br>
+&gt;&gt; To: &quot;Nicol=C3=A1s Pizarro&quot;<br>
+&gt;&gt; Cc: Maria Saavedra (DHL CL);<br>
+&gt;&gt; <a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&l=
+t;mailto:<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&g=
+t;<br>
+&gt;&gt; Subject: Re: Coordinaci=C3=B3n de retiro.<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Hola,<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Olvid=C3=A9 juntar la otra.<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; On Wed, October 15, 2014 2:02 am, &quot;Nicol=C3=A1s Pizarro&quot;=
+ wrote:<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;&gt; Hola Beatriz,<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Favor tu ayuda, necesito retirar dos cajas desde UK con destin=
+o a<br>
+&gt;&gt;&gt; Chile<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Se debe retirar en:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Pentland Distribution<br>
+&gt;&gt;&gt; Premier Mill<br>
+&gt;&gt;&gt; West St<br>
+&gt;&gt;&gt; Great Harwood<br>
+&gt;&gt;&gt; Blackburn<br>
+&gt;&gt;&gt; Lancashire<br>
+&gt;&gt;&gt; BB6 7LT<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Se debe entregar en:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Spin Confecciones ltda.<br>
+&gt;&gt;&gt; Calle Til Til 1911<br>
+&gt;&gt;&gt; =C3=91u=C3=B1oa, Santiago, Chile<br>
+&gt;&gt;&gt; PIC: Jose Guillermo Morales<br>
+&gt;&gt;&gt; TEl: 98250650<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Adjunto facturas con su valor comercial.<br>
+&gt;&gt;&gt; Considerar que requiero de 1 AWB por factura, y que la idea es=
+ evitar<br>
+&gt;&gt;&gt; customs en Chile, para ser pedido de menos de USD 1,000.<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Medidas de la cajas como sigue:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Ctn 1<br>
+&gt;&gt;&gt; 59x39x29cm<br>
+&gt;&gt;&gt; 16kg<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Ctn 2<br>
+&gt;&gt;&gt; 59x39x29<br>
+&gt;&gt;&gt; 11kg<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Favor de cargar a la cuenta de 951379062, cargar el servicio m=
+=C3=A1s<br>
+&gt;&gt;&gt; r=C3=A1pido posible por favor, necesitamos esto para el vierne=
+s 17,<br>
+&gt;&gt;&gt; alcanzamos Quedo atento a tus comenntarios,<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; Nicol=C3=A1s Pizarro<br>
+&gt;&gt;&gt; +569 88452704<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt; Nicol=C3=A1s Pizarro<br>
+&gt;&gt; +569 88452704<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;&gt;<br>
+&gt;<br>
+&gt;<br>
+&gt; Nicol=C3=A1s Pizarro<br>
+&gt; +569 88452704<br>
+&gt;<br>
+&gt;<br>
+<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+<br>
+Nicol=C3=A1s Pizarro<br>
+<a href=3D"tel:%2B569%2088452704" value=3D"+56988452704">+569 88452704</a><=
+/font></span></blockquote></div><br></div>
+
+--047d7ba97e706a588d050581fcd3--

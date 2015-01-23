@@ -1,0 +1,791 @@
+Return-path: <Felipe.Ponce@carat.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 22 Jan 2015 04:05:29 -0600
+Received: from mail-am1on0142.outbound.protection.outlook.com ([157.56.112.142]:13792 helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <Felipe.Ponce@carat.com>)
+	id 1YEEdk-0006WG-DQ
+	for amorales@cccchile.cl; Thu, 22 Jan 2015 04:05:28 -0600
+Received: from DB4PR04CA0012.eurprd04.prod.outlook.com (25.160.41.22) by
+ AM3PR04MB0821.eurprd04.prod.outlook.com (10.141.46.16) with Microsoft SMTP
+ Server (TLS) id 15.1.59.20; Thu, 22 Jan 2015 10:05:24 +0000
+Received: from AM1FFO11FD027.protection.gbl (2a01:111:f400:7e00::121) by
+ DB4PR04CA0012.outlook.office365.com (2a01:111:e400:9852::22) with Microsoft
+ SMTP Server (TLS) id 15.1.59.20 via Frontend Transport; Thu, 22 Jan 2015
+ 10:05:24 +0000
+Received: from EMDC1HCM03.media.global.loc (193.240.1.94) by
+ AM1FFO11FD027.mail.protection.outlook.com (10.174.64.216) with Microsoft SMTP
+ Server (TLS) id 15.1.59.14 via Frontend Transport; Thu, 22 Jan 2015 10:05:23
+ +0000
+Received: from EMDC1MBM05.media.global.loc ([fe80::8032:ac8:be9d:7f4f]) by
+ EMDC1HCM03.media.global.loc ([fe80::cc90:cd72:dfa9:3c9c%10]) with mapi id
+ 14.03.0210.002; Thu, 22 Jan 2015 10:05:22 +0000
+From: Felipe Ponce <Felipe.Ponce@carat.com>
+To: =?Windows-1252?Q?Andr=E9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>
+Subject: =?Windows-1252?Q?RE:_M=E9tricas_Programa?=
+Thread-Topic: =?Windows-1252?Q?M=E9tricas_Programa?=
+Thread-Index: AdA02+F+UF92SN3uQ/GZFP6IA0jovAA4zJAAAAA4BwAAAJWaoAACUYWAABfXnRc=
+Date: Thu, 22 Jan 2015 10:05:21 +0000
+Message-ID: <m1doi70bet0lmtx2kicbg0of.1421921163367@email.android.com>
+References: <4C2CC8C79F154640A80B49195B2158F3E643FA@EMDC1MBM05.media.global.loc>
+	<910999099.5245152.1421874798235.JavaMail.yahoo@jws11103.mail.ir2.yahoo.com>
+	<CAKggD2Thm=7vAr8TAcqo4D5nGLuRcekmvrKZGQMDUmEN5hfv3w@mail.gmail.com>
+	<4C2CC8C79F154640A80B49195B2158F3E64D16@EMDC1MBM05.media.global.loc>,<CAKggD2T8SObEwJmbny1DBKUd9PrYAYA-gZoNej1j-t-2WQW9xg@mail.gmail.com>
+In-Reply-To: <CAKggD2T8SObEwJmbny1DBKUd9PrYAYA-gZoNej1j-t-2WQW9xg@mail.gmail.com>
+Accept-Language: es-CL, en-GB, en-US
+Content-Language: es-CL
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-exclaimer-md-config: a158a446-66eb-454e-968f-6fa7a2431270
+Content-Type: multipart/related;
+	boundary="_005_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of carat.com designates
+ 193.240.1.94 as permitted sender) receiver=protection.outlook.com;
+ client-ip=193.240.1.94; helo=EMDC1HCM03.media.global.loc;
+Authentication-Results: spf=pass (sender IP is 193.240.1.94)
+ smtp.mailfrom=Felipe.Ponce@carat.com; 
+X-Forefront-Antispam-Report:
+	CIP:193.240.1.94;CTRY:GB;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(438002)(479174004)(50944004)(199003)(189002)(67866002)(97736003)(99936001)(46102003)(575784001)(68736005)(50986999)(76176999)(54356999)(93886004)(102836002)(2656002)(92566002)(95246002)(512944002)(2950100001)(2900100001)(16236675004)(107886001)(224303003)(224313004)(86362001)(87936001)(19580405001)(19580395003)(6806004)(64706001)(110136001)(18206015028)(450100001)(77156002)(62966003)(19627595001)(33646002)(17760045003)(106466001)(66926002)(104016003)(84326002)(63666004)(509414002);DIR:OUT;SFP:1102;SCL:1;SRVR:AM3PR04MB0821;H:EMDC1HCM03.media.global.loc;FPR:;SPF:Pass;MLV:sfv;PTR:InfoDomainNonexistent;A:1;MX:1;LANG:es;
+X-DmarcAction-Test: None
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(3005004);SRVR:AM3PR04MB0821;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:AM3PR04MB0821;
+X-Forefront-PRVS: 0464DBBBC4
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:AM3PR04MB0821;
+X-OriginatorOrg: carat.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 22 Jan 2015 10:05:23.6415
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 6e8992ec-76d5-4ea5-8eae-b0c5e558749a
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=6e8992ec-76d5-4ea5-8eae-b0c5e558749a;Ip=[193.240.1.94]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM3PR04MB0821
+
+--_005_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_
+Content-Type: multipart/alternative;
+	boundary="_000_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_"
+
+--_000_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Si completamente, podr=EDan hacer una seccion con reviews de productos ybta=
+l vez usar a alguno de nuestros embajadores para una entrevista que contemp=
+le el review del producto
+
+
+Felipe Ponce
+Digital Director
+Carat Chile
+
+Enviado desde mi Celular
+
+
+-------- Mensaje original --------
+De: "Andr=E9s Morales (CCC-CHILE)"
+Fecha:21/01/2015 19:42 (GMT-04:00)
+A: Felipe Ponce
+CC: Alejandra Villanueva
+Asunto: Re: M=E9tricas Programa
+
+Dale, si me parece bien!
+
+Creo que debemos definir c=F3mo nombran o que frase dicen de canterbury.
+Tambipen les pondr=EDa como objetivo generar al menos 1 instancia de ventas=
+ al mes, puede ser concurso, nose que se les ocurra a ellos algo...
+
+que dices?
+
+El 21 de enero de 2015, 18:41, Felipe Ponce <Felipe.Ponce@carat.com<mailto:=
+Felipe.Ponce@carat.com>> escribi=F3:
+Ok, para esto yo les pedir=EDa lo siguiente:
+
+Que el entrevistador del programa utilice una polera Canterbury.
+Dentro de sus redes sociales nos mencionen por lo menos 1 vez a la semana, =
+ideal que hagan menci=F3n a alg=FAn producto nuestro.
+Presencia del logo en la parte inferior del sitio (al igual que los dem=E1s=
+ sponsors)
+Permiso para utilizar contenido generado por ellos dentro de nuestras RR SS=
+, por ejemplo entrevistas, notas, etc.
+
+Creo que eso nos permitir=EDa tener algo bueno de valor agregado, obviament=
+e junto con los banners dentro del sitio.
+
+Cu=E9ntame como lo ves y si necesitas algo m=E1s de nuestro lado me avisas.
+
+Un abrazo.
+Felipe.
+
+Felipe Ponce P. | Digital Director
+felipe.ponce@carat.com<mailto:felipe.ponce@carat.com>
+Carat Chile
+Tel=E9fono: (56 2) 2 756 1833
+Av. Presidente Riesco 5335 oficina 402, Las Condes =96 7561127
+Santiago - Chile
+[Descripci=F3n: Descripci=F3n: Description: Carat Global Email Signature FI=
+NAL]
+[Descripci=F3n: Descripci=F3n: Please consider the environment before print=
+ing this email]
+
+
+
+De: Andr=E9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl<mailto:amoral=
+es@cccchile.cl>]
+Enviado el: mi=E9rcoles, 21 de enero de 2015 18:20
+Para: Felipe Ponce
+CC: Alejandra Villanueva
+Asunto: Re: M=E9tricas Programa
+
+Felipe,
+
+Por mi esta ok. hag=E1moslo.
+s=F3lo definamos bien que cosas piden..
+
+sls.
+
+El 21 de enero de 2015, 18:13, cienxcientorugby <cienxcientorugby@yahoo.es<=
+mailto:cienxcientorugby@yahoo.es>> escribi=F3:
+Felipe:
+
+Cuando podr=EDa tener una respuesta, sea cual sea....
+Saludos y quedo a la espera de tu respuesta.
+Fernando.
+
+________________________________
+De: Felipe Ponce <Felipe.Ponce@carat.com<mailto:Felipe.Ponce@carat.com>>
+Para: "cienxcientorugby@yahoo.es<mailto:cienxcientorugby@yahoo.es>" <cienxc=
+ientorugby@yahoo.es<mailto:cienxcientorugby@yahoo.es>>
+CC: "Andr=E9s Morales (CCC-CHILE) (amorales@cccchile.cl<mailto:amorales@ccc=
+chile.cl>)" <amorales@cccchile.cl<mailto:amorales@cccchile.cl>>; Alejandra =
+Villanueva <Alejandra.Villanueva@carat.com<mailto:Alejandra.Villanueva@cara=
+t.com>>
+Enviado: Martes 20 de enero de 2015 19:38
+Asunto: M=E9tricas Programa
+
+Hola Fernando, mucho gusto!
+
+Te escribo porque Andr=E9s nos comparti=F3 la propuesta que le enviaste y n=
+ecesitamos que nos env=EDes cuantas son las visitas que tiene el sitio, tie=
+mpo de estadia en esta y cu=E1nto tiempo los usuarios se quedan viendo el p=
+rograma, con esto podemos tener una mejor visi=F3n de c=F3mo nos aportar=ED=
+a esta propuesta.
+
+Quedamos atentos.
+Saludos!
+Felipe.
+
+Felipe Ponce P. | Digital Director
+felipe.ponce@carat.com<mailto:felipe.ponce@carat.com>
+Carat Chile
+Tel=E9fono: (56 2) 2 756 1833
+Av. Presidente Riesco 5335 oficina 402, Las Condes =96 7561127
+Santiago - Chile
+[Descripci=F3n: Descripci=F3n: Description: Carat Global Email Signature FI=
+NAL]
+[Descripci=F3n: Descripci=F3n: Please consider the environment before print=
+ing this email]
+
+
+
+
+
+
+
+--_000_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+<div>Si completamente, podr=EDan hacer una seccion con reviews de productos=
+ ybtal vez usar a alguno de nuestros embajadores para una entrevista que co=
+ntemple el review del producto</div>
+<div><br>
+</div>
+<div><br>
+</div>
+<div style=3D"font-size:9px">Felipe Ponce</div>
+<div style=3D"font-size:9px">Digital Director</div>
+<div style=3D"font-size:9px">Carat Chile</div>
+<div style=3D"font-size:9px"><br>
+</div>
+<div style=3D"font-size:9px">Enviado desde mi Celular</div>
+<br>
+<br>
+<div>-------- Mensaje original --------</div>
+<div>De: &quot;Andr=E9s Morales (CCC-CHILE)&quot; </div>
+<div>Fecha:21/01/2015 19:42 (GMT-04:00) </div>
+<div>A: Felipe Ponce </div>
+<div>CC: Alejandra Villanueva </div>
+<div>Asunto: Re: M=E9tricas Programa </div>
+<div><br>
+</div>
+<div>
+<div dir=3D"ltr">Dale, si me parece bien!
+<div><br>
+</div>
+<div>Creo que debemos definir c=F3mo nombran o que frase dicen de canterbur=
+y.</div>
+<div>Tambipen les pondr=EDa como objetivo generar al menos 1 instancia de v=
+entas al mes, puede ser concurso, nose que se les ocurra a ellos algo...</d=
+iv>
+<div><br>
+</div>
+<div>que dices?</div>
+</div>
+<div class=3D"gmail_extra"><br>
+<div class=3D"gmail_quote">El 21 de enero de 2015, 18:41, Felipe Ponce <spa=
+n dir=3D"ltr">
+&lt;<a href=3D"mailto:Felipe.Ponce@carat.com" target=3D"_blank">Felipe.Ponc=
+e@carat.com</a>&gt;</span> escribi=F3:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex; border-left:1=
+px #ccc solid; padding-left:1ex">
+<div lang=3D"ES-CL">
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Ok, para esto yo les pe=
+dir=EDa lo siguiente:<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Que el entrevistador de=
+l programa utilice una polera Canterbury.<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Dentro de sus redes soc=
+iales nos mencionen por lo menos 1 vez a la semana, ideal que hagan menci=
+=F3n a alg=FAn producto nuestro.<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Presencia del logo en l=
+a parte inferior del sitio (al igual que los dem=E1s sponsors)<u></u><u></u=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Permiso para utilizar c=
+ontenido generado por ellos dentro de nuestras RR SS, por ejemplo entrevist=
+as, notas, etc.<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Creo que eso nos permit=
+ir=EDa tener algo bueno de valor agregado, obviamente junto con los banners=
+ dentro del sitio.<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Cu=E9ntame como lo ves =
+y si necesitas algo m=E1s de nuestro lado me avisas.<u></u><u></u></span></=
+p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Un abrazo.<u></u><u></u=
+></span></p>
+<span class=3D"">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d">Felipe.<u></u><u></u></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:9.0pt; font-=
+family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:#999999">Felipe Ponc=
+e P. |</span></b><span lang=3D"ES" style=3D"font-size:9.0pt; font-family:&q=
+uot;Arial&quot;,&quot;sans-serif&quot;; color:#999999"> Digital Director<u>=
+</u><u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt; font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#999999"><a href=3D"=
+mailto:felipe.ponce@carat.com" target=3D"_blank">felipe.ponce@carat.com</a>=
+</span><u><span style=3D"font-size:10.0pt; font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;; color:blue"><u></u><u></u></span></u></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:10.0pt; font-fa=
+mily:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;; color:#99999=
+9">Carat Chile</span><span style=3D"font-size:11.0pt; font-family:&quot;Ari=
+al Rounded MT Bold&quot;,&quot;sans-serif&quot;; color:#999999"><u></u><u><=
+/u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt; fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:#999999">Tel=E9fon=
+o: (56 2) 2 756 1833</span><span lang=3D"ES" style=3D"font-size:10.0pt; fon=
+t-family:&quot;Arial Rounded MT Bold&quot;,&quot;sans-serif&quot;; color:#9=
+99999"><u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt; fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:#999999">Av. Presi=
+dente Riesco 5335 oficina 402, Las Condes =96 7561127<u></u><u></u></span><=
+/p>
+<p class=3D"MsoNormal"><span lang=3D"ES-TRAD" style=3D"font-size:7.5pt; fon=
+t-family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:#999999">Santiago =
+- Chile<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><img border=3D"0" width=
+=3D"271" height=3D"95" src=3D"cid:image001.jpg@01D035A9.A006CDD0" alt=3D"De=
+scripci=F3n: Descripci=F3n: Description: Carat Global Email Signature FINAL=
+"></span><span lang=3D"ES" style=3D"font-size:11.0pt; font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:7.5pt; font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;; color:#1f497d"><img border=3D"0" width=
+=3D"310" height=3D"29" src=3D"cid:image002.png@01D035A9.A006CDD0" alt=3D"De=
+scripci=F3n: Descripci=F3n: Please consider the environment before printing=
+ this email"></span><span lang=3D"ES-TRAD" style=3D"font-size:8.0pt; font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u><u>=
+</u></span></p>
+<p class=3D"MsoNormal"><span lang=3D"ES" style=3D"font-size:11.0pt; font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbs=
+p;<u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt; font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;; color:#1f497d"><u></u>&nbsp;<u></u></s=
+pan></p>
+</span>
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:10.0pt; font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span lang=
+=3D"ES" style=3D"font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;san=
+s-serif&quot;"> Andr=E9s Morales (CCC-CHILE) [mailto:<a href=3D"mailto:amor=
+ales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>]
+<br>
+<b>Enviado el:</b> mi=E9rcoles, 21 de enero de 2015 18:20<br>
+<b>Para:</b> Felipe Ponce<br>
+<b>CC:</b> Alejandra Villanueva<br>
+<b>Asunto:</b> Re: M=E9tricas Programa<span class=3D"HOEnZb"><font color=3D=
+"#888888"><u></u><u></u></font></span></span></p>
+<span class=3D"HOEnZb"><font color=3D"#888888">
+<p class=3D"MsoNormal"><u></u>&nbsp;<u></u></p>
+</font></span>
+<div><span class=3D"HOEnZb"><font color=3D"#888888">
+<p class=3D"MsoNormal">Felipe,<u></u><u></u></p>
+</font></span>
+<div>
+<div class=3D"h5">
+<div>
+<p class=3D"MsoNormal"><u></u>&nbsp;<u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">Por mi esta ok. hag=E1moslo.<u></u><u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">s=F3lo definamos bien que cosas piden..<u></u><u></u=
+></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><u></u>&nbsp;<u></u></p>
+</div>
+<div>
+<p class=3D"MsoNormal">sls.<u></u><u></u></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div class=3D"h5">
+<div>
+<p class=3D"MsoNormal"><u></u>&nbsp;<u></u></p>
+<div>
+<p class=3D"MsoNormal">El 21 de enero de 2015, 18:13, cienxcientorugby &lt;=
+<a href=3D"mailto:cienxcientorugby@yahoo.es" target=3D"_blank">cienxcientor=
+ugby@yahoo.es</a>&gt; escribi=F3:<u></u><u></u></p>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Felipe:<u></u>=
+<u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u>&nbsp;<=
+u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Cuando podr=ED=
+a tener una respuesta, sea cual sea....<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Saludos y qued=
+o a la espera de tu respuesta.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Fernando.<u></=
+u><u></u></span></p>
+</div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u>&nbsp;<=
+u></u></span></p>
+<div>
+<div>
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center; backg=
+round:white">
+<span style=3D"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; co=
+lor:black">
+<hr size=3D"1" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"font-fa=
+mily:&quot;Arial&quot;,&quot;sans-serif&quot;; color:black">De:</span></b><=
+span style=3D"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;; color:b=
+lack"> Felipe Ponce &lt;<a href=3D"mailto:Felipe.Ponce@carat.com" target=3D=
+"_blank">Felipe.Ponce@carat.com</a>&gt;<br>
+<b>Para:</b> &quot;<a href=3D"mailto:cienxcientorugby@yahoo.es" target=3D"_=
+blank">cienxcientorugby@yahoo.es</a>&quot; &lt;<a href=3D"mailto:cienxcient=
+orugby@yahoo.es" target=3D"_blank">cienxcientorugby@yahoo.es</a>&gt;
+<br>
+<b>CC:</b> &quot;Andr=E9s Morales (CCC-CHILE) (<a href=3D"mailto:amorales@c=
+ccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>)&quot; &lt;<a href=
+=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>=
+&gt;; Alejandra Villanueva &lt;<a href=3D"mailto:Alejandra.Villanueva@carat=
+.com" target=3D"_blank">Alejandra.Villanueva@carat.com</a>&gt;
+<br>
+<b>Enviado:</b> Martes 20 de enero de 2015 19:38<br>
+<b>Asunto:</b> M=E9tricas Programa</span><span style=3D"font-family:&quot;H=
+elvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></span></=
+p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u>&nbsp;<=
+u></u></span></p>
+<div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Hola Fernando,=
+ mucho gusto!<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">&nbsp;<u></u><=
+u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Te escribo por=
+que Andr=E9s nos comparti=F3 la propuesta que le enviaste y necesitamos que=
+ nos env=EDes cuantas son las visitas que tiene el sitio, tiempo
+ de estadia en esta y cu=E1nto tiempo los usuarios se quedan viendo el prog=
+rama, con esto podemos tener una mejor visi=F3n de c=F3mo nos aportar=EDa e=
+sta propuesta.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">&nbsp;<u></u><=
+u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Quedamos atent=
+os.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Saludos!<u></u=
+><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">Felipe.<u></u>=
+<u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">&nbsp;<u></u><=
+u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span lang=3D"ES" styl=
+e=3D"font-size:9.0pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&qu=
+ot;; color:#999999">Felipe Ponce P. |</span></b><span lang=3D"ES" style=3D"=
+font-size:9.0pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; =
+color:#999999">
+ Digital Director</span><span style=3D"font-family:&quot;Helvetica&quot;,&q=
+uot;sans-serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES" style=
+=3D"font-size:10.0pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&qu=
+ot;; color:#999999"><a href=3D"mailto:felipe.ponce@carat.com" target=3D"_bl=
+ank">felipe.ponce@carat.com</a></span><span style=3D"font-family:&quot;Helv=
+etica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES" style=
+=3D"font-size:10.0pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&qu=
+ot;; color:#999999">Carat Chile</span><span style=3D"font-family:&quot;Helv=
+etica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES-TRAD" st=
+yle=3D"font-size:7.5pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&=
+quot;; color:#999999">Tel=E9fono: (56 2) 2 756 1833</span><span style=3D"fo=
+nt-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u=
+><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES-TRAD" st=
+yle=3D"font-size:7.5pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&=
+quot;; color:#999999">Av. Presidente Riesco 5335 oficina 402, Las Condes =
+=96 7561127</span><span style=3D"font-family:&quot;Helvetica&quot;,&quot;sa=
+ns-serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES-TRAD" st=
+yle=3D"font-size:7.5pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&=
+quot;; color:#999999">Santiago - Chile</span><span style=3D"font-family:&qu=
+ot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></spa=
+n></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+10.0pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:#1f=
+497d"><img border=3D"0" width=3D"271" height=3D"95" src=3D"cid:image001.jpg=
+@01D035A9.A006CDD0" alt=3D"Descripci=F3n: Descripci=F3n: Description: Carat=
+ Global Email Signature FINAL"></span><span style=3D"font-family:&quot;Helv=
+etica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-size:=
+7.5pt; font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:#1f4=
+97d"><img border=3D"0" width=3D"310" height=3D"29" src=3D"cid:image002.png@=
+01D035A9.A006CDD0" alt=3D"Descripci=F3n: Descripci=F3n: Please consider the=
+ environment before printing this email"></span><span style=3D"font-family:=
+&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black"><u></u><u></u></=
+span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span lang=3D"ES" style=
+=3D"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:#1f497d=
+">&nbsp;</span><span style=3D"font-family:&quot;Helvetica&quot;,&quot;sans-=
+serif&quot;; color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">&nbsp;<u></u><=
+u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color:black">&nbsp;<u></u><=
+u></u></span></p>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt; background:white"><sp=
+an style=3D"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;; color=
+:black"><u></u>&nbsp;<u></u></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal"><u></u>&nbsp;<u></u></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<br>
+</div>
+</div>
+</body>
+</html>
+
+--_000_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_--
+
+--_005_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=2018;
+	creation-date="Wed, 21 Jan 2015 22:42:49 GMT";
+	modification-date="Wed, 21 Jan 2015 22:42:49 GMT"
+Content-ID: <image002.png@01D035A9.A006CDD0>
+Content-Transfer-Encoding: base64
+
+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
+Av8C62gCHnmJwrIAAAAASUVORK5CYII=
+
+--_005_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Description: image001.jpg
+Content-Disposition: inline; filename="image001.jpg"; size=6754;
+	creation-date="Wed, 21 Jan 2015 22:42:49 GMT";
+	modification-date="Wed, 21 Jan 2015 22:42:49 GMT"
+Content-ID: <image001.jpg@01D035A9.A006CDD0>
+Content-Transfer-Encoding: base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMpPT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT3/wAARCABfAQ8DASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2aiuU
+8WeKJdNlWw08A3TAFnxnZnoAO5NZI03xesX2oXE+7GfL87Lf989Pwrohhm4qUmlfa5w1MdGM3CEX
+K29uh6DRVHRp57rR7Wa7/wBe8YZ/l28/TtXP6r4r+x+LLe2V/wDRIv3c/oWbv/wHj9azhRlOTjHo
+b1MRCnBTlonb8TrqKax+QkelecaVf+JNZmlSz1Bi0Q3EOVGefpVUqLqJu6Vu5OIxSouMeVtvsek0
+VyvhXxFeX17Pp2pqDcRAkOBg8HBBxxWv4g1QaRo81zkeZjZGPVj0/wAfwqZUZRnyPccMTTnSdVbL
+9DSpa5/w5q0ur+G2w5a9iQxsSeS2PlP48frXNX8vi3S7Q3F5cyJECFJDoeT9K0hhnKTg2k0ZVMbG
+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
+Faul2sllpVrbTSeZJFGqM3qQKt0UAFFFFAH/2Q==
+
+--_005_m1doi70bet0lmtx2kicbg0of1421921163367emailandroidcom_--

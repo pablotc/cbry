@@ -1,0 +1,558 @@
+Return-path: <0000014a06ede65f-a936724c-1f4b-4a6b-9f0c-1730337da2e3-000000@amazonses.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 01 Dec 2014 11:37:44 -0600
+Received: from a9-109.smtp-out.amazonses.com ([54.240.9.109]:52097)
+	by gator3101.hostgator.com with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.82)
+	(envelope-from <0000014a06ede65f-a936724c-1f4b-4a6b-9f0c-1730337da2e3-000000@amazonses.com>)
+	id 1XvUuu-0008zS-9S
+	for amorales@cccchile.cl; Mon, 01 Dec 2014 11:37:44 -0600
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1417455462;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=nExyAF50buoD/Pq9i14yJA1Cq38v8N4upu8ivm4Kt5Y=;
+	b=E4e8QY72SQ1u2F8W1tJP8DCDxY0b1Vp9Cqf4luuInrRdBTjCzwx2qD1TTqIjxPmt
+	h6DFeFuzCKcG1eCO4HijOUv0TVx7YfndxtFM0e5Q6n9eJZP5oU00eO7dVjELwdIoUVl
+	CLvlAMCb3h5Js+FojQtF3SIWcqUwrnXQjWX96sSA=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=l5sgpbae5dq3j5pa75x3xatkxt5ls3am; d=sorteoamigosecreto.com;
+	t=1417455462;
+	h=Date:From:To:Message-ID:Subject:Mime-Version:Content-Type:Content-Transfer-Encoding;
+	bh=nExyAF50buoD/Pq9i14yJA1Cq38v8N4upu8ivm4Kt5Y=;
+	b=t/KBVZBP/v1/jtImBjN0mMtgJLAl5ra0DU5N9mL+TE3zUi7BxN83oufyAMtn/8Mz
+	6uqjmnB4khzv+orh5oeQpQ6g6PDfhMOmbioJ21p8pbyXAtxPiTQfM37i/i6N+BkZwMt
+	cz6stBMSJxojhayepjDY0zTR0kmR0SKFg4EqsYMM=
+Date: Mon, 1 Dec 2014 17:37:42 +0000
+From: "SorteoAmigoSecreto.com" <contacto@sorteoamigosecreto.com>
+To: amorales@cccchile.cl
+Message-ID: <0000014a06ede65f-a936724c-1f4b-4a6b-9f0c-1730337da2e3-000000@email.amazonses.com>
+Subject: =?UTF-8?Q?Yasna_Jelincic_te_incluy=C3=B3_en_el_amigo_secreto.?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_547ca762be3d1_63f18ca000113667";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SES-Outgoing: 2014.12.01-54.240.9.109
+Feedback-ID: us-east-1.IlNvcnRlb0FtaWdvU2VjcmV0by5jb20iIDxjb250YWN0b0Bzb3J0ZW9hbWlnb3NlY3JldG8uY29tPg==:AmazonSES
+
+
+----==_mimepart_547ca762be3d1_63f18ca000113667
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sorteo Amigo Secreto
+http://sorteoamigosecreto.com
+Sorteo Amigo Secreto - Alguien te incluy=C3=B3 en un sorteo de amigo secr=
+eto, ve qui=C3=A9n fue y a qui=C3=A9n debes regalarle!
+Hola Andr=C3=A9s Morales!
+Yasna te incluy=C3=B3 en su grupo de amigo secreto navide=C3=B1o.
+Para averiguar a qui=C3=A9n tienes que regalarle:
+Entra clickeando aqu=C3=AD
+http://www.sorteoamigosecreto.com/sorteos/193438?token=3D3dd159b81983ca41=
+5f549138-4812&email_token=3D33e2fc6201e177286b13ec063bf8a57b62e512c2
+=C2=BFNo te resulta clickear el link?
+Intenta seleccionar y copiar lo siguiente:
+Luego p=C3=A9galo en la barra de direcciones de tu navegador
+(Explorer, Firefox, etc.).
+Esperamos que tengas una feliz navidad!
+SorteoAmigoSecreto.com es un sitio desarrollado por Platanus SpA, es tota=
+lmente gratuito y permite que un grupo realice el sorteo de qui=C3=A9n le=
+ regala a qui=C3=A9n en el tradicional juego del amigo secreto.
+Este correo fue enviado a  porque Yasna Jelincic te incluy=C3=B3 en un so=
+rteo. Si no quisieras haberlo recibido, puedes contactarte directamente y=
+ pedirle que no lo vuelva a hacer.=
+
+----==_mimepart_547ca762be3d1_63f18ca000113667
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"en">
+<head>
+<title>Sorteo Amigo Secreto</title>
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<style type=3D"text/css">
+    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser=
+" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmai=
+l to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass=
+ font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Forc=
+e Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjus=
+t:100%;} /* Prevent WebKit and Windows mobile changing default text sizes=
+ */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spac=
+ing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of r=
+esized image in Internet Explorer */
+
+    /* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0; height:auto; line-height:100%; outline:none; text-decor=
+ation:none;}
+    table{border-collapse:collapse !important;}
+    body{height:100% !important; margin:0; padding:0; width:100% !importa=
+nt;}
+
+    /* iOS BLUE LINKS */
+    .appleBody a {color:#68440a; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+
+    /* Gmail App for Android Fix (email) */
+    @media only screen and (max-width:481px) {
+        *[class=3D"mob-hide"] { display: none !important; }
+    }
+    /* MOBILE STYLES */
+    @media screen and (max-width: 525px) {
+
+        /* ALLOWS FOR FLUID TABLES */
+        table[class=3D"wrapper"]{
+          width:100% !important;
+        }
+
+        /* ADJUSTS LAYOUT OF LOGO IMAGE */
+        td[class=3D"logo"]{
+          text-align: left;
+          padding: 20px 0 20px 0 !important;
+        }
+
+        td[class=3D"logo"] img{
+          margin:0 auto!important;
+        }
+
+        /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+        td[class=3D"mobile-hide"]{
+          display:none;}
+
+        img[class=3D"mobile-hide"]{
+          display: none !important;
+        }
+
+        img[class=3D"img-max"]{
+          max-width: 100% !important;
+          height:auto !important;
+        }
+
+        /* FULL-WIDTH TABLES */
+        table[class=3D"responsive-table"]{
+          width:100%!important;
+        }
+
+        /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+        td[class=3D"padding"]{
+          padding: 10px 5% 15px 5% !important;
+        }
+
+        td[class=3D"padding-copy"]{
+          padding: 10px 5% 10px 5% !important;
+          text-align: center;
+        }
+
+        td[class=3D"padding-meta"]{
+          padding: 30px 5% 0px 5% !important;
+          text-align: center;
+        }
+
+        td[class=3D"no-pad"]{
+          padding: 0 0 20px 0 !important;
+        }
+
+        td[class=3D"no-padding"]{
+          padding: 0 !important;
+        }
+
+        td[class=3D"section-padding"]{
+          padding: 50px 15px 50px 15px !important;
+        }
+
+        td[class=3D"section-padding-bottom-image"]{
+          padding: 50px 15px 0 15px !important;
+        }
+
+        /* ADJUST BUTTONS ON MOBILE */
+        td[class=3D"mobile-wrapper"]{
+            padding: 10px 5% 15px 5% !important;
+        }
+
+        table[class=3D"mobile-button-container"]{
+            margin:0 auto;
+            width:100% !important;
+        }
+
+        a[class=3D"mobile-button"]{
+            width:80% !important;
+            padding: 15px !important;
+            border: 0 !important;
+            font-size: 16px !important;
+        }
+    }
+</style>
+</head>
+
+<body style=3D"margin: 0; padding: 0;">
+  <!-- HEADER -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+      <tr>
+          <td bgcolor=3D"#333333">
+              <div align=3D"center" style=3D"padding: 0px 15px 0px 15px;"=
+>
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"500" class=3D"wrapper">
+                      <!-- LOGO/PREHEADER TEXT -->
+                      <tr>
+                          <td style=3D"padding: 20px 0px 30px 0px;" class=
+=3D"logo">
+                              <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%">
+                                  <tr>
+                                      <td bgcolor=3D"#333333" width=3D"25=
+0" align=3D"left"><a href=3D"http://sorteoamigosecreto.com" target=3D"_bl=
+ank"><img alt=3D"SAS Logo" border=3D"0" src=3D"http://www.sorteoamigosecr=
+eto.com/assets/logo-124d3663f073c7627eceae34af4d6786.png" style=3D"displa=
+y: block; font-family: Helvetica, Arial, sans-serif; color: #FFFFFF; font=
+-size: 16px;" title=3D"sas logo" width=3D"100" /></a></td>
+                                      <td bgcolor=3D"#333333" width=3D"21=
+0" align=3D"right" class=3D"mobile-hide">
+                                          <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+                                              <tr>
+                                                  <td align=3D"right" sty=
+le=3D"padding: 15px 0 0 0; font-size: 10px; font-family: Arial, sans-seri=
+f; color: #FFFFFF; text-decoration: none;"><span style=3D"color: #FFFFFF;=
+ text-decoration: none;">Sorteo Amigo Secreto - Alguien te incluy=C3=B3 e=
+n un sorteo de amigo secreto, ve qui=C3=A9n fue y a qui=C3=A9n debes rega=
+larle!</span></td>
+                                              </tr>
+                                          </table>
+                                      </td>
+                                  </tr>
+                              </table>
+                          </td>
+                      </tr>
+                  </table>
+              </div>
+          </td>
+      </tr>
+  </table>
+
+  <!-- ONE COLUMN SECTION -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+      <tr>
+          <td bgcolor=3D"#4eb96e" align=3D"center" style=3D"padding: 70px=
+ 15px 70px 15px;" class=3D"section-padding">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"500" class=3D"responsive-table">
+                  <tr>
+                      <td>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+                              <tr>
+                                  <td>
+                                      <table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0">
+                                          <tr>
+                                              <td bgcolor=3D"#63be75" ali=
+gn=3D"center" style=3D"font-size: 25px; font-family: Helvetica, Arial, sa=
+ns-serif; color: #FFFFFF; padding-top: 20px; padding-bottom: 20px; border=
+: 5px solid #24ad5f;" class=3D"padding-copy">Hola Andr=C3=A9s Morales!</t=
+d>
+                                          </tr>
+                                          <tr>
+                                              <td align=3D"center" style=3D=
+"padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: He=
+lvetica, Arial, sans-serif; color: #ffffff;" class=3D"padding-copy">Yasna=
+ te incluy=C3=B3 en su grupo de amigo secreto navide=C3=B1o.</td>
+                                          </tr>
+                                      </table>
+                                  </td>
+                              </tr>
+                          </table>
+                      </td>
+                  </tr>
+              </table>
+          </td>
+      </tr>
+  </table>
+
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+    <tr>
+      <td bgcolor=3D"#bdc2c6" align=3D"center" style=3D"padding: 70px 15p=
+x 70px 15px;" class=3D"section-padding">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+500" class=3D"responsive-table">
+          <tbody>
+            <tr>
+              <td>
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0">
+                  <tr>
+                    <td>
+                      <table cellspacing=3D"0" cellpadding=3D"0" class=3D=
+"responsive-table" align=3D"right" border=3D"0">
+                        <tr>
+                          <td width=3D"186" valign=3D"bottom" align=3D"ce=
+nter" style=3D"padding: 0;"><img alt=3D"Gifts" border=3D"0" height=3D"162=
+" src=3D"http://www.sorteoamigosecreto.com/assets/gifts-41fb2a0c965ca1f8c=
+7203120b7e55445.png" style=3D"display: block; font-family: Arial; color: =
+#ffffff; font-size: 18px; vertical-align: middle;" title=3D"gifts" width=3D=
+"190" /></td>
+                        </tr>
+                      </table>
+                      <table cellspacing=3D"0" cellpadding=3D"0" class=3D=
+"responsive-table" align=3D"left" border=3D"0">
+                        <tr>
+                          <td width=3D"300" align=3D"left" valign=3D"top"=
+>
+                            <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">
+                              <tr>
+                                <td align=3D"center" style=3D"font-size: =
+25px; padding: 20px 10px 0 0; font-family: Helvetica, Arial, sans-serif; =
+color: #333333;" class=3D"padding2">Para averiguar a qui=C3=A9n tienes qu=
+e regalarle:</td>
+                              </tr>
+                              <tr>
+                                <td style=3D"padding: 25px 0 0 0;" align=3D=
+"center" class=3D"padding2">
+                                  <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" class=3D"responsive-table">
+                                    <tbody>
+                                      <tr>
+                                        <td bgcolor=3D"#404141" style=3D"=
+padding: 12px 18px 12px 18px; -webkit-border-radius:3px; border-radius:3p=
+x" align=3D"center"><a href=3D"http://www.sorteoamigosecreto.com/sorteos/=
+193438?token=3D3dd159b81983ca415f549138-4812&amp;email_token=3D33e2fc6201=
+e177286b13ec063bf8a57b62e512c2" style=3D"font-size: 16px; font-family: He=
+lvetica, Arial, sans-serif; font-weight: normal; color: #ffffff; text-dec=
+oration: none;" target=3D"_blank">Entra clickeando aqu=C3=AD</a></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+<!-- ONE COLUMN W/ IMAGE SECTION -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+    <tr>
+      <td bgcolor=3D"#4eb96e" align=3D"center" style=3D"padding: 70px 15p=
+x 0 15px;">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+500" class=3D"responsive-table">
+          <tr>
+            <td>
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" class=3D"responsive-table">
+                <tr>
+                  <td>
+                    <!-- HERO IMAGE -->
+                    <table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" class=3D"responsive-table">
+                      <tbody>
+                        <tr>
+                          <td align=3D"center" class=3D"padding-copy">
+                            <table width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" class=3D"responsive-table">
+                              <tr>
+                                <td align=3D"center">
+                                  <img alt=3D"Broken Link" border=3D"0" h=
+eight=3D"162" src=3D"http://www.sorteoamigosecreto.com/assets/broken-link=
+-245cbe364021bc077d18841758376c75.png" style=3D"display: block; text-alig=
+n:center; font-family: Arial; color: #ffffff; font-size: 18px; vertical-a=
+lign: middle; padding-bottom:40px;" title=3D"broken link" width=3D"190" /=
+>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <!-- COPY -->
+                    <table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" class=3D"responsive-table">
+                      <tr>
+                        <td align=3D"center" style=3D"font-size: 25px; fo=
+nt-family: Helvetica, Arial, sans-serif; color: #ffffff;" class=3D"paddin=
+g-copy"><span style=3D"font-size:18;">=C2=BFNo te resulta clickear el lin=
+k?</td>
+                      </tr>
+                      <tr>
+                        <td align=3D"center" style=3D"padding: 20px 0 0 0=
+; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans=
+-serif; color: #ffffff;" class=3D"padding-copy"><span style=3D"font-size:=
+18;font-weight:bold;">Intenta seleccionar y copiar lo siguiente:</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"-webkit-text-size-adjust:100%;-ms-text-size-ad=
+just:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse !important;" class=3D"responsive-table" >
+                      <tr>
+                        <td align=3D"center"  class=3D"padding2" style=3D=
+"padding-top:25px;padding-bottom:15px;padding-right:0;padding-left:0;-web=
+kit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;=
+mso-table-rspace:0pt;">
+                          <table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"responsive-table" style=3D"-webkit-text-size-adjust:100=
+%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse !important; " class=3D"responsive-table" >
+                            <tr>
+                              <td bgcolor=3D"#C03A2A"  align=3D"center" s=
+tyle=3D"padding-top:16px;padding-bottom:16px;padding-right:18px;padding-l=
+eft:18px;-webkit-border-radius:3px;border-radius:3px;-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace=
+:0pt;max-width:240px;" ><a style=3D"font-size:16px;font-family:Helvetica,=
+ Arial, sans-serif;font-weight:normal;color:#ffffff;text-decoration:none;=
+word-wrap:break-word;" >http://www.sorteoamigosecreto.com/sorteos/193438?=
+token=3D3dd159b81983ca415f549138-4812&amp;email_token=3D33e2fc6201e177286=
+b13ec063bf8a57b62e512c2</a></td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <!-- COPY -->
+                    <table width=3D"100%" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                      <tr>
+                        <td align=3D"center" style=3D"padding: 20px 0 0 0=
+; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans=
+-serif; color: #ffffff; padding-bottom:70px;" class=3D"padding-copy">Lueg=
+o p=C3=A9galo en la barra de direcciones de tu navegador <br/>(Explorer, =
+Firefox, etc.).</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- DESCRIPTION -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+      <tr>
+          <td bgcolor=3D"#444444" align=3D"center">
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">
+                  <tr>
+                      <td style=3D"padding: 20px 0px 20px 0px;">
+                          <table width=3D"500" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center" class=3D"responsive-table">
+                              <tr>
+                                <td align=3D"center" valign=3D"middle" st=
+yle=3D"font-size: 12px; line-height: 18px; font-family: Helvetica, Arial,=
+ sans-serif; color:#FFFFFF;">
+                                    <span class=3D"appleFooter" style=3D"=
+color:#FFFFFF;">Esperamos que tengas una feliz navidad!</span>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td align=3D"center" valign=3D"middle" st=
+yle=3D"font-size: 12px; line-height: 18px; font-family: Helvetica, Arial,=
+ sans-serif; color:#FFFFFF;">
+                                    <span class=3D"appleFooter" style=3D"=
+color:#FFFFFF;">SorteoAmigoSecreto.com es un sitio desarrollado por Plata=
+nus SpA, es totalmente gratuito y permite que un grupo realice el sorteo =
+de qui=C3=A9n le regala a qui=C3=A9n en el tradicional juego del amigo se=
+creto.</span>
+                                </td>
+                              </tr>
+                          </table>
+                      </td>
+                  </tr>
+              </table>
+          </td>
+      </tr>
+  </table>
+  <!-- FOOTER -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+      <tr>
+          <td bgcolor=3D"#333333" align=3D"center">
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center">
+                  <tr>
+                      <td style=3D"padding: 20px 0px 20px 0px;">
+                          <!-- UNSUBSCRIBE COPY -->
+                          <table width=3D"500" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" align=3D"center" class=3D"responsive-table">
+                              <tr>
+                                  <td align=3D"center" valign=3D"middle" =
+style=3D"font-size: 10px; line-height: 18px; font-family: Helvetica, Aria=
+l, sans-serif; color:#FFFFFF;">
+                                      <span class=3D"appleFooter" style=3D=
+"color:#FFFFFF;">Este correo fue enviado a  porque Yasna Jelincic te incl=
+uy=C3=B3 en un sorteo. Si no quisieras haberlo recibido, puedes contactar=
+te directamente y pedirle que no lo vuelva a hacer.</span>
+                                  </td>
+                              </tr>
+                          </table>
+                      </td>
+                  </tr>
+              </table>
+          </td>
+      </tr>
+  </table>
+  <!-- GMAIL APP FIX -->
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+    <tr>
+        <td bgcolor=3D"#333333" class=3D"mob-hide">
+            <table  cellpadding=3D"0" cellspacing=3D"0" border=3D"0" alig=
+n=3D"center" width=3D"700px">
+                <tr>
+                    <td cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"background-color:#333333; line-height:1px;" height=3D"1px; min-w=
+idth: 700px;">
+                        <img src=3D"spacer.gif" height=3D"1px"  width=3D"=
+700px" style=3D"max-height:1px; min-height:1px; display:block; width:700p=
+x; min-width:700px;"/>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+  </table>
+</body>
+</html>
+
+----==_mimepart_547ca762be3d1_63f18ca000113667--

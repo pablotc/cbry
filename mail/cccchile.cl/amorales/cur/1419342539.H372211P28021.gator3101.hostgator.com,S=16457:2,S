@@ -1,0 +1,431 @@
+Return-path: <gmorales@spindeportes.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 23 Dec 2014 07:48:59 -0600
+Received: from mail-bn1on0058.outbound.protection.outlook.com ([157.56.110.58]:24384 helo=na01-bn1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <gmorales@spindeportes.cl>)
+	id 1Y3Ppa-0007Di-Vu
+	for amorales@cccchile.cl; Tue, 23 Dec 2014 07:48:59 -0600
+Received: from GmoralesPC (190.196.25.182) by
+ BN3PR0201MB0979.namprd02.prod.outlook.com (25.161.207.13) with Microsoft SMTP
+ Server (TLS) id 15.1.49.12; Tue, 23 Dec 2014 13:48:53 +0000
+From: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+To: =?utf-8?Q?'Andr=C3=A9s_Morales_=28CCC-CHILE=29'?= <amorales@cccchile.cl>
+References: <CAKggD2R6Qk+XSrhAYhzC5cUt7M34SUYf7Evr2jUt+B0P1G1A2g@mail.gmail.com>	<CAJbDu1=0_TyzHF_7C+06ep5Ry-671baBk+4uC+Gswvzh5PCW7g@mail.gmail.com>	<CAKggD2QNC8eOmGr-8YquebyYYW7bHBaQUGyjW3KNRRFZS7MgcA@mail.gmail.com>	<1BED4F6B-D45A-4AEB-9028-340E124C9F1D@viaglobal.cl>	<CAKggD2SmPD8GerM_oNb14aCFhBv8bJ-=cok+pE88uqBYddk+QQ@mail.gmail.com>	<077DAE8A-0F24-4508-B498-C28654DE4B4B@viaglobal.cl>	<CAJbDu1kJAgHW330sES1Cje2U3PYYj44-V9rvSqDuMTvC9=GSKQ@mail.gmail.com>	<CAKggD2T8di4hU8dgv6mEqezhYSP8pEHDRf0wN2XxCnX9SNdXJQ@mail.gmail.com>	<CAJbDu1nC+5K9GfLfovBf3ZDUb8CWKk4aYmde4ENqsVPfA-LZfQ@mail.gmail.com> <CAKggD2RtF523vCt9C4gT32JKfvorQ3_Vm2ApqOGyVkcWK4gg5w@mail.gmail.com>
+In-Reply-To: <CAKggD2RtF523vCt9C4gT32JKfvorQ3_Vm2ApqOGyVkcWK4gg5w@mail.gmail.com>
+Subject: RE: USM Ex- Aumnos MTO
+Date: Tue, 23 Dec 2014 10:48:45 -0300
+Message-ID: <002101d01eb7$30bfa9a0$923efce0$@spindeportes.cl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0022_01D01E9E.0B799D90"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHrGM+RAYHFk/DOUWe7rYnFdWul0gI7mhwqAgG98DsBjW2suQGN0q8BAl2HZawCs0SMAgJKMrU7AiJNPa0CismBkpvMNxLg
+Content-Language: es
+X-Originating-IP: [190.196.25.182]
+X-ClientProxiedBy: BY2PR06CA054.namprd06.prod.outlook.com (10.141.250.172) To
+ BN3PR0201MB0979.namprd02.prod.outlook.com (25.161.207.13)
+Authentication-Results: spf=none (sender IP is )
+ smtp.mailfrom=gmorales@spindeportes.cl; 
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:;SRVR:BN3PR0201MB0979;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:BN3PR0201MB0979;
+X-Forefront-PRVS: 04347F8039
+X-Forefront-Antispam-Report:
+	SFV:NSPM;SFS:(10009020)(199003)(377424004)(52164004)(189002)(20776003)(86362001)(68736005)(46102003)(33646002)(16236675004)(46816001)(89996001)(450100001)(36756003)(2656002)(101416001)(75216001)(21056001)(71186001)(31966008)(40100003)(19580405001)(19625215002)(19580395003)(120916001)(62966003)(105586002)(512874002)(71636004)(19300405004)(72586001)(92566001)(50986999)(106356001)(102836002)(84116002)(76176999)(87976001)(2950100001)(61296003)(15975445007)(66066001)(84326002)(77156002)(4396001)(99396003)(97736003)(64706001)(107886001)(42186005)(74482002)(107046002)(122386002)(110136001)(106116001)(19627235001);DIR:OUT;SFP:1101;SCL:1;SRVR:BN3PR0201MB0979;H:GmoralesPC;FPR:;SPF:None;MLV:sfv;PTR:InfoNoRecords;A:0;MX:1;LANG:es;
+Received-SPF: None (protection.outlook.com: spindeportes.cl does not designate
+ permitted sender hosts)
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:BN3PR0201MB0979;
+X-OriginatorOrg: spindeportes.cl
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Dec 2014 13:48:53.3281 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN3PR0201MB0979
+
+------=_NextPart_000_0022_01D01E9E.0B799D90
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+andres
+
+costea con nicolas de acuerdo a los pedidos anteriores cual seria el =
+valor de esto puesto aca en chile.
+
+cual es el precio de venta?
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: martes, 23 de diciembre de 2014 0:00
+Para: Victor Irigoyen
+CC: Guillermo Morales
+Asunto: Re: USM Ex- Aumnos MTO
+
+=20
+
+Victor,
+
+=20
+
+puedes revisarla ahora?
+
+=20
+
+me faltar=C3=ADan s=C3=B3lo las tallas.
+
+=20
+
+sls.
+
+=20
+
+El 16 de diciembre de 2014, 15:15, Victor Irigoyen =
+<virigoyen@viaglobal.cl> escribi=C3=B3:
+
+es mejor el pdf en ai que tienes ahora.=20
+
+esta trazado el nombre.=20
+
+=20
+
+me confirmas.=20
+
+=20
+
+=20
+
+2014-12-16 15:14 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) =
+<amorales@cccchile.cl>:
+
+Si, ok. Lo veo con ellos. La vez anterior yo les mande a ellos un jpg =
+que decia "lobos marinos".
+
+
+
+El martes, 16 de diciembre de 2014, Victor Irigoyen =
+<virigoyen@viaglobal.cl> escribi=C3=B3:
+
+=20
+
+Te adjunto la ficha MTO de los alumnos USM=20
+
+La vez anterior tu definiste el texto del nombre con los del MTO.=20
+
+=20
+
+es lo mismo que colocar un nombre pero todo iguales.=20
+
+la ficha que te adjunto te puede servir de referencia.=20
+
+=20
+
+quedo atento a tu comentario.=20
+
+=20
+
+=20
+
+2014-12-16 10:47 GMT-03:00 V=C3=ADctor Irigoyen =
+<virigoyen@viaglobal.cl>:
+
+Pero la ficha esta en ai. Trazada.
+
+Asi lo hicimos con lobos marinos.
+
+=20
+
+=20
+
+
+El 16-12-2014, a las 10:21, Andr=C3=A9s Morales (CCC-CHILE) =
+<amorales@cccchile.cl> escribi=C3=B3:
+
+Ok, necesito el nombre del club en alta, igual que cuando hicimos "Lobos =
+Marinos"
+
+=20
+
+=20
+
+=20
+
+El 15 de diciembre de 2014, 18:13, V=C3=ADctor Irigoyen =
+<virigoyen@viaglobal.cl> escribi=C3=B3:
+
+Te adjunte la ficha.=20
+
+Es solo el nombre del club. No el de los jugadores.=20
+
+Todo sublimado.
+
+=20
+
+Saludos
+
+
+
+=20
+
+
+El 15-12-2014, a las 17:28, Andr=C3=A9s Morales (CCC-CHILE) =
+<amorales@cccchile.cl> escribi=C3=B3:
+
+Ok, si es que tienes el.listado de nombres los incluimos, va todo =
+sublimado.
+
+=20
+
+Sls
+
+El lunes, 15 de diciembre de 2014, Victor Irigoyen =
+<virigoyen@viaglobal.cl> escribi=C3=B3:
+
+Andres,=20
+
+=20
+
+hay un detalle que esta mal:
+
+- espalda arriba va nombre del club.=20
+
+aparece el iso ccc el la ficha MTO.
+
+=20
+
+adjunto ficha en ai.=20
+
+=20
+
+las tallas las est=C3=A1n confirmado.=20
+
+pedi que lo hicieran por sistema de medirse con huincha, estoy a la =
+espera de las tallas.=20
+
+=20
+
+saludos
+
+=20
+
+=20
+
+=20
+
+=20
+
+2014-12-15 14:39 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) =
+<amorales@cccchile.cl>:
+
+Victor,
+
+=20
+
+Te adjunto planilla de ex-alumnos.
+
+=20
+
+confirmame dise=C3=B1o y tallas.
+
+=20
+
+sls.
+
+=20
+
+
+------=_NextPart_000_0022_01D01E9E.0B799D90
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DES link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>andres<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>costea con nicolas de acuerdo a los pedidos anteriores cual seria el =
+valor de esto puesto aca en chile.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>cual es el precio de venta?<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl] =
+<br><b>Enviado el:</b> martes, 23 de diciembre de 2014 =
+0:00<br><b>Para:</b> Victor Irigoyen<br><b>CC:</b> Guillermo =
+Morales<br><b>Asunto:</b> Re: USM Ex- Aumnos MTO<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>Victor,<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>puedes revisarla ahora?<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>me faltar=C3=ADan s=C3=B3lo las =
+tallas.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>sls.<o:p></o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>El 16 =
+de diciembre de 2014, 15:15, Victor Irigoyen &lt;<a =
+href=3D"mailto:virigoyen@viaglobal.cl" =
+target=3D"_blank">virigoyen@viaglobal.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><p class=3DMsoNormal>es mejor el pdf =
+en ai que tienes ahora.&nbsp;<o:p></o:p></p><div><p =
+class=3DMsoNormal>esta trazado el =
+nombre.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>me confirmas.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>2014-12-16 15:14 GMT-03:00 Andr=C3=A9s Morales =
+(CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl" =
+target=3D"_blank">amorales@cccchile.cl</a>&gt;:<o:p></o:p></p><div><div><=
+blockquote style=3D'border:none;border-left:solid #CCCCCC =
+1.0pt;padding:0cm 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm'><p =
+class=3DMsoNormal>Si, ok. Lo veo con ellos. La vez anterior yo les mande =
+a ellos un jpg que decia &quot;lobos =
+marinos&quot;.<o:p></o:p></p><div><p class=3DMsoNormal><br><br>El =
+martes, 16 de diciembre de 2014, Victor Irigoyen &lt;<a =
+href=3D"mailto:virigoyen@viaglobal.cl" =
+target=3D"_blank">virigoyen@viaglobal.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><blockquote =
+style=3D'border:none;border-left:solid #CCCCCC 1.0pt;padding:0cm 0cm 0cm =
+6.0pt;margin-left:4.8pt;margin-right:0cm'><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>Te =
+adjunto la ficha MTO de los alumnos USM&nbsp;<o:p></o:p></p><div><p =
+class=3DMsoNormal>La vez anterior tu definiste el texto del nombre con =
+los del MTO.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>es lo mismo que colocar un nombre pero todo =
+iguales.&nbsp;<o:p></o:p></p></div><div><p class=3DMsoNormal>la ficha =
+que te adjunto te puede servir de =
+referencia.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>quedo atento a tu =
+comentario.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>2014-12-16 10:47 GMT-03:00 V=C3=ADctor Irigoyen &lt;<a =
+href=3D"mailto:virigoyen@viaglobal.cl">virigoyen@viaglobal.cl</a>&gt;:<o:=
+p></o:p></p><div><div><p class=3DMsoNormal>Pero la ficha esta en ai. =
+Trazada.<o:p></o:p></p></div><div><p class=3DMsoNormal>Asi lo hicimos =
+con lobos marinos.<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div><div><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt'><br>El 16-12-2014, a =
+las 10:21, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a =
+href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p></div><div><div><blockquote =
+style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><div><p =
+class=3DMsoNormal>Ok, necesito el nombre del club en alta, igual que =
+cuando hicimos &quot;Lobos Marinos&quot;<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>El 15 =
+de diciembre de 2014, 18:13, V=C3=ADctor Irigoyen &lt;<a =
+href=3D"mailto:virigoyen@viaglobal.cl">virigoyen@viaglobal.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal>Te adjunte =
+la ficha.&nbsp;<o:p></o:p></p></div><div><p class=3DMsoNormal>Es solo el =
+nombre del club. No el de los =
+jugadores.&nbsp;<o:p></o:p></p></div><div><p class=3DMsoNormal>Todo =
+sublimado.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'>Saludos<br><br><o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div><div><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt'><br>El 15-12-2014, a =
+las 17:28, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a =
+href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p></div><div><div><blockquote =
+style=3D'margin-top:5.0pt;margin-bottom:5.0pt'><div><p =
+class=3DMsoNormal>Ok, si es que tienes el.listado de nombres los =
+incluimos, va todo sublimado.<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>Sls<br><br>El lunes, 15 de diciembre de 2014, Victor =
+Irigoyen &lt;<a =
+href=3D"mailto:virigoyen@viaglobal.cl">virigoyen@viaglobal.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><p =
+class=3DMsoNormal>Andres,&nbsp;<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>hay un =
+detalle que esta mal:<o:p></o:p></p></div><div><p class=3DMsoNormal>- =
+espalda arriba va nombre del club.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal>aparece el iso ccc el la ficha =
+MTO.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>adjunto ficha en ai.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>las tallas las est=C3=A1n =
+confirmado.&nbsp;<o:p></o:p></p></div><div><p class=3DMsoNormal>pedi que =
+lo hicieran por sistema de medirse con huincha, estoy a la espera de las =
+tallas.&nbsp;<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>saludos<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>2014-12-15 14:39 GMT-03:00 Andr=C3=A9s Morales =
+(CCC-CHILE) &lt;<a =
+href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt;:<o:p></=
+o:p></p><div><p class=3DMsoNormal>Victor,<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>Te adjunto planilla de =
+ex-alumnos.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>confirmame dise=C3=B1o y =
+tallas.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>sls.<o:p></o:p></p></div></div></div></div></div></div>=
+</blockquote></div></div></div></div></div></div></blockquote></div></div=
+></div></div></div></blockquote></div></div></div></blockquote></div></di=
+v></div></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div></body></html>
+------=_NextPart_000_0022_01D01E9E.0B799D90--

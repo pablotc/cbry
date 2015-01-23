@@ -1,0 +1,168 @@
+Return-path: <ofuentea@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 06 Jan 2015 11:40:58 -0600
+Received: from mail-ig0-f180.google.com ([209.85.213.180]:39544)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <ofuentea@gmail.com>)
+	id 1Y8Y7m-0001GX-3j
+	for amorales@cccchile.cl; Tue, 06 Jan 2015 11:40:58 -0600
+Received: by mail-ig0-f180.google.com with SMTP id h15so4571155igd.13
+        for <amorales@cccchile.cl>; Tue, 06 Jan 2015 09:40:56 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:in-reply-to:references:date:message-id
+         :subject:from:to:content-type;
+        bh=qEcduu9Rhgn4ssBFhhphz7YgKTpJAtqbBkZNgVEWRUQ=;
+        b=tdpBmXctjai1oZvn+fgY1KJ0jmFm0jo8ZwpjRBp7zxjY9lVVp2P+tYaogJa7xnz/xM
+         81hGpTbsUc2ZKUZXb+dMdJ1G+ZoB4uABeYG9zrZChKvr3tS6sDIY3KRg9On4uQ87Riwt
+         TaXY6cNg5ZtnD2Ld0oXW4pkjrRFAgqaSofLyV5Pse+mCf5RoBQLw3dapwrwptTNlJKma
+         ei4/m5G2D5b94Z3bvvkoPb7CX+9TENRGn+FU22Aao/PPT+8dTIp+F6e5JnIAQIINIJ5U
+         gFs0wTBa4g3+aTmeR5qMLF76urfbmgTwG6O5MrFk8K8pvE/drms3wfTJsGbZg/zignW4
+         ftBA==
+MIME-Version: 1.0
+X-Received: by 10.43.44.201 with SMTP id uh9mr71222819icb.51.1420566056173;
+ Tue, 06 Jan 2015 09:40:56 -0800 (PST)
+Received: by 10.50.232.171 with HTTP; Tue, 6 Jan 2015 09:40:56 -0800 (PST)
+Reply-To: oscar.fuentealba@isitsec.cl
+In-Reply-To: <CAKggD2RAoOc962WUpELEK0VL4D4L5X0_zci=eoAywykO56TY1Q@mail.gmail.com>
+References: <CAO8kEx3OMDZUgT05VXkhgS4xLCWwTFBSy3Lfz0UjtUDfHN_bww@mail.gmail.com>
+	<CAKggD2SviDGaa9keaHe+usGpCLavuEK7pAiBLZX5rrnDQ1PHCg@mail.gmail.com>
+	<CAO8kEx2H6ArxsMNd_KU6GcpcoELX4djfMBtSZ2Txg+JT+SSXJQ@mail.gmail.com>
+	<CAKggD2RAoOc962WUpELEK0VL4D4L5X0_zci=eoAywykO56TY1Q@mail.gmail.com>
+Date: Tue, 6 Jan 2015 14:40:56 -0300
+Message-ID: <CAO8kEx2V539LFZdmSaG0UdMEfSWo7NyRCwMJiz=2+4DGygMAmA@mail.gmail.com>
+Subject: Re: Proyecto
+From: Oscar Fuentealba G - Gmail <ofuentea@gmail.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=bcaec52e614928a954050bff4fc3
+
+--bcaec52e614928a954050bff4fc3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ok
+
+El 6 de enero de 2015, 14:27, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+> Dale,
+> S=C3=B3lo avisa, nos vemos el lunes a las 9.
+>
+> El 6 de enero de 2015, 13:57, Oscar Fuentealba G - Gmail <
+> ofuentea@gmail.com> escribi=C3=B3:
+>
+> si perrin, te enviare a tomar inv de nuevo, sorry pero no me han resultad=
+o
+>> de lo mejor las cosas...
+>> y entre las preocupaciones laborales y familiares hasta cambio de
+>> telefono con mi se=C3=B1ora por error. pufff todo mal ya pasara...
+>> slds.
+>>
+>>
+>> El 6 de enero de 2015, 13:36, Andr=C3=A9s Morales (CCC-CHILE) <
+>> amorales@cccchile.cl> escribi=C3=B3:
+>>
+>> Hola Oscar,
+>>>
+>>> Ok, prefiero planificarme asi a no saber de ti!!
+>>> Lunes 9am aca entonces?
+>>> Please coordina para que vengan a jacer inventario nuevamente, ya que
+>>> hemos sacado varias cosas.
+>>>
+>>> Nos vemos el lunes.
+>>>
+>>> El martes, 6 de enero de 2015, Oscar Fuentealba G - Gmail <
+>>> ofuentea@gmail.com> escribi=C3=B3:
+>>>
+>>> Andres,
+>>>> te comento que esta semana estar=C3=A9 full a finalizar un tema a Andr=
+es
+>>>> Arrieta, favor programemos la finalizaci=C3=B3n para la semana entrant=
+e.
+>>>> favor me comentas.
+>>>> saludos cordiales.
+>>>>
+>>>> --
+>>>> Oscar Fuentealba G. | Automatizaci=C3=B3n de Procesos | Tel: (56)9-6 4=
+31 28
+>>>> 48. Nextel *56 * 22 * 23455
+>>>> ofuentea@gmail.com / oscar.fuentealba@isitsec.cl
+>>>>
+>>>>
+>>
+>>
+>> --
+>> Oscar Fuentealba G. | Automatizaci=C3=B3n de Procesos | Tel: (56)9-6 431=
+ 28
+>> 48. Nextel *56 * 22 * 23455
+>> ofuentea@gmail.com / oscar.fuentealba@isitsec.cl
+>>
+>>
+>
+
+
+--=20
+Oscar Fuentealba G. | Automatizaci=C3=B3n de Procesos | Tel: (56)9-6 431 28=
+ 48.
+Nextel *56 * 22 * 23455
+ofuentea@gmail.com / oscar.fuentealba@isitsec.cl
+
+--bcaec52e614928a954050bff4fc3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">ok</div><div class=3D"gmail_extra"><br><div class=3D"gmail=
+_quote">El 6 de enero de 2015, 14:27, Andr=C3=A9s Morales (CCC-CHILE) <span=
+ dir=3D"ltr">&lt;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">=
+amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex"><div dir=3D"ltr">Dale,<div>S=C3=B3lo avisa, nos vemos el lunes a =
+las 9.</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote"=
+>El 6 de enero de 2015, 13:57, Oscar Fuentealba G - Gmail <span dir=3D"ltr"=
+>&lt;<a href=3D"mailto:ofuentea@gmail.com" target=3D"_blank">ofuentea@gmail=
+.com</a>&gt;</span> escribi=C3=B3:<div><div class=3D"h5"><br><blockquote cl=
+ass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;p=
+adding-left:1ex"><div dir=3D"ltr">si perrin, te enviare a tomar inv de nuev=
+o, sorry pero no me han resultado de lo mejor las cosas...<div>y entre las =
+preocupaciones laborales y familiares hasta cambio de telefono con mi se=C3=
+=B1ora por error. pufff todo mal ya pasara...</div><div>slds.</div><div><br=
+></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 6=
+ de enero de 2015, 13:36, Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr"=
+>&lt;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@ccc=
+chile.cl</a>&gt;</span> escribi=C3=B3:<div><div><br><blockquote class=3D"gm=
+ail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex">Hola Oscar,=C2=A0<div><br></div><div>Ok, prefiero planificarme asi =
+a no saber de ti!!</div><div>Lunes 9am aca entonces?</div><div>Please coord=
+ina para que vengan a jacer inventario nuevamente, ya que hemos sacado vari=
+as cosas.</div><div><br></div><div>Nos vemos el lunes.<br><br>El martes, 6 =
+de enero de 2015, Oscar Fuentealba G - Gmail &lt;<a href=3D"mailto:ofuentea=
+@gmail.com" target=3D"_blank">ofuentea@gmail.com</a>&gt; escribi=C3=B3:<div=
+><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bord=
+er-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Andres,=C2=A0<div=
+>te comento que esta semana estar=C3=A9 full a finalizar un tema a Andres A=
+rrieta, favor programemos la finalizaci=C3=B3n para la semana entrante.</di=
+v><div>favor me comentas.</div><div>saludos cordiales.<br clear=3D"all"><di=
+v><br></div>-- <br><div><div dir=3D"ltr">Oscar Fuentealba G. | Automatizaci=
+=C3=B3n de Procesos | Tel: (56)9-6 431 28 48. Nextel *56 * 22 * 23455<br><a=
+>ofuentea@gmail.com</a> / <a>oscar.fuentealba@isitsec.cl</a><br><br></div><=
+/div>
+</div></div>
+</blockquote></div></div></div>
+</blockquote></div></div></div><div><div><br><br clear=3D"all"><div><br></d=
+iv>-- <br><div><div dir=3D"ltr">Oscar Fuentealba G. | Automatizaci=C3=B3n d=
+e Procesos | Tel: (56)9-6 431 28 48. Nextel *56 * 22 * 23455<br><a href=3D"=
+mailto:ofuentea@gmail.com" target=3D"_blank">ofuentea@gmail.com</a> / <a hr=
+ef=3D"mailto:oscar.fuentealba@isitsec.cl" target=3D"_blank">oscar.fuentealb=
+a@isitsec.cl</a><br><br></div></div>
+</div></div></div>
+</blockquote></div></div></div><br></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature"><div dir=3D"ltr">Oscar Fuentealba G. | Automatizaci=C3=
+=B3n de Procesos | Tel: (56)9-6 431 28 48. Nextel *56 * 22 * 23455<br><a hr=
+ef=3D"mailto:ofuentea@gmail.com" target=3D"_blank">ofuentea@gmail.com</a> /=
+ <a href=3D"mailto:oscar.fuentealba@isitsec.cl" target=3D"_blank">oscar.fue=
+ntealba@isitsec.cl</a><br><br></div></div>
+</div>
+
+--bcaec52e614928a954050bff4fc3--

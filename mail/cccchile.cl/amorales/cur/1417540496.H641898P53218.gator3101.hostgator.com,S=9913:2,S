@@ -1,0 +1,230 @@
+Return-path: <>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 02 Dec 2014 11:14:56 -0600
+Received: from gateway07.websitewelcome.com ([67.18.34.4]:52927)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1Xvr2O-000DoE-Aa
+	for amorales@cccchile.cl; Tue, 02 Dec 2014 11:14:56 -0600
+Received: by gateway07.websitewelcome.com (Postfix)
+	id 2CF8C81F19890; Tue,  2 Dec 2014 11:14:55 -0600 (CST)
+Date: Tue,  2 Dec 2014 11:14:55 -0600 (CST)
+From: MAILER-DAEMON@gateway07.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amorales@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="5811281F179C0.1417540495/gateway07.websitewelcome.com"
+Message-Id: <20141202171455.2CF8C81F19890@gateway07.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--5811281F179C0.1417540495/gateway07.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway07.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<macunasolivelles@yahoo.com>: host mta7.am0.yahoodns.net[98.136.216.25] said:
+    554 delivery error: dd This user doesn't have a yahoo.com account
+    (macunasolivelles@yahoo.com) [-5] - mta1100.mail.gq1.yahoo.com (in reply to
+    end of DATA command)
+
+--5811281F179C0.1417540495/gateway07.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway07.websitewelcome.com
+X-Postfix-Queue-ID: 5811281F179C0
+X-Postfix-Sender: rfc822; amorales@cccchile.cl
+Arrival-Date: Tue,  2 Dec 2014 11:14:49 -0600 (CST)
+
+Final-Recipient: rfc822; macunasolivelles@yahoo.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; mta7.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 delivery error: dd This user doesn't have a
+    yahoo.com account (macunasolivelles@yahoo.com) [-5] -
+    mta1100.mail.gq1.yahoo.com
+
+--5811281F179C0.1417540495/gateway07.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <amorales@cccchile.cl>
+Received: by gateway07.websitewelcome.com (Postfix, from userid 5007)
+	id 5811281F179C0; Tue,  2 Dec 2014 11:14:49 -0600 (CST)
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway07.websitewelcome.com (Postfix) with ESMTP id 3AE1781F178F9
+	for <macunasolivelles@yahoo.com>; Tue,  2 Dec 2014 11:14:49 -0600 (CST)
+Received: from [74.125.83.44] (port=53491 helo=mail-ee0-f44.google.com)
+	by gator3101.hostgator.com with esmtpsa (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <amorales@cccchile.cl>)
+	id 1Xvr2G-000DcI-K9
+	for macunasolivelles@yahoo.com; Tue, 02 Dec 2014 11:14:48 -0600
+Received: by mail-ee0-f44.google.com with SMTP id d49so108832eek.31
+        for <macunasolivelles@yahoo.com>; Tue, 02 Dec 2014 09:14:47 -0800 (PST)
+MIME-Version: 1.0
+X-Received: by 10.180.97.196 with SMTP id ec4mr6731918wib.71.1417540487539;
+ Tue, 02 Dec 2014 09:14:47 -0800 (PST)
+Received: by 10.194.178.226 with HTTP; Tue, 2 Dec 2014 09:14:47 -0800 (PST)
+In-Reply-To: <375808320-1417538577-cardhu_decombobulator_blackberry.rim.net-667178406-@b3.c1.bise6.blackberry>
+References: <CAKggD2S+wYHP392dSpJmnpSXXeEr-nO02gj0Rn=KdeJztrq2SQ@mail.gmail.com>
+	<375808320-1417538577-cardhu_decombobulator_blackberry.rim.net-667178406-@b3.c1.bise6.blackberry>
+Date: Tue, 2 Dec 2014 14:14:47 -0300
+Message-ID: <CAKggD2RwXnuhTtzihs8B1wYZ5e7-2mcrfNVt_0py6rikjhX5ww@mail.gmail.com>
+Subject: Re: Contacto Canterbury
+From: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+To: macunasolivelles@yahoo.com
+Content-Type: multipart/alternative; boundary=f46d0443067c36f51405093eddd1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 74.125.83.44
+X-Exim-ID: 1Xvr2G-000DcI-K9
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-ee0-f44.google.com) [74.125.83.44]:53491
+X-Source-Auth: amorales@cccchile.cl
+X-Email-Count: 1
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+--f46d0443067c36f51405093eddd1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Miguel,
+
+Gracias por contactarnos.
+
+Lamenteblamente no podemos confeccionarte dentro de 10 d=C3=ADas. nostros
+trabajamos en base a una planificacion de 2 a 3 meses de ventana. Es lo que
+nos demanda CCC internacional para los estandares de calidad.
+
+Lo que hoy te puedo ofrecer con poleras, shorts y medias que tengo en
+stock. Debes sumarte al dise=C3=B1o que esta propuesto.
+Te puedo pasar s=C3=B3lo las tallas S de adultos (ya que son poleras ajusta=
+das)
+pero creo que igual levemente grande les va a quedar.
+Los shorts, creo que no habr=C3=ADa problema, ya que tengo desde la talla 2=
+4 en
+adelante
+
+Puedes ingresar a la p=C3=A1gina para que veas los dise=C3=B1os y colores q=
+ue hay.
+
+Si hay alguno que te intersa, puedo hacerte un precio especial por los
+cuarenta.
+
+sls.
+
+
+El 2 de diciembre de 2014, 13:45, <macunasolivelles@yahoo.com> escribi=C3=
+=B3:
+
+> Hola Andres,
+>
+> Mi nombre es Miguel Acu=C3=B1a, vivo en Puerto Varas. Somos miembros del =
+club
+> de rugby Puerto Varas, los Jabal=C3=ADes.
+> Tenemos desde hace algunos meses una escuelita de infantiles (hasta 12
+> a=C3=B1os), y necesitamos uniforme completo para 40 ni=C3=B1os, de entre =
+6 y 12 a=C3=B1os.
+> Estamos solicitando cotizaciones, y decidirnos lo antes posible por un
+> proveedor, para manda a confeccionar dentro de 10 d=C3=ADas.
+>
+> Mi celular es 62742992.
+>
+> Muchas gracias por su respuesta.
+>
+>
+> Slds
+>
+> Miguel
+>
+> Enviado desde mi equipo BlackBerry=C2=AE de Claro
+> ------------------------------
+> *From: * Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchile.cl>
+> *Date: *Tue, 2 Dec 2014 13:37:07 -0300
+> *To: *<macunasolivelles@yahoo.es>
+> *Subject: *Contacto Canterbury
+>
+> Hola,
+>
+> Nos lleg=C3=B3 un mensaje a trav=C3=A9s de nuestra p=C3=A1gina web.
+>
+> Cu=C3=A9ntanos un poco m=C3=A1s en detalles de tu club, jugadores, donde =
+es, etc...
+> Tambi=C3=A9n para cuando necesitar=C3=ADas la indumentaria y =C3=B1i=C3=
+=B1os de que edad.
+>
+> Podr=C3=ADas compartir tu nombre y tu celular?
+>
+> sls.
+>
+
+--f46d0443067c36f51405093eddd1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Miguel,<div><br></div><div>Gracias por contactarnos.<=
+/div><div><br></div><div>Lamenteblamente no podemos confeccionarte dentro d=
+e 10 d=C3=ADas. nostros trabajamos en base a una planificacion de 2 a 3 mes=
+es de ventana. Es lo que nos demanda CCC internacional para los estandares =
+de calidad.</div><div><br></div><div>Lo que hoy te puedo ofrecer con polera=
+s, shorts y medias que tengo en stock. Debes sumarte al dise=C3=B1o que est=
+a propuesto.=C2=A0</div><div>Te puedo pasar s=C3=B3lo las tallas S de adult=
+os (ya que son poleras ajustadas) pero creo que igual levemente grande les =
+va a quedar.</div><div>Los shorts, creo que no habr=C3=ADa problema, ya que=
+ tengo desde la talla 24 en adelante</div><div><br></div><div>Puedes ingres=
+ar a la p=C3=A1gina para que veas los dise=C3=B1os y colores que hay.</div>=
+<div><br></div><div>Si hay alguno que te intersa, puedo hacerte un precio e=
+special por los cuarenta.</div><div><br></div><div>sls.</div><div><br></div=
+></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 2 de di=
+ciembre de 2014, 13:45,  <span dir=3D"ltr">&lt;<a href=3D"mailto:macunasoli=
+velles@yahoo.com" target=3D"_blank">macunasolivelles@yahoo.com</a>&gt;</spa=
+n> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 =
+0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><u></u><div>Hola Andres=
+,<br><br>Mi nombre es Miguel Acu=C3=B1a, vivo en Puerto Varas. Somos miembr=
+os del club de rugby Puerto Varas, los Jabal=C3=ADes.<br>Tenemos desde hace=
+ algunos meses una escuelita de infantiles (hasta 12 a=C3=B1os), y necesita=
+mos uniforme completo para 40 ni=C3=B1os, de entre 6 y 12 a=C3=B1os. <br>Es=
+tamos solicitando cotizaciones, y decidirnos lo antes posible por un provee=
+dor, para manda a confeccionar dentro de 10 d=C3=ADas.<br><br>Mi celular es=
+ 62742992.<br><br>Muchas gracias por su respuesta.<br><br><br>Slds<br><br>M=
+iguel<br><br><div>Enviado desde mi equipo BlackBerry=C2=AE de Claro</div><h=
+r><div class=3D"hm HOEnZb"><div><b>From: </b> Andr=C3=A9s Morales (CCC-CHIL=
+E) &lt;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@c=
+ccchile.cl</a>&gt;
+</div><div><b>Date: </b>Tue, 2 Dec 2014 13:37:07 -0300</div><div><b>To: </b=
+>&lt;<a href=3D"mailto:macunasolivelles@yahoo.es" target=3D"_blank">macunas=
+olivelles@yahoo.es</a>&gt;</div><div><b>Subject: </b>Contacto Canterbury</d=
+iv></div><div><div class=3D"h5"><div><br></div><div dir=3D"ltr">Hola,<div><=
+br></div><div>Nos lleg=C3=B3 un mensaje a trav=C3=A9s de nuestra p=C3=A1gin=
+a web.</div><div><br></div><div>Cu=C3=A9ntanos un poco m=C3=A1s en detalles=
+ de tu club, jugadores, donde es, etc...</div><div>Tambi=C3=A9n para cuando=
+ necesitar=C3=ADas la indumentaria y =C3=B1i=C3=B1os de que edad.</div><div=
+><br></div><div>Podr=C3=ADas compartir tu nombre y tu celular?</div><div><b=
+r></div><div>sls.</div></div>
+
+</div></div></div></blockquote></div><br></div>
+
+--f46d0443067c36f51405093eddd1--
+
+--5811281F179C0.1417540495/gateway07.websitewelcome.com--

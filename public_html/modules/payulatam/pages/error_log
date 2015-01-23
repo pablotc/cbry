@@ -1,0 +1,45 @@
+[01-Dec-2014 14:40:54 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(50, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'eba7899df84773e...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[01-Dec-2014 14:40:56 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(50, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'eba7899df84773e...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[01-Dec-2014 14:40:58 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(50, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'eba7899df84773e...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-Dec-2014 06:20:11 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(55, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'e2ba94ce6783d10...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-Dec-2014 06:20:13 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(55, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'e2ba94ce6783d10...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-Dec-2014 06:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(55, 0, 42990, 'PayU Latam', NULL, Array, 1, false, 'e2ba94ce6783d10...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[12-Dec-2014 02:20:03 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(60, 0, 32990, 'PayU Latam', NULL, Array, 1, false, '6481feed5e5e037...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[12-Dec-2014 02:20:04 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(60, 0, 32990, 'PayU Latam', NULL, Array, 1, false, '6481feed5e5e037...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[12-Dec-2014 02:20:06 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(60, 0, 32990, 'PayU Latam', NULL, Array, 1, false, '6481feed5e5e037...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167

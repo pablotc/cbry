@@ -1,0 +1,148 @@
+Return-path: <info@payulatam.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Wed, 12 Nov 2014 16:19:45 -0600
+Received: from mail.pagosonline.net ([198.61.156.98]:42391)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <info@payulatam.com>)
+	id 1XogGP-0007uV-96
+	for admin@cccchile.cl; Wed, 12 Nov 2014 16:19:45 -0600
+Received: from 468719-payuapp02.pagosonline.net (unknown [10.50.100.171])
+	by mail.pagosonline.net (Postfix) with ESMTP id C6C4FA74D0
+	for <admin@cccchile.cl>; Wed, 12 Nov 2014 17:19:42 -0500 (COT)
+Date: Wed, 12 Nov 2014 17:19:42 -0500 (COT)
+From: PayU Latam <info@payulatam.com>
+To: admin@cccchile.cl
+Message-ID: <1363645354.160621415830782807.JavaMail.root@468719-payuapp02.pagosonline.net>
+Subject: -- Transaccion Rechazada: [46b664e2-d86c-4c68-b13c-0b51e1511543] ,
+ Referencia: [payU_Canterbury Chile_35] --
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_24143_431590997.1415830782804"
+
+------=_Part_24143_431590997.1415830782804
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+   </head>
+<body style="font-family: Arial, Helvetica, sans-serif;">
+	    <table width="585" border="0" align="center" cellpadding="0" cellspacing="0" style="margin: auto;">
+       
+        <tr>
+          <td cellpadding="0" cellspacing="0" style="background: #fff;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td cellpadding="0" cellspacing="0" style="background: #fff;" width="600"><img src="http://www.payulatam.com/img-correos/transaccion_rechazada_comercio.png"
+                        alt="PayU" border="0" width="608" />
+            </td>
+        </tr>
+        <tr>
+            <td style="background: #1c3a85; color: #fff; padding: 5px 40px 5px  40px;">
+                <h1 style="text-transform: uppercase; font-size: 18px; font-weight: normal; margin:0px;">
+                    Pago rechazado</h1>
+            </td>
+        </tr>
+        <tr>
+          
+            <td cellpadding="0" cellspacing="0" style="padding: 12px 53px 18px 44px; font-family: Arial, Helvetica, sans-serif;
+                font-size: 13px; color: #748594; border-right: solid 1px #d1d1d1;
+                border-left: solid 1px #d1d1d1;">
+                <h2 style="color: #1c3f95; font-size: 20px; display: block; margin-bottom: 0px; font-weight: normal;
+                    line-height: 25px;">
+                    <strong>Hola CONFECCIONES DE VESTUARIO REINALTER LTDA,</strong><br />
+Lamentamos informarte que se ha rechazado un pago.</h2>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-bottom: 20px; border-left: 1px solid #d1d1d1; border-right: 1px solid #d1d1d1;">
+                <table width="520" border="0" align="center" cellpadding="0" cellspacing="1" style="margin: auto;">
+                  <tr>
+                    <td height="25" colspan="2" bgcolor="#009cdd"
+                            align="center" style="font-family:Arial, Helvetica, sans-serif; color:#FFF;  font-weight:bold; font-size: 15px; border-bottom: solid 1px #fff;">DATOS DE LA TRANSACCI&Oacute;N </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="middle" bgcolor="#7d7d7d" style="color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> ID de transacci&oacute;n</td>
+                    <td width="295" bgcolor="#eaeaea" style="padding: 9px 10px 8px 22px; font-size: 12px; border-bottom: solid 1px #fff; color: #747474;"> 46b664e2-d86c-4c68-b13c-0b51e1511543 </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="baseline" bgcolor="#7D7D7D" style="color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> Estado</td>
+                    <td width="295" valign="baseline" bgcolor="#EAEAEA" style="padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;"> RECHAZADA </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> Descripci&oacute;n </td>
+                    <td width="295" valign="baseline" bgcolor="#EAEAEA" style=" padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;"> Canterbury Chile Order </td>
+                  </tr>
+                  <tr>
+                    <td height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;">Referencia</td>
+                    <td valign="baseline" bgcolor="#EAEAEA" style=" padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;">payU_Canterbury Chile_35</td>
+                  </tr>
+                  <tr>
+                    <td height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;">Valor</td>
+                    <td valign="baseline" bgcolor="#EAEAEA" style=" padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;">31992.06 </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> Moneda</td>
+                    <td width="295" valign="baseline" bgcolor="#EAEAEA" style=" padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;"> CLP </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;" > Fecha</td>
+                    <td width="295" valign="baseline" bgcolor="#EAEAEA" style="padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;" > 2014-11-12 17:19:17 </td>
+                  </tr>
+                  <tr>
+                    <td width="225" height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> Medio de Pago/Franquicia </td>
+                    <td width="295" valign="baseline" bgcolor="#EAEAEA" style="padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;"> TRANSBANK </td>
+                  </tr>
+                  <tr>
+                    <td height="15" valign="baseline" bgcolor="#7D7D7D" style=" color: #fff; padding: 6px 5px 6px 15px; font-size: 12px; border-bottom: solid 1px #fff;"> E-mail de comprador</td>
+                    <td valign="baseline" bgcolor="#EAEAEA" style="padding: 9px 10px 8px 22px; border-bottom: solid 1px #fff; font-size: 12px; color: #747474;">ANDRESARRIETA@GMAIL.COM</td>
+                  </tr>
+            </table></td>
+        </tr>
+        <tr>
+            <td style="padding: 2px; border-left: #d1d1d1 1px solid; border-right: #d1d1d1 1px solid;"><p style="text-align: center; font-size: 12px; color: #788590;">
+                <b>Si tienes alguna duda o inquietud por favor consulta en tu </b><a href="https://secure.payulatam.com/login.zul"
+                            style="color: #009cdd; text-transform: uppercase;" target="_blank"><strong>M&Oacute;DULO ADMINISTRATIVO</strong></a></p>            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" style="border-left: #d1d1d1 1px solid; border-right: #d1d1d1 1px solid; padding-top:15px;">
+                <img src="http://www.payulatam.com/img-correos/division.png">
+            </td>
+      </tr>
+        <tr>
+            <td style="border-right: solid 1px #d1d1d1; border-bottom: solid 1px #d1d1d1; border-left:solid 1px #d1d1d1;">
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <td  height="169" cellpading="0" cellspacing="0" style="padding: 15px 10px 20px 42px;
+                        font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000;">
+                        <p>
+                            Cordialmente,</p>
+                        <img src="http://www.payulatam.com/img-correos/logo_footer.png" />
+                        <a href="http://www.payulatam.com/" style="color: #00aeef; text-decoration: none;
+                            font-weight: bold; width: 40px; display: block; padding-top: 7px;" target="_blank">
+                            www.payulatam.com</a>
+                        <p style="font-family: arial; font-size: 10px; color: #a9a9a9; padding-right: 10px;">
+                            El contenido de este mensaje puede ser informaci&oacute;n privilegiada y confidencial.
+                            Si usted no es el destinatario real del mismo, por favor informe de ello a quien
+                            lo env&iacute;a y destr&uacute;yalo en forma inmediata. Est&aacute; prohibida su
+                            retenci&oacute;n, grabaci&oacute;n, utilizaci&oacute;n o divulgaci&oacute;n con
+                            cualquier prop&oacute;sito. Este mensaje ha sido verificado con software antivirus,
+                            en consecuencia, el remitente de este no se hace responsable por la presencia en
+                            &eacute;l o en sus anexos de alg&uacute;n virus que pueda generar da&ntilde;os en los equipos
+                            o programas del destinatario.
+                        </p>
+                    </td>
+                    <td valign="bottom">
+                        <img src="http://www.payulatam.com/img-correos/graphic_bottom.png" />
+                    </td>
+                </table>
+            
+        </tr>
+       
+    </table>
+</body>
+------=_Part_24143_431590997.1415830782804--

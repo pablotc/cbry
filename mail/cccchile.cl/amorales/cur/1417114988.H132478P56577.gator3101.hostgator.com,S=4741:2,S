@@ -1,0 +1,109 @@
+Return-path: <>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 27 Nov 2014 13:03:08 -0600
+Received: from gateway12.websitewelcome.com ([69.93.82.6]:46843)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1Xu4LL-000Egh-My
+	for amorales@cccchile.cl; Thu, 27 Nov 2014 13:03:07 -0600
+Received: by gateway12.websitewelcome.com (Postfix)
+	id AA289DE786EBD; Thu, 27 Nov 2014 13:03:06 -0600 (CST)
+Date: Thu, 27 Nov 2014 13:03:06 -0600 (CST)
+From: MAILER-DAEMON@gateway12.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amorales@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="86486DE786E68.1417114986/gateway12.websitewelcome.com"
+Message-Id: <20141127190306.AA289DE786EBD@gateway12.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--86486DE786E68.1417114986/gateway12.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway12.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<paolaterzago@gmail.com>: host gmail-smtp-in.l.google.com[64.233.160.26] said:
+    550-5.1.1 The email account that you tried to reach does not exist. Please
+    try 550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596
+    j190si5535830oib.28 - gsmtp (in reply to RCPT TO command)
+
+--86486DE786E68.1417114986/gateway12.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway12.websitewelcome.com
+X-Postfix-Queue-ID: 86486DE786E68
+X-Postfix-Sender: rfc822; amorales@cccchile.cl
+Arrival-Date: Thu, 27 Nov 2014 13:03:06 -0600 (CST)
+
+Final-Recipient: rfc822; paolaterzago@gmail.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    http://support.google.com/mail/bin/answer.py?answer=6596
+    j190si5535830oib.28 - gsmtp
+
+--86486DE786E68.1417114986/gateway12.websitewelcome.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <amorales@cccchile.cl>
+Received: by gateway12.websitewelcome.com (Postfix, from userid 5007)
+	id 86486DE786E68; Thu, 27 Nov 2014 13:03:06 -0600 (CST)
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway12.websitewelcome.com (Postfix) with ESMTP id 54F46DE78546B
+	for <paolaterzago@gmail.com>; Thu, 27 Nov 2014 13:02:59 -0600 (CST)
+Received: from [209.85.212.171] (port=40202 helo=mail-wi0-f171.google.com)
+	by gator3101.hostgator.com with esmtpsa (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <amorales@cccchile.cl>)
+	id 1Xu4L9-000EI4-Sz
+	for paolaterzago@gmail.com; Thu, 27 Nov 2014 13:02:58 -0600
+Received: by mail-wi0-f171.google.com with SMTP id bs8so16620131wib.4
+        for <paolaterzago@gmail.com>; Thu, 27 Nov 2014 11:02:54 -0800 (PST)
+MIME-Version: 1.0
+X-Received: by 10.180.108.167 with SMTP id hl7mr53284765wib.68.1417114974586;
+ Thu, 27 Nov 2014 11:02:54 -0800 (PST)
+Received: by 10.194.178.226 with HTTP; Thu, 27 Nov 2014 11:02:54 -0800 (PST)
+Date: Thu, 27 Nov 2014 16:02:54 -0300
+Message-ID: <CAKggD2RU2N2hQR-P4p5hOd=_5ZJdRPtq_z9_FZTtTst-CnL5Tw@mail.gmail.com>
+Subject: Muy simple
+From: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+To: paolaterzago@gmail.com
+Content-Type: multipart/mixed; boundary=e89a8f3ba343ac13410508dbca16
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - gmail.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 209.85.212.171
+X-Exim-ID: 1Xu4L9-000EI4-Sz
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-wi0-f171.google.com) [209.85.212.171]:40202
+X-Source-Auth: amorales@cccchile.cl
+X-Email-Count: 1
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+--86486DE786E68.1417114986/gateway12.websitewelcome.com--

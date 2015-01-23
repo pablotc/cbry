@@ -1,0 +1,212 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 09 Dec 2014 08:43:26 -0600
+Received: from mail-qa0-f50.google.com ([209.85.216.50]:37572)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1XyM0c-0001rb-DW
+	for amorales@cccchile.cl; Tue, 09 Dec 2014 08:43:26 -0600
+Received: by mail-qa0-f50.google.com with SMTP id w8so453765qac.23
+        for <amorales@cccchile.cl>; Tue, 09 Dec 2014 06:43:24 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=RHHX7COhXZXxfodaqB6woFpeYfxRsy0Sp9URYylM+J0=;
+        b=JgYbQRuRGtaPpjpHN8LCzayKe6iDbMI7GhKb1g4xNfAEhydsdxFm474Pk6akMWh2Ze
+         HEGMedYtj6EbGXLSt/VPc12DHMWh9Gbhw9bhwDCAo/yqrhejl2zHQBTFaJ1fGIhb+Od0
+         bPPFMv3NkzGEU3tLHVd+EPOi8Vz+qsXbQov63DDuduw9GQwVww4tm10bzUV/qhJvKwwz
+         Z7RrkwC6rgwdymkVUR3tg/lOgyXIdibiYsY8sJKUdZkIydwiA1OeMjWaAUaQSadVBZPZ
+         SF+6qdMv4OnsW+DpCCOiosLXE7XoSNYStJ9PHfSOoSwubZ7QEQKcjuAVEhmIZcXOm2w9
+         9uqQ==
+X-Gm-Message-State: ALoCoQmfhllGr/derRsBCrTr2ut+YYYJNq/xBI/RhFTVkHE7/7j+w7tYt87sus39wh+806QYRh4S
+X-Received: by 10.224.121.142 with SMTP id h14mr6200587qar.80.1418136204353;
+        Tue, 09 Dec 2014 06:43:24 -0800 (PST)
+Received: from [10.232.241.117] ([201.220.243.17])
+        by mx.google.com with ESMTPSA id g12sm1220024qay.44.2014.12.09.06.43.21
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 09 Dec 2014 06:43:23 -0800 (PST)
+References: <071901d00fed$086aff00$1940fd00$@spindeportes.cl> <CAKggD2QiKJjTG0YoPVLQzNMDb-uPfxk0XZ_S_nkQJqQxcZZZUQ@mail.gmail.com> <4471E558-1F3E-4818-A970-AAB1C20569F8@viaglobal.cl> <CAJbDu1kuf+awrS_0s_oqbGcm66jSXtYTNxNOq4miHK2k8X0D0w@mail.gmail.com> <CAJbDu1=hQmXLaSkXhVwV366aqfnYaGSNBiEf8w0NZkkFPrgokg@mail.gmail.com> <CAKggD2RUffL5ENNgbu4TR-NdzRawBQS=6BJMt-a5HVtBWepPqw@mail.gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CAKggD2RUffL5ENNgbu4TR-NdzRawBQS=6BJMt-a5HVtBWepPqw@mail.gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-4D369ED7-2227-4CF2-911B-46676D55860D
+Content-Transfer-Encoding: 7bit
+Message-Id: <9526FA8F-5CAA-4914-979A-5D843F1ED4AF@viaglobal.cl>
+Cc: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+X-Mailer: iPhone Mail (12B411)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: situacion critica por reuniones
+Date: Tue, 9 Dec 2014 11:43:19 -0300
+To: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+
+
+--Apple-Mail-4D369ED7-2227-4CF2-911B-46676D55860D
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+No. Me deberian confirmar hoy
+
+
+
+
+> El 09-12-2014, a las 11:40, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccc=
+hile.cl> escribi=C3=B3:
+>=20
+> ok, supiste algo de country?
+>=20
+> El 9 de diciembre de 2014, 11:11, Victor Irigoyen <virigoyen@viaglobal.cl>=
+ escribi=C3=B3:
+>> actualizaci=C3=B3n=20
+>>=20
+>> - old newlanders 10:00
+>> - troncos: hay que almorzar con el a las 15:00=20
+>> va a estar en un hotel y esta operado de la rodilla.=20
+>>=20
+>>=20
+>> 2014-12-05 11:52 GMT-03:00 Victor Irigoyen <virigoyen@viaglobal.cl>:
+>>=20
+>>> actualizo reuniones.=20
+>>>=20
+>>> saludos
+>>>=20
+>>>=20
+>>> 2014-12-04 17:31 GMT-03:00 V=C3=ADctor Irigoyen <virigoyen@viaglobal.cl>=
+:
+>>>=20
+>>>> Ma=C3=B1ana
+>>>> 10:30 J. Jackson
+>>>> 12:00 uandes=20
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>=20
+>>>>> El 04-12-2014, a las 17:16, Andr=C3=A9s Morales (CCC-CHILE) <amorales@=
+cccchile.cl> escribi=C3=B3:
+>>>>>=20
+>>>>=20
+>>>>> ok, victor, tienes mas confirmaciones?
+>>>>>=20
+>>>>> aviasame please.
+>>>>>=20
+>>>>> El 4 de diciembre de 2014, 15:06, Guillermo Morales - Spin Ltda <gmora=
+les@spindeportes.cl> escribi=C3=B3:
+>>>>>> Victor/Andres
+>>>>>>=20
+>>>>>> Supe que no aparecio el tipo de l U Andes.  Estamos complicados porqu=
+e viene Fabian  y la presentaci=C3=B3n de n=C3=BAmeros y proyecciones la ten=
+emos que hacer muy en seri el lunes.
+>>>>>>=20
+>>>>>> Al momento no tenemos ninguna reuni=C3=B3n mas agendadas ya que seg=C3=
+=BAn el cuadro todas dicen por confirmar. (Falto poner a Troncos en esa nomi=
+na).
+>>>>>>=20
+>>>>>> En Todas las reuniones de proyecci=C3=B3n y acuerdos debe estar Andre=
+s o yo presentes, por lo que es imprescindible coordinar HOY las citas.
+>>>>>>=20
+>>>>>> Esto es muy serio y no  veo que vamos a presentar ya que solo hemos t=
+enido una reuni=C3=B3n con USM.
+>>>>>>=20
+>>>>>> He visto pasar mails y mails de Andres pidiendo proyecciones y el lle=
+nado de los cuadros que pide CCC. Hemos pedido hace varios d=C3=ADas las reu=
+niones con los clientes y clubes y no tenemos nada confirmado.
+>>>>>>=20
+>>>>>> Victor te pido ayuda  ahora mismo.
+>>>>>>=20
+>>>>>> GM
+>>>>>>=20
+>>>>>> CCC Chile
+>>>>>>=20
+>>>>>> NOTA:
+>>>>>>=20
+>>>>>> ANDRES: en este momento ,si las reuniones ya fueron solicitadas por V=
+ictor y nadie ha confirmado ,creo que se les debe enviar a cada uno una cart=
+a c/membrete CCC formal, firmada por ti, dirigida a la persona que ha realiz=
+ado las compras  pidiendo la reuni=C3=B3n dentro de un plazo fijo de los pr=C3=
+=B3ximos d=C3=ADas.
+>>>>>>=20
+>=20
+
+--Apple-Mail-4D369ED7-2227-4CF2-911B-46676D55860D
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>No. Me deberian confirmar hoy<br><br><=
+br><div><br></div></div><div><br>El 09-12-2014, a las 11:40, Andr=C3=A9s Mor=
+ales (CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchi=
+le.cl</a>&gt; escribi=C3=B3:<br><br></div><blockquote type=3D"cite"><div><di=
+v dir=3D"ltr">ok, supiste algo de country?</div><div class=3D"gmail_extra"><=
+br><div class=3D"gmail_quote">El 9 de diciembre de 2014, 11:11, Victor Irigo=
+yen <span dir=3D"ltr">&lt;<a href=3D"mailto:virigoyen@viaglobal.cl" target=3D=
+"_blank">virigoyen@viaglobal.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote=
+ class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex"><div dir=3D"ltr">actualizaci=C3=B3n&nbsp;<div><br></div><=
+div>- old newlanders 10:00</div><div>- troncos: hay que almorzar con el a la=
+s 15:00&nbsp;</div><div>va a estar en un hotel y esta operado de la rodilla.=
+&nbsp;</div><div><br></div></div><div class=3D"gmail_extra"><br><div class=3D=
+"gmail_quote">2014-12-05 11:52 GMT-03:00 Victor Irigoyen <span dir=3D"ltr">&=
+lt;<a href=3D"mailto:virigoyen@viaglobal.cl" target=3D"_blank">virigoyen@via=
+global.cl</a>&gt;</span>:<div><div class=3D"h5"><br><blockquote class=3D"gma=
+il_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex"><div dir=3D"ltr">actualizo reuniones.&nbsp;<div><br></div><div>saludos=
+</div><div><br></div></div><div class=3D"gmail_extra"><br><div class=3D"gmai=
+l_quote">2014-12-04 17:31 GMT-03:00 V=C3=ADctor Irigoyen <span dir=3D"ltr">&=
+lt;<a href=3D"mailto:virigoyen@viaglobal.cl" target=3D"_blank">virigoyen@via=
+global.cl</a>&gt;</span>:<div><div><br><blockquote class=3D"gmail_quote" sty=
+le=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div di=
+r=3D"auto"><div>Ma=C3=B1ana</div><div>10:30 J. Jackson</div><div>12:00 uande=
+s&nbsp;</div><div><br></div><div><br><br><br><div><br></div></div><div><br>E=
+l 04-12-2014, a las 17:16, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"ma=
+ilto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt; es=
+cribi=C3=B3:<br><br></div><div><div><blockquote type=3D"cite"><div><div dir=3D=
+"ltr">ok, victor, tienes mas confirmaciones?<div><br></div><div>aviasame ple=
+ase.</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El=
+ 4 de diciembre de 2014, 15:06, Guillermo Morales - Spin Ltda <span dir=3D"l=
+tr">&lt;<a href=3D"mailto:gmorales@spindeportes.cl" target=3D"_blank">gmoral=
+es@spindeportes.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gma=
+il_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex"><div lang=3D"ES" link=3D"blue" vlink=3D"purple"><div><p class=3D"MsoNo=
+rmal"><span lang=3D"ES-CL">Victor/Andres<u></u><u></u></span></p><p class=3D=
+"MsoNormal"><span lang=3D"ES-CL">Supe que no aparecio el tipo de l U Andes.&=
+nbsp; Estamos complicados porque viene Fabian &nbsp;y la presentaci=C3=B3n d=
+e n=C3=BAmeros y proyecciones la tenemos que hacer muy en seri el lunes.<u><=
+/u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">Al momento n=
+o tenemos ninguna reuni=C3=B3n mas agendadas ya que seg=C3=BAn el cuadro tod=
+as dicen por confirmar. (Falto poner a Troncos en esa nomina).<u></u><u></u>=
+</span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">En <b>Todas</b> las r=
+euniones de proyecci=C3=B3n y acuerdos debe estar Andres o yo presentes, por=
+ lo que es imprescindible coordinar HOY las citas.<u></u><u></u></span></p><=
+p class=3D"MsoNormal"><span lang=3D"ES-CL">Esto es muy serio y no&nbsp; veo q=
+ue vamos a presentar ya que solo hemos tenido una reuni=C3=B3n con USM.<u></=
+u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">He visto pas=
+ar mails y mails de Andres pidiendo proyecciones y el llenado de los cuadros=
+ que pide CCC. Hemos pedido hace varios d=C3=ADas las reuniones con los clie=
+ntes y clubes y no tenemos nada confirmado.<u></u><u></u></span></p><p class=
+=3D"MsoNormal"><span lang=3D"ES-CL">Victor te pido ayuda&nbsp; ahora mismo. <=
+u></u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">GM<u></u=
+><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">CCC Chile<u><=
+/u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">NOTA: <u></=
+u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES-CL">ANDRES: en e=
+ste momento ,si las reuniones ya fueron solicitadas por Victor y nadie ha co=
+nfirmado ,creo que se les debe enviar a cada uno <b>una carta c/membrete CCC=
+ formal, firmada por ti,</b> dirigida a la persona que ha realizado las comp=
+ras &nbsp;pidiendo la reuni=C3=B3n dentro de un plazo fijo de los pr=C3=B3xi=
+mos d=C3=ADas.<u></u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"=
+ES-CL"><u></u>&nbsp;<u></u></span></p><p class=3D"MsoNormal"><span lang=3D"E=
+S-CL"><u></u>&nbsp;<u></u></span></p><p class=3D"MsoNormal"><span lang=3D"ES=
+-CL"><u></u>&nbsp;<u></u></span></p></div></div></blockquote></div><br></div=
+>
+</div></blockquote></div></div></div></blockquote></div></div></div><br></di=
+v>
+</blockquote></div></div></div><br></div>
+</blockquote></div><br></div>
+</div></blockquote></body></html>=
+
+--Apple-Mail-4D369ED7-2227-4CF2-911B-46676D55860D--

@@ -86,3 +86,9 @@ sudo git commit -a -m '21-10-14'
 git push
 #1413922146
  git commit -a -m 'arreglo videos home'
+#1418612728
+git commit -a -m Â'2014-12-15'
+#1418612760
+git push
+#1422021705
+git add *

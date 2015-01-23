@@ -1,0 +1,47 @@
+Return-path: <franof.0@gmail.com>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Sun, 30 Nov 2014 21:35:05 -0600
+Received: from mail-qc0-f170.google.com ([209.85.216.170]:41486)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <franof.0@gmail.com>)
+	id 1XvHlR-0005BS-1o
+	for nseguel@cccchile.cl; Sun, 30 Nov 2014 21:35:05 -0600
+Received: by mail-qc0-f170.google.com with SMTP id x3so7105914qcv.1
+        for <nseguel@cccchile.cl>; Sun, 30 Nov 2014 19:35:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:content-transfer-encoding:subject:from:message-id:date
+         :to:mime-version;
+        bh=wqEzjHkbgZn/RQdvV2TpBgrix4yttHDVMqBngBG1mN4=;
+        b=WOTNIEOSdu0fvb3IMQfSPFeawELFvUg90EE9ljhYqi+5lAkN8cIV76r5P3mb7aOydw
+         7ZBrAvCZAMsGVDy8xW3yZAWxzOiONpXoVM6J8XZrz2umOkJbJo6poO9Q/aMurzn6gqPb
+         a0FNsI1TYPJReUG3hsAZHcLxMpKEEYfDLSefX953MMKA/GhmpeEHx0AS10L5JYnT2vmq
+         BjY+xYnyjyeSSYPi3cOlQ0PlTE3xvBCiyNbZ22XUhX0Jr0VJAOmzgpMOQ17/wPxahw/7
+         hHKPmXDCPAgdnzPnvNR8a2pov4Se1nw5TyoYi+lgtUWVQfu1ECoiwEw0cMAt2plJZp8Q
+         sCkQ==
+X-Received: by 10.224.54.2 with SMTP id o2mr65005829qag.34.1417404902705;
+        Sun, 30 Nov 2014 19:35:02 -0800 (PST)
+Received: from [192.168.1.6] ([200.74.176.33])
+        by mx.google.com with ESMTPSA id b17sm16272668qah.35.2014.11.30.19.35.01
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 30 Nov 2014 19:35:01 -0800 (PST)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Subject: Abono poleras
+From: franof.0@gmail.com
+Message-Id: <21A51B0B-C5BF-4D5C-B612-3E4E2484641B@gmail.com>
+Date: Mon, 1 Dec 2014 00:34:27 -0300
+To: Nicolas Seguel <nicolas.seguel@femoglas.com>,
+ =?utf-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Mime-Version: 1.0 (1.0)
+X-Mailer: iPhone Mail (11D257)
+
+Nico, dame los datos para transferir el 50% y lo hago apenas me los des. 
+
+Abrazo,
+
+Frano
+
+

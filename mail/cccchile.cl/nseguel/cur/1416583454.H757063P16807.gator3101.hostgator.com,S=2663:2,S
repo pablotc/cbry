@@ -1,0 +1,60 @@
+Return-path: <franof.0@gmail.com>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Fri, 21 Nov 2014 09:24:14 -0600
+Received: from mail-ob0-f179.google.com ([209.85.214.179]:49043)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <franof.0@gmail.com>)
+	id 1Xrq4E-0004Kg-Iy
+	for nseguel@cccchile.cl; Fri, 21 Nov 2014 09:24:14 -0600
+Received: by mail-ob0-f179.google.com with SMTP id va2so4171970obc.10
+        for <nseguel@cccchile.cl>; Fri, 21 Nov 2014 07:24:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=l8ygZ0DNZlBwLZ7xqOzdsGbxKwScKsols8h6r0a9yGk=;
+        b=MtaKrLxJDJwPFk86lNTH8Xr/bGTUx/KOZ32mvEjKk7eIPqYH7qwCfXdkKSyZuBrd0O
+         0hb3LcLOOagoRX6wpS6DTT9Aeo+CnRtcvVN7l3komH2Y1F8t91dPcORkWUZ58qAuK+pz
+         FqvwSWh0XqWwLtda0qLcu0/XwFKI+PrxnlBigvZ4Cyu0oAHmyvI1qnrwqsKLFAy2Hri2
+         8bAUSWgPlZQPq80TVMnuylulUYaRQhaMdGl/g3eXkHEqjgCQe5GauEVg+c3tVWNTCs/O
+         vHRlJ4QJCBHPu3BWftwlLE2O8tamuHQSK8BA1l+R9BK3K/ECxOvKFVgai2vYT2UAvZHq
+         d/ng==
+MIME-Version: 1.0
+X-Received: by 10.182.98.168 with SMTP id ej8mr3381569obb.41.1416583451340;
+ Fri, 21 Nov 2014 07:24:11 -0800 (PST)
+Received: by 10.182.207.41 with HTTP; Fri, 21 Nov 2014 07:24:11 -0800 (PST)
+Date: Fri, 21 Nov 2014 12:24:11 -0300
+Message-ID: <CADAXPF6LxepTn7dNEQ=FfVmOqdD7c6kNLW3PW6SRkBk9iKPj+w@mail.gmail.com>
+Subject: Detalle color polera
+From: =?UTF-8?Q?Francisco_Javier_Fern=C3=A1ndez?= <franof.0@gmail.com>
+To: "Nicolas Seguel (Politec)" <nicolas.seguel@femoglas.com>, 
+	=?UTF-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7b2e46f269744f05086009ca
+
+--047d7b2e46f269744f05086009ca
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Nico,
+
+Me equivoqu=C3=A9 en un color de la generaci=C3=B3n 1995-1990 de mujeres pu=
+se pantone
+2395c cuando deber=C3=ADa haber sido 2385c. Igual, ese color es s=C3=B3lo p=
+ara las
+mujeres por que lo descartamos para los hombre (Rosado o Lila no se).
+
+Abrazo,
+
+Frano
+
+--047d7b2e46f269744f05086009ca
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Nico,<div><br></div><div>Me equivoqu=C3=A9 en un color de =
+la generaci=C3=B3n 1995-1990 de mujeres puse pantone 2395c cuando deber=C3=
+=ADa haber sido 2385c. Igual, ese color es s=C3=B3lo para las mujeres por q=
+ue lo descartamos para los hombre (Rosado o Lila no se).=C2=A0</div><div><b=
+r></div><div>Abrazo,</div><div><br></div><div>Frano</div></div>
+
+--047d7b2e46f269744f05086009ca--

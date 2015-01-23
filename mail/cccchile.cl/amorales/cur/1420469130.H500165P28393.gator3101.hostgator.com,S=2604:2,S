@@ -1,0 +1,58 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 05 Jan 2015 08:45:30 -0600
+Received: from mail-ob0-f170.google.com ([209.85.214.170]:51187)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1Y88uQ-0007LX-8l
+	for amorales@cccchile.cl; Mon, 05 Jan 2015 08:45:30 -0600
+Received: by mail-ob0-f170.google.com with SMTP id wp18so60981605obc.1
+        for <amorales@cccchile.cl>; Mon, 05 Jan 2015 06:45:28 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=Uj3Jl1W4X0dTjq6seWj7AJenTmdWJZCl5Z1/e/qLD28=;
+        b=Nqfj54wz7I6EXGW3qQPuUF4jqvBE1guGFb0IpKJ6zcCZN+aqIhqUd45pAyjjLxuADp
+         +OCFfOOA+j2iER2zG1g1WGjqDTLmQbeInxYKe0NUdd/TjBukrBZ3XA1Nv1gRerPtcJlh
+         y1HdJa5u2lvMnz/EbT2pBvulPZ+aJD9ssCziF9gJEZmopkoqH7qBsRDZyniHVBx0Anoe
+         jMjTou1lX/TfvMg6fUz2fGRnsStTykTM4DucCXlezcKLtTjKOSXmFx6jyZger8XiWL/G
+         Fw84OAciOKSKyd43GyTcvz0Ww4NOj5LMZrd5JcwhcKqTkZ6Jd9EmFtvw0Zwgs9SAxAYu
+         0eoA==
+X-Gm-Message-State: ALoCoQmfNjetPjydqlUd7UsdRkH54GK1QGzI1wOQnn4CbiOPyzuYFW7TcAgEKBgRc+f3MyL+H17u
+MIME-Version: 1.0
+X-Received: by 10.182.246.163 with SMTP id xx3mr4783373obc.83.1420469128257;
+ Mon, 05 Jan 2015 06:45:28 -0800 (PST)
+Received: by 10.182.28.72 with HTTP; Mon, 5 Jan 2015 06:45:28 -0800 (PST)
+X-Originating-IP: [190.47.165.41]
+Date: Mon, 5 Jan 2015 11:45:28 -0300
+Message-ID: <CAJbDu1mmfveBfu8-8r48bhRG0YWwUQdghOfp08=UpCFKonquTw@mail.gmail.com>
+Subject: PWCC
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a11c1ee46cdf7bb050be8bdf2
+
+--001a11c1ee46cdf7bb050be8bdf2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andres
+te parece que veamos el tema de la lista de precio y revisemos lo de PWCC?
+tengo esta semana, me voy de vacaciones la pr=C3=B3xima.
+
+me cuentas para coordinarme.
+
+saludos
+
+--001a11c1ee46cdf7bb050be8bdf2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andres=C2=A0<div>te parece que veamos el tema de la lista =
+de precio y revisemos lo de PWCC?</div><div>tengo esta semana, me voy de va=
+caciones la pr=C3=B3xima.=C2=A0</div><div><br></div><div>me cuentas para co=
+ordinarme.=C2=A0</div><div><br></div><div>saludos</div><div><br></div></div=
+>
+
+--001a11c1ee46cdf7bb050be8bdf2--

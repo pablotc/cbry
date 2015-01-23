@@ -1,0 +1,710 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Thu, 09 Oct 2014 21:44:48 -0500
+Received: from mail-wg0-f51.google.com ([74.125.82.51]:55449)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1XcQCG-000NT8-1h
+	for logistics@cccchile.cl; Thu, 09 Oct 2014 21:44:48 -0500
+Received: by mail-wg0-f51.google.com with SMTP id b13so2776974wgh.22
+        for <logistics@cccchile.cl>; Thu, 09 Oct 2014 19:44:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=jK1X9ssyE9QTERBDb63sEcjJR/soduBD3vc0TXTHj7s=;
+        b=m0XjOXPEjCzi8WbCnnAkuL/F019nFhKmo0cqTgr84DcEpn0skgrgvTFQt+Cec49n73
+         z0Xh5xAN1PvGkMUk+428QMU4kTHl+G+NwxT4urFbpbt+sRgW6nwRGbGRFgvl4n5wUOVl
+         114O3VdDugZqtWpacyrWrsto/8ABFHn6Uhx5kRCo6CpT+D6ntPMAB+ByhNGeFtpC6R55
+         7Pf8txik8cb0NsYpNoGVHxUHVEnt3aavBpvtm5D8wRFGzC565F/2zOwPGNnT06bgKDBB
+         WBeFW2+BEsUkWM/8hPsFpdtFR3II2yWXhEYoveSMSt6JxlZobTAS/qcwG3dda+SWXOv8
+         s8BA==
+MIME-Version: 1.0
+X-Received: by 10.194.133.135 with SMTP id pc7mr1471638wjb.54.1412909084794;
+ Thu, 09 Oct 2014 19:44:44 -0700 (PDT)
+Received: by 10.194.173.232 with HTTP; Thu, 9 Oct 2014 19:44:44 -0700 (PDT)
+In-Reply-To: <BFF8654BE71840DAA9BF9B0628989A1C@SANTIAGO>
+References: <A2CED97F4CFA43358E9732DC6AFB267B@SANTIAGO>
+	<bhd6rsmvxx0e6rabiwlm7n45.1412078261952@email.android.com>
+	<71852BE0E4B64454B1E10844133E2158@SANTIAGO>
+	<542AE233.10205@graton.com.ar>
+	<542AF2F1.3030600@cloverlog.com.ar>
+	<A81E0858A2E942589138602252D8827A@SANTIAGO>
+	<542D62D1.7040108@cloverlog.com.ar>
+	<93074D6AF79D42129A1E4374DFE566E6@SANTIAGO>
+	<5432ED78.2070605@cloverlog.com.ar>
+	<5435AA3E.2070902@graton.com.ar>
+	<B7FEF051CE76470EB7BB5A075A85ECB2@SANTIAGO>
+	<5436A683.2090709@cloverlog.com.ar>
+	<BFF8654BE71840DAA9BF9B0628989A1C@SANTIAGO>
+Date: Thu, 9 Oct 2014 23:44:44 -0300
+Message-ID: <CAKggD2StjyW8t-UgVLyisNVwqWJutQZqPj+gb_dZx2wb+WAoPA@mail.gmail.com>
+Subject: =?UTF-8?Q?Pedido_de_cotizaci=C3=B3n_flete_aereo_Buenos_Aires_=2D_San?=
+	=?UTF-8?Q?tiago=2E?=
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: "Mediarg S.H." <info@mediarg.com>
+Cc: Gmorales <movilgmorales@spindeportes.cl>, 
+	Guillermo Morales <gmorales@spindeportes.cl>, Marcelo Canavari <mcanavari@hotmail.com>, 
+	"mediargba@fibertel.com.ar" <mediargba@fibertel.com.ar>, logistics@cccchile.cl
+Content-Type: multipart/alternative; boundary=089e0122978a1965f80505088834
+
+--089e0122978a1965f80505088834
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Mil gracias.
+
+El 9 de octubre de 2014, 12:23, Mediarg S.H. <info@mediarg.com
+<javascript:_e(%7B%7D,'cvml','info@mediarg.com');>> escribi=C3=B3:
+
+>  Estimado Guillermo:
+> Debajo la confirmaci=C3=B3n del vuelo para hoy de la carga.
+> Adjunto factura, lista de empaque y datos para realizar el pago.
+> Cualquier duda estoy a disposici=C3=B3n.
+> Gracias.
+>
+> Saludos,
+> Santiago Alvarez
+> MEDIARG
+> Tel: 02923 476699
+> Cel: 02923 15436983
+> ingenieria@mediarg.com
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');>
+> www.mediarg.com
+>
+> ----- Original Message -----
+> *From:* Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> <javascript:_e(%7B%7D,'cvml','vbejarano@cloverlog.com.ar');>
+> *To:* Mediarg S.H. <javascript:_e(%7B%7D,'cvml','info@mediarg.com');>
+> *Cc:* Clover Logistics SRL. (Lucio)
+> <javascript:_e(%7B%7D,'cvml','largentato@cloverlog.com.ar');> ; Clover
+> Logistics SRL. (Calatayud)
+> <javascript:_e(%7B%7D,'cvml','acalatayud@cloverlog.com.ar');>
+> *Sent:* Thursday, October 09, 2014 12:15 PM
+> *Subject:* Re: Pedido de cotizaci=C3=B3n flete aereo Buenos Aires - Santi=
+ago.
+>
+> Estimados buenas!
+>
+> La carga est=C3=A1 saliendo en el vuelo de hoy por la tarde
+>
+>
+>
+> Saludos!
+>
+> Victoria Bejarano
+> CLOVER LOGISTICS - BUE
+> Ph (54-11) 5218-5200 - Ext. 107
+> Fax ( 54-11) 5258-2558
+> Nextel : 190*2147vbejarano@cloverlog.com.ar <javascript:_e(%7B%7D,'cvml',=
+'vbejarano@cloverlog.com.ar');>www.cloverlog.com.ar
+>
+> El 09/10/2014 11:17, Mediarg S.H. escribi=C3=B3:
+>
+> Victoria:
+> Por favor, confirmame cuando vuela la carga, as=C3=AD aviso al cliente.
+> Gracias.
+>
+> Saludos,
+> Santiago Alvarez
+> MEDIARG
+> Tel: 02923 476699
+> Cel: 02923 15436983
+> ingenieria@mediarg.com
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');>
+> www.mediarg.com
+>
+> ----- Original Message -----
+> *From:* Estudio Aduana Graton
+> <javascript:_e(%7B%7D,'cvml','estudioaduana@graton.com.ar');>
+> *To:* Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> <javascript:_e(%7B%7D,'cvml','vbejarano@cloverlog.com.ar');> ; Mediarg
+> S.H. <javascript:_e(%7B%7D,'cvml','info@mediarg.com');>
+> *Cc:* Clover Logistics SRL. (Lucio)
+> <javascript:_e(%7B%7D,'cvml','largentato@cloverlog.com.ar');> ; Clover
+> Logistics SRL. (Calatayud)
+> <javascript:_e(%7B%7D,'cvml','acalatayud@cloverlog.com.ar');>
+> *Sent:* Wednesday, October 08, 2014 6:18 PM
+> *Subject:* Re: Pedido de cotizaci=C3=B3n flete aereo Buenos Aires - Santi=
+ago.
+>
+> Hola Victoria,
+>
+> El P.E. ya est=C3=A1 en estado AUTO, con carga autorizada.
+>
+> Cualquier cosa nos comunicamos.-
+>
+> Saludos cordiales
+>
+> Alberto D. Graton
+>
+>
+>
+>
+> El 06/10/2014 16:28, Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> escribi=C3=B3:
+>
+> Estimados buenas!
+>
+> Dejo pre alerta de la presente carga
+> Cualquier consulta a disposici=C3=B3n
+>
+> Saludos!
+>
+> Victoria Bejarano
+> CLOVER LOGISTICS - BUE
+> Ph (54-11) 5218-5200 - Ext. 107
+> Fax ( 54-11) 5258-2558
+> Nextel : 190*2147vbejarano@cloverlog.com.ar <javascript:_e(%7B%7D,'cvml',=
+'vbejarano@cloverlog.com.ar');>www.cloverlog.com.ar
+>
+> El 04/10/2014 11:35, Mediarg S.H. escribi=C3=B3:
+>
+> Perfecto Victoria, gracias.
+>
+> Saludos,
+> Santiago Alvarez
+> MEDIARG
+> Tel: 02923 476699
+> Cel: 02923 15436983
+> ingenieria@mediarg.com
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');>
+> www.mediarg.com
+>
+> ----- Original Message -----
+> *From:* Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> <javascript:_e(%7B%7D,'cvml','vbejarano@cloverlog.com.ar');>
+> *To:* Mediarg S.H. <javascript:_e(%7B%7D,'cvml','info@mediarg.com');> ; E=
+studio
+> Aduana Graton
+> <javascript:_e(%7B%7D,'cvml','estudioaduana@graton.com.ar');>
+> *Cc:* Clover Logistics SRL. (Lucio)
+> <javascript:_e(%7B%7D,'cvml','largentato@cloverlog.com.ar');> ; Clover
+> Logistics SRL. (Calatayud)
+> <javascript:_e(%7B%7D,'cvml','acalatayud@cloverlog.com.ar');>
+> *Sent:* Thursday, October 02, 2014 11:36 AM
+> *Subject:* Re: Pedido de cotizaci=C3=B3n flete aereo Buenos Aires - Santi=
+ago.
+>
+> Hola Santiago, buenas!
+>
+> El sobre con la doc te pido que est=C3=A9 cerrado a nombre de Jorge y Die=
+go de
+> Clover. Si va junto con la carga con que el chofer se los entregue en man=
+o
+> a ellos va a estar bien!!
+> Sos nextel son: Jorge 190*2150 Diego 167*4110
+>
+> Cualquier consulta a disposici=C3=B3n
+>
+> Saludos!
+>
+> Victoria Bejarano
+> CLOVER LOGISTICS - BUE
+> Ph (54-11) 5218-5200 - Ext. 107
+> Fax ( 54-11) 5258-2558
+> Nextel : 190*2147vbejarano@cloverlog.com.ar <javascript:_e(%7B%7D,'cvml',=
+'vbejarano@cloverlog.com.ar');>www.cloverlog.com.ar
+>
+> El 01/10/2014 18:32, Mediarg S.H. escribi=C3=B3:
+>
+> Estimados:
+> Les confirmo que la mercader=C3=ADa estar=C3=A1 ingresando a Ezeiza el lu=
+nes 06/10
+> al medio d=C3=ADa.
+>
+> Victoria, junto con la carga ir=C3=A1 la documentaci=C3=B3n original de l=
+a
+> mercader=C3=ADa. Te pido me indiques donde entregarla, y un nombre y tel=
+=C3=A9fono de
+> contacto en Ezeiza por cualquer cuesti=C3=B3n.
+>
+> Gracias!
+>
+> Saludos,
+> Santiago Alvarez
+> MEDIARG
+> Tel: 02923 476699
+> Cel: 02923 15436983
+> ingenieria@mediarg.com
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');>
+> www.mediarg.com
+>
+> ----- Original Message -----
+> *From:* Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> <javascript:_e(%7B%7D,'cvml','vbejarano@cloverlog.com.ar');>
+> *To:* Estudio Aduana Graton
+> <javascript:_e(%7B%7D,'cvml','estudioaduana@graton.com.ar');>
+> *Cc:* "Soxpig=C3=BCe S.A. - Ingenieria"
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');> ; "Soxpig=C3=BCe=
+ S.A.
+> - General" <javascript:_e(%7B%7D,'cvml','info@mediarg.com');> ; Clover
+> Logistics SRL. (Lucio)
+> <javascript:_e(%7B%7D,'cvml','largentato@cloverlog.com.ar');> ; Clover
+> Logistics SRL. (Calatayud)
+> <javascript:_e(%7B%7D,'cvml','acalatayud@cloverlog.com.ar');>
+> *Sent:* Tuesday, September 30, 2014 3:14 PM
+> *Subject:* Re: Pedido de cotizaci=C3=B3n flete aereo Buenos Aires - Santi=
+ago.
+>
+> Hola Alberto buenas!
+>
+> Gracias por la info, si es Lan Chile.
+>
+> Saludos!
+>
+> Victoria Bejarano
+> CLOVER LOGISTICS - BUE
+> Ph (54-11) 5218-5200 - Ext. 107
+> Fax ( 54-11) 5258-2558
+> Nextel : 190*2147vbejarano@cloverlog.com.ar <javascript:_e(%7B%7D,'cvml',=
+'vbejarano@cloverlog.com.ar');>www.cloverlog.com.ar
+>
+> El 30/09/2014 14:02, Estudio Aduana Graton escribi=C3=B3:
+>
+> Hola Victoria / Lucio,
+>
+> Se adjunta la Instruccion de embarque para esta operacion; el flete aereo
+> es en condicion collect.
+> La mercaderia ingresaria en TCA el lunes por la ma=C3=B1ana 6/10, por lo =
+cual
+> la salida deberia en principio reservarse para el dia siguiente.
+>
+> Confirmar si la aerolinea es LAN.-
+>
+> Saludos cordiales.-
+>
+>
+>
+>
+>
+>   ----- Original Message -----
+> *From:* Victoria Bejarano - CLOVER LOGISTICS - AR BUE
+> <javascript:_e(%7B%7D,'cvml','vbejarano@cloverlog.com.ar');>
+> *To:* Ingenieria Mediarg
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');> ; Lucio Argentat=
+o
+> <javascript:_e(%7B%7D,'cvml','largentato@cloverlog.com.ar');>
+> *Sent:* Monday, September 29, 2014 10:59 AM
+> *Subject:* Re: Pedido de cotizaci=C3=B3n flete aereo Buenos Aires - Santi=
+ago.
+>
+> Hola Santiago buenas!
+>
+> Te paso cotizaci=C3=B3n solicitada
+>
+> *EZE-SCL*
+> FLETE +100 KG USD 1.10 X KG/VOL
+> +MZ USD 30.00
+> +MBC USD 25.00
+> AW USD 45.00
+> SO USD 11.00
+> HA USD 65.00
+>
+> Quedo a la espera de tus comentarios
+>
+> Saludos!
+>
+> Victoria Bejarano
+> CLOVER LOGISTICS - BUE
+> Ph (54-11) 5218-5200 - Ext. 107
+> Fax ( 54-11) 5258-2558
+> Nextel : 190*2147vbejarano@cloverlog.com.ar <javascript:_e(%7B%7D,'cvml',=
+'vbejarano@cloverlog.com.ar');>www.cloverlog.com.ar
+>
+> El 29/09/2014 10:37, Ingenieria Mediarg escribi=C3=B3:
+>
+>
+> Victoria:
+> Tengo un env=C3=ADo FOB de medias de poliester para Santiago - Chile.
+> .
+> El cliente me solicita cotizaci=C3=B3n por flete aereo. Son 10 cajas suel=
+tas de
+> 0,75m X 0,38m X 0,36m cada una.
+> Es un volumen total de 1m3 y un peso bruto total de 136Kg.
+>
+> Espero tu respuesta, desde ya, muchas gracias.
+>
+> Saludos,
+> Santiago Alvarez
+> MEDIARG
+> Tel: 02923 476699
+> Cel: 02923 15436983
+> ingenieria@mediarg.com
+> <javascript:_e(%7B%7D,'cvml','ingenieria@mediarg.com');>
+> www.mediarg.com
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+--089e0122978a1965f80505088834
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Mil gracias.</div><div class=3D"gmail_extra"><br><div clas=
+s=3D"gmail_quote">El 9 de octubre de 2014, 12:23, Mediarg S.H. <span dir=3D=
+"ltr">&lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;info@mediarg.=
+com&#39;);" target=3D"_blank">info@mediarg.com</a>&gt;</span> escribi=C3=B3=
+:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-le=
+ft:1px #ccc solid;padding-left:1ex"><u></u>
+
+
+
+<div bgcolor=3D"#ffffff" text=3D"#000000">
+<div><font face=3D"Arial">Estimado Guillermo:</font></div>
+<div><font face=3D"Arial">Debajo la confirmaci=C3=B3n del vuelo para hoy de=
+ la=20
+carga.</font></div>
+<div><font face=3D"Arial">Adjunto factura, lista de empaque y datos para=20
+realizar el pago.</font></div>
+<div><font face=3D"Arial">Cualquier duda estoy a disposici=C3=B3n.</font></=
+div><span>
+<div><font face=3D"Arial">Gracias.</font></div>
+<div><font face=3D"Arial"></font>=C2=A0</div>
+<div>Saludos,<br>Santiago Alvarez<br>MEDIARG<br>Tel: 02923 476699<br>Cel: 0=
+2923=20
+15436983<br><a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;ingenieria@=
+mediarg.com&#39;);" target=3D"_blank">ingenieria@mediarg.com</a><br><a href=
+=3D"http://www.mediarg.com" target=3D"_blank">www.mediarg.com</a><br></div>
+</span><blockquote style=3D"BORDER-LEFT:#000000 2px solid;PADDING-LEFT:5px;=
+PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px"><span>
+  <div style=3D"FONT:10pt arial">----- Original Message ----- </div>
+  <div style=3D"FONT:10pt arial;BACKGROUND:#e4e4e4"><b>From:</b>=20
+  <a title=3D"vbejarano@cloverlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39=
+;cvml&#39;,&#39;vbejarano@cloverlog.com.ar&#39;);" target=3D"_blank">Victor=
+ia Bejarano - CLOVER LOGISTICS=20
+  - AR BUE</a> </div>
+  </span><span><div style=3D"FONT:10pt arial"><b>To:</b> <a title=3D"info@m=
+ediarg.com" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;info@mediarg.c=
+om&#39;);" target=3D"_blank">Mediarg S.H.</a> </div>
+  <div style=3D"FONT:10pt arial"><b>Cc:</b> <a title=3D"largentato@cloverlo=
+g.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;largentato@clove=
+rlog.com.ar&#39;);" target=3D"_blank">Clover Logistics SRL. (Lucio)</a> ;=
+=20
+  <a title=3D"acalatayud@cloverlog.com.ar" href=3D"javascript:_e(%7B%7D,&#3=
+9;cvml&#39;,&#39;acalatayud@cloverlog.com.ar&#39;);" target=3D"_blank">Clov=
+er Logistics SRL.=20
+  (Calatayud)</a> </div>
+  <div style=3D"FONT:10pt arial"><b>Sent:</b> Thursday, October 09, 2014 12=
+:15=20
+  PM</div>
+  <div style=3D"FONT:10pt arial"><b>Subject:</b> Re: Pedido de cotizaci=C3=
+=B3n flete=20
+  aereo Buenos Aires - Santiago.</div>
+  <div><br></div>
+  </span><div><font size=3D"-1"><font face=3D"Comic Sans
+          MS">Estimados buenas!<br><br>La carga est=C3=A1=20
+  saliendo en el vuelo de hoy por la tarde<br></font></font><br><font size=
+=3D"-1"><font face=3D"Comic Sans MS"><img alt=3D"" src=3D"/mail/u/0/s/?view=
+=3Datt&amp;th=3D148f5f81a9d02595&amp;attid=3D0.1&amp;disp=3Demb&amp;realatt=
+id=3D589a4c62a9c02c0_0.0.1&amp;zw&amp;atsh=3D1"><br><br>Saludos!<br><br></f=
+ont></font><span><pre cols=3D"72">Victoria Bejarano
+CLOVER LOGISTICS - BUE
+Ph (54-11) 5218-5200 - Ext. 107
+Fax ( 54-11) 5258-2558
+Nextel : 190*2147
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com=
+.ar&#39;);" target=3D"_blank">vbejarano@cloverlog.com.ar</a>
+<a href=3D"http://www.cloverlog.com.ar" target=3D"_blank">www.cloverlog.com=
+.ar</a> </pre></span>El=20
+  09/10/2014 11:17, Mediarg S.H. escribi=C3=B3:<br></div>
+  <blockquote type=3D"cite">
+   =20
+    <div><font face=3D"Arial">Victoria:</font></div>
+    <div><font face=3D"Arial">Por favor, confirmame cuando vuela la carga,=
+=20
+    as=C3=AD aviso al cliente.</font></div><span>
+    <div><font face=3D"Arial">Gracias.</font></div>
+    <div>=C2=A0</div>
+    <div>Saludos,<br>Santiago Alvarez<br>MEDIARG<br>Tel: 02923 476699<br>Ce=
+l:=20
+    02923 15436983<br><a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;i=
+ngenieria@mediarg.com&#39;);" target=3D"_blank">ingenieria@mediarg.com</a><=
+br><a href=3D"http://www.mediarg.com" target=3D"_blank">www.mediarg.com</a>=
+<br></div>
+    </span><blockquote style=3D"BORDER-LEFT:#000000 2px solid;PADDING-LEFT:=
+5px;PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px"><span>
+      <div style=3D"FONT:10pt arial">----- Original Message ----- </div>
+      <div style=3D"FONT:10pt arial;BACKGROUND:#e4e4e4"><b>From:</b>=20
+      <a title=3D"estudioaduana@graton.com.ar" href=3D"javascript:_e(%7B%7D=
+,&#39;cvml&#39;,&#39;estudioaduana@graton.com.ar&#39;);" target=3D"_blank">=
+Estudio=20
+      Aduana Graton</a> </div>
+      <div style=3D"FONT:10pt arial"><b>To:</b> <a title=3D"vbejarano@clove=
+rlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@clo=
+verlog.com.ar&#39;);" target=3D"_blank">Victoria Bejarano - CLOVER LOGISTIC=
+S - AR BUE</a> ;=20
+      <a title=3D"info@mediarg.com" href=3D"javascript:_e(%7B%7D,&#39;cvml&=
+#39;,&#39;info@mediarg.com&#39;);" target=3D"_blank">Mediarg S.H.</a> </div=
+>
+      <div style=3D"FONT:10pt arial"><b>Cc:</b> <a title=3D"largentato@clov=
+erlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;largentato@c=
+loverlog.com.ar&#39;);" target=3D"_blank">Clover=20
+      Logistics SRL. (Lucio)</a> ; <a title=3D"acalatayud@cloverlog.com.ar"=
+ href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;acalatayud@cloverlog.com.=
+ar&#39;);" target=3D"_blank">Clover=20
+      Logistics SRL. (Calatayud)</a> </div>
+      <div style=3D"FONT:10pt arial"><b>Sent:</b> Wednesday, October 08, 20=
+14=20
+      6:18 PM</div>
+      <div style=3D"FONT:10pt arial"><b>Subject:</b> Re: Pedido de cotizaci=
+=C3=B3n=20
+      flete aereo Buenos Aires - Santiago.</div>
+      <div><br></div></span><font size=3D"-1"><font face=3D"Verdana">Hola V=
+ictoria,<br><br>El=20
+      P.E. ya est=C3=A1 en estado AUTO, con carga autorizada.<br><br>Cualqu=
+ier cosa=20
+      nos comunicamos.-<br><br>Saludos cordiales<br><br>Alberto D.=20
+      Graton<br><br><br><br><br></font></font>
+      <div>El 06/10/2014 16:28, Victoria Bejarano - CLOVER=20
+      LOGISTICS - AR BUE escribi=C3=B3:<br></div>
+      <blockquote type=3D"cite">
+        <div><font size=3D"-1"><font face=3D"Comic
+ Sans MS">Estimados buenas!<br><br>Dejo pre alerta=20
+        de la presente carga<br>Cualquier consulta a=20
+        disposici=C3=B3n<br><br>Saludos!<br></font></font><span><pre cols=
+=3D"72">Victoria Bejarano
+CLOVER LOGISTICS - BUE
+Ph (54-11) 5218-5200 - Ext. 107
+Fax ( 54-11) 5258-2558
+Nextel : 190*2147
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com=
+.ar&#39;);" target=3D"_blank">vbejarano@cloverlog.com.ar</a>
+<a href=3D"http://www.cloverlog.com.ar" target=3D"_blank">www.cloverlog.com=
+.ar</a> </pre></span>El=20
+        04/10/2014 11:35, Mediarg S.H. escribi=C3=B3:<br></div>
+        <blockquote type=3D"cite">
+         =20
+          <div><font face=3D"Arial">Perfecto Victoria, gracias.</font></div=
+><span>
+          <div>=C2=A0</div>
+          <div>Saludos,<br>Santiago Alvarez<br>MEDIARG<br>Tel: 02923=20
+          476699<br>Cel: 02923 15436983<br><a href=3D"javascript:_e(%7B%7D,=
+&#39;cvml&#39;,&#39;ingenieria@mediarg.com&#39;);" target=3D"_blank">ingeni=
+eria@mediarg.com</a><br><a href=3D"http://www.mediarg.com" target=3D"_blank=
+">www.mediarg.com</a><br></div>
+          </span><blockquote style=3D"BORDER-LEFT:#000000 2px solid;PADDING=
+-LEFT:5px;PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px">
+            <div style=3D"FONT:10pt arial">----- Original Message ----- </d=
+iv><span>
+            <div style=3D"FONT:10pt arial;BACKGROUND:#e4e4e4"><b>From:</b>=
+=20
+            <a title=3D"vbejarano@cloverlog.com.ar" href=3D"javascript:_e(%=
+7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com.ar&#39;);" target=3D"_bla=
+nk">Victoria Bejarano - CLOVER LOGISTICS - AR=20
+            BUE</a> </div>
+            </span><span><div style=3D"FONT:10pt arial"><b>To:</b> <a title=
+=3D"info@mediarg.com" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;info=
+@mediarg.com&#39;);" target=3D"_blank">Mediarg=20
+            S.H.</a> ; <a title=3D"estudioaduana@graton.com.ar" href=3D"jav=
+ascript:_e(%7B%7D,&#39;cvml&#39;,&#39;estudioaduana@graton.com.ar&#39;);" t=
+arget=3D"_blank">Estudio Aduana Graton</a> </div>
+            <div style=3D"FONT:10pt arial"><b>Cc:</b> <a title=3D"largentat=
+o@cloverlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;largen=
+tato@cloverlog.com.ar&#39;);" target=3D"_blank">Clover Logistics SRL. (Luci=
+o)</a> ; <a title=3D"acalatayud@cloverlog.com.ar" href=3D"javascript:_e(%7B=
+%7D,&#39;cvml&#39;,&#39;acalatayud@cloverlog.com.ar&#39;);" target=3D"_blan=
+k">Clover Logistics SRL. (Calatayud)</a> </div>
+            <div style=3D"FONT:10pt arial"><b>Sent:</b> Thursday, October 0=
+2,=20
+            2014 11:36 AM</div>
+            <div style=3D"FONT:10pt arial"><b>Subject:</b> Re: Pedido de=20
+            cotizaci=C3=B3n flete aereo Buenos Aires - Santiago.</div>
+            <div><br></div>
+            </span><div><font size=3D"-1"><font face=3D"Comic
+ Sans MS">Hola Santiago, buenas!<br><br>El=20
+            sobre con la doc te pido que est=C3=A9 cerrado a nombre de Jorg=
+e y Diego=20
+            de Clover. Si va junto con la carga con que el chofer se los=20
+            entregue en mano a ellos va a estar bien!!<br>Sos nextel son: J=
+orge=20
+            190*2150 Diego 167*4110<br><br>Cualquier consulta a=20
+            disposici=C3=B3n<br><br>Saludos!<br></font></font><span><pre co=
+ls=3D"72">Victoria Bejarano
+CLOVER LOGISTICS - BUE
+Ph (54-11) 5218-5200 - Ext. 107
+Fax ( 54-11) 5258-2558
+Nextel : 190*2147
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com=
+.ar&#39;);" target=3D"_blank">vbejarano@cloverlog.com.ar</a>
+<a href=3D"http://www.cloverlog.com.ar" target=3D"_blank">www.cloverlog.com=
+.ar</a> </pre></span>El=20
+            01/10/2014 18:32, Mediarg S.H. escribi=C3=B3:<br></div>
+            <blockquote type=3D"cite">
+             =20
+              <div><font face=3D"Arial">Estimados:</font></div>
+              <div><font face=3D"Arial">Les confirmo que la mercader=C3=ADa=
+ estar=C3=A1=20
+              ingresando a Ezeiza el lunes 06/10 al medio d=C3=ADa.</font><=
+/div>
+              <div>=C2=A0</div>
+              <div><font face=3D"Arial">Victoria, junto con la carga ir=C3=
+=A1 la=20
+              documentaci=C3=B3n original de la mercader=C3=ADa. Te pido me=
+ indiques donde=20
+              entregarla, y un nombre y tel=C3=A9fono de contacto en Ezeiza=
+ por=20
+              cualquer cuesti=C3=B3n.</font></div>
+              <div>=C2=A0</div>
+              <div><font face=3D"Arial">Gracias!</font></div><span>
+              <div>=C2=A0</div>
+              <div>Saludos,<br>Santiago Alvarez<br>MEDIARG<br>Tel: 02923=20
+              476699<br>Cel: 02923 15436983<br><a href=3D"javascript:_e(%7B=
+%7D,&#39;cvml&#39;,&#39;ingenieria@mediarg.com&#39;);" target=3D"_blank">in=
+genieria@mediarg.com</a><br><a href=3D"http://www.mediarg.com" target=3D"_b=
+lank">www.mediarg.com</a><br></div>
+              </span><blockquote style=3D"BORDER-LEFT:#000000 2px solid;PAD=
+DING-LEFT:5px;PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px"><span>
+                <div style=3D"FONT:10pt arial">----- Original Message -----=
+=20
+</div>
+                <div style=3D"FONT:10pt arial;BACKGROUND:#e4e4e4"><b>From:<=
+/b>=20
+                <a title=3D"vbejarano@cloverlog.com.ar" href=3D"javascript:=
+_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com.ar&#39;);" target=3D"=
+_blank">Victoria Bejarano - CLOVER LOGISTICS - AR=20
+                BUE</a> </div>
+                </span><span><div style=3D"FONT:10pt arial"><b>To:</b> <a t=
+itle=3D"estudioaduana@graton.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml=
+&#39;,&#39;estudioaduana@graton.com.ar&#39;);" target=3D"_blank">Estudio Ad=
+uana Graton</a> </div>
+                <div style=3D"FONT:10pt arial"><b>Cc:</b> <a title=3D"ingen=
+ieria@mediarg.com" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;ingenie=
+ria@mediarg.com&#39;);" target=3D"_blank">&quot;Soxpig=C3=BCe S.A. - Ingeni=
+eria&quot;</a> ; <a title=3D"info@mediarg.com" href=3D"javascript:_e(%7B%7D=
+,&#39;cvml&#39;,&#39;info@mediarg.com&#39;);" target=3D"_blank">&quot;Soxpi=
+g=C3=BCe S.A. - General&quot;</a> ; <a title=3D"largentato@cloverlog.com.ar=
+" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;largentato@cloverlog.com=
+.ar&#39;);" target=3D"_blank">Clover Logistics SRL. (Lucio)</a> ; <a title=
+=3D"acalatayud@cloverlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39=
+;,&#39;acalatayud@cloverlog.com.ar&#39;);" target=3D"_blank">Clover Logisti=
+cs SRL. (Calatayud)</a>=20
+                </div>
+                <div style=3D"FONT:10pt arial"><b>Sent:</b> Tuesday, Septem=
+ber=20
+                30, 2014 3:14 PM</div>
+                <div style=3D"FONT:10pt arial"><b>Subject:</b> Re: Pedido d=
+e=20
+                cotizaci=C3=B3n flete aereo Buenos Aires - Santiago.</div>
+                <div><br></div>
+                </span><div><font size=3D"-1"><font face=3D"Comic Sans MS">=
+Hola Alberto buenas!<br><br>Gracias por la=20
+                info, si es Lan Chile.<br><br>Saludos!<br></font></font><sp=
+an><pre cols=3D"72">Victoria Bejarano
+CLOVER LOGISTICS - BUE
+Ph (54-11) 5218-5200 - Ext. 107
+Fax ( 54-11) 5258-2558
+Nextel : 190*2147
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com=
+.ar&#39;);" target=3D"_blank">vbejarano@cloverlog.com.ar</a>
+<a href=3D"http://www.cloverlog.com.ar" target=3D"_blank">www.cloverlog.com=
+.ar</a> </pre></span>El=20
+                30/09/2014 14:02, Estudio Aduana Graton escribi=C3=B3:<br><=
+/div>
+                <blockquote type=3D"cite"><small>Hola Victoria / Lucio,<br>=
+<br>Se adjunta la=20
+                  Instruccion de embarque para esta operacion; el flete aer=
+eo es=20
+                  en condicion collect.<br>La mercaderia ingresaria en TCA =
+el=20
+                  lunes por la ma=C3=B1ana 6/10, por lo cual la salida debe=
+ria en=20
+                  principio reservarse para el dia siguiente.<br><br>Confir=
+mar=20
+                  si la aerolinea es LAN.-<br><br>Saludos=20
+                  cordiales.-<br><br><br><br></small><div><div><br><br>
+                  <blockquote type=3D"cite">
+                    <blockquote style=3D"BORDER-LEFT:#000000 2px solid;PADD=
+ING-LEFT:5px;PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px" dir=3D"ltr=
+">
+                      <div>
+                      <div style=3D"FONT:10pt arial">----- Original Message=
+ -----=20
+
+                      <div style=3D"BACKGROUND:#e4e4e4"><b>From:</b> <a tit=
+le=3D"vbejarano@cloverlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#3=
+9;,&#39;vbejarano@cloverlog.com.ar&#39;);" target=3D"_blank">Victoria Bejar=
+ano - CLOVER=20
+                      LOGISTICS - AR BUE</a> </div>
+                      <div><b>To:</b> <a title=3D"ingenieria@mediarg.com" h=
+ref=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;ingenieria@mediarg.com&#39;=
+);" target=3D"_blank">Ingenieria Mediarg</a> ; <a title=3D"largentato@clove=
+rlog.com.ar" href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;largentato@cl=
+overlog.com.ar&#39;);" target=3D"_blank">Lucio Argentato</a> </div>
+                      <div><b>Sent:</b> Monday, September 29, 2014 10:59=20
+AM</div>
+                      <div><b>Subject:</b> Re: Pedido de cotizaci=C3=B3n fl=
+ete aereo=20
+                      Buenos Aires - Santiago.</div></div>
+                      <div><br></div>
+                      <div><font size=3D"-1"><font face=3D"Comic Sans MS">H=
+ola Santiago buenas!<br><br>Te paso=20
+                      cotizaci=C3=B3n=20
+                      solicitada<br><br><u><b>EZE-SCL</b></u><br>FLETE +100=
+ KG=20
+                      USD 1.10 X KG/VOL<br>+MZ USD 30.00<br>+MBC USD 25.00<=
+br>AW=20
+                      USD 45.00<br>SO USD 11.00<br>HA USD 65.00<br><br>Qued=
+o a=20
+                      la espera de tus=20
+                      comentarios<br><br>Saludos!<br></font></font><pre col=
+s=3D"72">Victoria Bejarano
+CLOVER LOGISTICS - BUE
+Ph (54-11) 5218-5200 - Ext. 107
+Fax ( 54-11) 5258-2558
+Nextel : 190*2147
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;vbejarano@cloverlog.com=
+.ar&#39;);" target=3D"_blank">vbejarano@cloverlog.com.ar</a>
+<a href=3D"http://www.cloverlog.com.ar" target=3D"_blank">www.cloverlog.com=
+.ar</a> </pre>El=20
+                      29/09/2014 10:37, Ingenieria Mediarg escribi=C3=B3:<b=
+r></div>
+                      <blockquote type=3D"cite">
+                       =20
+                       =20
+
+                        <blockquote style=3D"BORDER-LEFT:#000000 2px solid;=
+PADDING-LEFT:5px;PADDING-RIGHT:0px;MARGIN-LEFT:5px;MARGIN-RIGHT:0px" dir=3D=
+"ltr">
+                          <div><br></div>
+                          <div><font face=3D"Arial">Victoria:</font></div>
+                          <div><font face=3D"Arial">Tengo un env=C3=ADo FOB=
+ de=20
+                          medias de poliester=C2=A0para Santiago -=20
+                          Chile.</font></div>
+                          <div><font face=3D"Arial">.</font></div>
+                          <div><font face=3D"Arial">El cliente me=20
+                          solicita=C2=A0cotizaci=C3=B3n por flete aereo. So=
+n 10 cajas=20
+                          sueltas de 0,75m X 0,38m X 0,36m cada=20
+una.</font></div>
+                          <div><font face=3D"Arial">Es un volumen total de=
+=20
+                          1m3 y un peso bruto total de 136Kg.</font></div>
+                          <div>=C2=A0</div>
+                          <div><font face=3D"Arial">Espero tu respuesta,=20
+                          desde ya, muchas gracias.</font></div>
+                          <div>=C2=A0</div>
+                          <div>Saludos,<br>Santiago Alvarez<br>MEDIARG<br>T=
+el:=20
+                          02923 476699<br>Cel: 02923 15436983<br><a href=3D=
+"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;ingenieria@mediarg.com&#39;);" ta=
+rget=3D"_blank">ingenieria@mediarg.com</a><br><a href=3D"http://www.mediarg=
+.com" target=3D"_blank">www.mediarg.com</a></div>
+                          <div>=C2=A0</div>
+                          <div>=C2=A0</div></blockquote></blockquote><br></=
+div></blockquote></blockquote><br></div></div></blockquote><br></blockquote=
+></blockquote><br></blockquote></blockquote><br></blockquote><br></blockquo=
+te></blockquote><br></blockquote></div>
+</blockquote></div><br></div>
+
+--089e0122978a1965f80505088834--

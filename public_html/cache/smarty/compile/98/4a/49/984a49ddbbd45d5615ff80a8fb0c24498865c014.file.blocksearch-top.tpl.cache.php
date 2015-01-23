@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:10:27
+<?php /* Smarty version Smarty-3.1.14, created on 2015-01-21 12:01:46
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:1468424266548abf136497f3-29400913%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '984a49ddbbd45d5615ff80a8fb0c24498865c014' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl',
-      1 => 1410671999,
+      1 => 1421852484,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_548abf136c4fa1_53318229',
   'variables' => 
   array (
     'base_dir' => 0,
@@ -24,13 +27,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'logo_image_height' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf136c4fa1_53318229',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_548abf136c4fa1_53318229')) {function content_548abf136c4fa1_53318229($_smarty_tpl) {?>
 
 <!-- Block search module TOP -->
-<div id="search_block_top" class="col-sm-4 clearfix">
+<div id="search_block_top" class="col-sm-4 clearfix" style="float:left">
 
 </div>
 <!-- /Block search module TOP -->

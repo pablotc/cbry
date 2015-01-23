@@ -1,0 +1,359 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Wed, 26 Nov 2014 10:35:01 -0600
+Received: from mail-wi0-f182.google.com ([209.85.212.182]:55853)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1XtfYT-000PCU-DA
+	for nseguel@cccchile.cl; Wed, 26 Nov 2014 10:35:01 -0600
+Received: by mail-wi0-f182.google.com with SMTP id h11so5578946wiw.9
+        for <nseguel@cccchile.cl>; Wed, 26 Nov 2014 08:34:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=b9nzLavly+hSbcTwwKWm3ghpzflT4Qs21sUhxbr2y34=;
+        b=oGs6vLQckeAaBFkLoZs22GT+UDV/Jmro2EgnA+WQjV1P/PjBo18Y2L95/7gdhgOEXG
+         7S7WorzPgCSz3g5sY/WhzReng1YEIIXEL4BJKL+T3znIm+7IT+lFvFsSKi1gYXppeNSu
+         VPFDeHXOz1fv/te3ohPyyUSogkisdjZdE271rbQLO/5eF+YByp0Lozy9R5qpRXreY5OL
+         MEoArDkLW/efaLNkpCp9jIixLUhS1kSc8yKsYDlcqKFC1ixFfJJTga74gWoNOFrLcsHb
+         X0jSggOmlVuKXH5NNY4qWpNb028/xNAXFM6WLOobPlcLWQP0Me88D0Z8Na8JJd1GYQYx
+         eafw==
+MIME-Version: 1.0
+X-Received: by 10.180.76.80 with SMTP id i16mr1571773wiw.61.1417019697993;
+ Wed, 26 Nov 2014 08:34:57 -0800 (PST)
+Received: by 10.194.178.226 with HTTP; Wed, 26 Nov 2014 08:34:57 -0800 (PST)
+In-Reply-To: <5AFC5E907D6FF14CBA21204CCBCAD81AF7709514@Atton.femplaeco.cl>
+References: <5AFC5E907D6FF14CBA21204CCBCAD81AF7709514@Atton.femplaeco.cl>
+Date: Wed, 26 Nov 2014 13:34:57 -0300
+Message-ID: <CAKggD2QjjqVtKhSTXt1aFmzNvuvwtNRe-fxfxOtVhPeGC_5STw@mail.gmail.com>
+Subject: Re: Planilla Final y Factura
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: "Nicolas Seguel (Politec)" <nicolas.seguel@femoglas.com>
+Cc: =?UTF-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Content-Type: multipart/alternative; boundary=f46d043c7d0abd1def0508c59b48
+
+--f46d043c7d0abd1def0508c59b48
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Nico, puedes chequear? Despues de todos los.logos y cosas que le agregaron
+la polera de mujer habia quedado en 14.000 c/iva
+
+O estoy equivocado?
+
+El mi=C3=A9rcoles, 26 de noviembre de 2014, Nicolas Seguel (Politec) <
+nicolas.seguel@femoglas.com> escribi=C3=B3:
+
+>  Hola Andr=C3=A9s,
+>
+>
+>
+> Adjunto planilla final. Favor considerar solo esta =C3=BAltima, ya que hu=
+bieron
+> cambios de colores y algunas tallas.
+>
+>
+>
+> Ahora, para cobrar el 50% necesito una factura con el siguiente detalle:
+>
+>
+>
+> Cantidad
+>
+> =C3=8Dtem
+>
+> Precio Un.
+>
+> Precio Total
+>
+> 211
+>
+> Polera Hombre
+>
+> $ 16.000
+>
+> $ 3.376.000
+>
+> 182
+>
+> Polera Mujer
+>
+> $ 12.500
+>
+> $ 2.275.000
+>
+> Total
+>
+>
+>
+>
+>
+> $ 5.651.000
+>
+> Abono 50%
+>
+>
+>
+>
+>
+> $ 2.825.500
+>
+> * Todos los valores incluyen IVA
+>
+>
+>
+>
+>
+>
+>
+> Por =C3=BAltimo, saber si la factura es electr=C3=B3nica o no, para ver c=
+omo la
+> entregamos.
+>
+>
+>
+> Quedo atento, gracias.
+>
+>
+>
+> Nicolas Seguel
+>
+> CCC Chile
+>
+> 78094475
+>
+
+--f46d043c7d0abd1def0508c59b48
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Nico, puedes chequear? Despues de todos los.logos y cosas que le agregaron =
+la polera de mujer habia quedado en 14.000 c/iva<div><br></div><div>O estoy=
+ equivocado?<br><br>El mi=C3=A9rcoles, 26 de noviembre de 2014, Nicolas Seg=
+uel (Politec) &lt;<a href=3D"mailto:nicolas.seguel@femoglas.com">nicolas.se=
+guel@femoglas.com</a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quot=
+e" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+
+<div lang=3D"ES-CL" link=3D"blue" vlink=3D"purple">
+<div>
+<p class=3D"MsoNormal">Hola Andr=C3=A9s,<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Adjunto planilla final. Favor considerar solo esta =
+=C3=BAltima, ya que hubieron cambios de colores y algunas tallas.<u></u><u>=
+</u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Ahora, para cobrar el 50% necesito una factura con e=
+l siguiente detalle:<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"347" style=
+=3D"width:260.45pt;border-collapse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;background:yellow;padding:0cm 3.5pt 0cm 3.5pt;height:15.=
+0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Cantidad<u></u><u></u></span></p>
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;border:sol=
+id windowtext 1.0pt;border-left:none;background:yellow;padding:0cm 3.5pt 0c=
+m 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">=C3=8Dtem<u></u><u></u></span></p>
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;border-left:none;background:yellow;padding:0cm 3.5pt 0cm=
+ 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Precio Un.<u></u><u></u></span></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;border:sol=
+id windowtext 1.0pt;border-left:none;background:yellow;padding:0cm 3.5pt 0c=
+m 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Precio Total<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:18.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:18.75=
+pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">211<u></u><u></u></span></p>
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;border-top=
+:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:so=
+lid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:18.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Polera Hombre<u></u><u></u></span></p>
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:18.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">$ 16.000<u></u><u></u></span></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;border-top=
+:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:so=
+lid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:18.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">$ 3.376.000<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75=
+pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">182<u></u><u></u></span></p>
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;border-top=
+:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:so=
+lid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">Polera Mujer<u></u><u></u></span></p>
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">$ 12.500<u></u><u></u></span></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;border-top=
+:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:so=
+lid windowtext 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">$ 2.275.000<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;border-right:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.=
+75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Total<u></u><u></u></spa=
+n></p>
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;border-top=
+:solid windowtext 1.0pt;border-left:none;border-bottom:solid windowtext 1.0=
+pt;border-right:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">=C2=A0<u></u><u></u></sp=
+an></p>
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border-top:=
+solid windowtext 1.0pt;border-left:none;border-bottom:solid windowtext 1.0p=
+t;border-right:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">=C2=A0<u></u><u></u></sp=
+an></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;border:sol=
+id windowtext 1.0pt;border-left:none;padding:0cm 3.5pt 0cm 3.5pt;height:15.=
+75pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"color:black">$ 5.651.000<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.75pt">
+</td>
+</tr>
+<tr style=3D"height:15.75pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border:soli=
+d windowtext 1.0pt;border-right:none;background:yellow;padding:0cm 3.5pt 0c=
+m 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Abono 50%<u></u><u></u><=
+/span></p>
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;border-top=
+:solid windowtext 1.0pt;border-left:none;border-bottom:solid windowtext 1.0=
+pt;border-right:none;background:yellow;padding:0cm 3.5pt 0cm 3.5pt;height:1=
+5.75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">=C2=A0<u></u><u></u></sp=
+an></p>
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;border-top:=
+solid windowtext 1.0pt;border-left:none;border-bottom:solid windowtext 1.0p=
+t;border-right:none;background:yellow;padding:0cm 3.5pt 0cm 3.5pt;height:15=
+.75pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">=C2=A0<u></u><u></u></sp=
+an></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;border:sol=
+id windowtext 1.0pt;border-left:none;background:yellow;padding:0cm 3.5pt 0c=
+m 3.5pt;height:15.75pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"color:black">$ 2.825.500<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"104" nowrap valign=3D"bottom" style=3D"width:78.1pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"80" nowrap valign=3D"bottom" style=3D"width:60.0pt;padding:0cm=
+ 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"264" nowrap colspan=3D"3" valign=3D"bottom" style=3D"width:198=
+.1pt;padding:0cm 3.5pt 0cm 3.5pt;height:15.0pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">* Todos los valores incl=
+uyen IVA<u></u><u></u></span></p>
+</td>
+<td width=3D"83" nowrap valign=3D"bottom" style=3D"width:62.35pt;padding:0c=
+m 3.5pt 0cm 3.5pt;height:15.0pt">
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Por =C3=BAltimo, saber si la factura es electr=C3=B3=
+nica o no, para ver como la entregamos.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Quedo atento, gracias.<u></u><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<p class=3D"MsoNormal">Nicolas Seguel<u></u><u></u></p>
+<p class=3D"MsoNormal">CCC Chile<u></u><u></u></p>
+<p class=3D"MsoNormal">78094475<u></u><u></u></p>
+</div>
+</div>
+
+</blockquote></div>
+
+--f46d043c7d0abd1def0508c59b48--

@@ -1,0 +1,2024 @@
+Return-path: <nico_piza@yahoo.es>
+Envelope-to: logistics@cccchile.cl
+Delivery-date: Thu, 04 Dec 2014 06:58:22 -0600
+Received: from nm23-vm1.bullet.mail.ir2.yahoo.com ([212.82.97.16]:56808)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <nico_piza@yahoo.es>)
+	id 1XwVzB-0000Aj-ID
+	for logistics@cccchile.cl; Thu, 04 Dec 2014 06:58:22 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.es; s=s2048; t=1417697898; bh=C779oZg7neDDZtG4p7hW0YofxXda9iFqbM7ik/TIprk=; h=References:In-Reply-To:Cc:From:Subject:Date:To:From:Subject; b=qw73Y36VTup8uWdvweeGYcydWSFTgxoYFjMyQQPjnXFWkh89VJSgcCEbNNCl1B1Oah5hilMC/GY5gS5iGZa/Fd75dGBLOh3hU8w9x+96PUq4RqpRFdrZauvy5R7VTa7OxRdiVjW1LJSmsOMZD4B9OsddaiaI9s7zl5a8lcaN+JNqOZ8Of/510mv132Cwt/kUpFjPZsYPSZpU+mSG5tLV2z2JNHjIv/1JrvGCfKEYHERaEN9LkF7IaWv5Bb4cGjDelfc9bKR/IHnZWRgXHss07JtLA1hkyLt5yzX/QvIgwWcYOO15ORvm2UQDCk+a4tun1AlNCPLMdTh753r75PdyYA==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.es;
+	b=kvUPautIo1Z8oXhPFT0aUjlYHFnu89eQhypF9WEaSYqkgyDrJOQ1eNedYnj0Q7ZIpXnNmWCLJJDRQj0c9gyr1ZHUs1wJu0L/+AoA8YMhVTM8aPbgdWePFfWQJeL8Nhc9slCh+uEhQcDoEUXcPtn31OIBRClgtg+SxUK0atN++eydogXiBMQvsklGvLvV+P0w52c88gXZqqDgNUs14C7l+EMCcYzfl6Etsc1C9vyu5XQsxo6qlgQgjAW6+e7o06Qcwdo+t2Z8gWztp4xK8VxSrnaQwlRJ8emrERbai6AvZv952HUFGejrYHCHJFIuiCG5ZMpZLB94nvBKjQniToXRQQ==;
+Received: from [212.82.98.127] by nm23.bullet.mail.ir2.yahoo.com with NNFMP; 04 Dec 2014 12:58:18 -0000
+Received: from [46.228.39.65] by tm20.bullet.mail.ir2.yahoo.com with NNFMP; 04 Dec 2014 12:58:18 -0000
+Received: from [127.0.0.1] by smtp102.mail.ir2.yahoo.com with NNFMP; 04 Dec 2014 12:58:18 -0000
+X-Yahoo-Newman-Id: 888388.15911.bm@smtp102.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: dfme4aYVM1kuPAc0TkqPFY_qolL.clr9uoxsa6H5ZKtj5Qo
+ 0rV2hZZhfORteGIpb2EFJBxsTM_.SYVWOpB6dxPdvK59VdTeItAzy7ajYhae
+ S2e4mwKXHkgOGR.Qm8zwOZZtCZUNiip_U68VYeAgcUwudrB4qjsHCM8sRqvR
+ BuGm1ARgSfR4JiVXTqIUCPVF7TVQpdZTwzgzQ7d4ZZRI4xIgJfyKL_h4NNkB
+ rl78sCU2JVu5Ga3IY84KBjlzWVGH9oCqRP1RJyLvEB2f.SXnXUV.nFWrkZkU
+ ZerFlZXFBK96wGcvLUctXGEH2e1pgE5otOWnzPF7X5Nd0YeEl8TW0HxUtfZn
+ m6AWqtbD7J_0Qcn2SkBPQ1.XRQkNdJK67yzsm2JFiYv.gJ65rTLO_i7Pzw.C
+ t1VeCMuVOxhoA.aQXA8Y.Ibh_7K1rrmxQ9ooEw69e61T6EkLEf0YB0agcWbl
+ E8cvtWP3OwARooYp91Nu23Zd64t2i.QefffZZLNthoarf5WlxySatZUYO3fT
+ 7sv9ibn36QoHyLpllNuhdP1XvwJNdH8bkWULm0lOIOX2vfPtX61PvdJ3Xu4I
+ MkVuQt3QAhq2bjKXRZDM-
+X-Yahoo-SMTP: 7pVzlaGswBAXzzFyI6tEa5s9nvYulA--
+References: <D320C41A8EE4CF4EB0E276CAB781BEFE21A9E36420@eclat-mbs01.eclat.com.tw> <CAKggD2Qt=xP9oZxvwoy_ZphF+8e0aFpeRu0dk4EZSkYf9kj4HQ@mail.gmail.com> <D320C41A8EE4CF4EB0E276CAB781BEFE21A9EB94E1@eclat-mbs01.eclat.com.tw> <CAKggD2QjRpw+s+0QGwJ6cxb77di-mqpAB_q=1msGSvn=ayGkoA@mail.gmail.com> <D320C41A8EE4CF4EB0E276CAB781BEFE21AA0779DB@eclat-mbs01.eclat.com.tw> <CAKggD2TY=dE8kQaSZhvPLf2EmJbJ1v87uhkhATfj27i35M6BeA@mail.gmail.com> <C1C3FB47-382A-4F06-AF01-7A7B7EF63671@cccchile.cl> <D320C41A8EE4CF4EB0E276CAB781BEFE21AA0FD0D9@eclat-mbs01.eclat.com.tw> <CAKggD2Rth6WM8mO_YNT7swwZ8wf2oeUbv_pVa92GzwxN6WeyEA@mail.gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CAKggD2Rth6WM8mO_YNT7swwZ8wf2oeUbv_pVa92GzwxN6WeyEA@mail.gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-2DFE32F1-8905-4C85-B6A4-1B6B470DBBEE
+Content-Transfer-Encoding: 7bit
+Message-Id: <850DE6CA-65EC-462E-9F8F-B59B98A9CB0D@yahoo.es>
+Cc: =?utf-8?Q?"Liliana_=E5=BC=B5=E9=80=B8=E7=BE=9A_=28ECLAT=29"?= <liliana.chang@eclat.com.tw>,
+ Nicolas Pizarro <logistics@cccchile.cl>,
+ =?utf-8?Q?"Rina_=E9=BB=83=E5=A7=B5=E7=A6=8E_=28ECLAT=29"?= <rina.huang@eclat.com.tw>,
+ =?utf-8?Q?"Angel_=E6=9B=BE=E8=99=B9=E9=96=94_=28ECLAT=29"?= <angel.tseng@eclat.com.tw>,
+ =?utf-8?Q?"=E6=9E=97=E7=A7=8B=E8=8F=8A_phoebe.lin_=28ECLAT=29"?= <phoebe.lin@eclat.com.tw>
+X-Mailer: iPhone Mail (12B435)
+From: Nicolas Pizarro <nico_piza@yahoo.es>
+Subject: Re: Q1-Q2 15 bulk projection_ Chile #7935
+Date: Thu, 4 Dec 2014 09:58:06 -0300
+To: =?utf-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+
+
+--Apple-Mail-2DFE32F1-8905-4C85-B6A4-1B6B470DBBEE
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear All
+
+Please provide us the PIC at Cambodia, for forward to the agent locally.
+Thank you.
+
+Enviado desde mi cel.
+
+> El 04-12-2014, a las 9:05, Andr=C3=A9s Morales <andres.moralesg@gmail.com>=
+ escribi=C3=B3:
+>=20
+> Hi, attached is agent contact info
+>=20
+>=20
+>=20
+> GLOBELINK CAMBODIA
+>=20
+> Chea Dararoth
+>=20
+> export@addicon.com.kh
+>=20
+> TEL: 855 11 577672
+>=20
+> =20
+>=20
+>=20
+> El jueves, 4 de diciembre de 2014, Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (EC=
+LAT) <liliana.chang@eclat.com.tw> escribi=C3=B3:
+>> Dear Nicolas,
+>>=20
+>> =20
+>>=20
+>> Sihanoukville will be the port. Please help to provide the below necessar=
+y info for shipping arrangement, thank you.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> =20
+>>=20
+>> From: Nicolas Pizarro [mailto:logistics@cccchile.cl]=20
+>> Sent: Wednesday, December 03, 2014 10:37 PM
+>> To: Andr=C3=A9s Morales
+>> Cc: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Rina =E9=BB=83=E5=A7=B5=E7=
+=A6=8E (ECLAT); Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=
+=BA=97=E8=8A=AC (ECLAT); Nicol=C3=A1s Pizarro; =E6=9E=97=E7=A7=8B=E8=8F=8A p=
+hoebe.lin (ECLAT)
+>> Subject: Re: Q1-Q2 15 bulk projection_ Chile #7935
+>>=20
+>> =20
+>>=20
+>> Dear Liliana
+>>=20
+>> =20
+>>=20
+>> Please let me know port of departure,
+>>=20
+>> Phom Phenh or Sihanoukville.
+>>=20
+>>=20
+>>=20
+>> Enviado desde mi cel.
+>>=20
+>>=20
+>> El 02-12-2014, a las 23:15, Andr=C3=A9s Morales <andres.moralesg@gmail.co=
+m> escribi=C3=B3:
+>>=20
+>> Hi,=20
+>>=20
+>> Yes we will reply asap. Sorry for inconvenience=20
+>>=20
+>> El martes, 2 de diciembre de 2014, Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (E=
+CLAT) <liliana.chang@eclat.com.tw> escribi=C3=B3:
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> Hope all is well. Please help to reply for the below queries as we are bo=
+oking for the space.
+>>=20
+>> =20
+>>=20
+>> 1.      Provide nominated forwarder and address=E2=80=94our shipping dept=
+. still can=E2=80=99t contact with the forwarder, and thus cargoes can=E2=80=
+=99t be delivered.
+>>=20
+>> 2.      Consignee show on the BL=E2=80=94 Please confirm that it is Confe=
+cciones de Vestuario Spin Ltda.
+>>=20
+>> 3.      Notify Party=E2=80=94is Confecciones de Vestuario Spin Ltda?
+>>=20
+>> 4.      Could you please provide remittance note for us please? This is i=
+mportant to check.
+>>=20
+>> =20
+>>=20
+>> All info above are necessary for shipping arrangement, we are looking for=
+ward to hearing, thank you.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)=20
+>> Sent: Monday, November 24, 2014 7:24 PM
+>> To: 'Andr=C3=A9s Morales'
+>> Cc: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT); Angel =E6=9B=
+=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=8A=AC (ECLAT); Ju=
+lie Wild; logistics@cccchile.cl; Nicol=C3=A1s Pizarro; =E6=9E=97=E7=A7=8B=E8=
+=8F=8A phoebe.lin (ECLAT)
+>> Subject: RE: Q1-Q2 15 bulk projection_ Chile #7935
+>>=20
+>> =20
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> I=E2=80=99ve got the PL from our fty, please refers to the attachments an=
+d kindly arrange the payment for ship the cargoes on time, thank you.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]=20
+>> Sent: Thursday, November 20, 2014 9:44 PM
+>> To: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)
+>> Cc: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT); Angel =E6=9B=
+=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=8A=AC (ECLAT); Ju=
+lie Wild; logistics@cccchile.cl; Nicol=C3=A1s Pizarro
+>> Subject: Re: Q1-Q2 15 bulk projection_ Chile #7935
+>>=20
+>> =20
+>>=20
+>> Hi Liliana,
+>>=20
+>> =20
+>>=20
+>> Can you confirm weight, dimensions detail and port of origin for this shi=
+pment?
+>>=20
+>> =20
+>>=20
+>> Many thanks,
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Delivery address is ok.
+>>=20
+>> =20
+>>=20
+>> Buyer is also:=20
+>>=20
+>> Confecciones de Vestuario Spin Ltda.
+>>=20
+>> RUT: 78.556.430-8
+>>=20
+>> Address:  Til Til 1911 =C3=B1u=C3=B1oa (or Nunoa)-Santiago-Chile
+>>=20
+>> Tel: 02 2 24247410
+>>=20
+>> Contact: Jos=C3=A9 Guillermo Morales.
+>>=20
+>> =20
+>>=20
+>> Many thanks.
+>>=20
+>> =20
+>>=20
+>> Andr=C3=A9s.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> 2014-11-20 10:26 GMT-03:00 Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT) <l=
+iliana.chang@eclat.com.tw>:
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> Please refers to the attached PI and provide the below necessary info for=
+ pl making:
+>>=20
+>> =20
+>>=20
+>> 1.     Nominated forwarder in Cambodia
+>>=20
+>> 2.     Consignee / notify for B/L
+>>=20
+>> 3.     Consignee for C/O ( if need, please check with buyer)
+>>=20
+>> 4.     Invoice to and address for documents
+>>=20
+>> Also could you reconfirm the goods delivery address as per below:
+>>=20
+>> =20
+>>=20
+>> Confecciones de Vestuario Spin Ltda.
+>>=20
+>> RUT: 78.556.430-8
+>>=20
+>> Address:  Til Til 1911 =C3=B1u=C3=B1oa-Santiago-Chile
+>>=20
+>> Tel: 02 2 24247410
+>>=20
+>> Contact: Jos=C3=A9 Guillermo Morales.
+>>=20
+>> =20
+>>=20
+>> Let us know if any queries at all.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]=20
+>> Sent: Thursday, November 20, 2014 2:07 AM
+>> To: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)
+>> Cc: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT); Angel =E6=9B=
+=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=8A=AC (ECLAT); Ju=
+lie Wild
+>> Subject: Re: Q1-Q2 15 bulk projection_ Chile #7935
+>>=20
+>> =20
+>>=20
+>> Hi, Can you attach invoice?
+>>=20
+>> =20
+>>=20
+>> 2014-11-19 0:13 GMT-03:00 Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT) <li=
+liana.chang@eclat.com.tw>:
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> Hope all is well.
+>>=20
+>> Please help to provide the below information as this is our first shippin=
+g arrangement.
+>>=20
+>> =20
+>>=20
+>> 1.     Nominated forwarder in Cambodia
+>>=20
+>> 2.     Consignee / notify for B/L
+>>=20
+>> 3.     Consignee for C/O ( if need, please check with buyer)
+>>=20
+>> 4.     Invoice to and address for documents
+>>=20
+>> =20
+>>=20
+>> In order to ship the cargoes on time, please kindly arrange payment in ad=
+vance and also refers to the bank detail as per below, thank you.
+>>=20
+>> =20
+>>=20
+>> Beneficiary Customer=EF=BC=9AEclat Textile Co., Ltd
+>>=20
+>> Beneficiary Bank=EF=BC=9AThe Shanghai Commercial & Savings Bank Ltd. Hsin=
+ Chuang Branch
+>>=20
+>> Bank Address=EF=BC=9ANo.85 Chung Ping Road, Hsin Chuang City, Taipei, Tai=
+wan, R.O.C.
+>>=20
+>> Beneficiary A/C No: For USD:25-10800-0000188
+>>=20
+>>                                  For HKD:25-10800-0010688
+>>=20
+>> Swift=EF=BC=9ASCSBTWTP025
+>>=20
+>> =20
+>>=20
+>> Looking forward to hearing.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]=20
+>> Sent: Thursday, September 11, 2014 10:09 AM
+>> To: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)
+>> Cc: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT); Angel =E6=9B=
+=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=8A=AC (ECLAT); Ju=
+lie Wild
+>> Subject: Re: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Follow UK please.
+>>=20
+>> =20
+>>=20
+>> bests.
+>>=20
+>> =20
+>>=20
+>> 2014-09-10 12:31 GMT-03:00 Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT) <l=
+iliana.chang@eclat.com.tw>:
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> Thanks for your PO#7935, confirmed this order with ETD 14TH Dec., please k=
+indly noted and advise if the barcode detail will follow UK=E2=80=99s or you=
+ will provide another one, thank you.
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]=20
+>> Sent: Tuesday, September 09, 2014 9:26 PM
+>> To: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)
+>> Cc: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT); Angel =E6=9B=
+=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=8A=AC (ECLAT); Ju=
+lie Wild
+>>=20
+>>=20
+>> Subject: Re: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Attached PO.
+>>=20
+>> =20
+>>=20
+>> Bests.
+>>=20
+>> =20
+>>=20
+>> 2014-09-09 10:07 GMT-03:00 Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT) <l=
+iliana.chang@eclat.com.tw>:
+>>=20
+>> Hi Andres,
+>>=20
+>> =20
+>>=20
+>> Please can you attached PO for us to review? We will confirm back accordi=
+ngly.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Andr=C3=A9s Morales [mailto:andres.moralesg@gmail.com]=20
+>> Sent: Tuesday, September 09, 2014 8:49 PM
+>> To: Diane Utterson
+>> Cc: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Rina =E9=BB=83=E5=A7=B5=E7=
+=A6=8E (ECLAT); Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=
+=BA=97=E8=8A=AC (ECLAT); Julie Wild; Kela Kwan; Quindy Yau
+>> Subject: Re: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi,=20
+>>=20
+>> In case of Chile, it=C2=B4s possible to increase a little qty as followin=
+g? also add 2 codes.
+>>=20
+>> =20
+>>=20
+>> <image001.png>
+>>=20
+>> =20
+>>=20
+>> PO Attached you can find size breakdown. Please let me know if it=C2=B4s p=
+ossible or not in order to send correct final PO.
+>>=20
+>> =20
+>>=20
+>> Bests.=20
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> 2014-09-09 7:48 GMT-03:00 Diane Utterson <diane.utterson@canterbury.com>:=
+
+>>=20
+>> Hi Liliana,
+>>=20
+>> =20
+>>=20
+>> Both Hong Kong and Chile are ordering directly with you so they need to g=
+ive you the size breakdowns.  I do not know what these will be.
+>>=20
+>> =20
+>>=20
+>> Andres/Kela/Quindy =E2=80=93 please could you forward your size breakdown=
+s on the attached to Liliana.
+>>=20
+>> =20
+>>=20
+>> Regards
+>>=20
+>> Diane.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> <image002.jpg>
+>>=20
+>> From: Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT) [mailto:liliana.chang@e=
+clat.com.tw]=20
+>> Sent: 09 September 2014 11:43
+>> To: Diane Utterson; Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Julie Wild
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi Diane,
+>>=20
+>> =20
+>>=20
+>> Would you please help to collect size breakdown of other POs i.e. HK and S=
+outh America? Thank you for your help.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> =20
+>>=20
+>> Liliana Chang
+>>=20
+>> Eclat Textile Co. Ltd.=EF=BD=9CGarment Dept.=EF=BD=9CNo. 26-28, Wu Chuan R=
+d., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.=EF=BD=9C886-2-2299-6000#286=
+=EF=BD=9Cliliana.chang@eclat.com.tw
+>>=20
+>> From: Diane Utterson [mailto:diane.utterson@canterbury.com]=20
+>> Sent: Thursday, September 04, 2014 5:37 PM
+>> To: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Julie Wild
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi Rina,
+>>=20
+>> =20
+>>=20
+>> Noted your comments.  FOB 7th December is the latest sailing date we coul=
+d accept as we need the goods in our warehouse by 17th January so going to b=
+e very tight for us.
+>>=20
+>> =20
+>>=20
+>> Please keep pushing on fabric delivery for us which I=E2=80=99m sure you w=
+ill be doing.
+>>=20
+>> =20
+>>=20
+>> I have attached updated PO accordingly.
+>>=20
+>> =20
+>>=20
+>> Kind regards,
+>>=20
+>> Diane.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> <image002.jpg>
+>>=20
+>> From: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT) [mailto:rina.huang@eclat.c=
+om.tw]=20
+>> Sent: 04 September 2014 10:31
+>> To: Diane Utterson
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Julie Wild
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hello Diane,
+>>=20
+>> After further negotiating with rtfiber, they still cannot improve the fab=
+ric delivery. Our factory will do their best to push for Control styles. Bes=
+t delivery will be 7th December. Pls confirm and update PO for us.
+>>=20
+>> For Baselayer, I am still waiting for fabric delivery from our fabric tea=
+m and is expecting the same delivery or earlier. Thank you.
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> Rina Huang
+>>=20
+>> Eclat Textile Co. Ltd.,
+>>=20
+>> 886-2-2299-6000#450
+>>=20
+>> =20
+>>=20
+>> From: Diane Utterson [mailto:diane.utterson@canterbury.com]=20
+>> Sent: Wednesday, September 03, 2014 11:34 PM
+>> To: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Julie Wild
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi Rina,
+>>=20
+>> =20
+>>=20
+>> Further to Julie=E2=80=99s email, please find attached new PO 18386 to co=
+ver our Q1 Training styles.  Please confirm the FOB shipment date as soon as=
+ you can =E2=80=93 we are looking for FOB sailing date of 23rd November if p=
+ossible.
+>>=20
+>> =20
+>>=20
+>> Any questions, please let me know asap.
+>>=20
+>> =20
+>>=20
+>> Kind regards,
+>>=20
+>> Diane.
+>>=20
+>> =20
+>>=20
+>> <image002.jpg>
+>>=20
+>> From: Julie Wild=20
+>> Sent: 03 September 2014 16:20
+>> To: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Diane Utterson
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi Rina
+>>=20
+>> =20
+>>=20
+>> 3/E721633-769 We do not need any other styles in navy at the moment.  Wha=
+t will the dying surcharge be for this?
+>>=20
+>> Rina: It is way under fabric min. and would need to have total 1010pcs to=
+ hit fabric min. and with $200 surcharge. Julie: so you can make 600pcs with=
+ a $200 surcharge?
+>>=20
+>> Rina: Sorry that I have not be clear enough. We need 1010pcs up to hit th=
+e smallest dye lot with $200 surcharge. Fabric needed for 600pcs does not me=
+et  smallest dye lot for bulk:
+>>=20
+>> Julie:  we will cancel this order for now and review with other styles
+>>=20
+>> =20
+>>=20
+>> Compression
+>>=20
+>> =20
+>>=20
+>> I am on leave now until 15th September but Stuart is looking into how we c=
+an use up this fabric and will advise in my absence
+>>=20
+>> =20
+>>=20
+>> Please push on confirming the fob date required
+>>=20
+>> =20
+>>=20
+>> Kind Regards
+>>=20
+>> =20
+>>=20
+>> Julie
+>>=20
+>> =20
+>>=20
+>> =20
+>>=20
+>> From: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT) [mailto:rina.huang@eclat.c=
+om.tw]=20
+>> Sent: 03 September 2014 10:49
+>> To: Julie Wild
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Diane Utterson
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hello Julie,
+>>=20
+>> Pls see below inserted in purple below.
+>>=20
+>> =20
+>>=20
+>> Best Regards,
+>>=20
+>> Rina Huang
+>>=20
+>> Eclat Textile Co. Ltd.,
+>>=20
+>> 886-2-2299-6000#450
+>>=20
+>> =20
+>>=20
+>> From: Julie Wild [mailto:julie.wild@canterbury.com]=20
+>> Sent: Tuesday, September 02, 2014 9:19 PM
+>> To: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Diane Utterson
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>>=20
+>> Hi Rina
+>>=20
+>> =20
+>>=20
+>> Please see my reply below
+>>=20
+>> =20
+>>=20
+>> Kind Regards
+>>=20
+>> =20
+>>=20
+>> Julie
+>>=20
+>> =20
+>>=20
+>> <image002.jpg>
+>>=20
+>> From: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT) [mailto:rina.huang@eclat.c=
+om.tw]=20
+>> Sent: 02 September 2014 11:44
+>> To: Julie Wild
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Diane Utterson
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>> Hello Julie,
+>> Pls see my reply in green below.
+>> =20
+>> Best Regards,
+>> Rina Huang
+>> Eclat Textile Co. Ltd.,
+>> 886-2-2299-6000#450
+>> =20
+>> From: Julie Wild [mailto:julie.wild@canterbury.com]=20
+>> Sent: Monday, September 01, 2014 7:56 PM
+>> To: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT)
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT); Diane Utterson
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>> Hi Rina
+>> =20
+>> 1/ As Stuart had just placed some orders for cold styles we will hold the=
+ balance of this greige for our next core orders.
+>> Rina: Pls kindly note that the greige shelf life is about 3 months. Would=
+ you pls kindly let me know when shall we expect your next core order? Julie=
+: we will review again and place new orders in a few weeks
+>> 2/Noted amended sheet with 30pcs added to E545646-T01, thanks.
+>> Rina: Thank you.
+>> 3/E721633-769 We do not need any other styles in navy at the moment.  Wha=
+t will the dying surcharge be for this?
+>> Rina: It is way under fabric min. and would need to have total 1010pcs to=
+ hit fabric min. and with $200 surcharge. Julie: so you can make 600pcs with=
+ a $200 surcharge?
+>> Rina: Sorry that I have not be clear enough. We need 1010pcs up to hit th=
+e smallest dye lot with $200 surcharge. Fabric needed for 600pcs does not me=
+et  smallest dye lot for bulk.
+>> =20
+>>=20
+>> Control
+>> =20
+>> Greige was booked so please urgently confirm?
+>> Rina: We could catch the ship with 21-Dec ETD. But is now checking if rtf=
+iber could help push a bit earlier. Will keep you posted. Julie as previousl=
+y discussed we need vessel sailing 23rd Nov =E2=80=93 please push Ruey Tay o=
+n delivery =E2=80=93 we cannot be late delivering to our customers
+>>         Rina: Ruey Tay advised that they cannot push any earlier. I am no=
+t checking with our factory to see how we could help push. Pls allow me to g=
+et back t oyou within this week.
+>>=20
+>> Compression
+>> =20
+>> I will have to come back to you on this
+>> Rina: Noted. Has informed NZ office that we=E2=80=99re holding for your a=
+dvice as they suggest that will need to combine with UK orders for productio=
+n. Thank you. . =E2=80=93 I am waiting to see if any of our other markets ne=
+ed to place any more orders and will come back to you on this
+>> Kind Regards
+>> =20
+>> Julie
+>> =20
+>> <image002.jpg>
+>> From: Rina =E9=BB=83=E5=A7=B5=E7=A6=8E (ECLAT) [mailto:rina.huang@eclat.c=
+om.tw]=20
+>> Sent: 01 September 2014 09:51
+>> To: Julie Wild
+>> Cc: Angel =E6=9B=BE=E8=99=B9=E9=96=94 (ECLAT); Karin =E9=84=AD=E9=BA=97=E8=
+=8A=AC (ECLAT); Liliana =E5=BC=B5=E9=80=B8=E7=BE=9A (ECLAT)
+>> Subject: RE: Q1-Q2 15 bulk projection
+>>=20
+>> =20
+>> Hello Julie,
+>> Baselayer=E2=80=94
+>> 1.    =20
+
+--Apple-Mail-2DFE32F1-8905-4C85-B6A4-1B6B470DBBEE
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Dear All</div><div><br></div><div>Plea=
+se provide us the PIC at Cambodia, for forward to the agent locally.</div><d=
+iv>Thank you.<br><br>Enviado desde mi cel.</div><div><br>El 04-12-2014, a la=
+s 9:05, Andr=C3=A9s Morales &lt;<a href=3D"mailto:andres.moralesg@gmail.com"=
+>andres.moralesg@gmail.com</a>&gt; escribi=C3=B3:<br><br></div><blockquote t=
+ype=3D"cite"><div><div>Hi, attached is agent contact info</div><div><br></di=
+v><div><br></div><div><br></div><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"255" style=3D"color:rgb(34,34,34);font-size:14px;line-h=
+eight:22.1200008392334px;width:191pt;border-collapse:collapse"><tbody><tr st=
+yle=3D"height:12pt"><td width=3D"255" nowrap=3D"" valign=3D"bottom" style=3D=
+"width:191pt;border-style:solid solid none;border-top-color:windowtext;borde=
+r-right-color:windowtext;border-left-color:windowtext;border-top-width:1pt;b=
+order-right-width:1pt;border-left-width:1pt;padding:0cm 3.5pt;height:12pt;ba=
+ckground:red"><p class=3D"MsoNormal"><b><span style=3D"font-size:9pt;font-fa=
+mily:Calibri,sans-serif;color:white">GLOBELINK CAMBODIA<u></u><u></u></span>=
+</b></p></td></tr><tr style=3D"height:12pt"><td width=3D"255" nowrap=3D"" va=
+lign=3D"bottom" style=3D"width:191pt;border-style:none solid;border-left-col=
+or:windowtext;border-left-width:1pt;border-right-color:windowtext;border-rig=
+ht-width:1pt;padding:0cm 3.5pt;height:12pt"><p class=3D"MsoNormal"><span sty=
+le=3D"font-size:9pt;font-family:Calibri,sans-serif;color:black">Chea Dararot=
+h<u></u><u></u></span></p></td></tr><tr style=3D"height:12pt"><td width=3D"2=
+55" nowrap=3D"" valign=3D"bottom" style=3D"width:191pt;border-style:none sol=
+id;border-left-color:windowtext;border-left-width:1pt;border-right-color:win=
+dowtext;border-right-width:1pt;padding:0cm 3.5pt;height:12pt"><p class=3D"Ms=
+oNormal"><span style=3D"font-size:9pt;font-family:Calibri,sans-serif;color:b=
+lack"><a target=3D"_blank" style=3D"color:rgb(17,85,204)">export@addicon.com=
+.kh</a><u></u><u></u></span></p></td></tr><tr style=3D"height:12pt"><td widt=
+h=3D"255" nowrap=3D"" valign=3D"bottom" style=3D"width:191pt;border-style:no=
+ne solid;border-left-color:windowtext;border-left-width:1pt;border-right-col=
+or:windowtext;border-right-width:1pt;padding:0cm 3.5pt;height:12pt"><p class=
+=3D"MsoNormal"><span style=3D"font-size:9pt;font-family:Calibri,sans-serif;c=
+olor:black">TEL: 855 11 577672<u></u><u></u></span></p></td></tr><tr style=3D=
+"height:12.75pt"><td width=3D"255" nowrap=3D"" valign=3D"bottom" style=3D"wi=
+dth:191pt;border-style:none solid solid;border-right-color:windowtext;border=
+-bottom-color:windowtext;border-left-color:windowtext;border-right-width:1pt=
+;border-bottom-width:1pt;border-left-width:1pt;padding:0cm 3.5pt;height:12.7=
+5pt"><p class=3D"MsoNormal"><span style=3D"font-size:9pt;font-family:Calibri=
+,sans-serif;color:black">&nbsp;<u></u><u></u></span></p></td></tr></tbody></=
+table><br>El jueves, 4 de diciembre de 2014, Liliana =E5=BC=B5=E9=80=B8=E7=BE=
+=9A (ECLAT) &lt;<a href=3D"mailto:liliana.chang@eclat.com.tw">liliana.chang@=
+eclat.com.tw</a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote" sty=
+le=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div la=
+ng=3D"ZH-TW" link=3D"blue" vlink=3D"purple"><div><p class=3D"MsoNormal"><spa=
+n lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d">Dear Nicolas,<u></u><u></u></span></p><p class=3D"MsoNor=
+mal"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;san=
+s-serif&quot;;color:#1f497d"><u></u>&nbsp;<u></u></span></p><p class=3D"MsoN=
+ormal"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d">Sihanoukville will be the port. Please help t=
+o provide the below necessary info for shipping arrangement, thank you.<u></=
+u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>&n=
+bsp;<u></u></span></p><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=
+&nbsp;<u></u></span></p><div><p class=3D"MsoNormal"><span lang=3D"EN-US" sty=
+le=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+Best Regards,<u></u><u></u></span></p><p class=3D"MsoNormal"><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:=
+#1f497d"><u></u>&nbsp;<u></u></span></p><p class=3D"MsoNormal"><i><span lang=
+=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;c=
+olor:#1f497d">Liliana Chang<u></u><u></u></span></i></p><p class=3D"MsoNorma=
+l"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tow=
+er Text&quot;,&quot;serif&quot;;color:#1f497d">Eclat Textile Co. Ltd.</span>=
+<span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&q=
+uot;serif&quot;;color:#1f497d">Garment Dept.</span><span style=3D"font-size:=
+10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-siz=
+e:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f=
+497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.<=
+/span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&qu=
+ot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#286</span><span style=3D=
+"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;=
+color:#1f497d"><a href=3D"javascript:_e(%7B%7D,'cvml','liliana.chang@eclat.c=
+om.tw');" target=3D"_blank">liliana.chang@eclat.com.tw</a><u></u><u></u></sp=
+an></p></div><p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>&nbsp;<u>=
+</u></span></p><div><div style=3D"border:none;border-top:solid #b5c4df 1.0pt=
+;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span lang=3D"EN-US" s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quo=
+t;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Nicolas Pizarro [mailto:<a hr=
+ef=3D"javascript:_e(%7B%7D,'cvml','logistics@cccchile.cl');" target=3D"_blan=
+k">logistics@cccchile.cl</a>] <br><b>Sent:</b> Wednesday, December 03, 2014 1=
+0:37 PM<br><b>To:</b> Andr=C3=A9s Morales<br><b>Cc:</b> Liliana </span><span=
+ style=3D"font-size:10.0pt">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-s=
+erif&quot;"> (ECLAT); Rina </span><span style=3D"font-size:10.0pt">=E9=BB=83=
+=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Angel </span><s=
+pan style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-=
+serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt">=E9=84=AD=
+=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Nicol=C3=A1s Pi=
+zarro; </span><span style=3D"font-size:10.0pt">=E6=9E=97=E7=A7=8B=E8=8F=8A</=
+span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma=
+&quot;,&quot;sans-serif&quot;"> phoebe.lin (ECLAT)<br><b>Subject:</b> Re: Q1=
+-Q2 15 bulk projection_ Chile #7935<u></u><u></u></span></p></div></div><p><=
+span lang=3D"EN-US"><u></u>&nbsp;<u></u></span></p><div><p><span lang=3D"EN-=
+US">Dear Liliana<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">=
+<u></u>&nbsp;<u></u></span></p></div><div><p><span lang=3D"EN-US">Please let=
+ me know port of departure,<u></u><u></u></span></p></div><div><p><span lang=
+=3D"EN-US">Phom Phenh or Sihanoukville.<u></u><u></u></span></p></div><div><=
+p><span lang=3D"EN-US"><br><br>Enviado desde mi cel.<u></u><u></u></span></p=
+></div><div><p style=3D"margin-bottom:12.0pt"><span lang=3D"EN-US"><br>El 02=
+-12-2014, a las 23:15, Andr=C3=A9s Morales &lt;<a>andres.moralesg@gmail.com<=
+/a>&gt; escribi=C3=B3:<u></u><u></u></span></p></div><blockquote style=3D"ma=
+rgin-top:5.0pt;margin-bottom:5.0pt"><div><p><span lang=3D"EN-US">Hi,&nbsp;<u=
+></u><u></u></span></p><div><p><span lang=3D"EN-US">Yes we will reply asap. S=
+orry for inconvenience&nbsp;<br><br>El martes, 2 de diciembre de 2014, Lilia=
+na </span>=E5=BC=B5=E9=80=B8=E7=BE=9A<span lang=3D"EN-US"> (ECLAT) &lt;<a>li=
+liana.chang@eclat.com.tw</a>&gt; escribi=C3=B3:<u></u><u></u></span></p><div=
+><div><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1f497d">Hi Andres,</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN=
+-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hope all is well. P=
+lease help to reply for the below queries as we are booking for the space.</=
+span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" s=
+tyle=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d=
+">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"mar=
+gin-left:18.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;;color:#1f497d">1.</span><span lang=3D"EN-US" style=
+=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot=
+;;color:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang=3D"EN-US" s=
+tyle=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d=
+">Provide nominated forwarder and address=E2=80=94our shipping dept. still c=
+an=E2=80=99t contact with the forwarder, and thus cargoes can=E2=80=99t be d=
+elivered.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"ma=
+rgin-left:18.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">2.</span><span lang=3D"EN-US" styl=
+e=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quo=
+t;;color:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang=3D"EN-US"=
+ style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">Consignee show on the BL=E2=80=94 Please confirm that it is Confecciones=
+ de Vestuario Spin Ltda.</span><span lang=3D"EN-US"><u></u><u></u></span></p=
+><p style=3D"margin-left:18.0pt"><span lang=3D"EN-US" style=3D"font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">3.</span><span lang=
+=3D"EN-US" style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,=
+&quot;serif&quot;;color:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">Notify Party=E2=80=94is Confecciones de Vestuario Spin Lt=
+da?</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-l=
+eft:18.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#1f497d">4.</span><span lang=3D"EN-US" style=3D"f=
+ont-size:7.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;col=
+or:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Co=
+uld you please provide remittance note for us please? This is important to c=
+heck.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:=
+#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">All info above are necessary for shipping arrangement, we=
+ are looking forward to hearing, thank you.</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN=
+-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span l=
+ang=3D"EN-US"><u></u><u></u></span></p><div><p><span lang=3D"EN-US" style=3D=
+"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Best R=
+egards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D=
+"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><i>=
+<span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#1f497d">Liliana Chang</span></i><span lang=3D"EN-US"><u></u>=
+<u></u></span></p><p><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Eclat Texti=
+le Co. Ltd.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</=
+span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High T=
+ower Text&quot;,&quot;serif&quot;;color:#1f497d">Garment Dept.</span><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US"=
+ style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;ser=
+if&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New Taipei Cit=
+y, Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=
+=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;H=
+igh Tower Text&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#286</s=
+pan><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot=
+;,&quot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat.com.tw</a></span><=
+span lang=3D"EN-US"><u></u><u></u></span></p></div><div><div style=3D"border=
+:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p><b><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Liliana </span=
+><span style=3D"font-size:10.0pt">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;=
+sans-serif&quot;"> (ECLAT) <br><b>Sent:</b> Monday, November 24, 2014 7:24 P=
+M<br><b>To:</b> 'Andr=C3=A9s Morales'<br><b>Cc:</b> Diane Utterson; Rina </s=
+pan><span style=3D"font-size:10.0pt">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span=
+ lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> (ECLAT); Angel </span><span style=3D"font-size:10.0pt"=
+>=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Karin=
+ </span><span style=3D"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><=
+span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;=
+,&quot;sans-serif&quot;"> (ECLAT); Julie Wild; <a>logistics@cccchile.cl</a>;=
+ Nicol=C3=A1s Pizarro; </span><span style=3D"font-size:10.0pt">=E6=9E=97=E7=A7=
+=8B=E8=8F=8A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> phoebe.lin (ECLAT)<br><b>Subje=
+ct:</b> RE: Q1-Q2 15 bulk projection_ Chile #7935</span><span lang=3D"EN-US"=
+><u></u><u></u></span></p></div></div><p><span lang=3D"EN-US">&nbsp;<u></u><=
+u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">Hi Andres,</span><span lang=3D"E=
+N-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"fo=
+nt-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">I=E2=80=99=
+ve got the PL from our fty, please refers to the attachments and kindly arra=
+nge the payment for ship the cargoes on time, thank you.</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;=
+</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US"=
+ style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">Best Regards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><sp=
+an lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span>=
+</p><p><i><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#1f497d">Liliana Chang</span></i><span lang=3D"EN-U=
+S"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">E=
+clat Textile Co. Ltd.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=
+=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Garment Dept.</span=
+><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&q=
+uot;serif&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New Tai=
+pei City, Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;color:#1f497d=
+">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-600=
+0#286</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><=
+span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower T=
+ext&quot;,&quot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat.com.tw</a>=
+</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-seri=
+f&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales [<a>=
+mailto:andres.moralesg@gmail.com</a>] <br><b>Sent:</b> Thursday, November 20=
+, 2014 9:44 PM<br><b>To:</b> Liliana </span><span style=3D"font-size:10.0pt"=
+>=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b>=
+Cc:</b> Diane Utterson; Rina </span><span style=3D"font-size:10.0pt">=E9=BB=83=
+=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Angel </span><s=
+pan style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-=
+serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt">=E9=84=AD=
+=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild; <a>=
+logistics@cccchile.cl</a>; Nicol=C3=A1s Pizarro<br><b>Subject:</b> Re: Q1-Q2=
+ 15 bulk projection_ Chile #7935</span><span lang=3D"EN-US"><u></u><u></u></=
+span></p><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><div><p><spa=
+n lang=3D"EN-US">Hi Liliana,<u></u><u></u></span></p><div><p><span lang=3D"E=
+N-US">&nbsp;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">Can y=
+ou confirm weight, dimensions detail and port of origin for this shipment?<u=
+></u><u></u></span></p></div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></=
+u></span></p></div><div><p><span lang=3D"EN-US">Many thanks,<u></u><u></u></=
+span></p></div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><=
+/div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p></div><div>=
+<p><span lang=3D"EN-US">Delivery address is ok.<u></u><u></u></span></p></di=
+v><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p></div><div><p>=
+<span lang=3D"EN-US">Buyer is also:&nbsp;<u></u><u></u></span></p></div><div=
+><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d">Confecciones de Vestuario Spin Ltda.</span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p></div><p><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">RU=
+T: 78.556.430-8</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span=
+ lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">Address:&nbsp; Til Til 1911 =C3=B1u=C3=B1oa (or Nunoa)-Sa=
+ntiago-Chile</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">Tel: 02 2 24247410</span><span lang=3D"EN-US"><u></u><u></u>=
+</span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;;color:#1f497d">Contact: Jos=C3=A9 Guillermo Morales.<=
+/span><span lang=3D"EN-US"><u></u><u></u></span></p><div><p><span lang=3D"EN=
+-US">&nbsp;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">Many t=
+hanks.<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">&nbsp;<u><=
+/u><u></u></span></p></div><div><p><span lang=3D"EN-US">Andr</span>=C3=A9<sp=
+an lang=3D"EN-US">s.<u></u><u></u></span></p><div><p><span lang=3D"EN-US">&n=
+bsp;<u></u><u></u></span></p></div></div></div><div><p><span lang=3D"EN-US">=
+&nbsp;<u></u><u></u></span></p><div><p><span lang=3D"EN-US">2014-11-20 10:26=
+ GMT-03:00 Liliana </span>=E5=BC=B5=E9=80=B8=E7=BE=9A<span lang=3D"EN-US"> (=
+ECLAT) &lt;<a>liliana.chang@eclat.com.tw</a>&gt;:<u></u><u></u></span></p><d=
+iv><div><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">Hi Andres,</span><span lang=3D"EN-US"><u>=
+</u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please refers to t=
+he attached PI and provide the below necessary info for pl making:</span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;=
+</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US"=
+ style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">1.&nbsp;&nbsp;&nbsp;&nbsp; Nominated forwarder in Cambodia</span><span l=
+ang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">2.&nbsp;&n=
+bsp;&nbsp;&nbsp; Consignee / notify for B/L </span><span lang=3D"EN-US"><u><=
+/u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">3.&nbsp;&nbsp;&nbsp;&nbsp; C=
+onsignee for C/O ( if need, please check with buyer)</span><span lang=3D"EN-=
+US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">4.&nbsp;&nbsp;&nbsp;=
+&nbsp; Invoice to and address for documents</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">Also could you reconfirm the g=
+oods delivery address as per below:</span><span lang=3D"EN-US"><u></u><u></u=
+></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u>=
+</u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Confecciones de Vestuario S=
+pin Ltda.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D=
+"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">RUT: 78.556.430-8</span><span lang=3D"EN-US"><u></u><u></u></span=
+></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Address:&nbsp; Til Til 1911 =C3=B1u=C3=B1oa-=
+Santiago-Chile</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span l=
+ang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1f497d">Tel: 02 2 24247410</span><span lang=3D"EN-US"><u></u><u></u=
+></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">Contact: Jos=C3=A9 Guillermo Morales.=
+</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US"=
+ style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=
+=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;c=
+olor:#1f497d">Let us know if any queries at all.</span><span lang=3D"EN-US">=
+<u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Best R=
+egards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D=
+"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><i>=
+<span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#1f497d">Liliana Chang</span></i><span lang=3D"EN-US"><u></u>=
+<u></u></span></p><p><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Eclat Texti=
+le Co. Ltd.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</=
+span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High T=
+ower Text&quot;,&quot;serif&quot;;color:#1f497d">Garment Dept.</span><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US"=
+ style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;ser=
+if&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New Taipei Cit=
+y, Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=
+=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;H=
+igh Tower Text&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#286</s=
+pan><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot=
+;,&quot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat.com.tw</a></span><=
+span lang=3D"EN-US"><u></u><u></u></span></p><p><b><span lang=3D"EN-US" styl=
+e=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"=
+>From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:=
+&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales [<a>mailto:a=
+ndres.moralesg@gmail.com</a>] <br><b>Sent:</b> Thursday, November 20, 2014 2=
+:07 AM<br><b>To:</b> Liliana </span><span style=3D"font-size:10.0pt">=E5=BC=B5=
+=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b>Cc:</b> Di=
+ane Utterson; Rina </span><span style=3D"font-size:10.0pt">=E9=BB=83=E5=A7=B5=
+=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Angel </span><span style=
+=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US"=
+ style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&q=
+uot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt">=E9=84=AD=E9=BA=
+=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild<br><b>Subj=
+ect:</b> Re: Q1-Q2 15 bulk projection_ Chile #7935</span><span lang=3D"EN-US=
+"><u></u><u></u></span></p><div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u=
+></u></span></p><div><p><span lang=3D"EN-US">Hi, Can you attach invoice?<u><=
+/u><u></u></span></p></div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u>=
+</span></p><div><p><span lang=3D"EN-US">2014-11-19 0:13 GMT-03:00 Liliana </=
+span>=E5=BC=B5=E9=80=B8=E7=BE=9A<span lang=3D"EN-US"> (ECLAT) &lt;<a>liliana=
+.chang@eclat.com.tw</a>&gt;:<u></u><u></u></span></p><div><div><p><span lang=
+=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;c=
+olor:#1f497d">Hi Andres,</span><span lang=3D"EN-US"><u></u><u></u></span></p=
+><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u>=
+</span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;;color:#1f497d">Hope all is well.</span><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please help to pr=
+ovide the below information as this is our first shipping arrangement.</span=
+><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=
+=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&n=
+bsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN=
+-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#=
+1f497d">1.&nbsp;&nbsp;&nbsp;&nbsp; Nominated forwarder in Cambodia</span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">2.&nbs=
+p;&nbsp;&nbsp;&nbsp; Consignee / notify for B/L </span><span lang=3D"EN-US">=
+<u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">3.&nbsp;&nbsp;&nbsp;&nbs=
+p; Consignee for C/O ( if need, please check with buyer)</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">4.&nbsp;&nbsp;&n=
+bsp;&nbsp; Invoice to and address for documents</span><span lang=3D"EN-US"><=
+u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">In order to ship=
+ the cargoes on time, please kindly arrange payment in advance and also refe=
+rs to the bank detail as per below, thank you.</span><span lang=3D"EN-US"><u=
+></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Beneficiary Cust=
+omer</span><span style=3D"color:#1f497d">=EF=BC=9A</span><span lang=3D"EN-US=
+" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f4=
+97d">Eclat Textile Co., Ltd</span><span lang=3D"EN-US"><u></u><u></u></span>=
+</p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d">Beneficiary Bank</span><span style=3D"color:#=
+1f497d">=EF=BC=9A</span><span lang=3D"EN-US" style=3D"font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">The Shanghai Commercial &amp=
+; Savings Bank Ltd. Hsin Chuang Branch</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">Bank Address</span><span style=3D"=
+color:#1f497d">=EF=BC=9A</span><span lang=3D"EN-US" style=3D"font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">No.85 Chung Ping Road=
+, Hsin Chuang City, Taipei, Taiwan, R.O.C.</span><span lang=3D"EN-US"><u></u=
+><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1f497d">Beneficiary A/C No: For USD:25=
+-10800-0000188</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span l=
+ang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For HKD:25-10800-0=
+010688</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"=
+EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Swift</span><span style=3D"color:#1f497d">=EF=BC=9A</span><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">SCSBTWTP025</span><span lang=3D"EN-US"><u></u><u></u></span>=
+</p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u><=
+/u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;;color:#1f497d">Looking forward to hearing.</span><=
+span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D=
+"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp=
+;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US=
+" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f4=
+97d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lan=
+g=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;=
+color:#1f497d">Best Regards,</span><span lang=3D"EN-US"><u></u><u></u></span=
+></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p><i><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1f497d">Liliana Chang</span></i><span l=
+ang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font=
+-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color=
+:#1f497d">Eclat Textile Co. Ltd.</span><span style=3D"font-size:10.0pt;color=
+:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;fon=
+t-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Garmen=
+t Dept.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span=
+><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower=
+ Text&quot;,&quot;serif&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku D=
+ist., New Taipei City, Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;=
+color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">8=
+86-2-2299-6000#286</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=
+=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;H=
+igh Tower Text&quot;,&quot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat=
+.com.tw</a></span><span lang=3D"EN-US"><u></u><u></u></span></p><p><b><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Mo=
+rales [<a>mailto:andres.moralesg@gmail.com</a>] <br><b>Sent:</b> Thursday, S=
+eptember 11, 2014 10:09 AM<br><b>To:</b> Liliana </span><span style=3D"font-=
+size:10.0pt">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (E=
+CLAT)<br><b>Cc:</b> Diane Utterson; Rina </span><span style=3D"font-size:10.=
+0pt">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-si=
+ze:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); A=
+ngel </span><span style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</sp=
+an><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size=
+:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT=
+); Julie Wild<br><b>Subject:</b> Re: Q1-Q2 15 bulk projection</span><span la=
+ng=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US">&nbsp;<u></u><=
+u></u></span></p><div><p><span lang=3D"EN-US">Follow UK please.<u></u><u></u=
+></span></p><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p></di=
+v><div><p><span lang=3D"EN-US">bests.<u></u><u></u></span></p></div></div><d=
+iv><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><div><p><span lang=
+=3D"EN-US">2014-09-10 12:31 GMT-03:00 Liliana </span>=E5=BC=B5=E9=80=B8=E7=BE=
+=9A<span lang=3D"EN-US"> (ECLAT) &lt;<a>liliana.chang@eclat.com.tw</a>&gt;:<=
+u></u><u></u></span></p><div><div><p><span lang=3D"EN-US" style=3D"font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hi Andres,</spa=
+n><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" styl=
+e=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&=
+nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"E=
+N-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:=
+#1f497d">Thanks for your PO#7935, confirmed this order with ETD 14<sup>TH</s=
+up> Dec., please kindly noted and advise if the barcode detail will follow U=
+K=E2=80=99s or you will provide another one, thank you.</span><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><spa=
+n lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Best Re=
+gards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"=
+EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><i><=
+span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">Liliana Chang</span></i><span lang=3D"EN-US"><u></u><=
+u></u></span></p><p><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fami=
+ly:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Eclat Textil=
+e Co. Ltd.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</s=
+pan><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High To=
+wer Text&quot;,&quot;serif&quot;;color:#1f497d">Garment Dept.</span><span st=
+yle=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" s=
+tyle=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif=
+&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New Taipei City,=
+ Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C=
+</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High=
+ Tower Text&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#286</span=
+><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&q=
+uot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat.com.tw</a></span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p><p><b><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:=
+</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales [<a>mailto:andres.=
+moralesg@gmail.com</a>] <br><b>Sent:</b> Tuesday, September 09, 2014 9:26 PM=
+<br><b>To:</b> Liliana </span><span style=3D"font-size:10.0pt">=E5=BC=B5=E9=80=
+=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b>Cc:</b> Diane Ut=
+terson; Rina </span><span style=3D"font-size:10.0pt">=E9=BB=83=E5=A7=B5=E7=A6=
+=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;T=
+ahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Angel </span><span style=3D"fo=
+nt-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">=
+ (ECLAT); Karin </span><span style=3D"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=
+=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild</span><span lang=
+=3D"EN-US"><u></u><u></u></span></p><div><div><p><span lang=3D"EN-US"><br><b=
+>Subject:</b> Re: Q1-Q2 15 bulk projection<u></u><u></u></span></p></div></d=
+iv><div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><div><p>=
+<span lang=3D"EN-US">Attached PO.<u></u><u></u></span></p><div><p><span lang=
+=3D"EN-US">&nbsp;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US"=
+>Bests.<u></u><u></u></span></p></div></div><div><p><span lang=3D"EN-US">&nb=
+sp;<u></u><u></u></span></p><div><p><span lang=3D"EN-US">2014-09-09 10:07 GM=
+T-03:00 Liliana </span>=E5=BC=B5=E9=80=B8=E7=BE=9A<span lang=3D"EN-US"> (ECL=
+AT) &lt;<a>liliana.chang@eclat.com.tw</a>&gt;:<u></u><u></u></span></p><div>=
+<div><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Hi Andres,</span><span lang=3D"EN-US"><u></u=
+><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-=
+US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Please can you attac=
+hed PO for us to review? We will confirm back accordingly. </span><span lang=
+=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp;</span>=
+<span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D=
+"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">&nbsp=
+;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-US=
+" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f4=
+97d">Best Regards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><s=
+pan lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span=
+></p><p><i><span lang=3D"EN-US" style=3D"font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">Liliana Chang</span></i><span lang=3D"EN-=
+US"><u></u><u></u></span></p><p><span lang=3D"EN-US" style=3D"font-size:10.0=
+pt;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">=
+Eclat Textile Co. Ltd.</span><span style=3D"font-size:10.0pt;color:#1f497d">=
+=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">Garment Dept.</s=
+pan><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot=
+;,&quot;serif&quot;;color:#1f497d">No. 26-28, Wu Chuan Rd., Wu Ku Dist., New=
+ Taipei City, Taiwan, R.O.C.</span><span style=3D"font-size:10.0pt;color:#1f=
+497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fa=
+mily:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299=
+-6000#286</span><span style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</sp=
+an><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tow=
+er Text&quot;,&quot;serif&quot;;color:#1f497d"><a>liliana.chang@eclat.com.tw=
+</a></span><span lang=3D"EN-US"><u></u><u></u></span></p><p><b><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-=
+serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;=
+font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales [=
+<a>mailto:andres.moralesg@gmail.com</a>] <br><b>Sent:</b> Tuesday, September=
+ 09, 2014 8:49 PM<br><b>To:</b> Diane Utterson<br><b>Cc:</b> Liliana </span>=
+<span style=3D"font-size:10.0pt">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;s=
+ans-serif&quot;"> (ECLAT); Rina </span><span style=3D"font-size:10.0pt">=E9=BB=
+=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Angel </span=
+><span style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=96=94</span><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;=
+sans-serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt">=E9=
+=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wil=
+d; Kela Kwan; Quindy Yau<br><b>Subject:</b> Re: Q1-Q2 15 bulk projection</sp=
+an><span lang=3D"EN-US"><u></u><u></u></span></p><div><div><p><span lang=3D"=
+EN-US">&nbsp;<u></u><u></u></span></p><div><p><span lang=3D"EN-US">Hi,&nbsp;=
+<u></u><u></u></span></p><div><p><span lang=3D"EN-US">In case of Chile, it</=
+span>=C2=B4<span lang=3D"EN-US">s possible to increase a little qty as follo=
+wing? also add 2 codes.<u></u><u></u></span></p></div><div><p><span lang=3D"=
+EN-US">&nbsp;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">&lt=
+;image001.png&gt;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US"=
+>&nbsp;<u></u><u></u></span></p></div><div><p><span lang=3D"EN-US">PO Attach=
+ed you can find size breakdown. Please let me know if it</span>=C2=B4<span l=
+ang=3D"EN-US">s possible or not in order to send correct final PO.<u></u><u>=
+</u></span></p></div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span=
+></p></div><div><p><span lang=3D"EN-US">Bests.&nbsp;<u></u><u></u></span></p=
+></div><div><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p></div><di=
+v><p><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p></div></div><div><p=
+><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><div><p><span lang=3D"E=
+N-US">2014-09-09 7:48 GMT-03:00 Diane Utterson &lt;<a>diane.utterson@canterb=
+ury.com</a>&gt;:<u></u><u></u></span></p><div><div><p><span lang=3D"EN-GB" s=
+tyle=3D"color:#1f497d">Hi Liliana,</span><span lang=3D"EN-US"><u></u><u></u>=
+</span></p><p><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><spa=
+n lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-GB" style=3D"c=
+olor:#1f497d">Both Hong Kong and Chile are ordering directly with you so the=
+y need to give you the size breakdowns.&nbsp; I do not know what these will b=
+e.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-G=
+B" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u><=
+/span></p><p><span lang=3D"EN-GB" style=3D"color:#1f497d">Andres/Kela/Quindy=
+ </span><span style=3D"color:#1f497d">=E2=80=93</span><span lang=3D"EN-GB" s=
+tyle=3D"color:#1f497d"> please could you forward your size breakdowns on the=
+ attached to Liliana.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p=
+><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-=
+US"><u></u><u></u></span></p><p><span lang=3D"EN-GB" style=3D"color:#1f497d"=
+>Regards</span><span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D=
+"EN-GB" style=3D"color:#1f497d">Diane.</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span>=
+<span lang=3D"EN-US"><u></u><u></u></span></p><p><span lang=3D"EN-GB" style=3D=
+"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><=
+/div><p><span lang=3D"EN-GB">&lt;image002.jpg&gt;</span><span lang=3D"EN-US"=
+><u></u><u></u></span></p><div><div><div style=3D"border:none;border-top:sol=
+id #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:36.0pt">=
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"f=
+ont-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Lili=
+ana </span><span style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&qu=
+ot;,&quot;sans-serif&quot;">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-s=
+erif&quot;"> (ECLAT) [<a>mailto:liliana.chang@eclat.com.tw</a>] <br><b>Sent:=
+</b> 09 September 2014 11:43<br><b>To:</b> Diane Utterson; Rina </span><span=
+ style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-s=
+erif&quot;">=E9=BB=83</span><span style=3D"font-size:10.0pt">=E5=A7=B5=E7=A6=
+=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;T=
+ahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b>Cc:</b> Angel </span><spa=
+n style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-=
+serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (E=
+CLAT); Karin </span><span style=3D"font-size:10.0pt;font-family:&quot;MS UI G=
+othic&quot;,&quot;sans-serif&quot;">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;"> (ECLAT); Julie Wild<br><b>Subject:</b> RE: Q1-Q2 15 bulk=
+ projection</span><span lang=3D"EN-US"><u></u><u></u></span></p></div></div>=
+<p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB">&nbsp;</span><span lang=
+=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span la=
+ng=3D"EN-US" style=3D"color:#1f497d">Hi Diane,</span><span lang=3D"EN-US"><u=
+></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-US" s=
+tyle=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></spa=
+n></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-US" style=3D"color:#1=
+f497d">Would you please help to collect size breakdown of other POs i.e. HK a=
+nd South America? Thank you for your help.</span><span lang=3D"EN-US"><u></u=
+><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-US" styl=
+e=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span><=
+/p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-US" style=3D"color:#1f49=
+7d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"m=
+argin-left:36.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">Best Regards=
+,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-lef=
+t:36.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><span la=
+ng=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><i><sp=
+an lang=3D"EN-US" style=3D"color:#1f497d">Liliana Chang</span></i><span lang=
+=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quo=
+t;,&quot;serif&quot;;color:#1f497d">Eclat Textile Co. Ltd.</span><span style=
+=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" sty=
+le=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif&q=
+uot;;color:#1f497d">Garment Dept.</span><span style=3D"font-size:10.0pt;colo=
+r:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;fo=
+nt-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1f497d">No. 2=
+6-28, Wu Chuan Rd., Wu Ku Dist., New Taipei City, Taiwan, R.O.C.</span><span=
+ style=3D"font-size:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;s=
+erif&quot;;color:#1f497d">886-2-2299-6000#286</span><span style=3D"font-size=
+:10.0pt;color:#1f497d">=EF=BD=9C</span><span lang=3D"EN-US" style=3D"font-si=
+ze:10.0pt;font-family:&quot;High Tower Text&quot;,&quot;serif&quot;;color:#1=
+f497d"><a>liliana.chang@eclat.com.tw</a></span><span lang=3D"EN-US"><u></u><=
+u></u></span></p><div><div style=3D"border:none;border-top:solid #b5c4df 1.0=
+pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:36.0pt"><b><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-=
+serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;=
+font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Diane Utterson [<a>m=
+ailto:diane.utterson@canterbury.com</a>] <br><b>Sent:</b> Thursday, Septembe=
+r 04, 2014 5:37 PM<br><b>To:</b> Rina </span><span style=3D"font-size:10.0pt=
+">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b=
+>Cc:</b> Angel </span><span style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=B9=E9=
+=96=94</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Karin </span><span style=3D=
+"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" st=
+yle=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot=
+;"> (ECLAT); Liliana </span><span style=3D"font-size:10.0pt">=E5=BC=B5=E9=80=
+=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild<br><b>Subj=
+ect:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><u></u><u><=
+/u></span></p></div></div><p style=3D"margin-left:36.0pt"><span lang=3D"EN-U=
+S">&nbsp;<u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=
+=3D"EN-GB" style=3D"color:#1f497d">Hi Rina,</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB" sty=
+le=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span>=
+</p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"color:#1f4=
+97d">Noted your comments.&nbsp; FOB 7<sup>th</sup> December is the latest sa=
+iling date we could accept as we need the goods in our warehouse by 17<sup>t=
+h</sup> January so going to be very tight for us.</span><span lang=3D"EN-US"=
+><u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-G=
+B" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u><=
+/span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"colo=
+r:#1f497d">Please keep pushing on fabric delivery for us which I</span><span=
+ style=3D"color:#1f497d">=E2=80=99</span><span lang=3D"EN-GB" style=3D"color=
+:#1f497d">m sure you will be doing.</span><span lang=3D"EN-US"><u></u><u></u=
+></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"co=
+lor:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p s=
+tyle=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">I h=
+ave attached updated PO accordingly.</span><span lang=3D"EN-US"><u></u><u></=
+u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"c=
+olor:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p s=
+tyle=3D"margin-left:36.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Kin=
+d regards,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"m=
+argin-left:36.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Diane.</span=
+><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:36.0p=
+t"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"E=
+N-US"><u></u><u></u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D=
+"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p style=3D"margin-left:36.0pt"><span lang=3D"EN-GB">&lt;imag=
+e002.jpg&gt;</span><span lang=3D"EN-US"><u></u><u></u></span></p><div><div s=
+tyle=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm=
+"><p style=3D"margin-left:72.0pt"><b><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span><=
+/b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;"> Rina </span><span style=3D"font-size:10.0pt;fo=
+nt-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E9=BB=83</span><=
+span style=3D"font-size:10.0pt">=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US=
+" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&=
+quot;"> (ECLAT) [<a>mailto:rina.huang@eclat.com.tw</a>] <br><b>Sent:</b> 04 S=
+eptember 2014 10:31<br><b>To:</b> Diane Utterson<br><b>Cc:</b> Angel </span>=
+<span style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;s=
+ans-serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" styl=
+e=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"=
+> (ECLAT); Karin </span><span style=3D"font-size:10.0pt;font-family:&quot;MS=
+ UI Gothic&quot;,&quot;sans-serif&quot;">=E9=84=AD=E9=BA=97=E8=8A=AC</span><=
+span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;=
+,&quot;sans-serif&quot;"> (ECLAT); Liliana </span><span style=3D"font-size:1=
+0.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E5=BC=B5=
+=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild<br><=
+b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p></div></div><p style=3D"margin-left:72.0pt"><span lang=3D=
+"EN-GB">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D=
+"margin-left:72.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">Hello Dian=
+e,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-le=
+ft:72.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">After further negoti=
+ating with rtfiber, they still cannot improve the fabric delivery. Our facto=
+ry will do their best to push for Control styles. Best delivery will be 7<su=
+p>th</sup> December. Pls confirm and update PO for us. </span><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p style=3D"margin-left:72.0pt"><span lang=3D=
+"EN-US" style=3D"color:#1f497d">For Baselayer, I am still waiting for fabric=
+ delivery from our fabric team and is expecting the same delivery or earlier=
+. Thank you. </span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D=
+"margin-left:72.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</sp=
+an><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:72.=
+0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><div><p style=3D"margin-left:72.0pt"><span l=
+ang=3D"EN-US" style=3D"font-family:&quot;Footlight MT Light&quot;,&quot;seri=
+f&quot;;color:#1f497d">Best Regards,</span><span lang=3D"EN-US"><u></u><u></=
+u></span></p><p style=3D"margin-left:72.0pt"><i><span lang=3D"EN-US" style=3D=
+"font-family:&quot;Footlight MT Light&quot;,&quot;serif&quot;;color:#1f497d"=
+>Rina Huang</span></i><span lang=3D"EN-US"><u></u><u></u></span></p><p style=
+=3D"margin-left:72.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Foot=
+light MT Light&quot;,&quot;serif&quot;;color:#1f497d">Eclat Textile Co. Ltd.=
+,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-lef=
+t:72.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Footlight MT Light=
+&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#450</span><span lang=
+=3D"EN-US"><u></u><u></u></span></p></div><p style=3D"margin-left:72.0pt"><s=
+pan lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"=
+><u></u><u></u></span></p><div><div style=3D"border:none;border-top:solid #b=
+5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:72.0pt"><b><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,=
+&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Diane Utt=
+erson [<a>mailto:diane.utterson@canterbury.com</a>] <br><b>Sent:</b> Wednesd=
+ay, September 03, 2014 11:34 PM<br><b>To:</b> Rina </span><span style=3D"fon=
+t-size:10.0pt">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (E=
+CLAT)<br><b>Cc:</b> Angel </span><span style=3D"font-size:10.0pt">=E6=9B=BE=E8=
+=99=B9=E9=96=94</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Karin </span><span=
+ style=3D"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"=
+EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-s=
+erif&quot;"> (ECLAT); Liliana </span><span style=3D"font-size:10.0pt">=E5=BC=
+=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Julie Wild<b=
+r><b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><u=
+></u><u></u></span></p></div></div><p style=3D"margin-left:72.0pt"><span lan=
+g=3D"EN-US">&nbsp;<u></u><u></u></span></p><p style=3D"margin-left:72.0pt"><=
+span lang=3D"EN-GB" style=3D"color:#1f497d">Hi Rina,</span><span lang=3D"EN-=
+US"><u></u><u></u></span></p><p style=3D"margin-left:72.0pt"><span lang=3D"E=
+N-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></=
+u></span></p><p style=3D"margin-left:72.0pt"><span lang=3D"EN-GB" style=3D"c=
+olor:#1f497d">Further to Julie</span><span style=3D"color:#1f497d">=E2=80=99=
+</span><span lang=3D"EN-GB" style=3D"color:#1f497d">s email, please find att=
+ached new PO 18386 to cover our Q1 Training styles.&nbsp; Please confirm the=
+ FOB shipment date as soon as you can </span><span style=3D"color:#1f497d">=E2=
+=80=93</span><span lang=3D"EN-GB" style=3D"color:#1f497d"> we are looking fo=
+r FOB sailing date of 23<sup>rd</sup> November if possible.</span><span lang=
+=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:72.0pt"><span la=
+ng=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p><p style=3D"margin-left:72.0pt"><span lang=3D"EN-GB" sty=
+le=3D"color:#1f497d">Any questions, please let me know asap.</span><span lan=
+g=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:72.0pt"><span l=
+ang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u><=
+/u><u></u></span></p><p style=3D"margin-left:72.0pt"><span lang=3D"EN-GB" st=
+yle=3D"color:#1f497d">Kind regards,</span><span lang=3D"EN-US"><u></u><u></u=
+></span></p><p style=3D"margin-left:72.0pt"><span lang=3D"EN-GB" style=3D"co=
+lor:#1f497d">Diane.</span><span lang=3D"EN-US"><u></u><u></u></span></p><p s=
+tyle=3D"margin-left:72.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nb=
+sp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-l=
+eft:72.0pt"><span lang=3D"EN-GB">&lt;image002.jpg&gt;</span><span lang=3D"EN=
+-US"><u></u><u></u></span></p><div><div style=3D"border:none;border-top:soli=
+d #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:108.0pt">=
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"f=
+ont-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Juli=
+e Wild <br><b>Sent:</b> 03 September 2014 16:20<br><b>To:</b> Rina </span><s=
+pan style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;san=
+s-serif&quot;">=E9=BB=83</span><span style=3D"font-size:10.0pt">=E5=A7=B5=E7=
+=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><b>Cc:</b> Angel </span><=
+span style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sa=
+ns-serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">=
+ (ECLAT); Karin </span><span style=3D"font-size:10.0pt;font-family:&quot;MS U=
+I Gothic&quot;,&quot;sans-serif&quot;">=E9=84=AD=E9=BA=97=E8=8A=AC</span><sp=
+an lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&=
+quot;sans-serif&quot;"> (ECLAT); Liliana </span><span style=3D"font-size:10.=
+0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E5=BC=B5=E9=
+=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Diane Utterson<br>=
+<b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><u><=
+/u><u></u></span></p></div></div><p style=3D"margin-left:108.0pt"><span lang=
+=3D"EN-GB">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p sty=
+le=3D"margin-left:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Hi R=
+ina</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-l=
+eft:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:180.0pt"><s=
+pan lang=3D"EN-GB" style=3D"color:#1f497d">3/E721633-769 We do not need any o=
+ther styles in navy at the moment.&nbsp; What will the dying surcharge be fo=
+r this?</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"marg=
+in-left:180.0pt"><b><span lang=3D"EN-GB" style=3D"color:#00b050">Rina: It is=
+ way under fabric min. and would need to have total 1010pcs to hit fabric mi=
+n. and with $200 surcharge. </span></b><b><span lang=3D"EN-GB" style=3D"colo=
+r:#1f497d">Julie: so you can make 600pcs with a $200 surcharge?</span></b><s=
+pan lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:108.0pt"=
+><b><span lang=3D"EN-GB" style=3D"color:#7030a0">Rina: Sorry that I have not=
+ be clear enough. We need 1010pcs up to hit the smallest dye lot with $200 s=
+urcharge. Fabric needed for 600pcs does not meet &nbsp;smallest dye lot for b=
+ulk: </span></b><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"ma=
+rgin-left:108.0pt"><b><span lang=3D"EN-GB" style=3D"color:#002060">Julie:&nb=
+sp; we will cancel this order for now and review with other styles</span></b=
+><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:108.0=
+pt"><b><span lang=3D"EN-GB" style=3D"color:#7030a0">&nbsp;</span></b><span l=
+ang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:180.0pt"><b><=
+u><span lang=3D"EN-GB" style=3D"color:#1f497d">Compression</span></u></b><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:180.0pt">=
+<b><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span></b><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:180.0pt"><span lang=
+=3D"EN-GB" style=3D"color:#1f497d">I am on leave now until 15<sup>th</sup> S=
+eptember but Stuart is looking into how we can use up this fabric and will a=
+dvise in my absence</span><span lang=3D"EN-US"><u></u><u></u></span></p><p s=
+tyle=3D"margin-left:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&n=
+bsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-=
+left:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Please push on co=
+nfirming the fob date required</span><span lang=3D"EN-US"><u></u><u></u></sp=
+an></p><p style=3D"margin-left:180.0pt"><span lang=3D"EN-GB" style=3D"color:=
+#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=
+=3D"margin-left:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Kind R=
+egards</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margi=
+n-left:180.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><s=
+pan lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:180.0pt"=
+><span lang=3D"EN-GB" style=3D"color:#1f497d">Julie</span><span lang=3D"EN-U=
+S"><u></u><u></u></span></p><p style=3D"margin-left:108.0pt"><span lang=3D"E=
+N-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></=
+u></span></p><p style=3D"margin-left:108.0pt"><span lang=3D"EN-GB" style=3D"=
+color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><d=
+iv><div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0c=
+m 0cm 0cm"><p style=3D"margin-left:144.0pt"><b><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:=
+</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,&quot;sans-serif&quot;"> Rina </span><span style=3D"font-size:1=
+0.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E9=BB=83=
+</span><span style=3D"font-size:10.0pt">=E5=A7=B5=E7=A6=8E</span><span style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">=
+ <span lang=3D"EN-US">(ECLAT) [<a>mailto:rina.huang@eclat.com.tw</a>] <br><b=
+>Sent:</b> 03 September 2014 10:49<br><b>To:</b> Julie Wild<br><b>Cc:</b> An=
+gel </span></span><span style=3D"font-size:10.0pt;font-family:&quot;MS UI Go=
+thic&quot;,&quot;sans-serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94</span><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt;fo=
+nt-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E9=84=AD=E9=BA=97=
+=E8=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Liliana </span><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif=
+&quot;">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font=
+-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)=
+; Diane Utterson<br><b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p></div></div><p style=3D"margin-left=
+:144.0pt"><span lang=3D"EN-GB">&nbsp;</span><span lang=3D"EN-US"><u></u><u><=
+/u></span></p><p style=3D"margin-left:144.0pt"><span lang=3D"EN-US" style=3D=
+"color:#1f497d">Hello Julie,</span><span lang=3D"EN-US"><u></u><u></u></span=
+></p><p style=3D"margin-left:144.0pt"><span lang=3D"EN-US" style=3D"color:#1=
+f497d">Pls see below inserted in </span><b><span lang=3D"EN-US" style=3D"col=
+or:#7030a0">purple</span></b><span lang=3D"EN-US" style=3D"color:#1f497d"> b=
+elow. </span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margi=
+n-left:144.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><s=
+pan lang=3D"EN-US"><u></u><u></u></span></p><div><p style=3D"margin-left:144=
+.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Footlight MT Light&quo=
+t;,&quot;serif&quot;;color:#1f497d">Best Regards,</span><span lang=3D"EN-US"=
+><u></u><u></u></span></p><p style=3D"margin-left:144.0pt"><i><span lang=3D"=
+EN-US" style=3D"font-family:&quot;Footlight MT Light&quot;,&quot;serif&quot;=
+;color:#1f497d">Rina Huang</span></i><span lang=3D"EN-US"><u></u><u></u></sp=
+an></p><p style=3D"margin-left:144.0pt"><span lang=3D"EN-US" style=3D"font-f=
+amily:&quot;Footlight MT Light&quot;,&quot;serif&quot;;color:#1f497d">Eclat T=
+extile Co. Ltd.,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p styl=
+e=3D"margin-left:144.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;Fo=
+otlight MT Light&quot;,&quot;serif&quot;;color:#1f497d">886-2-2299-6000#450<=
+/span><span lang=3D"EN-US"><u></u><u></u></span></p></div><p style=3D"margin=
+-left:144.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><div><div style=3D"border:none;bo=
+rder-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-l=
+eft:144.0pt"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-U=
+S" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;"> Julie Wild [<a>mailto:julie.wild@canterbury.com</a>] <br><b>Sent:</=
+b> Tuesday, September 02, 2014 9:19 PM<br><b>To:</b> Rina </span><span style=
+=3D"font-size:10.0pt">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US"=
+ style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&q=
+uot;"> (ECLAT)<br><b>Cc:</b> Angel </span><span style=3D"font-size:10.0pt">=E6=
+=9B=BE=E8=99=B9=E9=96=94</span><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Karin </s=
+pan><span style=3D"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span=
+ lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> (ECLAT); Liliana </span><span style=3D"font-size:10.0p=
+t">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> <span lang=3D"EN-US">(ECLAT=
+); Diane Utterson<br><b>Subject:</b> RE: Q1-Q2 15 bulk projection</span></sp=
+an><span lang=3D"EN-US"><u></u><u></u></span></p></div></div><p style=3D"mar=
+gin-left:144.0pt"><span lang=3D"EN-US">&nbsp;<u></u><u></u></span></p><p sty=
+le=3D"margin-left:144.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Hi R=
+ina</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-l=
+eft:144.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span=
+ lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:144.0pt"><s=
+pan lang=3D"EN-GB" style=3D"color:#1f497d">Please see my reply below</span><=
+span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:144.0pt=
+"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN=
+-US"><u></u><u></u></span></p><p style=3D"margin-left:144.0pt"><span lang=3D=
+"EN-GB" style=3D"color:#1f497d">Kind Regards</span><span lang=3D"EN-US"><u><=
+/u><u></u></span></p><p style=3D"margin-left:144.0pt"><span lang=3D"EN-GB" s=
+tyle=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></spa=
+n></p><p style=3D"margin-left:144.0pt"><span lang=3D"EN-GB" style=3D"color:#=
+1f497d">Julie</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D=
+"margin-left:144.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</s=
+pan><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-left:14=
+4.0pt"><span lang=3D"EN-GB">&lt;image002.jpg&gt;</span><span lang=3D"EN-US">=
+<u></u><u></u></span></p><div><div style=3D"border:none;border-top:solid #b5=
+c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:144.0pt"><b><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,=
+&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Rina </sp=
+an><span style=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quo=
+t;sans-serif&quot;">=E9=BB=83</span><span style=3D"font-size:10.0pt">=E5=A7=B5=
+=E7=A6=8E</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&=
+quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT) [<a>mailto:rina.huang@ecl=
+at.com.tw</a>] <br><b>Sent:</b> 02 September 2014 11:44<br><b>To:</b> Julie W=
+ild<br><b>Cc:</b> Angel </span><span style=3D"font-size:10.0pt;font-family:&=
+quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94<=
+/span><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;s=
+ans-serif&quot;"> <span lang=3D"EN-US">(ECLAT); Karin </span></span><span st=
+yle=3D"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-seri=
+f&quot;">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT=
+); Liliana </span><span style=3D"font-size:10.0pt;font-family:&quot;MS UI Go=
+thic&quot;,&quot;sans-serif&quot;">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span l=
+ang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;"> (ECLAT); Diane Utterson<br><b>Subject:</b> RE: Q1-Q2 15 b=
+ulk projection</span><span lang=3D"EN-US"><u></u><u></u></span></p></div></d=
+iv><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><=
+span lang=3D"EN-GB">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span><=
+/p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><=
+span lang=3D"EN-US" style=3D"color:#1f497d">Hello Julie,</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-bott=
+om:5.0pt;margin-left:12.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">Pl=
+s see my reply in </span><b><span lang=3D"EN-US" style=3D"color:#00b050">gre=
+en</span></b><span lang=3D"EN-US" style=3D"color:#1f497d"> below. </span><sp=
+an lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;m=
+argin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-US" style=3D"color:#=
+1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><div><p s=
+tyle=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span la=
+ng=3D"EN-US" style=3D"font-family:&quot;Footlight MT Light&quot;,&quot;serif=
+&quot;;color:#1f497d">Best Regards,</span><span lang=3D"EN-US"><u></u><u></u=
+></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:=
+12.0pt"><i><span lang=3D"EN-US" style=3D"font-family:&quot;Footlight MT Ligh=
+t&quot;,&quot;serif&quot;;color:#1f497d">Rina Huang</span></i><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-botto=
+m:5.0pt;margin-left:12.0pt"><span lang=3D"EN-US" style=3D"font-family:&quot;=
+Footlight MT Light&quot;,&quot;serif&quot;;color:#1f497d">Eclat Textile Co. L=
+td.,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-=
+right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-US" st=
+yle=3D"font-family:&quot;Footlight MT Light&quot;,&quot;serif&quot;;color:#1=
+f497d">886-2-2299-6000#450</span><span lang=3D"EN-US"><u></u><u></u></span><=
+/p></div><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.=
+0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">&nbsp;</span><span lang=3D=
+"EN-US"><u></u><u></u></span></p><div><div style=3D"border:none;border-top:s=
+olid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:144.0p=
+t"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahom=
+a&quot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Ju=
+lie Wild [<a>mailto:julie.wild@canterbury.com</a>] <br><b>Sent:</b> Monday, S=
+eptember 01, 2014 7:56 PM<br><b>To:</b> Rina </span><span style=3D"font-size=
+:10.0pt">=E9=BB=83=E5=A7=B5=E7=A6=8E</span><span lang=3D"EN-US" style=3D"fon=
+t-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT=
+)<br><b>Cc:</b> Angel </span><span style=3D"font-size:10.0pt">=E6=9B=BE=E8=99=
+=B9=E9=96=94</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Karin </span><span st=
+yle=3D"font-size:10.0pt">=E9=84=AD=E9=BA=97=E8=8A=AC</span><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-seri=
+f&quot;"> (ECLAT); Liliana </span><span style=3D"font-size:10.0pt">=E5=BC=B5=
+=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Diane Utterson<=
+br><b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><=
+u></u><u></u></span></p></div></div><p style=3D"margin-right:12.0pt;margin-b=
+ottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-US">&nbsp;<u></u><u></u></s=
+pan></p><div><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left=
+:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Hi Rina</span><span la=
+ng=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin=
+-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497=
+d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"ma=
+rgin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-G=
+B" style=3D"color:#1f497d">1/ As Stuart had just placed some orders for cold=
+ styles we will hold the balance of this greige for our next core orders.</s=
+pan><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:1=
+2.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><b><span lang=3D"EN-GB" style=3D=
+"color:#00b050">Rina: Pls kindly note that the greige shelf life is about 3 m=
+onths. Would you pls kindly let me know when shall we expect your next core o=
+rder? </span></b><b><span lang=3D"EN-GB" style=3D"color:#1f497d">Julie: we w=
+ill review again and place new orders in a few weeks</span></b><span lang=3D=
+"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-bott=
+om:5.0pt;margin-left:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">2/=
+Noted amended sheet with 30pcs added to E545646-T01, thanks.</span><span lan=
+g=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-=
+bottom:5.0pt;margin-left:12.0pt"><b><span lang=3D"EN-GB" style=3D"color:#00b=
+050">Rina: Thank you. </span></b><span lang=3D"EN-US"><u></u><u></u></span><=
+/p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><=
+span lang=3D"EN-GB" style=3D"color:#1f497d">3/E721633-769 We do not need any=
+ other styles in navy at the moment.&nbsp; What will the dying surcharge be f=
+or this?</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"mar=
+gin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><b><span lang=3D"EN=
+-GB" style=3D"color:#00b050">Rina: It is way under fabric min. and would nee=
+d to have total 1010pcs to hit fabric min. and with $200 surcharge. </span><=
+/b><b><span lang=3D"EN-GB" style=3D"color:#1f497d">Julie: so you can make 60=
+0pcs with a $200 surcharge?</span></b><span lang=3D"EN-US"><u></u><u></u></s=
+pan></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0=
+pt"><b><span lang=3D"EN-GB" style=3D"color:#7030a0">Rina: Sorry that I have n=
+ot be clear enough. We need 1010pcs up to hit the smallest dye lot with $200=
+ surcharge. Fabric needed for 600pcs does not meet &nbsp;smallest dye lot fo=
+r bulk. </span></b><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D=
+"margin-left:144.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</s=
+pan><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:1=
+2.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><b><u><span lang=3D"EN-GB" sty=
+le=3D"color:#1f497d">Control</span></u></b><span lang=3D"EN-US"><u></u><u></=
+u></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left=
+:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lan=
+g=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-=
+bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d=
+">Greige was booked so please urgently confirm?</span><span lang=3D"EN-US"><=
+u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;=
+margin-left:12.0pt"><b><span lang=3D"EN-GB" style=3D"color:#00b050">Rina: We=
+ could catch the ship with 21-Dec ETD. But is now checking if rtfiber could h=
+elp push a bit earlier. Will keep you posted. </span></b><b><span lang=3D"EN=
+-GB" style=3D"color:#1f497d">Julie as previously discussed we need vessel sa=
+iling 23<sup>rd</sup> Nov </span><span style=3D"color:#1f497d">=E2=80=93</sp=
+an></b><b><span lang=3D"EN-GB" style=3D"color:#1f497d"> please push Ruey Tay=
+ on delivery </span><span style=3D"color:#1f497d">=E2=80=93</span></b><b><sp=
+an lang=3D"EN-GB" style=3D"color:#1f497d"> we cannot be late delivering to o=
+ur customers</span></b><span lang=3D"EN-US"><u></u><u></u></span></p><p styl=
+e=3D"margin-left:144.0pt"><b><span lang=3D"EN-GB" style=3D"color:#1f497d">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></b><b><span lang=3D"EN-GB" s=
+tyle=3D"color:#7030a0">Rina: Ruey Tay advised that they cannot push any earl=
+ier. I am not checking with our factory to see how we could help push. Pls a=
+llow me to get back t oyou within this week. </span></b><span lang=3D"EN-US"=
+><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0p=
+t;margin-left:12.0pt"><b><u><span lang=3D"EN-GB" style=3D"color:#1f497d">Com=
+pression</span></u></b><span lang=3D"EN-US"><u></u><u></u></span></p><p styl=
+e=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D=
+"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-le=
+ft:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">I will have to come b=
+ack to you on this</span><span lang=3D"EN-US"><u></u><u></u></span></p><p st=
+yle=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><b><span l=
+ang=3D"EN-GB" style=3D"color:#00b050">Rina: Noted. Has informed NZ office th=
+at we</span><span style=3D"color:#00b050">=E2=80=99</span></b><b><span lang=3D=
+"EN-GB" style=3D"color:#00b050">re holding for your advice as they suggest t=
+hat will need to combine with UK orders for production. Thank you. . </span>=
+<span style=3D"color:#1f497d">=E2=80=93</span></b><b><span lang=3D"EN-GB" st=
+yle=3D"color:#1f497d"> I am waiting to see if any of our other markets need t=
+o place any more orders and will come back to you on this</span></b><span la=
+ng=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin=
+-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497=
+d">Kind Regards</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=
+=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D=
+"EN-GB" style=3D"color:#1f497d">&nbsp;</span><span lang=3D"EN-US"><u></u><u>=
+</u></span></p><p style=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-le=
+ft:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497d">Julie</span><span la=
+ng=3D"EN-US"><u></u><u></u></span></p><p style=3D"margin-right:12.0pt;margin=
+-bottom:5.0pt;margin-left:12.0pt"><span lang=3D"EN-GB" style=3D"color:#1f497=
+d">&nbsp;</span><span lang=3D"EN-US"><u></u><u></u></span></p></div><p style=
+=3D"margin-right:12.0pt;margin-bottom:5.0pt;margin-left:12.0pt"><span lang=3D=
+"EN-GB">&lt;image002.jpg&gt;</span><span lang=3D"EN-US"><u></u><u></u></span=
+></p><div><div><div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padd=
+ing:3.0pt 0cm 0cm 0cm"><p style=3D"margin-left:144.0pt"><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-seri=
+f&quot;">From:</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Rina </span><span style=3D=
+"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot=
+;">=E9=BB=83</span><span style=3D"font-size:10.0pt">=E5=A7=B5=E7=A6=8E</span=
+><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quo=
+t;,&quot;sans-serif&quot;"> (ECLAT) [<a>mailto:rina.huang@eclat.com.tw</a>] <=
+br><b>Sent:</b> 01 September 2014 09:51<br><b>To:</b> Julie Wild<br><b>Cc:</=
+b> Angel </span><span style=3D"font-size:10.0pt;font-family:&quot;MS UI Goth=
+ic&quot;,&quot;sans-serif&quot;">=E6=9B=BE=E8=99=B9=E9=96=94</span><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;s=
+ans-serif&quot;"> (ECLAT); Karin </span><span style=3D"font-size:10.0pt;font=
+-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot;">=E9=84=AD=E9=BA=97=E8=
+=8A=AC</span><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT); Liliana </span><span style=3D=
+"font-size:10.0pt;font-family:&quot;MS UI Gothic&quot;,&quot;sans-serif&quot=
+;">=E5=BC=B5=E9=80=B8=E7=BE=9A</span><span lang=3D"EN-US" style=3D"font-size=
+:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> (ECLAT)<br><=
+b>Subject:</b> RE: Q1-Q2 15 bulk projection</span><span lang=3D"EN-US"><u></=
+u><u></u></span></p></div></div><p style=3D"margin-right:11.0pt;margin-botto=
+m:5.0pt;margin-left:47.0pt"><span lang=3D"EN-GB">&nbsp;</span><span lang=3D"=
+EN-US"><u></u><u></u></span></p><p style=3D"margin-right:11.0pt;margin-botto=
+m:5.0pt;margin-left:47.0pt"><span lang=3D"EN-US" style=3D"color:#1f497d">Hel=
+lo Julie,</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D"ma=
+rgin-right:11.0pt;margin-bottom:5.0pt;margin-left:47.0pt"><b><span lang=3D"E=
+N-US" style=3D"color:#1f497d">Baselayer</span></b><span style=3D"color:#1f49=
+7d">=E2=80=94</span><span lang=3D"EN-US"><u></u><u></u></span></p><p style=3D=
+"margin-right:11.0pt;margin-bottom:0cm;margin-left:65.0pt;margin-bottom:.000=
+1pt"><span lang=3D"EN-US" style=3D"color:#1f497d">1.</span><span lang=3D"EN-=
+US" style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;,&quot;s=
+erif&quot;;color:#1f497d">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span lang=3D=
+"EN-US" style=3D"color:#1f497d"></span></p></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div></div></div></div></div></div></div></div></div=
+></blockquote></div></div></blockquote>
+</div></blockquote></body></html>=
+
+--Apple-Mail-2DFE32F1-8905-4C85-B6A4-1B6B470DBBEE--

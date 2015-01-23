@@ -1,0 +1,212 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 16 Dec 2014 12:15:18 -0600
+Received: from mail-oi0-f45.google.com ([209.85.218.45]:40256)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1Y0weT-0000Eu-W6
+	for amorales@cccchile.cl; Tue, 16 Dec 2014 12:15:18 -0600
+Received: by mail-oi0-f45.google.com with SMTP id a141so9990493oig.4
+        for <amorales@cccchile.cl>; Tue, 16 Dec 2014 10:15:16 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=cMhSAasKzZWdTLBC15vk8EqZJj6iyjXlrPRyi9DIFtU=;
+        b=VOXioFAUeM+r1fufiY56JtglOCxElUGNUeJ4wgvgNF1fvbjG8R+C9GlmTM7C8XYaG3
+         MgUslKyAuzKPBxS6fxF5EpOWlENcfGphNU+XsRheIKy4N6qaQwCtn9V+M981mSudXrIV
+         aBZzy1VOF9AsmgGKKdEWjO6P4v6d6RdkoDpa5wUhZYZnmhshPTfCaHL+AI5p/H4RJpqI
+         rXWYFPxdYveBBWYWC+AvDq+kSA6vilsS+5LejZ/S86kpz2dYMZ4r9m0FA1UEibqR5Mmd
+         uF0gN9qkgRQKnNFwqxwb1ucLMlHuaDo+t3nll8Y7dm5GyEQANtK6NbTDM/bq5400iE/y
+         dL6w==
+X-Gm-Message-State: ALoCoQndHcHfKBFwQ18/KQmFwKzjiZFGXrRcbroSjnZD/LhK+t24x6VCHLx4XhL7Y2ycTOdg1e+Q
+MIME-Version: 1.0
+X-Received: by 10.182.121.129 with SMTP id lk1mr23422918obb.83.1418753715914;
+ Tue, 16 Dec 2014 10:15:15 -0800 (PST)
+Received: by 10.182.81.69 with HTTP; Tue, 16 Dec 2014 10:15:15 -0800 (PST)
+X-Originating-IP: [190.47.165.41]
+In-Reply-To: <CAKggD2T8di4hU8dgv6mEqezhYSP8pEHDRf0wN2XxCnX9SNdXJQ@mail.gmail.com>
+References: <CAKggD2R6Qk+XSrhAYhzC5cUt7M34SUYf7Evr2jUt+B0P1G1A2g@mail.gmail.com>
+	<CAJbDu1=0_TyzHF_7C+06ep5Ry-671baBk+4uC+Gswvzh5PCW7g@mail.gmail.com>
+	<CAKggD2QNC8eOmGr-8YquebyYYW7bHBaQUGyjW3KNRRFZS7MgcA@mail.gmail.com>
+	<1BED4F6B-D45A-4AEB-9028-340E124C9F1D@viaglobal.cl>
+	<CAKggD2SmPD8GerM_oNb14aCFhBv8bJ-=cok+pE88uqBYddk+QQ@mail.gmail.com>
+	<077DAE8A-0F24-4508-B498-C28654DE4B4B@viaglobal.cl>
+	<CAJbDu1kJAgHW330sES1Cje2U3PYYj44-V9rvSqDuMTvC9=GSKQ@mail.gmail.com>
+	<CAKggD2T8di4hU8dgv6mEqezhYSP8pEHDRf0wN2XxCnX9SNdXJQ@mail.gmail.com>
+Date: Tue, 16 Dec 2014 15:15:15 -0300
+Message-ID: <CAJbDu1nC+5K9GfLfovBf3ZDUb8CWKk4aYmde4ENqsVPfA-LZfQ@mail.gmail.com>
+Subject: Re: USM Ex- Aumnos MTO
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Cc: Guillermo Morales <gmorales@spindeportes.cl>
+Content-Type: multipart/alternative; boundary=089e013c5da642cc99050a59575c
+
+--089e013c5da642cc99050a59575c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+es mejor el pdf en ai que tienes ahora.
+esta trazado el nombre.
+
+me confirmas.
+
+
+2014-12-16 15:14 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchi=
+le.cl>
+:
+>
+> Si, ok. Lo veo con ellos. La vez anterior yo les mande a ellos un jpg que
+> decia "lobos marinos".
+>
+>
+> El martes, 16 de diciembre de 2014, Victor Irigoyen <
+> virigoyen@viaglobal.cl> escribi=C3=B3:
+>
+> Te adjunto la ficha MTO de los alumnos USM
+>> La vez anterior tu definiste el texto del nombre con los del MTO.
+>>
+>> es lo mismo que colocar un nombre pero todo iguales.
+>> la ficha que te adjunto te puede servir de referencia.
+>>
+>> quedo atento a tu comentario.
+>>
+>>
+>> 2014-12-16 10:47 GMT-03:00 V=C3=ADctor Irigoyen <virigoyen@viaglobal.cl>=
+:
+>>>
+>>> Pero la ficha esta en ai. Trazada.
+>>> Asi lo hicimos con lobos marinos.
+>>>
+>>>
+>>>
+>>>
+>>> El 16-12-2014, a las 10:21, Andr=C3=A9s Morales (CCC-CHILE) <
+>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>
+>>> Ok, necesito el nombre del club en alta, igual que cuando hicimos "Lobo=
+s
+>>> Marinos"
+>>>
+>>>
+>>>
+>>> El 15 de diciembre de 2014, 18:13, V=C3=ADctor Irigoyen <
+>>> virigoyen@viaglobal.cl> escribi=C3=B3:
+>>>>
+>>>> Te adjunte la ficha.
+>>>> Es solo el nombre del club. No el de los jugadores.
+>>>> Todo sublimado.
+>>>>
+>>>> Saludos
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> El 15-12-2014, a las 17:28, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>
+>>>> Ok, si es que tienes el.listado de nombres los incluimos, va todo
+>>>> sublimado.
+>>>>
+>>>> Sls
+>>>>
+>>>> El lunes, 15 de diciembre de 2014, Victor Irigoyen <
+>>>> virigoyen@viaglobal.cl> escribi=C3=B3:
+>>>>
+>>>>> Andres,
+>>>>>
+>>>>> hay un detalle que esta mal:
+>>>>> - espalda arriba va nombre del club.
+>>>>> aparece el iso ccc el la ficha MTO.
+>>>>>
+>>>>> adjunto ficha en ai.
+>>>>>
+>>>>> las tallas las est=C3=A1n confirmado.
+>>>>> pedi que lo hicieran por sistema de medirse con huincha, estoy a la
+>>>>> espera de las tallas.
+>>>>>
+>>>>> saludos
+>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>> 2014-12-15 14:39 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>> amorales@cccchile.cl>:
+>>>>>>
+>>>>>> Victor,
+>>>>>>
+>>>>>> Te adjunto planilla de ex-alumnos.
+>>>>>>
+>>>>>> confirmame dise=C3=B1o y tallas.
+>>>>>>
+>>>>>> sls.
+>>>>>>
+>>>>>
+
+--089e013c5da642cc99050a59575c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">es mejor el pdf en ai que tienes ahora.=C2=A0<div>esta tra=
+zado el nombre.=C2=A0</div><div><br></div><div>me confirmas.=C2=A0</div><di=
+v><br></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote"=
+>2014-12-16 15:14 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"lt=
+r">&lt;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@c=
+ccchile.cl</a>&gt;</span>:<blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Si, ok. Lo veo con=
+ ellos. La vez anterior yo les mande a ellos un jpg que decia &quot;lobos m=
+arinos&quot;.<div><br><br>El martes, 16 de diciembre de 2014, Victor Irigoy=
+en &lt;<a href=3D"mailto:virigoyen@viaglobal.cl" target=3D"_blank">virigoye=
+n@viaglobal.cl</a>&gt; escribi=C3=B3:<div><div class=3D"h5"><br><blockquote=
+ class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc soli=
+d;padding-left:1ex"><div dir=3D"ltr">Te adjunto la ficha MTO de los alumnos=
+ USM=C2=A0<div>La vez anterior tu definiste el texto del nombre con los del=
+ MTO.=C2=A0</div><div><br></div><div>es lo mismo que colocar un nombre pero=
+ todo iguales.=C2=A0</div><div>la ficha que te adjunto te puede servir de r=
+eferencia.=C2=A0</div><div><br></div><div>quedo atento a tu comentario.=C2=
+=A0</div><div><br></div></div><div class=3D"gmail_extra"><br><div class=3D"=
+gmail_quote">2014-12-16 10:47 GMT-03:00 V=C3=ADctor Irigoyen <span dir=3D"l=
+tr">&lt;<a>virigoyen@viaglobal.cl</a>&gt;</span>:<blockquote class=3D"gmail=
+_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:=
+1ex"><div dir=3D"auto"><div>Pero la ficha esta en ai. Trazada.</div><div>As=
+i lo hicimos con lobos marinos.</div><div><br><br><div><br></div></div><div=
+><br>El 16-12-2014, a las 10:21, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a>amo=
+rales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><div><div><blockquote=
+ type=3D"cite"><div><div dir=3D"ltr">Ok, necesito el nombre del club en alt=
+a, igual que cuando hicimos &quot;Lobos Marinos&quot;<div><br></div><div><b=
+r></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El =
+15 de diciembre de 2014, 18:13, V=C3=ADctor Irigoyen <span dir=3D"ltr">&lt;=
+<a>virigoyen@viaglobal.cl</a>&gt;</span> escribi=C3=B3:<blockquote class=3D=
+"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding=
+-left:1ex"><div dir=3D"auto"><div>Te adjunte la ficha.=C2=A0</div><div>Es s=
+olo el nombre del club. No el de los jugadores.=C2=A0</div><div>Todo sublim=
+ado.</div><div><br></div><div>Saludos<br><br><br><div><br></div></div><div>=
+<br>El 15-12-2014, a las 17:28, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a>amor=
+ales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><div><div><blockquote =
+type=3D"cite"><div>Ok, si es que tienes el.listado de nombres los incluimos=
+, va todo sublimado.<div><br></div><div>Sls<br><br>El lunes, 15 de diciembr=
+e de 2014, Victor Irigoyen &lt;<a>virigoyen@viaglobal.cl</a>&gt; escribi=C3=
+=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border=
+-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Andres,=C2=A0<div><=
+br><div>hay un detalle que esta mal:</div><div>- espalda arriba va nombre d=
+el club.=C2=A0</div><div>aparece el iso ccc el la ficha MTO.</div><div><br>=
+</div><div>adjunto ficha en ai.=C2=A0</div><div><br></div><div>las tallas l=
+as est=C3=A1n confirmado.=C2=A0</div><div>pedi que lo hicieran por sistema =
+de medirse con huincha, estoy a la espera de las tallas.=C2=A0</div><div><b=
+r></div><div>saludos</div><div><br></div><div><br></div><div><br></div></di=
+v></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">2014-12-1=
+5 14:39 GMT-03:00 Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&lt;<a>=
+amorales@cccchile.cl</a>&gt;</span>:<blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=
+=3D"ltr">Victor,<div><br></div><div>Te adjunto planilla de ex-alumnos.</div=
+><div><br></div><div>confirmame dise=C3=B1o y tallas.</div><div><br></div><=
+div>sls.</div></div>
+</blockquote></div></div>
+</blockquote></div>
+</div></blockquote></div></div></div></blockquote></div></div>
+</div></blockquote></div></div></div></blockquote></div></div>
+</blockquote></div></div></div>
+</blockquote></div></div>
+
+--089e013c5da642cc99050a59575c--

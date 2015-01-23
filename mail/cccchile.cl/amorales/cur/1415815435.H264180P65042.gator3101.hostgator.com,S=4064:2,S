@@ -1,0 +1,88 @@
+Return-path: <send-as-noreply@google.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 12 Nov 2014 12:03:55 -0600
+Received: from mail-wg0-f43.google.com ([74.125.82.43]:55532)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <send-as-noreply@google.com>)
+	id 1XocGo-000Grb-V8
+	for amorales@cccchile.cl; Wed, 12 Nov 2014 12:03:55 -0600
+Received: by mail-wg0-f43.google.com with SMTP id y10so15047649wgg.2
+        for <amorales@cccchile.cl>; Wed, 12 Nov 2014 10:03:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=alGXpe289zTKwbE392s7lZmz1QvereDi0CcQBPA0PvA=;
+        b=kTE2gkHpBV+hns7QTsBhLsl/xjRnlrNzr8sFuOYbImZ+UtmzlGvpZyvR27mYn+0uu/
+         5pGhHVcvexuTfCduBAPTt6LCkkJTKuqToETJwKESO4R83PMAYsaHpUO1OowFyKaYIPOn
+         rKcQ6D/gQcBnA1qh6+CeXY4VPMEZIG/Qhd+V/YAo7EleAvHdK6QhWLW6ea65QDCkySwM
+         aIZz6y5hSx2yXUorgZjAgrlIcTJTAIKuXaYAcRM9libRVh4UOARplkJRviR/q+/IZqfr
+         W00Pmh6vza9BguCGl8DNb2f+PKcv84U6Rfyq/fvRBVL/9JBoiLdyJ5vLd38zF5JbaIz0
+         LXzQ==
+MIME-Version: 1.0
+X-Received: by 10.194.58.180 with SMTP id s20mr62917656wjq.28.1415815431843;
+ Wed, 12 Nov 2014 10:03:51 -0800 (PST)
+X-Google-Address-Confirmation: 9cr2DvAewteUGd2mXukKXwybEyM
+Date: Wed, 12 Nov 2014 15:03:51 -0300
+Message-ID: <CAKggD2S3UxmZmVnMv2GCLBW+0w1bmaAjB2NFV+7MjaFeBKR6RA@mail.gmail.com>
+Subject: =?UTF-8?Q?Gmail_Confirmaci=C3=B3n_=2D_Enviar_mensajes_como_amorales=40?=
+	=?UTF-8?Q?cccchile=2Ecl?=
+From: Equipo de Gmail <send-as-noreply@google.com>
+To: amorales@cccchile.cl
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Has solicitado a=C3=B1adir amorales@cccchile.cl a tu cuenta de Gmail.
+C=C3=B3digo de confirmaci=C3=B3n: 698982997
+
+Antes de que puedas enviar mensajes desde amorales@cccchile.cl usando
+tu cuenta Gmail (andres.moralesg@gmail.com), haz clic en el siguiente
+v=C3=ADnculo para confirmar tu solicitud:
+
+https://mail.google.com/mail/f-%5BANGjdJ-cTU1vDgzjYXFZFPzqDyoAlLGSnD0FeLzdM=
+faRM-83yPy5pcT3tgYRxQKRnTAwWB54NIovGtUBWWHD%5D-wWo-nx00JZ56o5KETs7yOsouBfY
+
+Si al hacer clic en el v=C3=ADnculo parece que est=C3=A1 roto, c=C3=B3pialo=
+ y p=C3=A9galo
+en una ventana nueva del navegador. Si no puedes acceder a este
+v=C3=ADnculo, accede a tu cuenta de Gmail y haz clic en =E2=80=9CConfigurac=
+i=C3=B3n=E2=80=9D en
+la parte superior de cualquier p=C3=A1gina.
+Accede a la pesta=C3=B1a Cuentas y selecciona la direcci=C3=B3n de correo
+electr=C3=B3nico que quieras a=C3=B1adir en la secci=C3=B3n =E2=80=9CEnviar=
+ mensaje como:=E2=80=9D A
+continuaci=C3=B3n, haz clic en Verificar e introduce tu c=C3=B3digo de
+confirmaci=C3=B3n: 698982997
+
+Gracias por utilizar Gmail.
+
+Atentamente,
+
+El equipo de Gmail
+
+Si no has realizado dicha solicitud o no quieras a=C3=B1adir esta direcci=
+=C3=B3n
+de correo electr=C3=B3nico a tu cuenta de Gmail, no es necesario que lleves
+a cabo ninguna acci=C3=B3n.
+andres.moralesg@gmail.com no puede enviar mensajes usando tu direcci=C3=B3n
+de correo electr=C3=B3nico a menos que confirmes la solicitud haciendo clic
+en el v=C3=ADnculo anterior. Si has hecho clic en =C3=A9l equivocadamente y=
+ no
+quieres que andres.moralesg@gmail.com env=C3=ADe mensajes con tu direcci=C3=
+=B3n,
+haz clic en este v=C3=ADnculo para anular la verificaci=C3=B3n:
+https://mail.google.com/mail/g-%5BANGjdJ_W0biV0bnIx2KJxJXnHKrX7qpu72P-zznUE=
+mAyYAesXEbpNggv5Nc-Ju3MPzbAOqEd8rb716xw8Cda%5D-wWo-nx00JZ56o5KETs7yOsouBfY
+
+Si quieres obtener m=C3=A1s informaci=C3=B3n sobre el posible motivo por el=
+ que
+has recibido este mensaje, visita:
+http://support.google.com/mail/bin/answer.py?answer=3D184973.
+
+Por favor, no respondas a este mensaje. Si quieres ponerte en contacto
+con el Equipo Gmail, accede a tu cuenta y haz clic en =E2=80=9CAyuda=E2=80=
+=9D en la
+parte superior de cualquier p=C3=A1gina. A continuaci=C3=B3n, haz clic en
+=E2=80=9CCont=C3=A1ctanos=E2=80=9D en la parte inferior del Centro de ayuda=
+.

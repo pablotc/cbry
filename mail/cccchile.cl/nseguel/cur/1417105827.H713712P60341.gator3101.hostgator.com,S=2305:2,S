@@ -1,0 +1,58 @@
+Return-path: <franof.0@gmail.com>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Thu, 27 Nov 2014 10:30:27 -0600
+Received: from mail-qg0-f51.google.com ([209.85.192.51]:38409)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <franof.0@gmail.com>)
+	id 1Xu1xb-000FeB-Hx
+	for nseguel@cccchile.cl; Thu, 27 Nov 2014 10:30:27 -0600
+Received: by mail-qg0-f51.google.com with SMTP id l89so3738279qgf.10
+        for <nseguel@cccchile.cl>; Thu, 27 Nov 2014 08:30:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:from:content-type:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=M/DvvYgMtV53yF1790OQd62MIH9cL8JQXAqKdMJqAXY=;
+        b=AAJ4dMS5hmYPd5DMovWaduJewyLEDZor2Fm3hW/uPj4L7L2/rYcoZVzxtCc8EAy9Xw
+         OrFB8xRgB78nvCmnFfMSZLSbbOs0IJGs3H5JvEIzGYW+M9JCf45WIbEYhQ9lmUZ9HP0W
+         jQLKPj3B6jonSO7o+Ot4xQuIO2RTINRGV6UdKiGwcKVwVPI/jbwPoa+KSs80ttcb/nOG
+         be0HkkweZzosdStYDQ2vLQ5uLrHR2rwZpzf2zAVdoYYsgqvfHCgmMGn92hPkNCdHqtzP
+         Dcspm0U5pdqAC6joGgJ+UUH72M06/FkPwKPc2RcS351NaGaqo9i7nktFhxrBxwwg0ghl
+         VJhg==
+X-Received: by 10.140.105.37 with SMTP id b34mr54361780qgf.91.1417105825568;
+        Thu, 27 Nov 2014 08:30:25 -0800 (PST)
+Received: from [181.173.239.150] ([181.173.239.150])
+        by mx.google.com with ESMTPSA id x17sm6941364qae.11.2014.11.27.08.30.24
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 27 Nov 2014 08:30:24 -0800 (PST)
+Subject: Datos factura 
+From: franof.0@gmail.com
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (11D257)
+Message-Id: <53E149A7-9902-4F28-9A04-07A5148A9F63@gmail.com>
+Date: Thu, 27 Nov 2014 13:30:12 -0300
+To: Nicolas Seguel <nicolas.seguel@femoglas.com>,
+ =?utf-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Nico estos son los datos para la factura.=20
+
+Facturacion
+Nombre:    Craighouse Old Boys and Girls
+Rut :        65315570-0
+Giro:        Club deportivo y social
+Direccion:    El puente 2054
+Comuna    Lo Barnechea
+Ciudad:     Santiago
+
+El pago tambi=C3=A9n se har=C3=A1 a trav=C3=A9s de ellos.=20
+
+Cualquier cosa me avisas.=20
+
+Abrazo,
+
+Frano=

@@ -1,0 +1,432 @@
+Return-path: <ofuentea@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 14 Jan 2015 09:10:42 -0600
+Received: from mail-qc0-f172.google.com ([209.85.216.172]:56751)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <ofuentea@gmail.com>)
+	id 1YBPak-0004X8-Ce
+	for amorales@cccchile.cl; Wed, 14 Jan 2015 09:10:42 -0600
+Received: by mail-qc0-f172.google.com with SMTP id m20so7617948qcx.3
+        for <amorales@cccchile.cl>; Wed, 14 Jan 2015 07:10:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=pNeqvc/N2ZRbvBbzJO9G8QF/ZxUHxkBYBwMUk5TX1eM=;
+        b=lWXWOMLRBt6vCxGgowdat93aXKnfIgrs6xz1++VFpQ4PonauL16C63fxhSLYG8V4BY
+         STMwsApwcxWpBH0VNYN1wmN/lgeDsRFt/TzjkH9wXHNQz1OMY84quKPoG+x73AOZ3UwL
+         2N9cpOi6ikPox7R0Og3YaG7bCCQhla8SCtOOllYXtABdvNvg/rxBmCBcsBIiiDIno21s
+         gFgTENOeu4oggwhjCWUcAqo1GMGdrJzBAG+CESW4bQnDx2hL7xAfRjvL/FtezKi8sVSQ
+         dcfq6DwUKvD0+OFgk7ZbrmKnL7GsDfFojZch9eNtdFkkeDEbiBZ1KAagHPqlIIbZk4aa
+         gCWw==
+X-Received: by 10.224.36.14 with SMTP id r14mr7469728qad.39.1421248240408;
+        Wed, 14 Jan 2015 07:10:40 -0800 (PST)
+Received: from ISITSEC (181-162-72-248.baf.movistar.cl. [181.162.72.248])
+        by mx.google.com with ESMTPSA id j9sm20748984qao.16.2015.01.14.07.10.38
+        for <amorales@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 14 Jan 2015 07:10:39 -0800 (PST)
+From: "Oscar Fuentealba - Gmail" <ofuentea@gmail.com>
+To: =?UTF-8?Q?'Andr=C3=A9s_Morales_=28CCC-CHILE=29'?= <amorales@cccchile.cl>
+References: <005101d02e65$5c659480$1530bd80$@isitsec.cl>	<CAKggD2THNiiHph=C_pksG4egOEA0WUtDsaA=wRsL0hja-250eQ@mail.gmail.com>	<011b01d02ea0$0a1d6cd0$1e584670$@isitsec.cl>	<CAKggD2RE8KaD0CTQApQuY6fb832jBV89S5rNs8-AG0WEkTDsLw@mail.gmail.com>	<CAKggD2TucqaT9JbX4oZ-3SKPUAcD67=SwO8euapwmV5baHjYFw@mail.gmail.com>	<013901d02ffe$ad768a10$08639e30$@isitsec.cl> <CAKggD2Rug50u+EZQLu303-ZSTDcYp6KaCE-nap8uPaC7D7wzBw@mail.gmail.com>
+In-Reply-To: <CAKggD2Rug50u+EZQLu303-ZSTDcYp6KaCE-nap8uPaC7D7wzBw@mail.gmail.com>
+Subject: RE: llamado
+Date: Wed, 14 Jan 2015 12:03:21 -0300
+Message-ID: <01a101d0300b$3dd224a0$b9766de0$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01A2_01D02FF2.18869A50"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQMlKzyB6h+9PyJ9hG2iR0m7IxVV+wGGKGdzAgCy3lsBSLP1GgH8HqLLAp0BhWgCtMPvqJm01A+Q
+Content-Language: es-cl
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_01A2_01D02FF2.18869A50
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Andres el lunes te indique que estaba y sigo metido con Arrieta =
+solucionando un tema urgente.
+
+Reun=C3=A1monos el viernes AM y seguimos avanzando.
+
+Conf=C3=ADrmame.
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: mi=C3=A9rcoles, 14 de enero de 2015 11:42
+Para: Oscar Fuentealba G - ISITSEC
+Asunto: Re: llamado
+
+=20
+
+Oscar, no he sabido nada de ti. Quedamos de juntarnos el lunes pasado...
+
+Vamos a hacer el tema o no....sino debo buscar c=C3=B3mo hacerlo
+
+=20
+
+please...
+
+=20
+
+El 14 de enero de 2015, 10:33, Oscar Fuentealba G - ISITSEC =
+<oscar.fuentealba@isitsec.cl> escribi=C3=B3:
+
+Que significa ???
+
+=20
+
+Atte.,
+
+Oscar Fuentealba G.
+
+ISISTEC Automatizaci=C3=B3n de Procesos
+
+(+569) 6 431 28 48 - (+569) 6 779 35 66  / Nextel *56*22*23455
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: mi=C3=A9rcoles, 14 de enero de 2015 10:40
+
+
+Para: Oscar Fuentealba G - ISITSEC
+Asunto: Re: llamado
+
+=20
+
+???
+
+=20
+
+El 12 de enero de 2015, 17:16, Andr=C3=A9s Morales (CCC-CHILE) =
+<amorales@cccchile.cl> escribi=C3=B3:
+
+dime cuando vienes y agendalo.
+
+=20
+
+El 12 de enero de 2015, 16:43, Oscar Fuentealba G - ISITSEC =
+<oscar.fuentealba@isitsec.cl> escribi=C3=B3:
+
+=20
+
+Se me fue , es que estoy con la gente de Papperless solucionando el tema =
+de arrieta que nos tiene agarrados del mo=C3=B1o=E2=80=A6.
+
+=20
+
+Atte.,
+
+Oscar Fuentealba G.
+
+ISISTEC Automatizaci=C3=B3n de Procesos
+
+(+569) 6 431 28 48 - (+569) 6 779 35 66  / Nextel *56*22*23455
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: lunes, 12 de enero de 2015 10:51
+Para: Oscar Fuentealba G - ISITSEC
+Asunto: Re: llamado
+
+=20
+
+ok, pero vienes?
+
+habiamos dicho a las 9 ac=C3=A1..
+
+=20
+
+please!
+
+=20
+
+El 12 de enero de 2015, 9:43, Oscar Fuentealba G - ISITSEC =
+<oscar.fuentealba@isitsec.cl> escribi=C3=B3:
+
+Andres dame unos minutos que estoy en la otra l=C3=ADnea resolviendo un =
+tema de facturaci=C3=B3n electr=C3=B3nica.
+
+Slds.
+
+=20
+
+=20
+
+Atte.,
+
+Oscar Fuentealba G.
+
+ISISTEC Automatizaci=C3=B3n de Procesos
+
+(+569) 6 431 28 48 - (+569) 6 779 35 66  / Nextel *56*22*23455
+
+=20
+
+=20
+
+=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_01A2_01D02FF2.18869A50
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:ES-CL;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DES-CL link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Andres el lunes te indique que estaba y sigo metido con Arrieta =
+solucionando un tema urgente.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Reun=C3=A1monos el viernes AM y seguimos =
+avanzando.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Conf=C3=ADrmame.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl] =
+<br><b>Enviado el:</b> mi=C3=A9rcoles, 14 de enero de 2015 =
+11:42<br><b>Para:</b> Oscar Fuentealba G - ISITSEC<br><b>Asunto:</b> Re: =
+llamado<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>Oscar, =
+no he sabido nada de ti. Quedamos de juntarnos el lunes =
+pasado...<o:p></o:p></p><div><p class=3DMsoNormal>Vamos a hacer el tema =
+o no....sino debo buscar c=C3=B3mo hacerlo<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>please...<o:p></o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>El 14 =
+de enero de 2015, 10:33, Oscar Fuentealba G - ISITSEC &lt;<a =
+href=3D"mailto:oscar.fuentealba@isitsec.cl" =
+target=3D"_blank">oscar.fuentealba@isitsec.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Que significa ???</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>Atte.,</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>Oscar Fuentealba G.</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>ISISTEC Automatizaci=C3=B3n de Procesos</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>(+569) 6 431 28 48 - (+569) 6 779 35 66&nbsp; / Nextel =
+*56*22*23455</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:<a =
+href=3D"mailto:amorales@cccchile.cl" =
+target=3D"_blank">amorales@cccchile.cl</a>] <br><b>Enviado el:</b> =
+mi=C3=A9rcoles, 14 de enero de 2015 =
+10:40</span><o:p></o:p></p><div><div><p =
+class=3DMsoNormal><br><b>Para:</b> Oscar Fuentealba G - =
+ISITSEC<br><b>Asunto:</b> Re: =
+llamado<o:p></o:p></p></div></div><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>???<o:p></o:=
+p></p></div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>El 12 de =
+enero de 2015, 17:16, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a =
+href=3D"mailto:amorales@cccchile.cl" =
+target=3D"_blank">amorales@cccchile.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>dime cuando =
+vienes y agendalo.<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>El 12 de =
+enero de 2015, 16:43, Oscar Fuentealba G - ISITSEC &lt;<a =
+href=3D"mailto:oscar.fuentealba@isitsec.cl" =
+target=3D"_blank">oscar.fuentealba@isitsec.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><blockquote =
+style=3D'border:none;border-left:solid #CCCCCC 1.0pt;padding:0cm 0cm 0cm =
+6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0cm;margin-bottom:5=
+.0pt'><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Se me fue , es que estoy con la gente de Papperless solucionando el =
+tema de arrieta que nos tiene agarrados del =
+mo=C3=B1o=E2=80=A6.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>Atte.,</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>Oscar Fuentealba G.</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>ISISTEC Automatizaci=C3=B3n de Procesos</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#548DD=
+4'>(+569) 6 431 28 48 - (+569) 6 779 35 66&nbsp; / Nextel =
+*56*22*23455</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:<a =
+href=3D"mailto:amorales@cccchile.cl" =
+target=3D"_blank">amorales@cccchile.cl</a>] <br><b>Enviado el:</b> =
+lunes, 12 de enero de 2015 10:51<br><b>Para:</b> Oscar Fuentealba G - =
+ISITSEC<br><b>Asunto:</b> Re: llamado</span><o:p></o:p></p><div><div><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>ok, pero =
+vienes?<o:p></o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>habiamos =
+dicho a las 9 ac=C3=A1..<o:p></o:p></p></div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>please!<o:p>=
+</o:p></p></div></div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>El 12 de =
+enero de 2015, 9:43, Oscar Fuentealba G - ISITSEC &lt;<a =
+href=3D"mailto:oscar.fuentealba@isitsec.cl" =
+target=3D"_blank">oscar.fuentealba@isitsec.cl</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Andres dame =
+unos minutos que estoy en la otra l=C3=ADnea resolviendo un tema de =
+facturaci=C3=B3n electr=C3=B3nica.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Slds.<o:p></=
+o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#548DD4'>Atte.,</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#548DD4'>Oscar Fuentealba G.</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#548DD4'>ISISTEC Automatizaci=C3=B3n de =
+Procesos</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#548DD4'>(+569) 6 431 28 48 - (+569) 6 779 35 66&nbsp; / =
+Nextel *56*22*23455</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div></div></div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div></div></div></div></div></blockquote></div></div></div><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div></div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div></div></div></div></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div></body></html>
+------=_NextPart_000_01A2_01D02FF2.18869A50--
+

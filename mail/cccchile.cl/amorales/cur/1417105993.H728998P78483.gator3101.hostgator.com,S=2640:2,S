@@ -1,0 +1,50 @@
+Return-path: <prvs=1408bdf7fd=nicolas.seguel@femoglas.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 27 Nov 2014 10:33:13 -0600
+Received: from [200.6.121.130] (port=54492 helo=filtro.femoglas.com)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <prvs=1408bdf7fd=nicolas.seguel@femoglas.com>)
+	id 1Xu20H-000KMr-D3
+	for amorales@cccchile.cl; Thu, 27 Nov 2014 10:33:13 -0600
+Received: from Atton.femplaeco.cl by filtro.femoglas.com (MDaemon PRO v13.0.3)
+	with ESMTP id md50001696015.msg
+	for <amorales@cccchile.cl>; Thu, 27 Nov 2014 13:33:09 -0300
+X-Spam-Processed: filtro.femoglas.com, Thu, 27 Nov 2014 13:33:09 -0300
+	(not processed: message from trusted or authenticated source)
+X-Return-Path: prvs=1408bdf7fd=nicolas.seguel@femoglas.com
+X-Envelope-From: nicolas.seguel@femoglas.com
+X-MDaemon-Deliver-To: amorales@cccchile.cl
+Received: from ATTON.femplaeco.cl ([::1]) by Atton.femplaeco.cl ([::1]) with
+ mapi id 14.02.0247.003; Thu, 27 Nov 2014 13:33:06 -0300
+From: "Nicolas Seguel (Politec)" <nicolas.seguel@femoglas.com>
+To: =?utf-8?B?QW5kcsOpcyBNb3JhbGVz?= <andres.moralesg@gmail.com>
+CC: =?utf-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Subject: RV: Datos factura 
+Thread-Topic: Datos factura 
+Thread-Index: AQHQCl91rIzD9jT4qk2nStMRu2vgxZx0qp+w
+Date: Thu, 27 Nov 2014 16:33:06 +0000
+Message-ID: <5AFC5E907D6FF14CBA21204CCBCAD81AF7709F8B@Atton.femplaeco.cl>
+References: <53E149A7-9902-4F28-9A04-07A5148A9F63@gmail.com>
+In-Reply-To: <53E149A7-9902-4F28-9A04-07A5148A9F63@gmail.com>
+Accept-Language: es-ES, es-CL, en-US
+Content-Language: es-ES
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.168.8.125]
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+QW5kcsOpcywNCg0KQXF1w60gbG9zIGRhdG9zIHBhcmEgbGEgZmFjdHVyYS4NCg0KUXVlZG8gYXRl
+bnRvLCBncmFjaWFzLg0KDQpOaWNvIFNlZ3VlbA0KDQotLS0tLU1lbnNhamUgb3JpZ2luYWwtLS0t
+LQ0KRGU6IGZyYW5vZi4wQGdtYWlsLmNvbSBbbWFpbHRvOmZyYW5vZi4wQGdtYWlsLmNvbV0gDQpF
+bnZpYWRvIGVsOiBqdWV2ZXMsIDI3IGRlIG5vdmllbWJyZSBkZSAyMDE0IDEzOjMwDQpQYXJhOiBO
+aWNvbGFzIFNlZ3VlbCAoUG9saXRlYyk7IE5pY29sw6FzIFNlZ3VlbCBNb3Jlbm8NCkFzdW50bzog
+RGF0b3MgZmFjdHVyYSANCg0KTmljbyBlc3RvcyBzb24gbG9zIGRhdG9zIHBhcmEgbGEgZmFjdHVy
+YS4gDQoNCkZhY3R1cmFjaW9uDQpOb21icmU6ICAgIENyYWlnaG91c2UgT2xkIEJveXMgYW5kIEdp
+cmxzDQpSdXQgOiAgICAgICAgNjUzMTU1NzAtMA0KR2lybzogICAgICAgIENsdWIgZGVwb3J0aXZv
+IHkgc29jaWFsDQpEaXJlY2Npb246ICAgIEVsIHB1ZW50ZSAyMDU0DQpDb211bmEgICAgTG8gQmFy
+bmVjaGVhDQpDaXVkYWQ6ICAgICBTYW50aWFnbw0KDQpFbCBwYWdvIHRhbWJpw6luIHNlIGhhcsOh
+IGEgdHJhdsOpcyBkZSBlbGxvcy4gDQoNCkN1YWxxdWllciBjb3NhIG1lIGF2aXNhcy4gDQoNCkFi
+cmF6bywNCg0KRnJhbm8NCg==
+

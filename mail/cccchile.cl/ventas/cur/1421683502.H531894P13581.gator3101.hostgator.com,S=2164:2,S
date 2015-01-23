@@ -1,0 +1,50 @@
+Return-path: <enzo.porzio@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Mon, 19 Jan 2015 10:05:02 -0600
+Received: from mail-wi0-f180.google.com ([209.85.212.180]:35881)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <enzo.porzio@gmail.com>)
+	id 1YDEp4-0003Rc-8g
+	for ventas@cccchile.cl; Mon, 19 Jan 2015 10:05:02 -0600
+Received: by mail-wi0-f180.google.com with SMTP id bs8so17274840wib.1
+        for <ventas@cccchile.cl>; Mon, 19 Jan 2015 08:04:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=/+9c7v0jZibB11FZ37MxhnNidqzrnHQWvEyKShxXhCw=;
+        b=X7nPcPsnGDi+QNJVc3VWEBHgjY5DhRggV7KgXDgwOpqbIJqRzHK9yEOGG4BZ2qiu5Z
+         6Doxutsecdw/owoyiwrvnOrZsKHaEH3jGPgURjH0Wjd+QCbaJXIYgBaUJMAoRFD+Gwyu
+         8B3OhTC7uJX249Pi1tw21PbArhNZiw/DU8KrDiQCzcXqUf7Gtmo1jE8SwJM83NZ9XtVE
+         A+nMd001b45z8cUADUSsgA1En5/mgbh9u6k15atiULIAiBlYl2vIK6cmflU7pWrByh2H
+         Gj5gausNuzvVeBMy72FSs9aSCyYri/m3/RD9b2vy2/E9+SCxstHN1vp5mGxp3UcA508F
+         Ru8w==
+MIME-Version: 1.0
+X-Received: by 10.181.8.193 with SMTP id dm1mr36108641wid.55.1421683498849;
+ Mon, 19 Jan 2015 08:04:58 -0800 (PST)
+Received: by 10.27.85.131 with HTTP; Mon, 19 Jan 2015 08:04:58 -0800 (PST)
+Received: by 10.27.85.131 with HTTP; Mon, 19 Jan 2015 08:04:58 -0800 (PST)
+Date: Mon, 19 Jan 2015 13:04:58 -0300
+Message-ID: <CAFQim+tqVFZv0=VUEK_LribzFp0t6dEAq556C0gDT+VLWS1fCA@mail.gmail.com>
+Subject: Halcones
+From: Enzo Porzio <enzo.porzio@gmail.com>
+To: =?UTF-8?Q?Andr=C3=A9s_Morales?= <ventas@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a1135f456ee99d0050d037b75
+
+--001a1135f456ee99d0050d037b75
+Content-Type: text/plain; charset=UTF-8
+
+Andres,
+Recordar enviar listado de precios acordados en nuestra reunion.
+
+Saludos.
+
+--001a1135f456ee99d0050d037b75
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Andres,=C2=A0 <br>
+Recordar enviar listado de precios acordados en nuestra reunion.</p>
+<p dir=3D"ltr">Saludos.</p>
+
+--001a1135f456ee99d0050d037b75--

@@ -1,0 +1,119 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 21 Jan 2015 14:34:25 -0600
+Received: from mail-qg0-f43.google.com ([209.85.192.43]:46836)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YE1yr-0002r8-Dy
+	for amorales@cccchile.cl; Wed, 21 Jan 2015 14:34:25 -0600
+Received: by mail-qg0-f43.google.com with SMTP id e89so17269886qgf.2
+        for <amorales@cccchile.cl>; Wed, 21 Jan 2015 12:34:19 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=8q6qDPhvn0aMggZoL1rg8LM3eOauei3ShWzVQh8AdyA=;
+        b=jc9tZzV8y8d9/YEOpRBkIXGoviQ5ZSquityvsaB6INfwWR5xNT5sG0xWkuLW5NJjlc
+         hBP/cuzNX6p0r4BlAsAf++3ZVyZOmSrilYP8AwpUpFqLVEZJuR5eMxcysHd/oR9VOV5M
+         1G7MmFIoa/dU4vICWzKWsK1wG3KzrLWOS3JvMlLmERTZVX/r5hDxyEDqSZkGan51nOf5
+         eSKxAUutE9ZN813MX0v3jKZTgNFQIn11eHOsVMEHCBsm0UwQCBxOhxbrQ7D3iGAD7FfM
+         hk5Y87zZpYhSw/2qh9ZbPQETg/WOV+aoqonVh0FZuT3VpOYMzbVhvVZgPwnF+TcvaLtR
+         qHlg==
+X-Gm-Message-State: ALoCoQm9yezCLNfgnKN2PL/8EIVFZST0t5gLSKQ0wh82mY7/xzpTTNeBEF/a4r2hCCRFfiRk3B+T
+X-Received: by 10.224.72.8 with SMTP id k8mr27974330qaj.26.1421872459781;
+        Wed, 21 Jan 2015 12:34:19 -0800 (PST)
+Received: from [10.235.242.10] ([201.220.243.216])
+        by mx.google.com with ESMTPSA id c16sm1196460qge.24.2015.01.21.12.34.18
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 21 Jan 2015 12:34:19 -0800 (PST)
+References: <CAJbDu1nHDP8Hrm5WFJuS44A9NuqEK4bLzvRj3CcaSrtfbTraLA@mail.gmail.com> <CAKggD2QSEdWOi62Nhygb36F1BfcLuA5YEctD-MufVAh-YyuSyQ@mail.gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CAKggD2QSEdWOi62Nhygb36F1BfcLuA5YEctD-MufVAh-YyuSyQ@mail.gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-FBE38FBF-6D93-4AF9-8F2C-FCAAC1144AB0
+Content-Transfer-Encoding: 7bit
+Message-Id: <8E908C52-A9E1-4EBF-87E4-20AB7EA0EE26@viaglobal.cl>
+Cc: Guillermo Morales M <gmorales@spindeportes.cl>
+X-Mailer: iPhone Mail (12B411)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: LISTA DE PRECIOS PWCC 2015
+Date: Wed, 21 Jan 2015 17:28:41 -0300
+To: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+
+
+--Apple-Mail-FBE38FBF-6D93-4AF9-8F2C-FCAAC1144AB0
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+No. Es la lista base.=20
+Para todos los clubes. En base a esto se aplica el descuento.
+La revisaste? Es lo mismo que mandaste, solo que esta el desarrollo escuelit=
+a en spin
+
+
+
+
+> El 21-01-2015, a las 17:18, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccc=
+hile.cl> escribi=C3=B3:
+>=20
+> Hola Victor / Guillermo
+>=20
+> =C3=A9sta lista tiene el descuento del 14% para PWCC?
+>=20
+>=20
+>=20
+>=20
+> El 21 de enero de 2015, 16:07, Victor Irigoyen <virigoyen@viaglobal.cl> es=
+cribi=C3=B3:
+>> Guillermo,=20
+>>=20
+>> Seg=C3=BAn lo revisado hoy, te adjunto lista precio que voy a mandar a PW=
+CC.=20
+>> Adicional voy a mandar un sugerido para la escuelita pwcc 2015.=20
+>>=20
+>> Lo que veo mas complicado es el precio de la reposici=C3=B3n.
+>> Obligar a la compra de 30 unidades en una repo es dificil, nadie va a gua=
+rdar un stock de 30 unidades. Entonces finalmente le traspasamos el problema=
+ al club en vez de darles soluciones en una log=C3=ADstica que manejamos nos=
+otros por conocer los procesos.=20
+>>=20
+>> Quedo atento el ok para poder mandar el pedido sugerido cuando antes.=20
+>>=20
+>> Saludos
+>=20
+
+--Apple-Mail-FBE38FBF-6D93-4AF9-8F2C-FCAAC1144AB0
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>No. Es la lista base.&nbsp;</div><div>=
+Para todos los clubes. En base a esto se aplica el descuento.</div><div>La r=
+evisaste? Es lo mismo que mandaste, solo que esta el desarrollo escuelita en=
+ spin</div><div><br><br><div><br></div></div><div><br>El 21-01-2015, a las 1=
+7:18, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchil=
+e.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><blockquote t=
+ype=3D"cite"><div><div dir=3D"ltr">Hola Victor / Guillermo<div><br></div><di=
+v>=C3=A9sta lista tiene el descuento del 14% para PWCC?</div><div><br><div><=
+br></div><div><br></div></div></div><div class=3D"gmail_extra"><br><div clas=
+s=3D"gmail_quote">El 21 de enero de 2015, 16:07, Victor Irigoyen <span dir=3D=
+"ltr">&lt;<a href=3D"mailto:virigoyen@viaglobal.cl" target=3D"_blank">virigo=
+yen@viaglobal.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail=
+_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1=
+ex"><div dir=3D"ltr">Guillermo,&nbsp;<div><br></div><div>Seg=C3=BAn lo revis=
+ado hoy, te adjunto lista precio que voy a mandar a PWCC.&nbsp;</div><div>Ad=
+icional voy a mandar un sugerido para la escuelita pwcc 2015.&nbsp;</div><di=
+v><br></div><div>Lo que veo mas complicado es el precio de la reposici=C3=B3=
+n.</div><div>Obligar a la compra de 30 unidades en una repo es dificil, nadi=
+e va a guardar un stock de 30 unidades. Entonces finalmente le traspasamos e=
+l problema al club en vez de darles soluciones en una log=C3=ADstica que man=
+ejamos nosotros por conocer los procesos.&nbsp;</div><div><br></div><div>Que=
+do atento el ok para poder mandar el pedido sugerido cuando antes.&nbsp;</di=
+v><div><br></div><div>Saludos</div><div><br></div><div><br></div></div>
+</blockquote></div><br></div>
+</div></blockquote></body></html>=
+
+--Apple-Mail-FBE38FBF-6D93-4AF9-8F2C-FCAAC1144AB0--

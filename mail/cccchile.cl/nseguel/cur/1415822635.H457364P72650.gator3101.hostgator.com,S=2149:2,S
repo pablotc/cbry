@@ -1,0 +1,47 @@
+Return-path: <franof.0@gmail.com>
+Envelope-to: nseguel@cccchile.cl
+Delivery-date: Wed, 12 Nov 2014 14:03:55 -0600
+Received: from mail-qc0-f182.google.com ([209.85.216.182]:40694)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <franof.0@gmail.com>)
+	id 1Xoe8x-000IoQ-96
+	for nseguel@cccchile.cl; Wed, 12 Nov 2014 14:03:55 -0600
+Received: by mail-qc0-f182.google.com with SMTP id m20so9821197qcx.41
+        for <nseguel@cccchile.cl>; Wed, 12 Nov 2014 12:03:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=Y4JqPdPdBUVCKNI28PQyAxoxKldNm2Q5EevOQjqT+vc=;
+        b=oCoTWdUa9MF2WbG5Yz1KmxX87JMCO7NrpxjUWYFejP+3/sDpj12zQoZD6+EtuK4xdq
+         ffEulWuag3z0JwIBk43rxrIcC/vzns2jjSj9qTiUwwA4cNAsWhmw1gYMufcUBHZ/M71y
+         RlZgMpHVxvfAgDtaE07mOJjeOBY00Dn/nzLS5PgZDNNLeGufB+nZw90Fw+ZLjl65s+VI
+         O0Ax5PKYgfazwbs8v4W08JdkSkmddPtuUgORVYIpbfw4xbH4uUjMQZxyLoQkpBA2XrL3
+         HdFkGSTNk5peKnT+1hSgIRe4sz//QYur0wkvArBWZuVt++YQP4JwTIPV+KNokCbQVjvO
+         E96g==
+X-Received: by 10.140.32.73 with SMTP id g67mr23110105qgg.3.1415822631968;
+        Wed, 12 Nov 2014 12:03:51 -0800 (PST)
+Received: from [192.168.1.124] ([190.215.92.184])
+        by mx.google.com with ESMTPSA id q19sm13844676qam.7.2014.11.12.12.03.51
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 12 Nov 2014 12:03:51 -0800 (PST)
+Subject: Fwd: Auspicio Seven
+References: <CABZrq=P=1kihBaAg8fbmO-a5TvJiCYOLnKNbn1PvX8cfeQRxhA@mail.gmail.com>
+From: franof.0@gmail.com
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPhone Mail (11D257)
+Message-Id: <04416846-AAAA-4AFA-A1C4-2AA5481938ED@gmail.com>
+Date: Wed, 12 Nov 2014 17:03:50 -0300
+To: Nicolas Seguel <nicolas.seguel@femoglas.com>,
+ =?utf-8?Q?Nicol=C3=A1s_Seguel_Moreno?= <nseguel@cccchile.cl>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+
+Nico, este es el auspicio que va en el otro brazo. 
+
+Sigo esperando el logo se mk y el de patio. 
+
+

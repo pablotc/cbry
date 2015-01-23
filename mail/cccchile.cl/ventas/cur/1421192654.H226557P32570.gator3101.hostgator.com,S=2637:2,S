@@ -1,0 +1,61 @@
+Return-path: <fernando.eiffler@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Tue, 13 Jan 2015 17:44:14 -0600
+Received: from mail-qc0-f176.google.com ([209.85.216.176]:36930)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <fernando.eiffler@gmail.com>)
+	id 1YBB8A-0008Mv-1u
+	for ventas@cccchile.cl; Tue, 13 Jan 2015 17:44:14 -0600
+Received: by mail-qc0-f176.google.com with SMTP id i17so4973224qcy.7
+        for <ventas@cccchile.cl>; Tue, 13 Jan 2015 15:44:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=oJKFB3RJ6B92sEtAzX6ANByXZHeEFppsKGaHIuPkAWs=;
+        b=LpHZk2AfkLdHCzExoatSEBcNAtz0DLQaBYPmdCc6Xb3Utv+kFYO9tUky8wmHOaoD3t
+         pUOiHaUQZLRPsIY5bsnqPPrnrnV12O0TOznauo0fbLsCWpTXVpS+tYUSy5IA9q48lPeG
+         h+CsvgkLU/TAqLGjeHoZZUQRju7RPUpUJC/wkX/Q8mLuNYuVdOmwg/2bGDdWDQP0olqJ
+         PomrG5WczjwCTLhvc3CXOsvF84hIxQxnkiKs2c5M/x4KpTNyuJqgta42FYsB4FRjOS71
+         E0irvWD1ls8p7GtmP2NZilycAgKv8mNjdPzIxhdsosiTIDfj231s6+6pqVy2wp6w87Kt
+         gbeQ==
+X-Received: by 10.224.65.134 with SMTP id j6mr1978652qai.90.1421192651958;
+        Tue, 13 Jan 2015 15:44:11 -0800 (PST)
+Received: from [192.168.0.3] (pc-136-111-74-200.cm.vtr.net. [200.74.111.136])
+        by mx.google.com with ESMTPSA id n5sm19053148qat.13.2015.01.13.15.44.06
+        for <ventas@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 13 Jan 2015 15:44:11 -0800 (PST)
+Subject: Re: Canterbury
+References: <CAKggD2SJvCM9XB5fjmHmDWpELeDqfW8Lux2mCiDSojvsmTcM7A@mail.gmail.com>
+From: Fernando Eiffler <fernando.eiffler@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPad Mail (11D257)
+In-Reply-To: <CAKggD2SJvCM9XB5fjmHmDWpELeDqfW8Lux2mCiDSojvsmTcM7A@mail.gmail.com>
+Message-Id: <B4B86296-C503-4FD6-9573-17F0CD889500@gmail.com>
+Date: Tue, 13 Jan 2015 20:44:03 -0300
+To: =?utf-8?Q?Andr=C3=A9s_Morales?= <ventas@cccchile.cl>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Muchas gracias
+
+Sent from my iPad
+
+> On 12/01/2015, at 17:56, Andr=C3=A9s Morales <ventas@cccchile.cl> wrote:
+>=20
+> Hola Fernando,
+>=20
+> Gracias por contactarnos. Lamentablemente todav=C3=ADa no tenemos local en=
+ santigo para mostrar y vender productos fisico todav=C3=ADa. Hoy nos puedes=
+ encontrar en nuestra p=C3=A1gina web.
+>=20
+> Esperamos poder tener pronto un lugar, quedate atento.
+>=20
+> Te invito a que visites nuestra p=C3=A1gina.
+>=20
+> Saludos,
+>=20
+> Equipo CCC.

@@ -1,8 +1,9 @@
 {if $MENU != ''}
 	<!-- Menu -->
 	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
-		<div class="cat-title">{l s="Categories" mod="blocktopmenu"}</div>
-		<ul class="sf-menu clearfix menu-content">
+		{*<div class="cat-title" onClick="jQuery('#menupablo').toggle('open')">{l s="Categories" mod="blocktopmenu"}</div>*}
+		<div class="cat-title" >{l s="Categories" mod="blocktopmenu"}</div>
+		<ul class="sf-menu clearfix menu-content" id="menupablo">
 			{$MENU}
 			{if $MENU_SEARCH}
 				<li class="sf-search noBack" style="float:right">
