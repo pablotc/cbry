@@ -134,3 +134,35 @@ git status
 git add *
 #1431540060
 git push
+#1431540100
+git commit -a -m '2015-05-13 15:01:00'
+#1431540994
+git push
+#1431541545
+ls
+#1431541577
+rm -r modulo_pago/
+#1431541592
+rm -rf modulo_pago/
+#1431541596
+ls -lh
+#1431541620
+cd public_
+#1431541623
+cd public_html/
+#1431541626
+ls -lh
+#1431541633
+ls cgi-bin/
+#1431541641
+ls cgi-bin/.
+#1431541687
+rm -r modules/webpay-prestashop/
+#1431541700
+rm -rf modules/webpay-prestashop/
+#1431541709
+ls modules/
+#1431541727
+cd ..
+#1431541727
+ls
