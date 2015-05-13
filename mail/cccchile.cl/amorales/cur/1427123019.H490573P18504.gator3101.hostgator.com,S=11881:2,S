@@ -1,0 +1,236 @@
+Return-path: <vcalvanese@smartsupply.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 23 Mar 2015 10:03:39 -0500
+Received: from mail-yh0-f51.google.com ([209.85.213.51]:34933)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <vcalvanese@smartsupply.cl>)
+	id 1Ya3tD-0004lg-8Q
+	for amorales@cccchile.cl; Mon, 23 Mar 2015 10:03:39 -0500
+Received: by yhim52 with SMTP id m52so41397421yhi.2
+        for <amorales@cccchile.cl>; Mon, 23 Mar 2015 08:03:37 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=cXpfHUfd4n5gbArFiu0lEPpJVVRo+2fI+5gIOakxL7s=;
+        b=SQF05Y/DCPH2wQQtwPODp8a8mAyrYRw7N0Ib3ClgeHi+4PZcJIXNtyw7c6VB526ReB
+         qHPebY+TvoXHmpwlYsE0WZ7Us5yZ+azKe4adHTTi7L8aRPeiTcC3FMrouuXuVBCWQw19
+         ziwsLaGri2gsOCaSqtCbH5jLz5q1zlYzaBUP5PZpRmnYJ5v6lT7U+pbV6xobE1Ase8Im
+         C4rECDXKhaE4wiFSmoieacAdmLMAXcLJ5k6pmIl0BGbhRRgHJi9fcALQJSTadBrDmPFb
+         oVpk2yt4qhnbyduML5oGskuc8H4y+VNpWrezSskvH61sseiFmmuvzRipe9IZ+dNON6nH
+         3ULw==
+X-Gm-Message-State: ALoCoQkGPPod28gA8bai/qY03NRzyNWepywAJ+1CRK0bG8DF8Z/Rh5tZv0YkQu+4NuGpECHw7vvn
+MIME-Version: 1.0
+X-Received: by 10.170.79.4 with SMTP id v4mr81464077ykv.17.1427123017118; Mon,
+ 23 Mar 2015 08:03:37 -0700 (PDT)
+Received: by 10.170.112.1 with HTTP; Mon, 23 Mar 2015 08:03:37 -0700 (PDT)
+In-Reply-To: <8BF4824E-90DF-418A-A4B5-F7C7B3B48177@smartsupply.cl>
+References: <CADibadUg4xbP-6mDnY5o7wtkth-KgQRLauhg5+FreapLbu7Spg@mail.gmail.com>
+	<CAKggD2SVXLae+yaMENNyO-Kp-NcvP6K1KBZaEjvG3iF34KNQdA@mail.gmail.com>
+	<8BF4824E-90DF-418A-A4B5-F7C7B3B48177@smartsupply.cl>
+Date: Mon, 23 Mar 2015 11:03:37 -0400
+Message-ID: <CADibadX=0_BvGS2Tu1w3G9xGOYigO92uAhEHFr8vt3ZzHHyDOw@mail.gmail.com>
+Subject: Re: Resumen SHARK
+From: Valentina Calvanese <vcalvanese@smartsupply.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a113a0acc7c8af60511f5f88b
+
+--001a113a0acc7c8af60511f5f88b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Andres c=C3=B3mo est=C3=A1s?
+Se me reajust=C3=B3 la agenda reci=C3=A9n y ya no puedo el jueves, puedes v=
+iernes am?
+sino tengo toda la pr=C3=B3xima semana a tu disponibilidad.
+Saludos,
+
+Valentina Calvanese Bonilla
+Principal & COO, Smart Supply
++569 90760999
+Cerro el Plomo 5630 oficina 912, Las Condes
+www.smartsupply.cl
+
+
+
+El 20 de marzo de 2015, 18:44, Vale <vcalvanese@smartsupply.cl> escribi=C3=
+=B3:
+
+> Andres me queda un poco justo con otra reuni=C3=B3n... Te lo puedo cambia=
+r para
+> jueves en la tarde o viernes misma hora?
+>
+> Enviado desde mi iPhone
+>
+> El mar 20, 2015, a las 5:34 PM, Andr=C3=A9s Morales (CCC-CHILE) <
+> amorales@cccchile.cl> escribi=C3=B3:
+>
+> Jueves 9:30 am.
+>
+> me confirmas?
+>
+> El 20 de marzo de 2015, 11:53, Valentina Calvanese <
+> vcalvanese@smartsupply.cl> escribi=C3=B3:
+>
+>> Hola Andres,
+>> Como te coment=C3=A9 por tel=C3=A9fono, Smart Supply cre=C3=B3 un SaaS (=
+software as
+>> service) que conecta todos los portales b2b de tus clientes en una sola
+>> vista y te entrega lo siguiente:
+>>
+>> 1.- Vista Sell Out Diaria: Puedes ver diariamente c=C3=B3mo van tus vent=
+as por
+>> cadena, tienda, categor=C3=ADa y/o sku. Todo esto comparable a periodos
+>> anteriores.
+>>
+>> 2.- An=C3=A1lisis de inventario y herramienta de gesti=C3=B3n, d=C3=B3nd=
+e la fuerza de
+>> trabajo en terreno tiene directrices DIARIAS, recibiendo alarmas y otros
+>> para atacar los problemas de quiebres y/o sobrestock.
+>>
+>>
+>> Actualmente estamos prestando servicio a algunos proveedores del retail
+>> de caracter=C3=ADsticas de ventas y distribuci=C3=B3n variadas.
+>> Como ejemplo te quer=C3=ADa contar que monitoreamos con mucho =C3=A9xito=
+ la campa=C3=B1a
+>>  *Back To School* de uno de nuestros clientes que tiene caracter=C3=ADst=
+icas
+>> muy similares a las de ustedes tanto en variedad de sku=C2=B4s como en l=
+a
+>> rotaci=C3=B3n de =C3=A9stos. Ahora con ellos veremos otras campa=C3=B1as=
+ como *Dia del
+>> Ni=C3=B1o* y otros.
+>>
+>> Las alertas diarias "dirigieron" a supervisores y reponedores en terreno=
+,
+>> optimizando su tiempo y pidi=C3=A9ndoles enfocarse en lo cr=C3=ADtico pa=
+ra la campa=C3=B1a.
+>> El resultado fue mejor que lo esper=C3=A1bamos, y logramos un alza de ve=
+ntas
+>> que nos sorprendi=C3=B3 a todos.
+>>
+>> Te dejo un ejemplo de sell out de mi cliente de Enero 2015, campa=C3=B1a=
+ BTS,
+>> vs el 2014
+>>
+>>
+>> <image.png>
+>>
+>> Con respecto al fee mensual, este var=C3=ADa dependiendo de los sku, b2b=
+ a
+>> conectar y del tama=C3=B1o de la base de datos construida. Es mejor ente=
+nder en
+>> terreno estas dimensiones para darte un buen precio estimado.
+>> Adem=C3=A1s existe un cobro por setting de cadenas, asociado las mismas
+>> variables.
+>>
+>> Me encantar=C3=ADa poder visitarlos y mostrarte c=C3=B3mo funciona S*HAR=
+K*. Tienes
+>> tiempo la pr=C3=B3xima semana?
+>>
+>> Saludos,
+>>
+>> Valentina Calvanese Bonilla
+>> Principal & COO, Smart Supply
+>> +569 90760999
+>> Cerro el Plomo 5630 oficina 912, Las Condes
+>> www.smartsupply.cl
+>>
+>>
+>>
+>
+
+--001a113a0acc7c8af60511f5f88b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Andres c=C3=B3mo est=C3=A1s?<div>Se me reajust=C3=B3 =
+la agenda reci=C3=A9n y ya no puedo el jueves, puedes viernes am? sino teng=
+o toda la pr=C3=B3xima semana a tu disponibilidad.</div><div>Saludos,</div>=
+</div><div class=3D"gmail_extra"><br clear=3D"all"><div><div class=3D"gmail=
+_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><d=
+iv><span></span><span></span><a></a>Valentina Calvanese Bonilla<br></div><d=
+iv>Principal &amp; COO, Smart Supply<br><div>+569 90760999<br></div><div>Ce=
+rro el Plomo 5630 oficina 912, Las Condes</div><div><a href=3D"http://www.s=
+martsupply.cl" target=3D"_blank">www.smartsupply.cl</a></div><div><br></div=
+><div><img src=3D"https://media.licdn.com/media/p/8/005/07a/07a/0d1b72e.png=
+"><br></div></div></div></div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">El 20 de marzo de 2015, 18:44, Vale <span di=
+r=3D"ltr">&lt;<a href=3D"mailto:vcalvanese@smartsupply.cl" target=3D"_blank=
+">vcalvanese@smartsupply.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote cl=
+ass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;p=
+adding-left:1ex"><div dir=3D"auto"><div>Andres me queda un poco justo con o=
+tra reuni=C3=B3n... Te lo puedo cambiar para jueves en la tarde o viernes m=
+isma hora?<br><br>Enviado desde mi iPhone</div><div><br>El mar 20, 2015, a =
+las 5:34 PM, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amorales=
+@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt; escribi=C3=B3:=
+<br><br></div><blockquote type=3D"cite"><div><span class=3D""><div dir=3D"l=
+tr">Jueves 9:30 am.<div><br></div><div>me confirmas?</div></div></span><div=
+ class=3D"gmail_extra"><br><div class=3D"gmail_quote"><span class=3D"">El 2=
+0 de marzo de 2015, 11:53, Valentina Calvanese <span dir=3D"ltr">&lt;<a hre=
+f=3D"mailto:vcalvanese@smartsupply.cl" target=3D"_blank">vcalvanese@smartsu=
+pply.cl</a>&gt;</span> escribi=C3=B3:<br></span><blockquote class=3D"gmail_=
+quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1=
+ex"><div dir=3D"ltr"><span class=3D"">Hola Andres,<div>Como te coment=C3=A9=
+ por tel=C3=A9fono, Smart Supply cre=C3=B3 un<span style=3D"font-size:12.80=
+00001907349px">=C2=A0SaaS (software as service) que conecta todos los porta=
+les b2b de tus clientes en una sola vista y te entrega lo siguiente:</span>=
+</div></span><div><span class=3D""><div style=3D"font-size:12.8000001907349=
+px"><br></div><div style=3D"font-size:12.8000001907349px">1.- Vista Sell Ou=
+t Diaria: Puedes ver diariamente c=C3=B3mo van tus ventas por cadena, tiend=
+a, categor=C3=ADa y/o sku. Todo esto comparable a periodos anteriores.</div=
+><div style=3D"font-size:12.8000001907349px"><br></div><div style=3D"font-s=
+ize:12.8000001907349px">2.- An=C3=A1lisis de inventario y herramienta de ge=
+sti=C3=B3n, d=C3=B3nde la fuerza de trabajo en terreno tiene directrices DI=
+ARIAS, recibiendo alarmas y otros para atacar los problemas de quiebres y/o=
+ sobrestock.</div><div style=3D"font-size:12.8000001907349px"><br></div><di=
+v style=3D"font-size:12.8000001907349px"><br></div><div style=3D"font-size:=
+12.8000001907349px">Actualmente estamos prestando servicio a algunos provee=
+dores del retail de caracter=C3=ADsticas de ventas y distribuci=C3=B3n vari=
+adas.</div><div style=3D"font-size:12.8000001907349px"><span style=3D"font-=
+size:12.8000001907349px">Como ejemplo te quer=C3=ADa contar que monitoreamo=
+s con mucho =C3=A9xito la campa=C3=B1a</span><span style=3D"font-size:12.80=
+00001907349px">=C2=A0</span><b style=3D"font-size:12.8000001907349px">Back =
+To School</b><span style=3D"font-size:12.8000001907349px">=C2=A0</span><spa=
+n style=3D"font-size:12.8000001907349px">de uno de nuestros clientes que ti=
+ene caracter=C3=ADsticas muy similares a las de ustedes tanto en variedad d=
+e sku=C2=B4s como en la rotaci=C3=B3n de =C3=A9stos. Ahora con ellos veremo=
+s otras campa=C3=B1as como=C2=A0<b>Dia del Ni=C3=B1o</b>=C2=A0y otros.</spa=
+n><br></div><div style=3D"font-size:12.8000001907349px"><br></div><div styl=
+e=3D"font-size:12.8000001907349px">Las alertas diarias &quot;dirigieron&quo=
+t; a supervisores y reponedores en terreno, optimizando su tiempo y pidi=C3=
+=A9ndoles enfocarse en lo cr=C3=ADtico para la campa=C3=B1a.</div><div styl=
+e=3D"font-size:12.8000001907349px">El resultado fue mejor que lo esper=C3=
+=A1bamos, y logramos un alza de ventas que nos sorprendi=C3=B3 a todos.</di=
+v><div style=3D"font-size:12.8000001907349px"><br></div><div style=3D"font-=
+size:12.8000001907349px">Te dejo un ejemplo de sell out de mi cliente de En=
+ero 2015, campa=C3=B1a BTS, vs el 2014</div><div style=3D"font-size:12.8000=
+001907349px"><br></div><div style=3D"font-size:12.8000001907349px"><br></di=
+v></span><div style=3D"font-size:12.8000001907349px">&lt;image.png&gt;</div=
+><span class=3D""><div style=3D"font-size:12.8000001907349px"><br></div><di=
+v style=3D"font-size:12.8000001907349px">Con respecto al fee mensual, este =
+var=C3=ADa dependiendo de los sku, b2b a conectar y del tama=C3=B1o de la b=
+ase de datos construida. Es mejor entender en terreno estas dimensiones par=
+a darte un buen precio estimado.</div><div style=3D"font-size:12.8000001907=
+349px">Adem=C3=A1s existe un cobro por setting de cadenas, asociado las mis=
+mas variables.<br><div dir=3D"ltr"><div><div></div></div><div><div></div></=
+div></div><div dir=3D"ltr"><div><div></div></div><div><div></div></div></di=
+v></div><div style=3D"font-size:12.8000001907349px"><br></div><div style=3D=
+"font-size:12.8000001907349px">Me encantar=C3=ADa poder visitarlos y mostra=
+rte c=C3=B3mo funciona S<b>HARK</b>. Tienes tiempo la pr=C3=B3xima semana?<=
+br></div></span></div><span class=3D""><div><br></div><div>Saludos,</div><d=
+iv><br clear=3D"all"><div><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div>=
+<div dir=3D"ltr"><div><span></span><span></span><a></a>Valentina Calvanese =
+Bonilla<br></div><div>Principal &amp; COO, Smart Supply<br><div><a href=3D"=
+tel:%2B569%2090760999" value=3D"+56990760999" target=3D"_blank">+569 907609=
+99</a><br></div><div>Cerro el Plomo 5630 oficina 912, Las Condes</div><div>=
+<a href=3D"http://www.smartsupply.cl" target=3D"_blank">www.smartsupply.cl<=
+/a></div><div><br></div><div><img src=3D"https://media.licdn.com/media/p/8/=
+005/07a/07a/0d1b72e.png"><br></div></div></div></div></div></div></div></di=
+v></div>
+</div></span></div>
+</blockquote></div><br></div>
+</div></blockquote></div></blockquote></div><br></div>
+
+--001a113a0acc7c8af60511f5f88b--

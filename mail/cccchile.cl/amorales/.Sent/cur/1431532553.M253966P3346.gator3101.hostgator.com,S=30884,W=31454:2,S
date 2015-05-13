@@ -1,0 +1,570 @@
+Received: from 190.44.199.208 ([190.44.199.208])
+        (SquirrelMail authenticated user amorales@cccchile.cl)
+        by gator3101.hostgator.com with HTTP;
+        Wed, 13 May 2015 10:55:53 -0500
+Message-ID: <844f24128891444355172796d5443be2.squirrel@gator3101.hostgator.com>
+Date: Wed, 13 May 2015 10:55:53 -0500
+Subject: [Fwd: Webpay Webservice - CANTENBURY CHILE - 31164400]
+From: =?iso-8859-1?Q?=22=22Andr=E9s_Morales_?==?iso-8859-1?Q?=22=22?= <amorales@cccchile.cl>
+To: unreamlo@gmail.com
+User-Agent: SquirrelMail/1.5.2 [SVN]
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20150513105553_55939"
+
+------=_20150513105553_55939
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+
+
+---------------------------- Original Message ----------------------------
+Subject: Webpay Webservice - CANTENBURY CHILE - 31164400
+From:    "Soporte" <soporte@transbank.cl>
+Date:    Fri, December 19, 2014 12:21 am
+To:      'Andrés Morales (CCC-CHILE)' <amorales@cccchile.cl>
+Cc:      "Pablo Tapia" <unreamlo@gmail.com>
+         Joaquin Nicolás Jadue <joakuster@gmail.com>
+         "Certificacion1 (EXTERNO)" <certificacion2@transbank.cl>
+         "Soporte" <soporte@transbank.cl>
+--------------------------------------------------------------------------
+
+Estimado Andrés, buenas noches:
+
+                Junto con saludar, le confirmamos que
+Soporte@Transbank.cl<mailto:Soporte@Transbank.cl> se
+encarga específicamente de resolver inquietudes técnicas
+acerca de Webpay plus, por lo que lamentablemente no
+podemos gestionar lo solicitado, para esta solicitud o
+mayor información sobre las condiciones contractuales y
+comerciales (Creaciones o anulaciones de códigos de
+comercio, precios, condiciones u otros) debe comunicarse
+con su ejecutivo, o también puede comunicarse con
+Transervice, al e-mail
+Transervice@Transbank.cl<mailto:Transervice@transbank.cl>
+o al teléfono 600 638 6380 o desde celulares al +56 2
+2661 2700.
+
+Ante cualquier otra duda o consulta favor tomar contacto con nosotros por
+este medio o a los teléfonos indicados en la firma.
+
+Atento a sus comentarios,
+
+Saludos Cordiales.
+Cristopher Aguilera N.
+Soporte WebPay Plus
+800 44 11 44
++562 26612705
+[cid:image001.gif@01CD9C1A.C47706B0]
+
+De: Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+Enviado el: Jueves, 18 de Diciembre de 2014 17:25
+Para: Certificacion1 (EXTERNO); Soporte
+CC: Pablo Tapia; Joaquin Nicolás Jadue
+Asunto: Re: RV: Webpay Webservice - CANTENBURY CHILE - 31164400
+
+Hola, pudieron ver esto? Con quien debo comunixarme??
+
+El miércoles, 10 de diciembre de 2014, Andrés Morales
+<andres.moralesg@gmail.com<mailto:andres.moralesg@gmail.com>> escribió:
+Estimados,
+
+Neceistamos ayuda por parte de ustedes de manera urgente:
+
+Necesitamos un nuevo código de comercio con webpay, ya que se contrato
+webpay plus con el servicio de "webservices". Nosotros necesitamos weplay
+plus con el servicio KCC.
+
+Ayer hablé con los técnicos y ya validaron la parte técnica. Solo me
+falta, generar un nuevo código de comercio asociado a el servicio KCC y
+enviarlo a revisión para pasarlo a producción.
+
+es posible reasignar un código rápidamente?
+
+Quedo atento!!!!
+
+miles de gracias.
+
+El 29 de septiembre de 2014, 16:27, Guillermo Morales - Spin Ltda
+<gmorales@spindeportes.cl<javascript:_e(%7B%7D,'cvml','gmorales@spindeportes.cl');>>
+escribió:
+
+
+De: Certificacion1 (EXTERNO)
+[mailto:certificacion2@transbank.cl<javascript:_e(%7B%7D,'cvml','certificacion2@transbank.cl');>]
+En nombre de Soporte
+Enviado el: sábado, 27 de septiembre de 2014 22:12
+Para:
+'gmorales@spindeportes.cl<javascript:_e(%7B%7D,'cvml','gmorales@spindeportes.cl');>'
+CC: Soporte; Camila Rubio Barra (EXTERNO); Peter Yuric;
+'joakuster@gmail.com<javascript:_e(%7B%7D,'cvml','joakuster@gmail.com');>'
+Asunto: Webpay Webservice - CANTENBURY CHILE - 31164400
+
+Estimado José:
+
+Adjunto la información para que realice la Integración de Webpay
+Webservice.
+
+
+  1.  El proceso contempla 3 etapas: Integración, Certificación y
+Producción. Las cuales tienen su propio Código, Certificado y URL.
+
+
+  1.  Se adjunta la documentación de Integración: Manuales + Certificado
+de Transbank (serverDesaTbk.crt)
+
+
+  1.  La URL del WSDL de Integración es:
+•         WS Tienda Normal:
+https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSWebpayService?wsdl
+•         WS Anulación:
+https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSCommerceIntegrationService?wsdl
+
+
+  1.  Una vez leída la documentación y aclaradas las dudas, solicitar a
+alandaeta@transbank.cl<javascript:_e(%7B%7D,'cvml','alandaeta@transbank.cl');>
+ el código de Integración.
+
+
+  1.  El soporte que entregamos es funcional, lo que corresponde a la
+parte técnica (programación) es responsabilidad del comercio.
+
+
+Cualquier inquietud con respecto a la parte contractual favor contactarse
+con Transervice al  600 638 638 0 o al +56 2 2661
+2700<tel:%2B56%202%202661%202700>.
+
+
+Saludos Cordiales.
+
+
+Rodrigo Lagos M.
+Soporte WebPay Plus
+soporte@transbank.cl<javascript:_e(%7B%7D,'cvml','soporte@transbank.cl');>
+800 44 11 44
++56 2 2661 27 05
+
+
+
+
+"La informacion contenida en esta transmision (y sus documentos adjuntos), es
+
+confidencial y no puede ser usada o difundida por personas distintas a su(s)
+
+destinatario(s). El uso no autorizado de la informacion contenida en esta
+transmision
+
+puede ser sancionado criminalmente de conformidad con la ley chilena. Si
+ha recibido
+
+esta transmision por error, por favor destruyala y notifique al remitente.
+Atendido que
+
+no existe certidumbre que el presente mensaje no sera modificado como
+resultado de
+
+su transmision por correo electronico, Transbank S.A. no sera responsable
+si el
+
+contenido del mismo ha sido modificado.
+
+(Se han omitido los acentos por compatibilidad con diversos servidores de
+correo)"
+
+
+
+
+"La informacion contenida en esta transmision (y sus documentos adjuntos), es
+confidencial y no puede ser usada o difundida por personas distintas a su(s)
+destinatario(s). El uso no autorizado de la informacion contenida en esta
+transmision
+puede ser sancionado criminalmente de conformidad con la ley chilena. Si
+ha recibido
+esta transmision por error, por favor destruyala y notifique al remitente.
+Atendido que
+no existe certidumbre que el presente mensaje no sera modificado como
+resultado de
+su transmision por correo electronico, Transbank S.A. no sera responsable
+si el
+contenido del mismo ha sido modificado.
+(Se han omitido los acentos por compatibilidad con diversos servidores de
+correo)"
+
+Andr�s M.
+CCChile
+------=_20150513105553_55939
+Content-Type: text/html; name="untitled-[1.2].html"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: attachment; filename="untitled-[1.2].html"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Microsoft Word 12 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML con formato previo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.HTMLconformatoprevioCar
+	{mso-style-name:"HTML con formato previo Car";
+	mso-style-priority:99;
+	mso-style-link:"HTML con formato previo";
+	font-family:Consolas;}
+span.EstiloCorreo19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:87040881;
+	mso-list-template-ids:-614271404;}
+@list l0:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1
+	{mso-list-id:507066259;
+	mso-list-template-ids:2093123028;}
+@list l1:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2
+	{mso-list-id:1098872820;
+	mso-list-template-ids:550822448;}
+@list l2:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l3
+	{mso-list-id:1428385656;
+	mso-list-template-ids:816764596;}
+@list l3:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l4
+	{mso-list-id:1537502173;
+	mso-list-template-ids:-1656441358;}
+@list l4:level1
+	{mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="2050" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="ES" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Estimado Andrés, buenas noches:<o:p></o:p></span></b></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junto con saludar, le confirmamos que
+<a href="mailto:Soporte@Transbank.cl">Soporte@Transbank.cl</a> se encarga específicamente de resolver inquietudes técnicas acerca de Webpay plus, por lo que lamentablemente no podemos gestionar lo solicitado, para esta solicitud o mayor información sobre las
+ condiciones contractuales y comerciales (Creaciones o anulaciones de códigos de comercio, precios, condiciones u otros) debe comunicarse con su ejecutivo, o también puede comunicarse con Transervice, al e</span><span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">-</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">mail
+<a href="mailto:Transervice@transbank.cl">Transervice@Transbank.cl</a> o al teléfono 600 638 6380 o desde celulares al &#43;56 2 2661 2700.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Ante cualquier otra duda o consulta favor tomar contacto con nosotros por este medio o a los teléfonos indicados en
+ la firma.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Atento a sus comentarios,<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><b><span lang="ES-CL" style="color:#1F497D">Saludos Cordiales.<o:p></o:p></span></b></p>
+<p class="MsoNormal"><b><span style="color:#1F497D">Cristopher Aguilera N.</span></b><span style="color:#1F497D"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:9.0pt;color:#1F497D">Soporte WebPay Plus</span><span style="color:#1F497D"><o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="ES-TRAD" style="font-size:9.0pt;color:#1F497D">800 44 11 44<o:p></o:p></span></p>
+<p class="MsoNormal"><span lang="ES-TRAD" style="font-size:9.0pt;color:#1F497D">&#43;562 26612705</span><span style="color:#1F497D"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D"><img border="0" width="235" height="65" id="Imagen_x0020_1" src="cid:image001.gif@01D01B32.8EB22A20" alt="cid:image001.gif@01CD9C1A.C47706B0"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div style="border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+<br>
+<b>Enviado el:</b> Jueves, 18 de Diciembre de 2014 17:25<br>
+<b>Para:</b> Certificacion1 (EXTERNO); Soporte<br>
+<b>CC:</b> Pablo Tapia; Joaquin Nicolás Jadue<br>
+<b>Asunto:</b> Re: RV: Webpay Webservice - CANTENBURY CHILE - 31164400<o:p></o:p></span></p>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Hola, pudieron ver esto? Con quien debo comunixarme??<br>
+<br>
+El miércoles, 10 de diciembre de 2014, Andrés Morales &lt;<a href="mailto:andres.moralesg@gmail.com">andres.moralesg@gmail.com</a>&gt; escribió:<o:p></o:p></p>
+<div>
+<p class="MsoNormal">Estimados,<o:p></o:p></p>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal">Neceistamos ayuda por parte de ustedes de manera urgente:<o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<div>
+<p class="MsoNormal"><span style="color:#500050">Necesitamos un nuevo código de comercio con webpay, ya que se contrato webpay plus con el servicio de &quot;webservices&quot;. Nosotros necesitamos weplay plus con el servicio KCC.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="color:#500050"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><span style="color:#500050">Ayer hablé con los técnicos y ya validaron la parte técnica. Solo me falta, generar un nuevo código de comercio asociado a el servicio KCC y enviarlo a revisión para pasarlo a producción.<o:p></o:p></span></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal">es posible reasignar un código rápidamente?<o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal">Quedo atento!!!!<o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class="MsoNormal">miles de gracias.<o:p></o:p></p>
+</div>
+<div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class="MsoNormal">El 29 de septiembre de 2014, 16:27, Guillermo Morales - Spin Ltda &lt;<a href="javascript:_e(%7B%7D,'cvml','gmorales@spindeportes.cl');" target="_blank">gmorales@spindeportes.cl</a>&gt; escribió:<o:p></o:p></p>
+<div>
+<div>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<div>
+<div style="border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span style="font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Certificacion1 (EXTERNO) [mailto:<a href="javascript:_e(%7B%7D,'cvml','certificacion2@transbank.cl');" target="_blank">certificacion2@transbank.cl</a>]
+<b>En nombre de </b>Soporte<br>
+<b>Enviado el:</b> sábado, 27 de septiembre de 2014 22:12<br>
+<b>Para:</b> '<a href="javascript:_e(%7B%7D,'cvml','gmorales@spindeportes.cl');" target="_blank">gmorales@spindeportes.cl</a>'<br>
+<b>CC:</b> Soporte; Camila Rubio Barra (EXTERNO); Peter Yuric; '<a href="javascript:_e(%7B%7D,'cvml','joakuster@gmail.com');" target="_blank">joakuster@gmail.com</a>'<br>
+<b>Asunto:</b> Webpay Webservice - CANTENBURY CHILE - 31164400</span><o:p></o:p></p>
+</div>
+</div>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><b><span style="color:#1F497D">Estimado José:</span></b><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">Adjunto la información para que realice la Integración de Webpay Webservice.</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ES-CL" style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<ol start="1" type="1">
+<li class="MsoNormal" style="color:#1F497D;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l4 level1 lfo1">
+El proceso contempla 3 etapas: Integración, Certificación y Producción. Las cuales tienen su propio Código, Certificado y URL.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:36.0pt">
+<span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<ol start="2" type="1">
+<li class="MsoNormal" style="color:#1F497D;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l3 level1 lfo2">
+Se adjunta la documentación de Integración: Manuales &#43; Certificado de Transbank (serverDesaTbk.crt)<o:p></o:p></li></ol>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<ol start="3" type="1">
+<li class="MsoNormal" style="color:#1F497D;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l1 level1 lfo3">
+La URL del WSDL de Integración es: <o:p></o:p></li></ol>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:88.8pt">
+<span style="font-family:Symbol;color:#1F497D">·</span><span style="font-size:7.0pt;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="color:#1F497D">WS Tienda Normal: <b><a href="https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSWebpayService?wsdl" target="_blank">https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSWebpayService?wsdl</a></b>
+</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:88.8pt">
+<span style="font-family:Symbol;color:#1F497D">·</span><span style="font-size:7.0pt;color:#1F497D">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="color:#1F497D">WS Anulación: <b><a href="https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSCommerceIntegrationService?wsdl" target="_blank">https://201.238.207.130:7200/WSWebpayTransaction/cxf/WSCommerceIntegrationService?wsdl</a>
+</b></span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<ol start="4" type="1">
+<li class="MsoNormal" style="color:#1F497D;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l2 level1 lfo4">
+Una vez leída la documentación y aclaradas las dudas, solicitar a <b><a href="javascript:_e(%7B%7D,'cvml','alandaeta@transbank.cl');" target="_blank">alandaeta@transbank.cl</a></b>&nbsp; el código de Integración.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<ol start="5" type="1">
+<li class="MsoNormal" style="color:#1F497D;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo5">
+El soporte que entregamos es funcional, lo que corresponde a la parte técnica (programación) es responsabilidad del comercio.<o:p></o:p></li></ol>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span style="color:#1F497D">Cualquier inquietud con respecto a la parte contractual favor contactarse
+</span><span lang="ES-TRAD" style="color:#1F497D">con Transervice al&nbsp; <b>600 638 638 0</b> o al
+<b><a href="tel:%2B56%202%202661%202700" target="_blank">&#43;56 2 2661 2700</a>.</b></span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang="ES-TRAD">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span lang="ES-CL" style="color:#1F497D">Saludos Cordiales.</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span lang="ES-CL" style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span lang="ES-CL" style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<b><span lang="ES-CL" style="color:#1F497D">Rodrigo Lagos M.</span></b><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span style="font-size:9.0pt;color:#404040">Soporte WebPay Plus</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<a href="javascript:_e(%7B%7D,'cvml','soporte@transbank.cl');" target="_blank"><b><span style="font-size:9.0pt">soporte@transbank.cl</span></b></a><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<b><span lang="ES-TRAD" style="font-size:9.0pt;color:gray">800 44 11 44</span></b><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<b><span lang="ES-TRAD" style="font-size:9.0pt;color:gray">&#43;56 2 2661 27 05</span></b><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;text-align:justify">
+<span style="color:#1F497D">&nbsp;</span><o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+<table class="MsoNormalTable" border="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="background:white;padding:.75pt .75pt .75pt .75pt">
+<pre><span style="color:black">&quot;La informacion contenida en esta transmision (y sus documentos adjuntos), es </span><o:p></o:p></pre>
+<pre><span style="color:black">confidencial y no puede ser usada o difundida por personas distintas a su(s) </span><o:p></o:p></pre>
+<pre><span style="color:black">destinatario(s). El uso no autorizado de la informacion contenida en esta transmision </span><o:p></o:p></pre>
+<pre><span style="color:black">puede ser sancionado criminalmente de conformidad con la ley chilena. Si ha recibido </span><o:p></o:p></pre>
+<pre><span style="color:black">esta transmision por error, por favor destruyala y notifique al remitente. Atendido que </span><o:p></o:p></pre>
+<pre><span style="color:black">no existe certidumbre que el presente mensaje no sera modificado como resultado de </span><o:p></o:p></pre>
+<pre><span style="color:black">su transmision por correo electronico, Transbank S.A. no sera responsable si el </span><o:p></o:p></pre>
+<pre><span style="color:black">contenido del mismo ha sido modificado.</span><o:p></o:p></pre>
+<pre><span style="color:black">(Se han omitido los acentos por compatibilidad con diversos servidores de correo)&quot;</span><o:p></o:p></pre>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p>
+</div>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+<table><tr><td bgcolor=#ffffff><font color=#000000><pre>"La informacion contenida en esta transmision (y sus documentos adjuntos), es 
+confidencial y no puede ser usada o difundida por personas distintas a su(s) 
+destinatario(s). El uso no autorizado de la informacion contenida en esta transmision 
+puede ser sancionado criminalmente de conformidad con la ley chilena. Si ha recibido 
+esta transmision por error, por favor destruyala y notifique al remitente. Atendido que 
+no existe certidumbre que el presente mensaje no sera modificado como resultado de 
+su transmision por correo electronico, Transbank S.A. no sera responsable si el 
+contenido del mismo ha sido modificado.
+(Se han omitido los acentos por compatibilidad con diversos servidores de correo)"</pre></font></td></tr></table>
+------=_20150513105553_55939
+Content-Type: image/x-citrix-gif; name="image001.gif"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="image001.gif"
+
+R0lGODlh6wBBAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH/C01TT0ZGSUNFOS4w
+FwAAAAttc09QTVNPRkZJQ0U5LjBCPKT1ACH/C01TT0ZGSUNFOS4wFQAAAAlwSFlzAAAAQAAAAEAA
+YkNjWwAh/wtNU09GRklDRTkuMBgAAAAMY21QUEpDbXAwNzEyAAAAA0gAc7wAIfkEAQAAAAAsAAAA
+AOsAQQCHAAAAAAAAAAAzAABmAACZAADMAAD/ADMAADMzADNmADOZADPMADP/AGYAAGYzAGZmAGaZ
+AGbMAGb/AJkAAJkzAJlmAJmZAJnMAJn/AMwAAMwzAMxmAMyZAMzMAMz/AP8AAP8zAP9mAP+ZAP/M
+AP//MwAAMwAzMwBmMwCZMwDMMwD/MzMAMzMzMzNmMzOZMzPMMzP/M2YAM2YzM2ZmM2aZM2bMM2b/
+M5kAM5kzM5lmM5mZM5nMM5n/M8wAM8wzM8xmM8yZM8zMM8z/M/8AM/8zM/9mM/+ZM//MM///ZgAA
+ZgAzZgBmZgCZZgDMZgD/ZjMAZjMzZjNmZjOZZjPMZjP/ZmYAZmYzZmZmZmaZZmbMZmb/ZpkAZpkz
+ZplmZpmZZpnMZpn/ZswAZswzZsxmZsyZZszMZsz/Zv8AZv8zZv9mZv+ZZv/MZv//mQAAmQAzmQBm
+mQCZmQDMmQD/mTMAmTMzmTNmmTOZmTPMmTP/mWYAmWYzmWZmmWaZmWbMmWb/mZkAmZkzmZlmmZmZ
+mZnMmZn/mcwAmcwzmcxmmcyZmczMmcz/mf8Amf8zmf9mmf+Zmf/Mmf//zAAAzAAzzABmzACZzADM
+zAD/zDMAzDMzzDNmzDOZzDPMzDP/zGYAzGYzzGZmzGaZzGbMzGb/zJkAzJkzzJlmzJmZzJnMzJn/
+zMwAzMwzzMxmzMyZzMzMzMz/zP8AzP8zzP9mzP+ZzP/MzP///wAA/wAz/wBm/wCZ/wDM/wD//zMA
+/zMz/zNm/zOZ/zPM/zP//2YA/2Yz/2Zm/2aZ/2bM/2b//5kA/5kz/5lm/5mZ/5nM/5n//8wA/8wz
+/8xm/8yZ/8zM/8z///8A//8z//9m//+Z///M////AQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQID
+AQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQIDAQID
+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
+------=_20150513105553_55939--
+

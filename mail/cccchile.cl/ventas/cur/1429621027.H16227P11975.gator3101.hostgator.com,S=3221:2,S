@@ -1,0 +1,71 @@
+Return-path: <dante.avaca.c@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Tue, 21 Apr 2015 07:57:07 -0500
+Received: from mail-pd0-f175.google.com ([209.85.192.175]:34600)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <dante.avaca.c@gmail.com>)
+	id 1YkXje-00034b-LB
+	for ventas@cccchile.cl; Tue, 21 Apr 2015 07:57:06 -0500
+Received: by pdbqa5 with SMTP id qa5so240976406pdb.1
+        for <ventas@cccchile.cl>; Tue, 21 Apr 2015 05:57:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=9D/sMRt15p2oWEWoIRr+zGE49RiXZjcCNV/5CKqZUrY=;
+        b=mK4f3RFsJgphq3CPcicP7huOG5vL+RV6ruVn243f6teBd5YWFUm1LysvUy5f6rZuEd
+         wK8vnKkfm2yjLUYObz7SxU7GDRTQBEwlQpSslaVB2Neje+GG/9mZR8F618F1j8cPxNIc
+         SVEi1V/P7p55ahrNOgwCV9rY+LSk8UHcoIQhgtNEFYszouaC5ws5K6I15LLT+ZEg09uw
+         gj3JUZ3/BghDpPQ62jlSuWz3aQSr8kFQlG+P3iJt+q6/JwZ/juR09YOfx6Zq6P6IdsF7
+         9Sx0aJY2cmXyd3rCHk8P2nTrEnkXlcEy7yEomIDGC5pDE/0fmAvyYeLAuBafdC1SvbuX
+         R+EQ==
+MIME-Version: 1.0
+X-Received: by 10.66.138.15 with SMTP id qm15mr37502996pab.52.1429621024745;
+ Tue, 21 Apr 2015 05:57:04 -0700 (PDT)
+Received: by 10.70.49.161 with HTTP; Tue, 21 Apr 2015 05:57:04 -0700 (PDT)
+In-Reply-To: <CAKggD2SqSFmwfpGZ4b+_6drmBDuoUtP+nQvDSa_6afq+wAUfSg@mail.gmail.com>
+References: <CAKggD2SqSFmwfpGZ4b+_6drmBDuoUtP+nQvDSa_6afq+wAUfSg@mail.gmail.com>
+Date: Tue, 21 Apr 2015 08:57:04 -0400
+Message-ID: <CAKY-1CMEQU5oOzMLqWtZncipBVVcJoYYZtxW0YsmSfSng9qOfA@mail.gmail.com>
+Subject: Re:
+From: dante octavio avaca castro <dante.avaca.c@gmail.com>
+To: =?UTF-8?Q?Andr=C3=A9s_Morales?= <ventas@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7b15a73557efa705143b95a1
+
+--047d7b15a73557efa705143b95a1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+amigo are el pago el 24 disculpa por generar  la compra antes
+
+El 20 de abril de 2015, 10:25, Andr=C3=A9s Morales <ventas@cccchile.cl> esc=
+ribi=C3=B3:
+
+> Hol Dante,
+> Nos lleg=C3=B3 tu pedido a trav=C3=A9s de nuestra web.
+> Solo nos falta la confirmaci=C3=B3n del pago para procesarlo.
+>
+> Cuentame cualquier duda que tengas.
+>
+> Un abrazo.
+>
+>
+
+--047d7b15a73557efa705143b95a1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">amigo are el pago el 24 disculpa por generar =C2=A0la comp=
+ra antes=C2=A0</div><div class=3D"gmail_extra"><br><div class=3D"gmail_quot=
+e">El 20 de abril de 2015, 10:25, Andr=C3=A9s Morales <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:ventas@cccchile.cl" target=3D"_blank">ventas@cccchile.cl=
+</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Hol Dant=
+e,<div>Nos lleg=C3=B3 tu pedido a trav=C3=A9s de nuestra web.</div><div>Sol=
+o nos falta la confirmaci=C3=B3n del pago para procesarlo.</div><div><br></=
+div><div>Cuentame cualquier duda que tengas.</div><div><br></div><div>Un ab=
+razo.</div><div><br></div>
+</blockquote></div><br></div>
+
+--047d7b15a73557efa705143b95a1--

@@ -1,0 +1,272 @@
+Return-path: <>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 24 Mar 2015 08:59:04 -0500
+Received: from gateway12.websitewelcome.com ([67.18.88.9]:58520)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1YaPMG-00087G-F8
+	for amorales@cccchile.cl; Tue, 24 Mar 2015 08:59:04 -0500
+Received: by gateway12.websitewelcome.com (Postfix)
+	id 14E1B1DE59431; Tue, 24 Mar 2015 08:59:03 -0500 (CDT)
+Date: Tue, 24 Mar 2015 08:59:03 -0500 (CDT)
+From: MAILER-DAEMON@gateway12.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amorales@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="C3A1B1DE588EB.1427205543/gateway12.websitewelcome.com"
+Message-Id: <20150324135903.14E1B1DE59431@gateway12.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--C3A1B1DE588EB.1427205543/gateway12.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway12.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ventas@guarapp.com>: host guarapp.com[192.163.216.63] said: 550-"JunkMail
+    rejected - gateway12.websitewelcome.com [67.18.88.9]:44839 is in 550 an
+    RBL, see Blocked - see http://www.spamcop.net/bl.shtml?67.18.88.9" (in
+    reply to RCPT TO command)
+
+--C3A1B1DE588EB.1427205543/gateway12.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway12.websitewelcome.com
+X-Postfix-Queue-ID: C3A1B1DE588EB
+X-Postfix-Sender: rfc822; amorales@cccchile.cl
+Arrival-Date: Tue, 24 Mar 2015 08:58:59 -0500 (CDT)
+
+Final-Recipient: rfc822; ventas@guarapp.com
+Action: failed
+Status: 5.0.0
+Remote-MTA: dns; guarapp.com
+Diagnostic-Code: smtp; 550-"JunkMail rejected - gateway12.websitewelcome.com
+    [67.18.88.9]:44839 is in 550 an RBL, see Blocked - see
+    http://www.spamcop.net/bl.shtml?67.18.88.9"
+
+--C3A1B1DE588EB.1427205543/gateway12.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <amorales@cccchile.cl>
+Received: by gateway12.websitewelcome.com (Postfix, from userid 5007)
+	id C3A1B1DE588EB; Tue, 24 Mar 2015 08:58:59 -0500 (CDT)
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway12.websitewelcome.com (Postfix) with ESMTP id A4A561DE5884A
+	for <ventas@guarapp.com>; Tue, 24 Mar 2015 08:58:59 -0500 (CDT)
+Received: from [209.85.212.171] (port=35482 helo=mail-wi0-f171.google.com)
+	by gator3101.hostgator.com with esmtpsa (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <amorales@cccchile.cl>)
+	id 1YaPMA-0007xQ-Dv; Tue, 24 Mar 2015 08:58:58 -0500
+Received: by wibdy8 with SMTP id dy8so75707683wib.0;
+        Tue, 24 Mar 2015 06:58:57 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.194.179.194 with SMTP id di2mr8498598wjc.4.1427205537389;
+ Tue, 24 Mar 2015 06:58:57 -0700 (PDT)
+Received: by 10.194.246.195 with HTTP; Tue, 24 Mar 2015 06:58:57 -0700 (PDT)
+In-Reply-To: <CAKggD2Rn+h=uQbDi3KXQs-AOQPbYv-tu22bEZAJOfFqRJhi=0Q@mail.gmail.com>
+References: <CAKggD2QqD_AMd6jaqFnqynsapOdHfh-m6tBGRVrSdstXtxsWYQ@mail.gmail.com>
+	<004101d065aa$01468970$03d39c50$@guarapp.com>
+	<CAKggD2Rn+h=uQbDi3KXQs-AOQPbYv-tu22bEZAJOfFqRJhi=0Q@mail.gmail.com>
+Date: Tue, 24 Mar 2015 10:58:57 -0300
+Message-ID: <CAKggD2Q+feP5k_Zs6_vyarjHKCEsRWCvxhn1jrOsfz92HbnS4g@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Env=C3=ADo_desde_UK_=2D_Urgente?=
+From: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+To: Felipe Saldana <fsaldana@guarapp.com>
+Cc: ventas@guarapp.com, tomas@guarapp.com, 
+	Jose Gabriel Cajias <JGCAJIAS@gmail.com>
+Content-Type: multipart/alternative; boundary=089e01419d1c13e2090512092ffb
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - guarapp.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 209.85.212.171
+X-Exim-ID: 1YaPMA-0007xQ-Dv
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-wi0-f171.google.com) [209.85.212.171]:35482
+X-Source-Auth: amorales@cccchile.cl
+X-Email-Count: 9
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+--089e01419d1c13e2090512092ffb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola!
+
+Tienen info de =C3=A9ste pedido?
+es posible hacerlo?
+
+Miles de gracias!
+
+El 23 de marzo de 2015, 17:22, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+> S=C3=B3lo la log=C3=ADstica, ya esta pagado.
+> estan esperando que les mande las instrucciones de recoleccion.
+>
+>
+> El 23 de marzo de 2015, 16:43, Felipe Saldana <fsaldana@guarapp.com>
+> escribi=C3=B3:
+>
+> Andres.
+>>
+>>
+>>
+>> Buenas tardes, Gusto en recibir tu Mail. Pero antes de enviar tu
+>> cotizaci=C3=B3n debo hacer unas preguntas.
+>>
+>>
+>>
+>> T=C3=BA ya compraste este producto y necesitas que te coticemos solo la
+>> Log=C3=ADstica? O necesitas que veamos todo.
+>>
+>>
+>>
+>> Quedo atento a tus comentarios.
+>>
+>>
+>>
+>> Slds
+>>
+>>
+>>
+>> Felipe
+>>
+>>
+>>
+>> *From:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>> *Sent:* lunes, 23 de marzo de 2015 14:56
+>> *To:* ventas@guarapp.com; fsaldana@guarapp.com
+>> *Cc:* tomas@guarapp.com; Jose Gabriel Cajias
+>> *Subject:* Env=C3=ADo desde UK - Urgente
+>>
+>>
+>>
+>> Hola!
+>>
+>> Hace un tiempo traje unas muestras con ustedes y ahora necesito trar la
+>> compra.
+>>
+>> En ese momento lo vi con mat=C3=ADas, pero entiendo que ahora ya no est=
+=C3=A1.
+>>
+>>
+>>
+>> Les adjunto informaci=C3=B3n necesaria para que puedan enviarme cotizaci=
+=C3=B3n lo
+>> antes posible.
+>>
+>>
+>>
+>> Mil gracias y quedo atento.
+>>
+>>
+>>
+>> sls.
+>>
+>
+>
+
+--089e01419d1c13e2090512092ffb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola!<div><br></div><div>Tienen info de =C3=A9ste pedido?<=
+/div><div>es posible hacerlo?</div><div><br></div><div>Miles de gracias!</d=
+iv></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 23 de=
+ marzo de 2015, 17:22, Andr=C3=A9s Morales (CCC-CHILE) <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchi=
+le.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" st=
+yle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div =
+dir=3D"ltr">S=C3=B3lo la log=C3=ADstica, ya esta pagado.<div>estan esperand=
+o que les mande las instrucciones de recoleccion.</div><div><br></div></div=
+><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 23 de marzo d=
+e 2015, 16:43, Felipe Saldana <span dir=3D"ltr">&lt;<a href=3D"mailto:fsald=
+ana@guarapp.com" target=3D"_blank">fsaldana@guarapp.com</a>&gt;</span> escr=
+ibi=C3=B3:<div><div class=3D"h5"><br><blockquote class=3D"gmail_quote" styl=
+e=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div la=
+ng=3D"ES-CL" link=3D"blue" vlink=3D"purple"><div><p class=3D"MsoNormal"><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#1f497d">Andres.<u></u><u></u></span></p><p class=3D"MsoNorm=
+al"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p class=3D"M=
+soNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#1f497d">Buenas tardes, Gusto en recibir tu Mai=
+l. Pero antes de enviar tu cotizaci=C3=B3n debo hacer unas preguntas.<u></u=
+><u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u=
+>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+T=C3=BA ya compraste este producto y necesitas que te coticemos solo la Log=
+=C3=ADstica? O necesitas que veamos todo.<u></u><u></u></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p=
+ class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">Quedo atento a tus comentar=
+ios.<u></u><u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d"><u></u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Slds<u></u><u></u></span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:#1f497d">Felipe<u></u><u></u></span></p><p class=3D"MsoNormal"=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></span></p><p class=3D"MsoN=
+ormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;=
+Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"EN-US" s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&qu=
+ot;"> Andr=C3=A9s Morales (CCC-CHILE) [mailto:<a href=3D"mailto:amorales@cc=
+cchile.cl" target=3D"_blank">amorales@cccchile.cl</a>] <br><b>Sent:</b> lun=
+es, 23 de marzo de 2015 14:56<br><b>To:</b> <a href=3D"mailto:ventas@guarap=
+p.com" target=3D"_blank">ventas@guarapp.com</a>; <a href=3D"mailto:fsaldana=
+@guarapp.com" target=3D"_blank">fsaldana@guarapp.com</a><br><b>Cc:</b> <a h=
+ref=3D"mailto:tomas@guarapp.com" target=3D"_blank">tomas@guarapp.com</a>; J=
+ose Gabriel Cajias<br><b>Subject:</b> Env=C3=ADo desde UK - Urgente<u></u><=
+u></u></span></p><div><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><=
+div><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hola!</span><u></u><u=
+></u></p><div><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hace un tie=
+mpo traje unas muestras con ustedes y ahora necesito trar la compra.</span>=
+<u></u><u></u></p></div><div><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">En ese momento lo vi con mat=C3=ADas, pero entiendo que ahora ya no est=
+=C3=A1.</span><u></u><u></u></p></div><div><p class=3D"MsoNormal"><u></u>=
+=C2=A0<u></u></p></div><div><p class=3D"MsoNormal"><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497=
+d">Les adjunto informaci=C3=B3n necesaria para que puedan enviarme cotizaci=
+=C3=B3n lo antes posible.</span><u></u><u></u></p></div><div><p class=3D"Ms=
+oNormal"><u></u>=C2=A0<u></u></p></div><div><p class=3D"MsoNormal"><span st=
+yle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">Mil gracias y quedo atento.</span><u></u><u></u></p></di=
+v><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div><div><p class=
+=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">sls.</span><u></u><u></u></p></di=
+v></div></div></div></div></div></blockquote></div></div></div><br></div>
+</blockquote></div><br></div>
+
+--089e01419d1c13e2090512092ffb--
+
+--C3A1B1DE588EB.1427205543/gateway12.websitewelcome.com--

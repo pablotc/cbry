@@ -1,0 +1,214 @@
+Return-path: <unreamlo@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Tue, 05 May 2015 13:33:43 -0500
+Received: from mail-yh0-f44.google.com ([209.85.213.44]:36828)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <unreamlo@gmail.com>)
+	id 1Yphf5-0008VP-AB
+	for ventas@cccchile.cl; Tue, 05 May 2015 13:33:43 -0500
+Received: by yhrr66 with SMTP id r66so43398021yhr.3
+        for <ventas@cccchile.cl>; Tue, 05 May 2015 11:33:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=Ak7AFBut8FwBAeg7X38WxzjjDtlyhndzdy7/Tp/1mw8=;
+        b=hnOkEqIzJvUttDG1PcrWLkwdBS4EukwiEh8oC9XL4O0FCMm4tguqLhJgblPzXZ5WHT
+         H71q1FmIe+DD2ckEa6sqKU58bC9bTk78FGDpazzG07NDGycH5a7akbpevRIgLo24ep/R
+         T9c5gl1G9WkQyX6W7MRXDwaYSK4zOS0nm6daQbr4I6c2RBNXY3T3mLhoODgiE7Ji9MTR
+         r4pUKTVpXgcLyH056Fq5RJkuCaMLxcKJGYRFyE4HNegSR80x4x6YLrGNcxR3LmEpY9KE
+         LmwYEyYU06+w7XzIvC657SExtLfwU6goatXud5LiQTIffCRb10zDR9nZZb6UNHe7muKw
+         bdBQ==
+X-Received: by 10.236.18.168 with SMTP id l28mr13384828yhl.172.1430850821556;
+ Tue, 05 May 2015 11:33:41 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.13.212.208 with HTTP; Tue, 5 May 2015 11:33:21 -0700 (PDT)
+In-Reply-To: <CAKggD2TB_wCjKBb33cGnnDgCg9+_F08STvL7-Qqs_0tTzyQx5g@mail.gmail.com>
+References: <CA+vufaehYnNLdz4bPGVm9ngOJxTGw6nz1+C98UXANTZxQLx1+g@mail.gmail.com>
+ <CAKggD2TN=m8cRgvfxUVeHZEjMEOCNk-WENJGuXUeuhD_Hpi2vg@mail.gmail.com>
+ <CANcV_6PZmKtbyg2_fAMsBupQZEGycNEOVMHZ5+vDi_bBh4Hn4w@mail.gmail.com> <CAKggD2TB_wCjKBb33cGnnDgCg9+_F08STvL7-Qqs_0tTzyQx5g@mail.gmail.com>
+From: Pablo Tapia <unreamlo@gmail.com>
+Date: Tue, 5 May 2015 15:33:21 -0300
+Message-ID: <CANcV_6My6EmA4S0dO4tnC0_zo6M7Ly+EnM30YvJOzADq4RPUhg@mail.gmail.com>
+Subject: Re: Mi compra no la puedo realizar
+To: =?UTF-8?Q?Andr=C3=A9s_Morales?= <ventas@cccchile.cl>
+Content-Type: multipart/alternative; boundary=089e010d9162f2100f051559eae4
+
+--089e010d9162f2100f051559eae4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Western Union jaja
+En todo caso ah=C3=AD eso lo tiene resuelto la gente de webpay, pero te pid=
+en un
+"cheque en garant=C3=ADa" por fraudes.
+
+Saludos,
+
+El 5 de mayo de 2015, 14:50, Andr=C3=A9s Morales <ventas@cccchile.cl> escri=
+bi=C3=B3:
+
+> Si, eso pasa. No pudde pagar con tu tarjeta de argentina visa.
+>
+>
+> El martes, 5 de mayo de 2015, Pablo Tapia <unreamlo@gmail.com> escribi=C3=
+=B3:
+>
+>> Si quiere pagar con su VISA de Argentina, no puede.
+>> Preg=C3=BAntale eso.
+>>
+>> Saludos.
+>>
+>> El 5 de mayo de 2015, 14:36, Andr=C3=A9s Morales <ventas@cccchile.cl>
+>> escribi=C3=B3:
+>>
+>>> Importante
+>>>
+>>> ---------- Mensaje reenviado ----------
+>>> De: *Harry Marples* <harry.marples@gmail.com>
+>>> Fecha: martes, 5 de mayo de 2015
+>>> Asunto: Mi compra no la puedo realizar
+>>> Para: VENTAS@cccchile.cl
+>>>
+>>>
+>>> Estimados
+>>>
+>>> Estoy en Buenos Aires y quiero comprar este producto y que se entregue
+>>> em esta direccion.
+>>> quiero pagarlo con mi trajeta de credito VISA.
+>>> Y me responde este mensaje.
+>>>
+>>> Me pueden ayudar a concretar esta compra. Si son tan amables.
+>>>
+>>> Desde ya muchas gracias.
+>>>
+>>>
+>>>
+>>> *Hello John Harry Marples,*
+>>> We regret to inform you that the transaction
+>>> 6de851cb-56d9-47a8-952e-202270b4bf32 made in http://cccchile.cl/, was
+>>> *Declined*. Transaction data: DescriptionCANTERBURY STAMPEDE ELITE 8
+>>> STUD MEN'S RUGBY Reference322 Value47990.33 CurrencyCLP Date2015-05-05
+>>> 12:04:03 Means of Payment/ FranchiseTRANSBANK   If you have any
+>>> questions or concerns please contact:=E2=9E=A4 Telephone: 5622321321=E2=
+=9E=A4 E-mail:
+>>> VENTAS@CCCCHILE.CL
+>>>
+>>>
+>>>
+>>>
+>>>
+>>
+
+--089e010d9162f2100f051559eae4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Western Union jaja<div>En todo caso ah=C3=AD eso lo tiene =
+resuelto la gente de webpay, pero te piden un &quot;cheque en garant=C3=ADa=
+&quot; por fraudes.</div><div><br></div><div>Saludos,</div></div><div class=
+=3D"gmail_extra"><br><div class=3D"gmail_quote">El 5 de mayo de 2015, 14:50=
+, Andr=C3=A9s Morales <span dir=3D"ltr">&lt;<a href=3D"mailto:ventas@cccchi=
+le.cl" target=3D"_blank">ventas@cccchile.cl</a>&gt;</span> escribi=C3=B3:<b=
+r><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex">Si, eso pasa. No pudde pagar con tu tarjet=
+a de argentina visa.<div class=3D"HOEnZb"><div class=3D"h5"><br><br>El mart=
+es, 5 de mayo de 2015, Pablo Tapia &lt;<a href=3D"mailto:unreamlo@gmail.com=
+" target=3D"_blank">unreamlo@gmail.com</a>&gt; escribi=C3=B3:<br><blockquot=
+e class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc sol=
+id;padding-left:1ex"><div dir=3D"ltr">Si quiere pagar con su VISA de Argent=
+ina, no puede.<div>Preg=C3=BAntale eso.</div><div><br></div><div>Saludos.</=
+div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 5 de=
+ mayo de 2015, 14:36, Andr=C3=A9s Morales <span dir=3D"ltr">&lt;<a>ventas@c=
+ccchile.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quot=
+e" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">=
+Importante<br><br>---------- Mensaje reenviado ----------<br>De: <b>Harry M=
+arples</b> &lt;<a>harry.marples@gmail.com</a>&gt;<br>Fecha: martes, 5 de ma=
+yo de 2015<br>Asunto: Mi compra no la puedo realizar<br>Para: <a>VENTAS@ccc=
+chile.cl</a><br><br><br><div dir=3D"ltr">Estimados=C2=A0<div><br></div><div=
+>Estoy en Buenos Aires y quiero comprar este producto y que se entregue em =
+esta direccion.</div><div>quiero pagarlo con mi trajeta de credito VISA.</d=
+iv><div>Y me responde este mensaje.</div><div><br></div><div>Me pueden ayud=
+ar a concretar esta compra. Si son tan amables.</div><div><br></div><div>De=
+sde ya muchas gracias.<br><table width=3D"90%" border=3D"0" align=3D"center=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-size:12.8000001907349px=
+"><tbody><tr><td style=3D"font-family:Arial,sans-serif;font-size:16px"><fon=
+t face=3D"Arial" color=3D"#262626"><strong><br><br><br>Hello John Harry Mar=
+ples,</strong><br></font></td></tr><tr><td height=3D"20"></td></tr><tr><td =
+style=3D"font-family:Arial,sans-serif;font-size:16px"><font face=3D"Arial" =
+color=3D"#262626">We regret to inform you that the transaction=C2=A0<font c=
+olor=3D"#A6C307">6de851cb-56d9-47a8-952e-202270b4bf32</font>=C2=A0made in=
+=C2=A0<font color=3D"#A6C307"><a href=3D"http://cccchile.cl/" target=3D"_bl=
+ank">http://cccchile.cl/</a></font>, was=C2=A0<font color=3D"#262626"><b>De=
+clined</b></font>.</font></td></tr><tr><td>=C2=A0</td></tr><tr><td><table w=
+idth=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=
+=3D"0"><tbody><tr><td style=3D"font-family:Arial,sans-serif;font-size:16px;=
+color:rgb(38,38,38)">Transaction data:</td></tr><tr><td height=3D"6"></td><=
+/tr><tr><td><table width=3D"100%" border=3D"0" cellspacing=3D"1" cellpaddin=
+g=3D"0"><tbody><tr><td width=3D"40%" height=3D"25" bgcolor=3D"#AFAFAF"><tab=
+le width=3D"45" border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=
+=3D"0"></table><table width=3D"89%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0"><tbody><tr><td width=3D"15">=C2=A0</td><td width=3D"150"><font fa=
+ce=3D"Arial" size=3D"2" color=3D"#FFFFFF">Description</font></td></tr></tbo=
+dy></table></td><td width=3D"60%" bgcolor=3D"#f5f7f8"><table width=3D"92%" =
+border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"><tbody><t=
+r><td><font face=3D"arial" size=3D"2" color=3D"#94969B">CANTERBURY STAMPEDE=
+ ELITE 8 STUD MEN&#39;S RUGBY</font></td></tr></tbody></table></td></tr><tr=
+><td height=3D"25" bgcolor=3D"#AFAFAF"><table width=3D"89%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"><tbody><tr><td width=3D"15">=C2=A0</td><t=
+d width=3D"150"><font face=3D"Arial" size=3D"2" color=3D"#FFFFFF">Reference=
+</font></td></tr></tbody></table></td><td bgcolor=3D"#f5f7f8"><table width=
+=3D"92%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">=
+<tbody><tr><td><font face=3D"arial" size=3D"2" color=3D"#94969B">322</font>=
+</td></tr></tbody></table></td></tr><tr><td height=3D"25" bgcolor=3D"#AFAFA=
+F"><table width=3D"89%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><t=
+body><tr><td width=3D"15">=C2=A0</td><td width=3D"150"><font face=3D"Arial"=
+ size=3D"2" color=3D"#FFFFFF">Value</font></td></tr></tbody></table></td><t=
+d bgcolor=3D"#f5f7f8"><table width=3D"92%" border=3D"0" align=3D"center" ce=
+llpadding=3D"0" cellspacing=3D"0"><tbody><tr><td><font face=3D"arial" size=
+=3D"2" color=3D"#94969B">47990.33</font></td></tr></tbody></table></td></tr=
+><tr><td height=3D"25" bgcolor=3D"#AFAFAF"><table width=3D"89%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td width=3D"15">=C2=A0</t=
+d><td width=3D"150"><font face=3D"Arial" size=3D"2" color=3D"#FFFFFF">Curre=
+ncy</font></td></tr></tbody></table></td><td bgcolor=3D"#f5f7f8"><table wid=
+th=3D"92%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0=
+"><tbody><tr><td><font face=3D"arial" size=3D"2" color=3D"#94969B">CLP</fon=
+t></td></tr></tbody></table></td></tr><tr><td height=3D"25" bgcolor=3D"#AFA=
+FAF"><table width=3D"89%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=
+<tbody><tr><td width=3D"15">=C2=A0</td><td width=3D"150"><font face=3D"Aria=
+l" size=3D"2" color=3D"#FFFFFF">Date</font></td></tr></tbody></table></td><=
+td bgcolor=3D"#f5f7f8"><table width=3D"92%" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td><font face=3D"arial" size=
+=3D"2" color=3D"#94969B">2015-05-05 12:04:03</font></td></tr></tbody></tabl=
+e></td></tr><tr><td height=3D"25" bgcolor=3D"#AFAFAF"><table width=3D"89%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr><td width=3D"15=
+">=C2=A0</td><td width=3D"150"><font face=3D"Arial" size=3D"2" color=3D"#FF=
+FFFF">Means of Payment/ Franchise</font></td></tr></tbody></table></td><td =
+bgcolor=3D"#f5f7f8"><table width=3D"92%" border=3D"0" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0"><tbody><tr><td><font face=3D"arial" size=3D=
+"2" color=3D"#94969B">TRANSBANK</font></td></tr></tbody></table></td></tr><=
+/tbody></table></td></tr><tr><td height=3D"30">=C2=A0</td></tr><tr><td><tab=
+le width=3D"100%" border=3D"0" cellspacing=3D"1" cellpadding=3D"0" bgcolor=
+=3D"#17b0b9"><tbody><tr><td><table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"><tbody><tr><td bgcolor=3D"#FFFFFF"><table width=3D=
+"95%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"1"><tb=
+ody><tr><td>=C2=A0</td><td>=C2=A0</td></tr><tr><td width=3D"14%" rowspan=3D=
+"4" valign=3D"top"><img src=3D"http://www.payulatam.com/img-correos-2015/in=
+fo-icon.png" width=3D"56" height=3D"57" alt=3D""></td><td width=3D"86%" hei=
+ght=3D"45" style=3D"font-family:arial;font-size:14px;color:rgb(102,102,102)=
+">If you have any questions or concerns please contact:</td></tr><tr><td he=
+ight=3D"20"><font face=3D"arial" size=3D"2" color=3D"#94969B"><font color=
+=3D"#666666">=E2=9E=A4 Telephone:</font>=C2=A05622321321</font></td></tr><t=
+r><td height=3D"20"><font face=3D"arial" size=3D"2" color=3D"#94969B"><font=
+ color=3D"#666666">=E2=9E=A4 E-mail:</font>=C2=A0<a>VENTAS@CCCCHILE.CL</a><=
+/font></td></tr><tr><td height=3D"20" colspan=3D"2"></td></tr></tbody></tab=
+le></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td>=
+=C2=A0<br><br><br><br></td></tr></tbody></table></td></tr></tbody></table><=
+/div></div>
+<br>
+</blockquote></div><br></div>
+</blockquote>
+</div></div></blockquote></div><br></div>
+
+--089e010d9162f2100f051559eae4--

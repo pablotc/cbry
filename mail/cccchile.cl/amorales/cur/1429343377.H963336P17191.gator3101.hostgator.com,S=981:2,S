@@ -1,0 +1,24 @@
+Return-path: <root@gator3101.hostgator.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Sat, 18 Apr 2015 02:49:37 -0500
+Received: from root by gator3101.hostgator.com with local (Exim 4.82)
+	(envelope-from <root@gator3101.hostgator.com>)
+	id 1YjNVR-0004T9-S7
+	for amorales@cccchile.cl; Sat, 18 Apr 2015 02:49:37 -0500
+To:  amorales@cccchile.cl
+From: "cPanel for gator3101.hostgator.com" <cpanel@gator3101.hostgator.com>
+Subject: Mailbox Size Warning (warn)
+Message-Id: <E1YjNVR-0004T9-S7@gator3101.hostgator.com>
+Date: Sat, 18 Apr 2015 02:49:37 -0500
+
+The mailbox amorales@cccchile.cl is full or very close to full.
+
+This mailbox is currently 88.29% (441.43/500.00 Megs) full.
+
+You can adjust the quota for this mailbox here:
+
+http://support.hostgator.com/articles/specialized-help/email/how-to-adjust-email-quota-in-cpanel
+
+You can also remove some emails from the mailbox to prevent losing any future mail.
+
+!! Do not respond to this message. Your reply will go nowhere. !!

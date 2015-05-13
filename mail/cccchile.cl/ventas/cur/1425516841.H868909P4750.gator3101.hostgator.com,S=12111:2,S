@@ -1,0 +1,180 @@
+Return-path: <itaupersonas@itau.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Wed, 04 Mar 2015 18:54:01 -0600
+Received: from clstgmxgp01.itau.cl ([190.54.36.18]:63811)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <itaupersonas@itau.cl>)
+	id 1YTK37-00019I-3Z
+	for ventas@cccchile.cl; Wed, 04 Mar 2015 18:54:01 -0600
+X-AuditID: c0a80b0c-b7f666d000000eef-88-54f7a921d8d3
+Received: from CLSTGCASP00N2.Itauchile.cl (Unknown_Domain [159.68.124.169])
+	(using TLS with cipher AES128-SHA (AES128-SHA/128 bits))
+	(Client did not present a certificate)
+	by clstgmxgp01.itau.cl (Symantec Messaging Gateway) with SMTP id E9.06.03823.129A7F45; Wed,  4 Mar 2015 21:53:53 -0300 (CLST)
+Received: from clpapp0x2 (10.181.254.10) by CLSTGCASP00N2.Itauchile.cl
+ (159.68.124.169) with Microsoft SMTP Server id 14.3.123.3; Wed, 4 Mar 2015
+ 21:53:52 -0300
+Date: Wed, 4 Mar 2015 21:50:02 -0300
+From: <itaupersonas@itau.cl>
+To: <ventas@cccchile.cl>
+Message-ID: <1218201756.114661425516602812.JavaMail.root@clpapp0x2>
+Subject: Transferencia a Terceros
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_Part_16054_1114915444.1425516602811"
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFrrCKsWRmVeSWpSXmKPExsUy36Vmpa7iyu8hBjcPalusWaDlwOgxdc85
+	tgDGqAZGm8S8vPySxJJUhZTU4mRbpYCizLLE5EolhcwUWyVDJYWCnMTk1NzUvBJbpcSCgtS8
+	FCU7LgUMYANUlpmnkJqXnJ+SmZduq+QZ7K9rYWFqqWuoZBeQWJSokFicml5alFikkANkp6Qm
+	lyamJCrkpCYnPOHJ2PV3BlvBGq+KjSsuMTUw3nDtYuTkkBAwkfh2/zALhC0mceHeerYuRi4O
+	IYH1TBIv3rczQzhLGCUefO5kBKliEVCRuHduFlgHm4CMxIYdf5hAbBEBCYnbDZ+YQWxeAWeJ
+	iWcXgcWFBRQlFs7tY4GIC0qcnPkEzGYWCJd4vbGLFcQWAqppWdzONoGRZxaSsllIyiBsXYkL
+	/6dAxbUlli18zbyAkWUVo3ByTnFJem5FeoGBoV5mSWKpXnLOJkZgnBxYwc2zg7HxqfkhRgEO
+	RiUe3pCi7yFCrIllxZW5hxglOZiURHk3NgKF+JLyUyozEosz4otKc1KLDzFKcDArifA+nA6U
+	401JrKxKLcqHSVkAw2AisxR3cj4w9vNK4o0NDFA4SuK8Yiu+hggJpAPjOzs1tSC1CKZVhoND
+	SYJ3+XKgqYJFqempFWmZOSUIaSYOTpDNPECb14HU8BYXJOYWZ6ZD5E8x6nJ07d0/k0mIJS8/
+	L1VKnHcOSJEASFFGaR7cHFBirP////8rRnGgn4UhRvEAkyrcpFdAS5iAltxS/AKyBJgu4VJS
+	DYwp067/Pc4XsLKt5wDTocO8tzrbvXn0g1SnsC+5/8Mj99HtC4v9KnO05k195/JabPkLr1ot
+	KfdDG9L9/j6cnLa+dkOF98Xcu9bHWWSFPmxIbDrDY7e3b/Gz3aGnNHO6Zu5d6fzs/uYdM40m
+	xZmn9O1nfLX/w67nFW9fn5qj+/ha3j87WYVjm30fKbEUZyQaajEXFScCAC2KqbhnAwAA
+
+------=_Part_16054_1114915444.1425516602811
+Content-Type: text/html; charset="ISO-8859-1"
+content-transfer-encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/htm=
+l; charset=3DUTF-8" http-equiv=3D"Content-Type"/><title>Ita=FA Personas</tit=
+le></head><body bgcolor=3D"#EEEEEE"><table align=3D"center" width=3D"550"><t=
+r><td><table xmlns=3D"" style=3D"background:#F3791F;" width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D"20px"/><td width=
+=3D"40px"><img style=3D"display:block;" alt=3D"Ita=FA" src=3D"data:image/png=
+;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAoCAYAAADpE0oSAAAAGXRFWHRTb2Z0d2FyZQBB=
+ZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tl=
+dCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEg=
+eG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDEx=
+IDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6=
+cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpE=
+ZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hh=
+cC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1s=
+bnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMi=
+IHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06=
+SW5zdGFuY2VJRD0ieG1wLmlpZDo0RkIxNjA3REQxMzYxMUUyOURFMUVDRUI2REIzQ0UwNyIgeG1w=
+TU06RG9jdW1lbnRJRD0ieG1wLmRpZDo0RkIxNjA3RUQxMzYxMUUyOURFMUVDRUI2REIzQ0UwNyI+=
+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjRGQjE2MDdCRDEz=
+NjExRTI5REUxRUNFQjZEQjNDRTA3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjRGQjE2MDdD=
+RDEzNjExRTI5REUxRUNFQjZEQjNDRTA3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+=
+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+agcqgwAACGxJREFUeNrsWHtsVXcd//zO=
++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"/></td>=
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; color=
+:#FFFFFF; font-weight:bold;"/></tr></table><table style=3D"background: #FFFF=
+FF;" align=3D"center" width=3D"550" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"><tr><td><table align=3D"center" width=3D"510" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0"><tr><td style=3D"font-family: Arial, Helvetica,=
+ sans-serif; font-size: 11px; color: #595959; padding: 10px 0 20px 0;" align=
+=3D"right">Mi=E9rcoles 04 de Marzo de 2015,09:50 PM</td></tr><tr><td style=
+=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #383E=
+45; padding-bottom: 20px;">Estimado(a): Sociedad Comercial Reinalter</td></t=
+r><tr><td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12p=
+x; line-height: 20px; color: #383E45; padding-bottom: 20px;">Le informamos q=
+ue con fecha
+													04/03/2015 - 21:50:01, nuestro(a) cliente
+													Maria Liliana Rodriguez Arenas, ha instruido una transferencia=
+ de fondos con el siguiente detalle:</td></tr></table><table style=3D"margin=
+-top: 20px; padding-bottom: 20px;" align=3D"center" width=3D"510" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"><tbody><tr style=3D"color: #595959; f=
+ont-family: Arial, Helvetica, sans-serif; font-size: 12px;"><td colspan=3D"2=
+" style=3D"padding: 10px;padding-top: 10px;font-weight: bold;">Transferencia=
+ de fondos</td></tr><tr style=3D"color: #595959; font-family: Arial, Helveti=
+ca, sans-serif; font-size: 12px;"><td style=3D"padding: 10px;">Banco Destino=
+:</td><td style=3D"padding: 10px;">Banco De Chile</td></tr><tr style=3D"colo=
+r: #595959; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><td=
+ style=3D"padding: 10px;">N=FAmero de Cuenta:</td><td style=3D"padding: 10px=
+;">0161977518</td></tr><tr style=3D"color: #595959; font-family: Arial, Helv=
+etica, sans-serif; font-size: 12px;"><td style=3D"padding: 10px;">Titular de=
+ la Cuenta:</td><td style=3D"padding: 10px;">Sociedad Comercial Reinalter</t=
+d></tr><tr style=3D"color: #595959; font-family: Arial, Helvetica, sans-seri=
+f; font-size: 12px;"><td style=3D"padding: 10px;">RUT:</td><td style=3D"padd=
+ing: 10px;">79.840.460-1</td></tr><tr style=3D"color: #595959; font-family:=
+ Arial, Helvetica, sans-serif; font-size: 14px;"><td style=3D"padding: 10px;=
+font-weight: bold;">Monto:</td><td style=3D"padding: 10px;font-weight: bold;=
+">$22.990</td></tr><tr style=3D"color: #595959; font-family: Arial, Helvetic=
+a, sans-serif; font-size: 12px;"><td colspan=3D"2" style=3D"padding: 10px;pa=
+dding-top: 10px;font-weight: bold;">Nuestro cliente ha dejado el siguiente m=
+ensaje:</td></tr><tr style=3D"color: #595959; font-family: Arial, Helvetica,=
+ sans-serif; font-size: 12px;"><td colspan=3D"2" style=3D"padding: 10px;font=
+-weight: bold;">Pago compra de short talla 32.
+N=FAmero de pedido DYONFDVHV</td></tr></tbody></table><table xmlns=3D"" styl=
+e=3D"background:#FFFFFF;" align=3D"center" width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"10"><tr><td style=3D"color:#595959; font-family:=
+Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; padding:10px=
+ 0 5px 10px; border-top:1px solid #CCCCCC;">Importante</td></tr><tr><td styl=
+e=3D"color:#595959; font-family:Arial, Helvetica, sans-serif; font-size:12px=
+; padding-bottom:30px;">
+					Este e-mail fue generado autom=E1ticamente, por favor no
+					responda este
+					mensaje. Ante cualquier duda, cont=E1ctese con
+					su
+					ejecutivo de cuentas
+					o Help Desk.
+					<span style=3D"font-size:11px;margin-top:12px;display:block;">Inf=F3rme=
+se sobre la garant=EDa estatal de los
+						dep=F3sitos en su banco o en www.sbif.cl</span></td></tr></table><tabl=
+e xmlns=3D"" style=3D"background:#F3791F;" width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0"><tr><td style=3D"background:#F3791F;color:#FF=
+FFFF; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding:10px=
+ 10px 10px 10px;margin:10px 0 0 0; border-top:1px solid #CCCCCC;"><span styl=
+e=3D"float:left; padding-right:200px"><strong>Help Desk</strong><br/>
+						Banco Ita=FA Chile
+					</span><span><strong>Email</strong>
+						: servicioalcliente@itau.cl
+						<br/>
+						(562) 2686 0333
+					</span></td></tr></table></td></tr></table></td></tr></table>Para asegu=
+rar la adecuada lectura en todo tipo de correos electronicos, se han omitido=
+ intencionalmente los signos y acentos diacriticos del idioma castellano. 
+La informacion contenida en este mensaje y cualquier archivo adjunto es conf=
+idencial y no puede ser usada por mas personas que sus destinatarios. El uso=
+ no autorizado de esta informacion puede ser sancionado de conformidad con e=
+l Codigo Penal chileno. Si ha recibido este correo por error, por favor noti=
+fique al remitente respondiendo este mismo mensaje y elimine el mensaje y to=
+dos los archivos adjuntos.
+Internet no puede garantizar la integridad de este mensaje, por lo que el Ba=
+nco no se hace responsable si el contenido del mismo ha sido alterado.
+</body></html>
+------=_Part_16054_1114915444.1425516602811--

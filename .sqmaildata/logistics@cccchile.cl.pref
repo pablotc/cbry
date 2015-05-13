@@ -1,0 +1,11 @@
+show_html_default=0
+hililist=a:0:{}
+index_order=a:7:{i:0;i:0;i:1;i:1;i:2;i:8;i:3;i:4;i:4;i:7;i:5;i:6;i:6;i:3;}
+security_tokens=a:1:{s:12:"v7HElVVu8wTC";i:1418671287;}
+full_name=Nicolás Pizarro
+email_address=logistics@cccchile.cl
+timezone=Etc/GMT-4
+use_signature=1
+pref_0_INBOX=a:5:{i:0;i:14;i:1;i:15;i:2;b:1;i:4;a:7:{i:0;i:0;i:1;i:1;i:2;i:8;i:3;i:4;i:4;i:7;i:5;i:6;i:6;i:3;}i:3;b:0;}
+pref_0_INBOX.Drafts=a:5:{i:0;i:0;i:1;i:15;i:2;b:1;i:4;a:7:{i:0;i:0;i:1;i:9;i:2;i:8;i:3;i:4;i:4;i:7;i:5;i:6;i:6;i:3;}i:3;b:0;}
+pref_0_INBOX.Sent=a:5:{i:0;i:0;i:1;i:15;i:2;b:1;i:4;a:7:{i:0;i:0;i:1;i:9;i:2;i:8;i:3;i:4;i:4;i:7;i:5;i:6;i:6;i:3;}i:3;b:0;}

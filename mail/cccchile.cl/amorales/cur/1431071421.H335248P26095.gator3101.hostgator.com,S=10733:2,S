@@ -1,0 +1,228 @@
+Return-path: <noreply@twoomail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Fri, 08 May 2015 02:50:21 -0500
+Received: from mx32.netlogmail.com ([77.73.183.16]:58928)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <noreply@twoomail.com>)
+	id 1Yqd37-0006iP-3S
+	for amorales@cccchile.cl; Fri, 08 May 2015 02:50:21 -0500
+DKIM-Signature: v=1; a=rsa-sha256; d=twoomail.com; s=twoo; c=relaxed/simple;
+	q=dns/txt; i=@twoomail.com; t=1431071419;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=eWPIbbJP0AZHkj79UISEjT8KyBu2tOd3nOluivWfDGM=;
+	b=me7v8pi98NmRbT+8tk5LpQ6lcC55JOGMYOyqSLOy/X+OJ+etiQ9gtUgfvhpM0JgC
+	ESA9h1AwaCnIu/cH6eVdf8QoXMiX1x3akQwGMwV7hGpwb+Z5vS1WjfDZ+hktLXvL
+	DvJecJ6YQtgYpI7seakAXwSodAeD6iTuK1N7RRnElrY=;
+Received: from [192.168.10.49] ([192.168.10.49:46652] helo=cron049)
+	by mail02 (envelope-from <noreply@twoomail.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ESMTP
+	id E7/4A-41466-BBA6C455; Fri, 08 May 2015 07:50:19 +0000
+From: "=?UTF-8?B?UGVkcm8gYSB0cmF2w6lzIGRlIFR3b28=?=" <noreply@twoomail.com>
+Message-ID: <E7.4A.41466.BBA6C455@mail02>
+To: "amorales@cccchile.cl" <amorales@cccchile.cl>
+Reply-To: "noreply@twoomail.com" <noreply@twoomail.com>
+Sender: noreply@twoomail.com
+Subject: Pedro te ha dejado un mensaje
+List-Unsubscribe: <mailto:unsubscribe+piro4e@unsubscribe.twoo.com?subject=-6aWQ9cGlybzRlLG1taWQ9eXctcGlybzRlLTNsbXhtcGFwLWM0OSxhcHBpZD0yLHQ9MixzPTEsdj0xMix1PSxmPTIwMjA2OTc0MixkPTE0MzEwNzE0MTksbT1w>, <http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9MSZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZ0eXBlaWQlM0QyJTI2c2hvd1JlZ2lzdGVyJTNEMSUyNnNraXBTcGxhc2glM0RtYWlsJnQ9Mg>
+Date: Fri, 08 May 2015 07:50:19 +0000
+X-MM-ID: -6aWQ9cGlybzRlLG1taWQ9eXctcGlybzRlLTNsbXhtcGFwLWM0OSxhcHBpZD0yLHQ9MixzPTEsdj0xMix1PSxmPTIwMjA2OTc0MixkPTE0MzEwNzE0MTksbT1w
+X-rpcampaign: Twoo0020010120
+x-mm-header: LGludml0ZSwsVHdvbywtMSwtMSwyLDEsMTIsTEEsY2wsLCwtMSwyMzEzNTAzOSwxLDIsZXMsLE1BTEUsMCwyMDIwNjk3NDIsMTU0MzE3ODQ2MiwxNDMxMDcxNDE5LHl3LXBpcm80ZS0zbG14bXBhcC1jNDksMCwsMzAsMTQzMTA3MTM0OSww
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="massivemedia_6d0617373369766566d6564969615bd12"
+
+This is a multi-part message in MIME format.
+
+--massivemedia_6d0617373369766566d6564969615bd12
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+ Twoo  
+
+  
+
+ Lee este mensaje en:English ( http://www.twoo.com/m/hKllkB2K ),Français ( http://www.twoo.com/m/l6Froi2d ),العربية‏ ( http://www.twoo.com/m/ZvrSym2v ),Português ( http://www.twoo.com/m/zS93Vh2H ),Română ( http://www.twoo.com/m/suR6ma2I ),yotros 32 idiomas ( http://www.twoo.com/m/1_AH6s2k ). Has recibido este mensaje porque Pedro quiere conectar con amorales@cccchile.cl ( mailto:amorales@cccchile.cl ) en Twoo. Dar de baja ( http://www.twoo.com/m/l2cC4G29 ).     Pedro
+¡Te ha dejado un mensaje para ti!  Comprueba tu mensaje &#10132; ( http://www.twoo.com/m/hKllkB20 ) 
+
+ 
+
+Puedes contestar al instante con nuestro chat.  ¡Diviértete! Equipo Twoo  
+
+ ¿No quieres recibir estos mensajes en el futuro? Haz clic aquí ( http://www.twoo.com/m/l2cC4G29 ).Massive Media Match NV, Emile Braunplein 18, 9000 Ghent, BelgiumBE0537240636.info-es@twoo.com ( mailto:info-es@twoo.com ) 
+--massivemedia_6d0617373369766566d6564969615bd12
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head><title>
+Pedro te ha dejado un mensaje
+</title>
+
+
+<style>
+@media only screen and (max-device-width: 480px) {
+table[class="hide"], img[class="hide"], tr[class="hide"], td[class="hide"] {
+display: none !important;
+}
+}
+</style>
+</head><body topmargin='0' bottommargin='0' align='center' leftmargin='0' rightmargin='0' style='width: 100%;background:#f3f3f3;-webkit-text-size-adjust:none;color: #333333;font-size:16px;font-family:Helvetica Nueue, Helvetica, Arial, sans-serif;margin:0;padding:0; padding-bottom: 20px;'><span style="display:none!important;mso-hide: all;">Pedro te ha dejado un mensaje</span><table cellpadding="0" cellspacing="0" style="width:100%;">
+<tr class="hide">
+<td class="hide">
+<table style="background: #FFFFFF; width:100%;" class="hide">
+<tr>
+<td>
+<table class="outerFrame" align="center" width="640" cellpadding="0" cellspacing="0" style="background: #FFFFFF;">
+<tr>
+<td height="10"></td>
+</tr>
+<tr>
+<td>
+<img src="http://twoo-a.akamaihd.net/static/7156520574362430695506/images/logos/logo-twoo-flat@2x.png" alt="Twoo" style="display: block;" height="23" border="0" width="82" />
+</td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="1" style="background-color: #e6e6e6; width:100%;"></td>
+</tr>
+<tr>
+<td>
+<table class="outerFrame" align="center" width="640" cellpadding="0" cellspacing="0">
+<tr>
+<td height="10"></td>
+</tr>
+</td>
+</tr>
+<tr>
+<td>
+<table class="outerFrame" align="center" width="640" cellpadding="0" cellspacing="0">
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td style="font-size:11px; color:#808080; width: 100%; text-align: center;">
+Lee este mensaje en:
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9MiZ1PSUyRiUzRmxuZyUzRGVuJTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color: #1155cc; font-size: 11px; font-family: Arial;">English</a>,
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9MyZ1PSUyRiUzRmxuZyUzRGZyJTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color: #1155cc; font-size: 11px; font-family: Arial;">Français</a>,
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9NCZ1PSUyRiUzRmxuZyUzRGFyJTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color: #1155cc; font-size: 11px; font-family: Arial;">العربية‏</a>,
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9NSZ1PSUyRiUzRmxuZyUzRHB0JTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color: #1155cc; font-size: 11px; font-family: Arial;">Português</a>,
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9NiZ1PSUyRiUzRmxuZyUzRHJvJTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color: #1155cc; font-size: 11px; font-family: Arial;">Română</a>,
+y
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9NyZ1PSUyRiUzRmVtYWlsJTNEYW1vcmFsZXMlMjU0MGNjY2NoaWxlLmNsJTI2Y29kZSUzRDUyYmYyYTkwNTRmNzhiOGMyZTQ5OWM4YmQ1ZjRjMDc1JTI2aW52aXRlciUzRDMzNjc3MjExOSUyNmFkZENvbm5lY3RNZXNzYWdlJTNEMSZ0PTI" style="color: #1155cc; font-size: 11px; font-family: Arial;">otros 32 idiomas</a>.
+</td>
+</tr>
+<tr>
+<td style="font-size:11px; color:#808080; width: 100%; text-align: center;">
+Has recibido este mensaje porque Pedro quiere conectar con <a href="mailto:amorales@cccchile.cl" style="#1269DD">amorales@cccchile.cl</a> en Twoo. <a  href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9OCZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZ0eXBlaWQlM0QyJTI2c2hvd1JlZ2lzdGVyJTNEMSUyNnNraXBTcGxhc2glM0RtYWlsJnQ9Mg" style="color: #1269DD;">Dar de baja</a>.
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+<tr>
+<td style="background-color: #0092FE; vertical-align: top;padding: 20px;">
+<table cellpadding="0" cellspacing="0" style="color: #FFFFFF; width: 100%; text-align: center;">
+<tr>
+<td height="10">
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<img src="http://twoo02-a.akamaihd.net/t/b286d8f3c502e878e79b69b8e04e63a1_1_6_0_1414_1414_180_180_0000629939.jpg" height="68" width="68" style="border-style:none;max-width:68px;border-radius: 150px;" border="0" />
+</td>
+</tr>
+<tr>
+<td height="10">
+</td>
+</tr>
+<tr>
+<td style="font-size: 24px; text-align: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold;">
+Pedro<br />
+<span style="font-weight: 300;">
+¡Te ha dejado un mensaje para ti!
+</span>
+</td>
+</tr>
+<tr>
+<td height="10">
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<table cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td bgcolor="#5ACF1F" style="background: #5ACF1F; border-bottom: 1px solid #336600;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;">
+<a href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9OSZ1PSUyRiUzRmxuZyUzRGVzJTI2ZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZpbnZpdGVyJTNEMzM2NzcyMTE5JTI2YWRkQ29ubmVjdE1lc3NhZ2UlM0QxJnQ9Mg" style="color:#ffffff;font-size:16px;line-height:20px;text-decoration:none;padding:10px 15px;display:block;font-weight:bold">
+Comprueba tu mensaje &#10132;
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="10">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background: #FFFFFF; border: 1px solid #CCC; padding: 20px; font-size: 14px;">
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+Puedes contestar al instante con nuestro chat.
+</td>
+</tr>
+<tr>
+<td height="20">
+
+</td>
+</tr>
+<tr>
+<td>
+¡Diviértete!
+</td>
+</tr>
+<tr>
+<td>
+<strong>Equipo Twoo</strong>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20">
+
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<span style="font-size: 10px;font-family: arial; color: #888888; font-family: Arial;">
+¿No quieres recibir estos mensajes en el futuro? <a style="color: #1155cc;" href="http://www.twoo.com/mailurl/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5Jmw9OCZ1PSUyRnVuc3Vic2NyaWJlJTJGJTNGZW1haWwlM0RhbW9yYWxlcyUyNTQwY2NjY2hpbGUuY2wlMjZjb2RlJTNENTJiZjJhOTA1NGY3OGI4YzJlNDk5YzhiZDVmNGMwNzUlMjZ0eXBlaWQlM0QyJTI2c2hvd1JlZ2lzdGVyJTNEMSUyNnNraXBTcGxhc2glM0RtYWlsJnQ9Mg">Haz clic aquí</a>.
+<strong>Massive Media Match NV</strong>, Emile Braunplein 18, 9000 Ghent, Belgium
+BE0537240636.
+<a href="mailto:info-es@twoo.com" style="color:#1155cc;">info-es@twoo.com</a>
+</span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<img src="http://www.twoo.com/mailimage/aT15dy1waXJvNGUtM2xteG1wYXAtYzQ5JnQ9Mg.gif" border="0" width="1" height="1" /></body></html>
+--massivemedia_6d0617373369766566d6564969615bd12--
+

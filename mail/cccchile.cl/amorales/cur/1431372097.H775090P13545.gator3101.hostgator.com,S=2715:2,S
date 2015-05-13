@@ -1,0 +1,64 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 11 May 2015 14:21:37 -0500
+Received: from mail-ob0-f176.google.com ([209.85.214.176]:35503)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YrtGj-0003Us-I4
+	for amorales@cccchile.cl; Mon, 11 May 2015 14:21:37 -0500
+Received: by obcus9 with SMTP id us9so78081310obc.2
+        for <amorales@cccchile.cl>; Mon, 11 May 2015 12:21:36 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=aYCKH6s0hjwtan3qKGW4y7vW2xfmb2Tsa/vheXOBbpo=;
+        b=H/h8cRpXhIKmqKTVSFwv3R2Jcqqp4FagIGB8ztmcfISgWMJiHO51WDJZwXHf6IbhEs
+         UrNsZn7VjvAJIf9RRmlaNZ19RROyAfBU3xhHdXhm1J6tL+06/pN68nn0xrWg1pzhZGHU
+         l87xTVcLm84/Cp8H+7MKVXF57UJatg95LEA1Qtq5KdSyE0lJsJxeWh4OgMgQOLYJVF/C
+         332afPsawQUzt+DhKu2wjsppAFedZQqkDaOgWaAVI0q2xRezd35b6kAZSg5+6VhuY9lC
+         wGSGPOJF6eNs2LZvCH3QQ0Qop4FULAgQY3oaxzRqboiplDpjGjq4VDtsQUSQs01I12Cz
+         NH+g==
+X-Gm-Message-State: ALoCoQkRDB8iomTk1JtEtIS7PLNul+3asMjlJo5RoHgwsD3QIwYhiraP/nGkAB9U2x9WHrF0i2Ee
+MIME-Version: 1.0
+X-Received: by 10.60.92.131 with SMTP id cm3mr9091684oeb.23.1431372095846;
+ Mon, 11 May 2015 12:21:35 -0700 (PDT)
+Received: by 10.182.39.138 with HTTP; Mon, 11 May 2015 12:21:35 -0700 (PDT)
+X-Originating-IP: [200.120.38.146]
+Date: Mon, 11 May 2015 15:21:35 -0400
+Message-ID: <CAJbDu1mnGtK0UQNZuWhev5rc22cuJvhzL7p=ReHE7Xc401Hv8w@mail.gmail.com>
+Subject: compra personal HOODY + camiseta Inglaterra
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7b33d8125094790515d349f9
+
+--047d7b33d8125094790515d349f9
+Content-Type: text/plain; charset=UTF-8
+
+Andres,
+
+me pidieron comprar los siguientes productos.
+
+*- classic hoody navy (talla M): precio web: $29.990*
+*- polera inglaterra (talla M): $39.990*
+
+en cuanto puede quedar?
+
+me confirmas pls.
+
+saludos
+VI
+
+--047d7b33d8125094790515d349f9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andres,=C2=A0<div><br></div><div>me pidieron comprar los s=
+iguientes productos.</div><div><br></div><div><b>- classic hoody navy (tall=
+a M): precio web: $29.990</b></div><div><b>- polera inglaterra (talla M): $=
+39.990</b></div><div><br></div><div>en cuanto puede quedar?</div><div><br><=
+/div><div>me confirmas pls.=C2=A0</div><div><br></div><div>saludos</div><di=
+v>VI</div></div>
+
+--047d7b33d8125094790515d349f9--

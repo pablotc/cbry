@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:24:00
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:17:58
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/product-compare.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1990043630548ac2406c3be4-37622591%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:136816126055477f96ead1c8-89834137%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1990043630548ac2406c3be4-37622591',
+  'nocache_hash' => '136816126055477f96ead1c8-89834137',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548ac24073ade4_80783565',
+  'unifunc' => 'content_55477f9701b4b1_40013517',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548ac24073ade4_80783565')) {function content_548ac24073ade4_80783565($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477f9701b4b1_40013517')) {function content_55477f9701b4b1_40013517($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['comparator_max_item']->value){?>
 	<form method="post" action="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('products-comparison'), ENT_QUOTES, 'UTF-8', true);?>
 " class="compare-form">

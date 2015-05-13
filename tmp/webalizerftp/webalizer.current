@@ -1,7 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 01/21/2015 11:39:15
-2015 1 21 11 39 15
-53 53 1 17 0 0 133954 0 0 1
-1 4 33 21 21
+# Webalizer V2.23-05 Incremental Data - 04/15/2015 11:05:54
+2015 4 15 11 5 54
+33 33 3 10 0 0 211965 0 0 1
+1 3 19 8 15
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -9,20 +9,20 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+11 11 168649 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 19 37181 1 0 0
+3 3 6135 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-53 53 133954 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -41,10 +41,10 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-1 1 1918 0
-33 33 66347 0
-15 15 52986 0
-4 4 12703 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+3 3 6135 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
@@ -54,13 +54,13 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-0 0 0 0
-0 0 0 0
+19 19 37181 0
+11 11 168649 0
 0 0 0 0
 0
 0
 0
-53
+33
 0
 0
 0
@@ -99,49 +99,41 @@
 0
 0
 # -urls- 
-/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch-top.tpl
-0 3 39731728 6716 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl
-0 7 39734080 6400 0 0
-/home2/amorales/public_html/modules/blocksearch/blocksearch.tpl
-0 1 0 1899 0 0
-/home2/amorales/public_html/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css
-0 1 39732416 1378 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/category-tree-branch.tpl
-0 1 39733488 1649 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl
-0 13 39732240 27915 0 0
-/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
-0 14 39732608 26065 0 0
-/home2/amorales/public_html/modules/blockcategories/blockcategories.php
-0 1 0 19878 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blocksearch/blocksearch.tpl
-0 1 0 1918 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/category-tree-branch-top.tpl
-0 1 39733680 1718 0 0
-/home2/amorales/public_html/modules/blocksearch/blocksearch-top.tpl
-0 1 0 2374 0 0
-/home2/amorales/public_html/themes/default-bootstrap/modules/blockcategories/blockcategories_top.tpl
-0 1 39733888 2142 0 0
-/home2/amorales/public_html/modules/blockcategories/category-tree-branch.tpl
-0 1 39732992 1674 0 0
-/home2/amorales/public_html/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
-0 4 39734272 22204 0 0
-/home2/amorales/public_html/themes/default-bootstrap/header.tpl
-0 1 0 5254 0 0
-/home2/amorales/public_html/modules/blockcategories/blockcategories.tpl
-0 1 0 1922 0 0
-/home2/amorales/public_html/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
-0 1 39732800 2848 0 0
+/home2/amorales/public_html/modules/dpay/dpay.php
+0 6 0 28485 0 0
+/home2/amorales/public_html/modules/dpay/MyModule.php
+0 1 0 762 0 0
+/home2/amorales/public_html/themes/default-bootstrap/css/product_list.css
+0 3 0 49980 0 0
+/home2/amorales/public_html/modules/dpay/config_es.xml
+0 1 0 531 0 0
+/home2/amorales/public_html/modules/dpay/pago_exito.php
+0 1 0 156 0 0
+/home2/amorales/public_html/modules/dpay/payment.php
+0 10 0 6174 0 0
+/home2/amorales/public_html/modules/dpay/pago_fracaso.php
+0 1 0 137 0 0
+/home2/amorales/public_html/modules/dpay/views/templates/front/payment_execution.tpl
+0 1 0 1379 0 0
+/home2/amorales/public_html/modules/dpay/validation.php
+0 1 0 5692 0 0
+/home2/amorales/public_html/themes/default-bootstrap/product-list.tpl
+0 8 0 118669 0 0
 # End Of Table - urls
 # -sites- (monthly)
-pc-99-102-156-186.cm.vtr.net
-0 53 53 133954 0 0
+pc-224-10-215-201.cm.vtr.net
+0 11 11 168649 0 0
+-
+200.111.215.158
+0 3 3 6135 0 0
+-
+pc-34-122-47-190.cm.vtr.net
+0 19 19 37181 0 0
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-pc-99-102-156-186.cm.vtr.net
-0 53 53 133954 0 0
+200.111.215.158
+0 3 3 6135 0 0
 -
 # End Of Table - sites (daily)
 # -referrers- 
@@ -152,5 +144,5 @@ pc-99-102-156-186.cm.vtr.net
 # End Of Table - search strings
 # -usernames- 
 amorales
-0 53 53 133954 1 0
+0 33 33 211965 1 0
 # End Of Table - usernames

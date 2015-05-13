@@ -1,0 +1,64 @@
+Return-path: <corpbanca@corpbanca.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Mon, 06 Apr 2015 07:22:34 -0500
+Received: from meg.corpbanca.cl ([200.0.163.20]:44183 helo=corporativo.corpgroup.cl)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <corpbanca@corpbanca.cl>)
+	id 1Yf630-0005GK-1a
+	for ventas@cccchile.cl; Mon, 06 Apr 2015 07:22:34 -0500
+Received: from ([200.0.162.133])
+	by MEGPROD2.corporativo.corpgroup.cl with SMTP  id J041222179.16183560;
+	Mon, 06 Apr 2015 09:23:03 -0300
+thread-index: AdBwZFknGRF+BRubSVKPK0tYzpuupQ==
+Thread-Topic: Aviso de Transferencia de Fondos.
+From: "Banco Corpbanca" <Corpbanca@corpbanca.cl>
+To: <ventas@cccchile.cl>
+Subject: Aviso de Transferencia de Fondos.
+Date: Mon, 6 Apr 2015 09:22:28 -0300
+Message-ID: <833151626DF047F2935DA9B49680D79E@IBANK03>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_07F3_01D0704B.33DA0A50"
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_07F3_01D0704B.33DA0A50
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Estimado(a)=20
+Sociedad Comercial Reinalter
+
+Informamos que el d=EDa 06/04/2015 , a las 09:22, nuestro(a) cliente =
+JUAN
+CRISTOBAL CALDERON MUSALEM ha instruido la siguiente transferencia de
+fondos a su cuenta:
+
+Origen: Banco CorpBanca=20
+Destino: CUENTAS CORRIENTES N=B0 161977518 de CHILE EDWARDS
+Monto transferido: $32.990.-
+Motivo: Poleron
+N=FAmero de transacci=F3n: 49756911.
+
+Atentamente,
+Banco CorpBanca.
+
+Importante:
+Este e-mail es generado autom=E1ticamente, no lo responda.
+Para cualquier consulta ll=E1menos directamente al 600 600 86 86.
+
+------=_NextPart_000_07F3_01D0704B.33DA0A50
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Estimado(a) <br>Sociedad Comercial Reinalter<br><br>Informamos que el día 06/04/2015 , a las 09:22, nuestro(a) cliente  JUAN CRISTOBAL CALDERON MUSALEM ha instruido la siguiente transferencia de fondos a su cuenta:<br><br>Origen: Banco CorpBanca <br>Destino: CUENTAS CORRIENTES N° 161977518 de CHILE EDWARDS<br>Monto transferido: $32.990.-<br>Motivo: Poleron<br>Número de transacción: 49756911.<br><br>Atentamente,<br>Banco CorpBanca.<br><br>Importante:<br>Este e-mail es generado automáticamente, no lo responda.<br>Para cualquier consulta llámenos directamente al 600 600 86 86.
+------=_NextPart_000_07F3_01D0704B.33DA0A50--
+

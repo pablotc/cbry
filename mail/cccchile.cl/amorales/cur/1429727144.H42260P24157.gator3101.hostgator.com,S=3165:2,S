@@ -1,0 +1,67 @@
+Return-path: <secreadmin@stjohns.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 22 Apr 2015 13:25:44 -0500
+Received: from mail-ig0-f173.google.com ([209.85.213.173]:38507)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <secreadmin@stjohns.cl>)
+	id 1YkzLD-0006G3-TP
+	for amorales@cccchile.cl; Wed, 22 Apr 2015 13:25:43 -0500
+Received: by igbhj9 with SMTP id hj9so4253000igb.1
+        for <amorales@cccchile.cl>; Wed, 22 Apr 2015 11:25:42 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=DrAKKN6S5s0ziDOriBh2yz7wTE8iyN9KxdVrm5byTdg=;
+        b=UMcljEV3LE3oCLgVtAfy4A8CiRlICIKtIqsD5lkkC8LEvNSCpHJK/ngzoA8FoAwj1x
+         6wKgP8Zc9sWRI5gWa797r3JFUmwUapFN3HHgE5BFJ/Zb4eGoo5sfeuNHABhuSbKs/wLH
+         6iY5wnhdPu0Fih02+7iA2zbmfVa8hGsAmVM8hFCL3KtGf223LW9DBEx6Ms6CXBL5FEwW
+         2MkKmGPrRkh+yF8qy02ys9b5SO/cr8RzG1I0UjbWsMxdy56CdlK04MGXgisvjJdslLbA
+         ZOCC4nOM/Dao5DhZ+pomqqg4DLCcpVPF1Qx2iy+ZSqxEq1fjWwbeY0OyVZJLWJDCnPBV
+         XmIw==
+X-Gm-Message-State: ALoCoQmlMdVOgrDbJ0hvUaUZkCpD1L60G79wFEheoTYTANlxTV794AQ7mo/QnHM2ZYkEbZ/aRJKa
+MIME-Version: 1.0
+X-Received: by 10.42.207.206 with SMTP id fz14mr11364010icb.34.1429727142197;
+ Wed, 22 Apr 2015 11:25:42 -0700 (PDT)
+Received: by 10.36.14.131 with HTTP; Wed, 22 Apr 2015 11:25:42 -0700 (PDT)
+Date: Wed, 22 Apr 2015 14:25:42 -0400
+Message-ID: <CA+XB9JAkjetmuDdTCFP5KBGMuDNDLrOo3KQDjHifazOqVBmK8Q@mail.gmail.com>
+Subject: CONSULTA
+From: Veronica Curivil <secreadmin@stjohns.cl>
+To: amorales@cccchile.cl
+Content-Type: multipart/alternative; boundary=20cf30426df66fce290514544af2
+
+--20cf30426df66fce290514544af2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andres
+Tenemos 1 cheque a nombre de Confecciones de vestuario Spin Ltda.-
+Favor indicar donde depositar ?
+Saludos y en espera de tu respuesta
+
+*Ver=C3=B3nica Curivil*
+*Secretaria Gerencia*
+*41-2466443-109*
+*secreadmin@stjohns.cl* <secreadmin@stjohns.cl>
+
+--20cf30426df66fce290514544af2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andres<div>Tenemos 1 cheque a nombre de Confecciones de ve=
+stuario Spin Ltda.-</div><div>Favor indicar donde depositar ?</div><div>Sal=
+udos y en espera de tu respuesta<br><div class=3D"gmail_signature"><div dir=
+=3D"ltr"><img src=3D"http://www.absch.cl/upload/colegios/11.jpg" width=3D"9=
+6" height=3D"96"><br><div><b><i><font color=3D"#134f5c" face=3D"arial, helv=
+etica, sans-serif">Ver=C3=B3nica Curivil</font></i></b></div><div><b><i><fo=
+nt color=3D"#134f5c" face=3D"arial, helvetica, sans-serif">Secretaria Geren=
+cia</font></i></b></div><div><b><i><font color=3D"#134f5c" face=3D"arial, h=
+elvetica, sans-serif">41-2466443-109</font></i></b></div><div><a href=3D"ma=
+ilto:secreadmin@stjohns.cl" target=3D"_blank"><b><i><font color=3D"#134f5c"=
+ face=3D"arial, helvetica, sans-serif">secreadmin@stjohns.cl</font></i></b>=
+</a></div></div></div>
+</div></div>
+
+--20cf30426df66fce290514544af2--

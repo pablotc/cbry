@@ -1,0 +1,1195 @@
+Return-path: <gabrielchomali@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 10 Feb 2015 11:00:37 -0600
+Received: from nm44-vm6.bullet.mail.bf1.yahoo.com ([216.109.115.30]:33228)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabrielchomali@yahoo.com>)
+	id 1YLEAv-0000G6-En
+	for amorales@cccchile.cl; Tue, 10 Feb 2015 11:00:37 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1423587635; bh=Nn3GeiPttNhwAF7Q3/bZnj8TNGr1JO+ZPoThezy3mXA=; h=Date:From:Reply-To:To:In-Reply-To:References:Subject:From:Subject; b=KWD90hGoxz0alNarL8JHO8r+613XuknchTqaPqxoDYGV1UhcDT/OOQH7+ZxlHxgATMRVvZoPIV/btwerGzyigAGoMxhnxecW2MuIOar87rgggQ4IV0u4/3DsjVo0Rme0AwwpK7+PHwsRk3oFDiv3jywCT7BWZZ9it/nt4q2qnQVIWgsr0F56VLWTaOWw6Xnz1N0KRGG1lD+2vQpIZcV1HxZMmAphPPpDrXe9vHlLwjLTyGgjCOXnbPwjgP5TAIxL7oukChlvkO3s0QIPPlvd4jUcUBhIDikwwyNbjaCtgtm6izi7CojX2vDFwf40Iy+OpgjovgIZtNtYrXy/KCkv/A==
+Received: from [66.196.81.174] by nm44.bullet.mail.bf1.yahoo.com with NNFMP; 10 Feb 2015 17:00:35 -0000
+Received: from [98.139.212.240] by tm20.bullet.mail.bf1.yahoo.com with NNFMP; 10 Feb 2015 17:00:35 -0000
+Received: from [127.0.0.1] by omp1049.mail.bf1.yahoo.com with NNFMP; 10 Feb 2015 17:00:35 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 400529.5455.bm@omp1049.mail.bf1.yahoo.com
+X-YMail-OSG: zbhU31YVM1luKbtO9m_3ZJ.9Ut1KFXBlnu9WT65ZjE0jKgv3XH_x1CAFZRSCnL9
+ jW5YxY3j7LuosgvKAmhb1gqFiOSscLcB_PK53l52HLy5rcTMEiKlLvGiVKhL0RoyRo6faBHiviG5
+ UW0WS7iKU0mttrY25Bxn.6LIL15JVGTDKgmvFHc34M.GgC8fnpI.N00hHPhvWlIO2FB08caQ9B2l
+ _PsoNrbfIGDG6sB_vQK17IY9fEfRQTOc7U267ef8H.uDcUAoPwkQeXL.VV02zURWfMbQeJEkzdQR
+ o.nltg6_iaMD9X_gH_7oYnNdL7260l_eAavYrusTUqkqMXg4amWp528XPcYaoN24mfgt4MwdcHmb
+ dWJRdYVttM8VhWNtAIXXkBZx7WOpCojVsToIY.PWkMm5.Bvc_yB0vMl49bBgl7Edxqf4pE6sVmPI
+ YxEhE_H4jmKs8uX_3umOJsif7g.5XpeolQnPsJeOLqeYCNiUvrYJ3hCYKTTapV4k8hoJpuutCm0_
+ L6rqMiHto4UwWTCWZkmkD1qdhVCpOL4IuS0W4iHFX8oMrtBB3P.IaESAmPf0PHSmMYhd3.wyXa2J
+ 6LEQ3gj8hbxuVWZnHx2_5CKqEzNatrT4qR4zavwD3oQex_wKSNuqBqJD5_OMeeJ7eUUFGiQTu29S
+ YxGfZY5wJI1HiL1SFMj4-
+Received: by 76.13.26.71; Tue, 10 Feb 2015 17:00:34 +0000 
+Date: Tue, 10 Feb 2015 17:00:33 +0000 (UTC)
+From: Gabriel Chomali <gabrielchomali@yahoo.com>
+Reply-To: Gabriel Chomali <gabrielchomali@yahoo.com>
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>, 
+	=?UTF-8?Q?Andr=C3=A9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>
+Message-ID: <1796849354.2626783.1423587633502.JavaMail.yahoo@mail.yahoo.com>
+In-Reply-To: <50A0FA980D0CA64EBE525618E1A7B5A0AD6CD6@CLSTGEXCP00N1.Itauchile.cl>
+References: <50A0FA980D0CA64EBE525618E1A7B5A0AD6CD6@CLSTGEXCP00N1.Itauchile.cl>
+Subject: =?UTF-8?Q?Re:_Acuerdos_Reuni=C3=B3n?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2626782_594828931.1423587633290"
+Content-Length: 48439
+
+------=_Part_2626782_594828931.1423587633290
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Jueves para mi ideal.HAy que pensar en el nombre de la tienda
+
+      From: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+ To: Gabriel Chomali <gabrielchomali@yahoo.com>; Andr=C3=A9s Morales (CCC-C=
+HILE) <amorales@cccchile.cl>=20
+ Sent: Tuesday, February 10, 2015 12:37 PM
+ Subject: RE: Acuerdos Reuni=C3=B3n
+  =20
+#yiv8368376154 #yiv8368376154 -- _filtered #yiv8368376154 {font-family:Helv=
+etica;panose-1:2 11 6 4 2 2 2 2 2 4;} _filtered #yiv8368376154 {panose-1:2 =
+4 5 3 5 4 6 3 2 4;} _filtered #yiv8368376154 {font-family:Calibri;panose-1:=
+2 15 5 2 2 2 4 3 2 4;} _filtered #yiv8368376154 {font-family:Tahoma;panose-=
+1:2 11 6 4 3 5 4 4 2 4;} _filtered #yiv8368376154 {font-family:Verdana;pano=
+se-1:2 11 6 4 3 5 4 4 2 4;}#yiv8368376154 #yiv8368376154 p.yiv8368376154Mso=
+Normal, #yiv8368376154 li.yiv8368376154MsoNormal, #yiv8368376154 div.yiv836=
+8376154MsoNormal {margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;}#yiv83=
+68376154 a:link, #yiv8368376154 span.yiv8368376154MsoHyperlink {color:blue;=
+text-decoration:underline;}#yiv8368376154 a:visited, #yiv8368376154 span.yi=
+v8368376154MsoHyperlinkFollowed {color:purple;text-decoration:underline;}#y=
+iv8368376154 p.yiv8368376154MsoAcetate, #yiv8368376154 li.yiv8368376154MsoA=
+cetate, #yiv8368376154 div.yiv8368376154MsoAcetate {margin:0cm;margin-botto=
+m:.0001pt;font-size:8.0pt;}#yiv8368376154 span.yiv8368376154TextodegloboCar=
+ {}#yiv8368376154 span.yiv8368376154EstiloCorreo19 {color:#1F497D;}#yiv8368=
+376154 .yiv8368376154MsoChpDefault {font-size:10.0pt;} _filtered #yiv836837=
+6154 {margin:70.85pt 3.0cm 70.85pt 3.0cm;}#yiv8368376154 div.yiv8368376154W=
+ordSection1 {}#yiv8368376154 Nos juntamos jueves o viernes a la hora de alm=
+uerzo =C2=BF? Tenemos 2 meses de arriendo y gastos comunes de enero que deb=
+emos pagar Tengo una idea de pago conjunto 50 % la tienda 50 % CCC , les pa=
+rece u otro sistema =C2=BF??  =C2=A0 Rodrigo R=C3=ADos Prado
+Agente, Sucursal Pedro de Valdivia
+Banco Ita=C3=BA Chile
+Pedro de Valdivia N=C2=B03558
+=C3=91u=C3=B1oa, Santiago
+Rodrigo.Rios@itau.cl
+Fono :+5626854681=20
+
+BackUp:
+Andres.Rivera@itau.cl Fono :+5626854688  =C2=A0=20
+
+De: Gabriel Chomali [mailto:gabrielchomali@yahoo.com]
+Enviado el: viernes, 06 de febrero de 2015 20:13
+Para: Andr=C3=A9s Morales (CCC-CHILE)
+CC: Rios Prado, Rodrigo
+Asunto: Re: Acuerdos Reuni=C3=B3n  =C2=A0 Ah=C3=AD va  =C2=A0 From: Andr=C3=
+=A9s Morales (CCC-CHILE) <amorales@cccchile.cl>
+To: Gabriel Chomali <gabrielchomali@yahoo.com>
+Cc: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+Sent: Friday, February 6, 2015 1:54 PM
+Subject: Re: Acuerdos Reuni=C3=B3n  =C2=A0 Gabriel, se lo pud de es reenvia=
+r a rodrigo?  =C2=A0 Sls
+
+El viernes, 6 de febrero de 2015, Gabriel Chomali <gabrielchomali@yahoo.com=
+> escribi=C3=B3:  =C2=A0=20
+
+| Excelente.. con esos datos me muevo. disfruta vacaciones. Gabriel Enviado=
+ desde Yahoo Mail para Android=20
+| De:"Andr=C3=A9s Morales (CCC-CHILE)" <amorales@cccchile.cl>
+Fecha:vie 6 6e feb 6e 2015 a las 12:08 PM
+Asunto:Re: Acuerdos Reuni=C3=B3n Hola Gabriel, Si, lo del.domingo hay que c=
+onsiderarlo y lo del sabado tambien. Para mi la idea es tener el maximo pos=
+ible de productos para la venta, no significa que feben estar todos exhibid=
+os, se pude optimizar en colores y modelos.  =C2=A0 Lo de adidas esta perfe=
+cto, solo que hay que cuidar los espacios, ya qur no es muy grande wl locla=
+.  =C2=A0 Hablemos a la vuelta.=C2=A0
+
+El viernes, 6 de febrero de 2015, Gabriel Chomali <gabrielchomali@yahoo.com=
+> escribi=C3=B3:=20
+Andr=C3=A9s, He revisado un poco la informaci=C3=B3n que enviaste y en el f=
+lujo, que est=C3=A1 muy bueno, har=C3=A9 el cambio de en vez de 30 d=C3=ADa=
+s de funcionamiento bajarlo a 26 o abriremos los domingos? (hay que convers=
+arlo ya que afectar=C3=ADa directamente el gasto en RRHH, de hecho hay que =
+ver si el s=C3=A1bado se abre completo o medio d=C3=ADa... no s=C3=A9 si ha=
+y que seguir reglas en el centro comercial donde estar=C3=A1 la tienda. Lo =
+anterior, solo sube unpoco la cantidad de prendas a vender. Pregunta... el =
+listado de productos a vender son TODOS los que enviaste? o no tendremos to=
+dos esos? Lo anterior para dimensionar espacio y presentadores del material=
+, adem=C3=A1s de dejar un par de espacios para las poleras de otras marcas.=
+ A tu vuelta, d=C3=A9mosle prioridad tambi=C3=A9n a la conversaci=C3=B3n co=
+n Adidas y alguna otra marca, capaz que quieran tener un espacio peque=C3=
+=B1o pero con publicidad e imagen de ellos. Quedo a la espera de tu respues=
+ta sobre los productos para ponerme de acuerdo con la arquitecta. GAbriel  =
+=C2=A0  =C2=A0 From: Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchile.cl>
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+Cc: Gabriel Chomali <gabrielchomali@yahoo.com>
+Sent: Thursday, February 5, 2015 5:52 PM
+Subject: Re: Acuerdos Reuni=C3=B3n  =C2=A0 Hola!  =C2=A0 Miles de disculpas=
+ por la demora. Adjunto peque=C3=B1o fujo de lo que puede ser la tienda. La=
+ verdad es que realmente nose cuanto se puede llegar a vender, pero si mues=
+tra cuento se necesita vender para no perder plata.  =C2=A0 Clave es el cos=
+to del local y que comienze a vender apenas se abra.=C2=A0  =C2=A0 En cuant=
+o a los productos que se peuden ofrecer, Adjunto productos de rugby puro de=
+ juego y ropa mas de moda. Una peque=C3=B1a gondola con sus medidas y fotos=
+ de referncia de otras tiendas en el mundo.  =C2=A0 Lamento decirles que me=
+ tome una semana de vacaciones, vuelvo el proximo miercoles en la ma=C3=B1a=
+na. =C2=A0porfa no nos frenemos, sigamos adelante!  =C2=A0 sls.  =C2=A0  =
+=C2=A0  =C2=A0  =C2=A0 El 3 de febrero de 2015, 16:11, Rios Prado, Rodrigo =
+<Rodrigo.Rios@itau.cl> escribi=C3=B3:
+
+ Perfecto =C2=A0 Rodrigo R=C3=ADos Prado
+Agente, Sucursal Pedro de Valdivia
+Banco Ita=C3=BA Chile
+Pedro de Valdivia N=C2=B03558
+=C3=91u=C3=B1oa, Santiago
+Rodrigo.Rios@itau.cl
+Fono :+5626854681=20
+
+BackUp:=20
+Andres.Rivera@itau.cl Fono :+5626854688 =C2=A0 De: Gabriel Chomali [mailto:=
+gabrielchomali@yahoo.com]=20
+Enviado el: martes, 03 de febrero de 2015 15:16
+Para: Andr=C3=A9s Morales (CCC-CHILE)
+CC: Rios Prado, Rodrigo
+Asunto: Re: Acuerdos Reuni=C3=B3n =C2=A0 Estimados, C=C3=B3mo no nos hemos =
+enviado toda la informaci=C3=B3n... les parece nos juntemos este viernes a =
+las 14:00 en irarrazaval? =C2=A0 From: Andr=C3=A9s Morales (CCC-CHILE) <amo=
+rales@cccchile.cl>
+To: Gabriel Chomali <gabrielchomali@yahoo.com>
+Cc: Rodrigo Rios Prado <rodrigo.rios@itau.cl>
+Sent: Saturday, January 31, 2015 1:41 AM
+Subject: Re: Acuerdos Reuni=C3=B3n =C2=A0 Hola!=C2=A0 La.info.mia la mando =
+dentro del finde o el.lunes a mas tardar. =C2=A0 Sls =C2=A0=20
+El viernes, 30 de enero de 2015, Gabriel Chomali <gabrielchomali@yahoo.com>=
+ escribi=C3=B3: Fue un placer recibirlos y espero lo hagamos amenudo. Respe=
+cto de las fechas.... estas acciones son todas urgentes y no pueden esperar=
+. Pero podr=C3=ADamoa partir de la siguiente manera: =C2=A0 1.- RR: Enviar =
+datos personales y objeto de la empresa (Viernes 30 En) 2.- GCH: Crear soci=
+edad administradora de tiendas (Una semana de recibido los datos) 3.- RR: S=
+acar copia llaves para que podamos ir a visitar el local con los arquitecto=
+s (Viernes 30 En) 4- AM: Enviar informaci=C3=B3n de los productos a vender =
+con sus precios. (Viernes 30 En) 5.- AM: Enviar informaci=C3=B3n sobre loca=
+les de Canterburry para dar ideas a los Arquitectos (Viernes 30 En) 6.- AM:=
+ Hacer flujo inicial con ideas sobre ventas de los productos de acuerdo a e=
+xperiencia (Mi=C3=A9rcoles 4 Fb) 7.- Todos: Cotizar con Arquitectos por dis=
+e=C3=B1o de tienda (ASAP.... yo espero datos de tienda para ir.. arquitecto=
+ esperando) 8.- Todos: Pensar en nombre Tienda (Pr=C3=B3xima reuni=C3=B3n s=
+e cierra nombre) 9.- Todos: Una vez recibido flujo, mejorarlo con comentari=
+os (Una semana de recibido el flujo) =C2=A0 Pr=C3=B3xima reuni=C3=B3n... le=
+s parece el pr=C3=B3ximo mi=C3=A9rcoles a las 14:00 cerca de RR? =C2=A0 Gab=
+riel =C2=A0 Hola Gabriel, =C2=A0 Gracias por recibirnos y muchas gracias po=
+r la atenci=C3=B3n! =C2=A0 Podr=C3=A1s poner una fecha al lado de cada tare=
+a? intentemos respetarla para que veamos avances pronto. =C2=A0 Cuando es l=
+a pr=C3=B3xima junta? que objetivos va a tener? =C2=A0 Un abrazo! =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 El 29 de enero de 2015, 9:30, Gabriel Chomali <gabriel=
+chomali@yahoo.com> escribi=C3=B3: Estimados amigos, Entretenida y productiv=
+a reuni=C3=B3n ayer... esperemos sea el inicio de a=C3=B1os de pasarla bien=
+ y buenos negocios. =C2=A0 Entre los acuerdos de ayer y en los cuales debem=
+os trabajar ya son: =C2=A0 1.- RR: Enviar datos personales y objeto de la e=
+mpresa 2.- GCH: Crear sociedad administradora de tiendas 3.- RR: Sacar copi=
+a llaves para que podamos ir a visitar el local con los arquitectos 4- AM: =
+Enviar informaci=C3=B3n de los productos a vender con sus precios. 5.- AM: =
+Enviar informaci=C3=B3n sobre locales de Canterburry para dar ideas a los A=
+rquitectos 6.- AM: Hacer flujo inicial con ideas sobre ventas de los produc=
+tos de acuerdo a experiencia 7.- Todos: Cotizar con Arquitectos por dise=C3=
+=B1o de tienda 8.- Todos: Pensar en nombre Tienda 9.- Todos: Una vez recibi=
+do flujo, mejorarlo con comentarios =C2=A0 Favor, si se me olvida algo agre=
+garlo. =C2=A0 Gabriel =C2=A0 =C2=A0 =C2=A0 =C2=A0 Para asegurar la adecuada=
+ lectura en todo tipo de correos electronicos, se han omitido intencionalme=
+nte los signos y acentos diacriticos del idioma castellano. La informacion =
+contenida en este mensaje y cualquier archivo adjunto es confidencial y no =
+puede ser usada por mas personas que sus destinatarios. El uso no autorizad=
+o de esta informacion puede ser sancionado de conformidad con el Codigo Pen=
+al chileno. Si ha recibido este correo por error, por favor notifique al re=
+mitente respondiendo este mismo mensaje y elimine el mensaje y todos los ar=
+chivos adjuntos. Internet no puede garantizar la integridad de este mensaje=
+, por lo que el Banco no se hace responsable si el contenido del mismo ha s=
+ido alterado.   =C2=A0=20
+ |
+
+ |
+
+
+ =C2=A0 Para asegurar la adecuada lectura en todo tipo de correos electroni=
+cos, se han omitido intencionalmente los signos y acentos diacriticos del i=
+dioma castellano. La informacion contenida en este mensaje y cualquier arch=
+ivo adjunto es confidencial y no puede ser usada por mas personas que sus d=
+estinatarios. El uso no autorizado de esta informacion puede ser sancionado=
+ de conformidad con el Codigo Penal chileno. Si ha recibido este correo por=
+ error, por favor notifique al remitente respondiendo este mismo mensaje y =
+elimine el mensaje y todos los archivos adjuntos.Internet no puede garantiz=
+ar la integridad de este mensaje, por lo que el Banco no se hace responsabl=
+e si el contenido del mismo ha sido alterado.
+
+  
+------=_Part_2626782_594828931.1423587633290
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:16px"><div>Jueves para mi ideal.</di=
+v><div dir=3D"ltr">HAy que pensar en el nombre de la tienda<br></div><div><=
+span></span></div><br>  <div id=3D"yui_3_16_0_1_1423145256811_124501" style=
+=3D"font-family: verdana, helvetica, sans-serif; font-size: 16px;"> <div id=
+=3D"yui_3_16_0_1_1423145256811_124500" style=3D"font-family: HelveticaNeue,=
+ Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-size: 16=
+px;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"Arial"> <=
+b><span style=3D"font-weight:bold;">From:</span></b> "Rios Prado, Rodrigo" =
+&lt;Rodrigo.Rios@itau.cl&gt;<br> <b><span style=3D"font-weight: bold;">To:<=
+/span></b> Gabriel Chomali &lt;gabrielchomali@yahoo.com&gt;; Andr=C3=A9s Mo=
+rales (CCC-CHILE) &lt;amorales@cccchile.cl&gt; <br> <b><span style=3D"font-=
+weight: bold;">Sent:</span></b> Tuesday, February 10, 2015 12:37 PM<br> <b>=
+<span style=3D"font-weight: bold;">Subject:</span></b> RE: Acuerdos Reuni=
+=C3=B3n<br> </font> </div> <div id=3D"yui_3_16_0_1_1423145256811_124499" cl=
+ass=3D"y_msg_container"><br><div id=3D"yiv8368376154"><style>#yiv8368376154=
+ #yiv8368376154 --
+=20
+ _filtered #yiv8368376154 {font-family:Helvetica;panose-1:2 11 6 4 2 2 2 2 =
+2 4;}
+ _filtered #yiv8368376154 {panose-1:2 4 5 3 5 4 6 3 2 4;}
+ _filtered #yiv8368376154 {font-family:Calibri;panose-1:2 15 5 2 2 2 4 3 2 =
+4;}
+ _filtered #yiv8368376154 {font-family:Tahoma;panose-1:2 11 6 4 3 5 4 4 2 4=
+;}
+ _filtered #yiv8368376154 {font-family:Verdana;panose-1:2 11 6 4 3 5 4 4 2 =
+4;}
+#yiv8368376154 =20
+#yiv8368376154 p.yiv8368376154MsoNormal, #yiv8368376154 li.yiv8368376154Mso=
+Normal, #yiv8368376154 div.yiv8368376154MsoNormal
+=09{margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;}
+#yiv8368376154 a:link, #yiv8368376154 span.yiv8368376154MsoHyperlink
+=09{color:blue;text-decoration:underline;}
+#yiv8368376154 a:visited, #yiv8368376154 span.yiv8368376154MsoHyperlinkFoll=
+owed
+=09{color:purple;text-decoration:underline;}
+#yiv8368376154 p.yiv8368376154MsoAcetate, #yiv8368376154 li.yiv8368376154Ms=
+oAcetate, #yiv8368376154 div.yiv8368376154MsoAcetate
+=09{margin:0cm;margin-bottom:.0001pt;font-size:8.0pt;}
+#yiv8368376154 span.yiv8368376154TextodegloboCar
+=09{}
+#yiv8368376154 span.yiv8368376154EstiloCorreo19
+=09{color:#1F497D;}
+#yiv8368376154 .yiv8368376154MsoChpDefault
+=09{font-size:10.0pt;}
+ _filtered #yiv8368376154 {margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+#yiv8368376154 div.yiv8368376154WordSection1
+=09{}
+#yiv8368376154 </style><div id=3D"yui_3_16_0_1_1423145256811_124498">
+<div id=3D"yui_3_16_0_1_1423145256811_124497" class=3D"yiv8368376154WordSec=
+tion1">
+<div class=3D"yiv8368376154MsoNormal"><span style=3D"font-size:11.0pt;">Nos=
+ juntamos jueves o viernes a la hora de almuerzo =C2=BF?</span></div>=20
+<div class=3D"yiv8368376154MsoNormal"><span style=3D"font-size:11.0pt;">Ten=
+emos 2 meses de arriendo y gastos comunes de enero que debemos pagar
+</span></div>=20
+<div class=3D"yiv8368376154MsoNormal"><span style=3D"font-size:11.0pt;">Ten=
+go una idea de pago conjunto 50 % la tienda 50 % CCC , les parece u otro si=
+stema =C2=BF??</span></div>=20
+<div class=3D"yiv8368376154MsoNormal"><span style=3D"font-size:11.0pt;"> &n=
+bsp;</span></div>=20
+<div id=3D"yui_3_16_0_1_1423145256811_124496">
+<div id=3D"yui_3_16_0_1_1423145256811_124495" class=3D"yiv8368376154MsoNorm=
+al"><b><span style=3D"font-size:11.0pt;">Rodrigo R=C3=ADos Prado</span></b>=
+<span style=3D"font-size:11.0pt;"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+</span><b><u><span style=3D"font-size:11.0pt;">Rodrigo.Rios@itau.cl</span><=
+/u></b><span style=3D"font-size:11.0pt;"><br clear=3D"none">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+</span><span style=3D"font-size:11.0pt;">BackUp:
+<br clear=3D"none">
+<u>Andres.Rivera<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:rodrig=
+o.paredes@itau.cl" target=3D"_blank" href=3D"mailto:rodrigo.paredes@itau.cl=
+"><span style=3D"color:#7F7F7F;">@itau.cl</span></a></u></span></div>=20
+<div id=3D"yui_3_16_0_1_1423145256811_124571" class=3D"yiv8368376154MsoNorm=
+al"><span style=3D"font-size:11.0pt;">Fono :+5626854688</span><span style=
+=3D"font-size:11.0pt;"></span></div>=20
+</div>
+<div id=3D"yui_3_16_0_1_1423145256811_124572" class=3D"yiv8368376154MsoNorm=
+al"><span style=3D"font-size:11.0pt;"> &nbsp;</span></div>=20
+<div class=3D"qtdSeparateBR"><br><br></div><div class=3D"yiv8368376154yqt23=
+85772187" id=3D"yiv8368376154yqt90582"><div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm;">
+<div class=3D"yiv8368376154MsoNormal"><b><span style=3D"font-size:10.0pt;" =
+lang=3D"ES">De:</span></b><span style=3D"font-size:10.0pt;" lang=3D"ES"> Ga=
+briel Chomali [mailto:gabrielchomali@yahoo.com]
+<br clear=3D"none">
+<b>Enviado el:</b> viernes, 06 de febrero de 2015 20:13<br clear=3D"none">
+<b>Para:</b> Andr=C3=A9s Morales (CCC-CHILE)<br clear=3D"none">
+<b>CC:</b> Rios Prado, Rodrigo<br clear=3D"none">
+<b>Asunto:</b> Re: Acuerdos Reuni=C3=B3n</span></div>=20
+</div>
+</div>
+<div class=3D"yiv8368376154MsoNormal"> &nbsp;</div>=20
+<div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63115">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Ah=C3=AD va</span></div>=20
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63118">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63117">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63116">
+<div class=3D"yiv8368376154MsoNormal" style=3D"text-align:center;background=
+:white;" align=3D"center">
+<span style=3D"">
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><b><span =
+style=3D"font-size:10.0pt;">From:</span></b><span style=3D"font-size:10.0pt=
+;"> Andr=C3=A9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D"rect" =
+ymailto=3D"mailto:amorales@cccchile.cl" target=3D"_blank" href=3D"mailto:am=
+orales@cccchile.cl">amorales@cccchile.cl</a>&gt;<br clear=3D"none">
+<b>To:</b> Gabriel Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=
+=3D"mailto:gabrielchomali@yahoo.com" target=3D"_blank" href=3D"mailto:gabri=
+elchomali@yahoo.com">gabrielchomali@yahoo.com</a>&gt;
+<br clear=3D"none">
+<b>Cc:</b> "Rios Prado, Rodrigo" &lt;<a rel=3D"nofollow" shape=3D"rect" yma=
+ilto=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank" href=3D"mailto:Rodri=
+go.Rios@itau.cl">Rodrigo.Rios@itau.cl</a>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Friday, February 6, 2015 1:54 PM<br clear=3D"none">
+<b>Subject:</b> Re: Acuerdos Reuni=C3=B3n</span><span style=3D""></span></d=
+iv>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63120">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+<div id=3D"yiv8368376154">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63121">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Gabriel, se lo pud de es reenviar a rodrigo?</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63122">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63123">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Sls<br clear=3D"none">
+<br clear=3D"none">
+El viernes, 6 de febrero de 2015, Gabriel Chomali &lt;<a rel=3D"nofollow" s=
+hape=3D"rect" ymailto=3D"mailto:gabrielchomali@yahoo.com" target=3D"_blank"=
+ href=3D"mailto:gabrielchomali@yahoo.com">gabrielchomali@yahoo.com</a>&gt; =
+escribi=C3=B3:</span></div>=20
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span style=3D""> &nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yqt06928">
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0c=
+m 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm;">
+<table class=3D"yiv8368376154MsoNormalTable" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0"><tbody><tr><td colspan=3D"1" rowspan=3D"1" style=3D"padd=
+ing:0cm 0cm 0cm 0cm;" valign=3D"top">
+<div class=3D"yiv8368376154MsoNormal">Excelente.. con esos datos me muevo.<=
+/div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63129">
+<div class=3D"yiv8368376154MsoNormal">disfruta vacaciones.</div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63130">
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;">Gabri=
+el</div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63132">
+<div class=3D"yiv8368376154MsoNormal"><a rel=3D"nofollow" shape=3D"rect" ta=
+rget=3D"_blank" href=3D"https://overview.mail.yahoo.com/mobile/?.src=3DAndr=
+oid">Enviado desde Yahoo Mail para Android</a></div>=20
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"text-align:center;" align=3D=
+"center">
+<hr id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63133" align=3D"center" s=
+ize=3D"2" width=3D"100%">
+</div>
+<table class=3D"yiv8368376154MsoNormalTable" id=3D"yiv8368376154yui_3_16_0_=
+1_1423145256811_63138" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tb=
+ody><tr id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63136"><td colspan=3D=
+"1" rowspan=3D"1" id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63135" styl=
+e=3D"padding:0cm 0cm 0cm 0cm;" valign=3D"top">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63134">
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;"><b><s=
+pan style=3D"">De</span></b><span style=3D"">:"Andr=C3=A9s Morales (CCC-CHI=
+LE)" &lt;<span class=3D"yiv8368376154MsoHyperlink">amorales@cccchile.cl</sp=
+an>&gt;<br clear=3D"none">
+<b>Fecha</b>:vie 6 6e feb 6e 2015 a las 12:08 PM<br clear=3D"none">
+<b>Asunto</b>:Re: Acuerdos Reuni=C3=B3n</span></div>=20
+</div>
+<div class=3D"yiv8368376154MsoNormal">Hola Gabriel,</div>=20
+<div>
+<div class=3D"yiv8368376154MsoNormal">Si, lo del.domingo hay que considerar=
+lo y lo del sabado tambien.</div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal">Para mi la idea es tener el maximo po=
+sible de productos para la venta, no significa que feben estar todos exhibi=
+dos, se pude optimizar en colores y modelos.</div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal"> &nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal">Lo de adidas esta perfecto, solo que =
+hay que cuidar los espacios, ya qur no es muy grande wl locla.</div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63274">
+<div class=3D"yiv8368376154MsoNormal"> &nbsp;</div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63249">
+<div class=3D"yiv8368376154MsoNormal">Hablemos a la vuelta.&nbsp;<br clear=
+=3D"none">
+<br clear=3D"none">
+El viernes, 6 de febrero de 2015, Gabriel Chomali &lt;<span class=3D"yiv836=
+8376154MsoHyperlink">gabrielchomali@yahoo.com</span>&gt; escribi=C3=B3:</di=
+v>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63248">
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0c=
+m 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm;">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63246">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63245">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Andr=C3=A9s,</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63273">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">He revisado un poco la informaci=C3=B3n que enviaste y en el flujo,=
+ que est=C3=A1 muy bueno, har=C3=A9 el cambio de en vez de 30 d=C3=ADas de =
+funcionamiento bajarlo a 26
+ o abriremos los domingos? (hay que conversarlo ya que afectar=C3=ADa direc=
+tamente el gasto en RRHH, de hecho hay que ver si el s=C3=A1bado se abre co=
+mpleto o medio d=C3=ADa... no s=C3=A9 si hay que seguir reglas en el centro=
+ comercial donde estar=C3=A1 la tienda. Lo anterior, solo
+ sube unpoco la cantidad de prendas a vender.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Pregunta... el listado de productos a vender son TODOS los que envi=
+aste? o no tendremos todos esos? Lo anterior para dimensionar espacio y pre=
+sentadores
+ del material, adem=C3=A1s de dejar un par de espacios para las poleras de =
+otras marcas.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">A tu vuelta, d=C3=A9mosle prioridad tambi=C3=A9n a la conversaci=C3=
+=B3n con Adidas y alguna otra marca, capaz que quieran tener un espacio peq=
+ue=C3=B1o pero con publicidad
+ e imagen de ellos.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Quedo a la espera de tu respuesta sobre los productos para ponerme =
+de acuerdo con la arquitecta.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">GAbriel</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63244">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63243">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63272">
+<div class=3D"yiv8368376154MsoNormal" style=3D"text-align:center;background=
+:white;" align=3D"center">
+<span style=3D"">
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><b><span =
+style=3D"">From:</span></b><span style=3D""> Andr=C3=A9s Morales (CCC-CHILE=
+) &lt;<span class=3D"yiv8368376154MsoHyperlink">amorales@cccchile.cl</span>=
+&gt;<br clear=3D"none">
+<b>To:</b> "Rios Prado, Rodrigo" &lt;<span class=3D"yiv8368376154MsoHyperli=
+nk">Rodrigo.Rios@itau.cl</span>&gt;
+<br clear=3D"none">
+<b>Cc:</b> Gabriel Chomali &lt;<span class=3D"yiv8368376154MsoHyperlink">ga=
+brielchomali@yahoo.com</span>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Thursday, February 5, 2015 5:52 PM<br clear=3D"none">
+<b>Subject:</b> Re: Acuerdos Reuni=C3=B3n</span><span style=3D""></span></d=
+iv>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63242">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63241">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63240">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63269">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Hola!</span></div>=20
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Miles de disculpas por la demora.</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63270">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Adjunto peque=C3=B1o fujo de lo que puede ser la tienda. La verdad =
+es que realmente nose cuanto se puede llegar a vender, pero si muestra cuen=
+to se necesita
+ vender para no perder plata.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Clave es el costo del local y que comienze a vender apenas se abra.=
+&nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">En cuanto a los productos que se peuden ofrecer, Adjunto productos =
+de rugby puro de juego y ropa mas de moda.</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63268">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Una peque=C3=B1a gondola con sus medidas y fotos de referncia de ot=
+ras tiendas en el mundo.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Lamento decirles que me tome una semana de vacaciones, vuelvo el pr=
+oximo miercoles en la ma=C3=B1ana.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;porfa no nos frenemos, sigamos adelante!</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">sls.</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span style=3D""> &nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63239">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63238">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63237">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">El 3 de febrero de 2015, 16:11, Rios Prado, Rodrigo &lt;<span class=
+=3D"yiv8368376154MsoHyperlink">Rodrigo.Rios@itau.cl</span>&gt; escribi=C3=
+=B3:<br clear=3D"none">
+<br clear=3D"none">
+</span></div>=20
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63235">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63234">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"font-size:11.0pt;">Perfecto
+</span><span style=3D""></span></div>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"font-size:11.0pt;">&nbsp;</span><span style=3D""></span></div>=20
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><b><span =
+style=3D"font-size:11.0pt;">Rodrigo R=C3=ADos Prado</span></b><span style=
+=3D"font-size:11.0pt;"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+<b><u><span class=3D"yiv8368376154MsoHyperlink">Rodrigo.Rios@itau.cl</span>=
+</u></b><br clear=3D"none">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+BackUp: <br clear=3D"none">
+<u>Andres.Rivera<span class=3D"yiv8368376154MsoHyperlink"><span style=3D"co=
+lor:#7F7F7F;">@itau.cl</span></span></u></span><span style=3D""></span></di=
+v>=20
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"font-size:11.0pt;">Fono :+5626854688</span><span style=3D""></span></=
+div>=20
+</div>
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"font-size:11.0pt;">&nbsp;</span><span style=3D""></span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63267">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63266" style=3D"border:n=
+one;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm;">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63265">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><b><span =
+style=3D"font-size:10.0pt;" lang=3D"ES">De:</span></b><span style=3D"font-s=
+ize:10.0pt;" lang=3D"ES"> Gabriel Chomali
+ [mailto:<span class=3D"yiv8368376154MsoHyperlink">gabrielchomali@yahoo.com=
+</span>] <br clear=3D"none">
+<b>Enviado el:</b> martes, 03 de febrero de 2015 15:16<br clear=3D"none">
+<b>Para:</b> Andr=C3=A9s Morales (CCC-CHILE)<br clear=3D"none">
+<b>CC:</b> Rios Prado, Rodrigo<br clear=3D"none">
+<b>Asunto:</b> Re: Acuerdos Reuni=C3=B3n</span><span style=3D""></span></di=
+v>=20
+</div>
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63233">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63232">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63231">
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Estimados,</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">C=C3=B3mo no nos hemos enviado toda la informaci=C3=B3n... les pare=
+ce nos juntemos este viernes a las 14:00 en irarrazaval?</span></div>=20
+</div>
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63230">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63229">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"text-align:center;background=
+:white;" align=3D"center">
+<span style=3D"">
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><b><span =
+style=3D"font-size:10.0pt;">From:</span></b><span style=3D"font-size:10.0pt=
+;"> Andr=C3=A9s Morales (CCC-CHILE) &lt;<span class=3D"yiv8368376154MsoHype=
+rlink">amorales@cccchile.cl</span>&gt;<br clear=3D"none">
+<b>To:</b> Gabriel Chomali &lt;<span class=3D"yiv8368376154MsoHyperlink">ga=
+brielchomali@yahoo.com</span>&gt;
+<br clear=3D"none">
+<b>Cc:</b> Rodrigo Rios Prado &lt;<span class=3D"yiv8368376154MsoHyperlink"=
+>rodrigo.rios@itau.cl</span>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Saturday, January 31, 2015 1:41 AM<br clear=3D"none">
+<b>Subject:</b> Re: Acuerdos Reuni=C3=B3n</span><span style=3D""></span></d=
+iv>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63228">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63227">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63226">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Hola!&nbsp;</span></div>=20
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">La.info.mia la mando dentro del finde o el.lunes a mas tardar.</spa=
+n></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63225">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Sls</span></div>=20
+</div>
+<div>
+<div style=3D"margin-bottom:12.0pt;">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63224">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span style=3D""><br clear=3D"none">
+El viernes, 30 de enero de 2015, Gabriel Chomali &lt;<span class=3D"yiv8368=
+376154MsoHyperlink">gabrielchomali@yahoo.com</span>&gt; escribi=C3=B3:</spa=
+n></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63223">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63222">
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Fue un placer recibirlos y espero lo hagamos amenudo.</span></div>=
+=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Respecto de las fechas.... estas acciones son todas urgentes y no p=
+ueden esperar.</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span style=3D"">Pero podr=C3=ADamoa partir de la siguiente man=
+era:</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">1.- RR: Enviar datos personales y objeto de la empresa (Viernes 30 =
+En)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">2.- GCH: Crear sociedad administradora de tiendas (Una semana de re=
+cibido los datos)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">3.- RR: Sacar copia llaves para que podamos ir a visitar el local c=
+on los arquitectos (Viernes 30 En)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">4- AM: Enviar informaci=C3=B3n de los productos a vender con sus pr=
+ecios. (Viernes 30 En)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">5.- AM: Enviar informaci=C3=B3n sobre locales de Canterburry para d=
+ar ideas a los Arquitectos (Viernes 30 En)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">6.- AM: Hacer flujo inicial con ideas sobre ventas de los productos=
+ de acuerdo a experiencia (Mi=C3=A9rcoles 4 Fb)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">7.- Todos: Cotizar con Arquitectos por dise=C3=B1o de tienda (ASAP.=
+... yo espero datos de tienda para ir.. arquitecto esperando)</span></div>=
+=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">8.- Todos: Pensar en nombre Tienda (Pr=C3=B3xima reuni=C3=B3n se ci=
+erra nombre)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">9.- Todos: Una vez recibido flujo, mejorarlo con comentarios (Una s=
+emana de recibido el flujo)</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Pr=C3=B3xima reuni=C3=B3n... les parece el pr=C3=B3ximo mi=C3=A9rco=
+les a las 14:00 cerca de RR?</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Gabriel</span></div>=20
+</div>
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63221">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63220">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63219">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63218">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63217">
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Hola Gabriel,</span></div>=20
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Gracias por recibirnos y muchas gracias por la atenci=C3=B3n!</span=
+></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Podr=C3=A1s poner una fecha al lado de cada tarea? intentemos respe=
+tarla para que veamos avances pronto.</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Cuando es la pr=C3=B3xima junta? que objetivos va a tener?</span></=
+div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Un abrazo!</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+</div>
+<div>
+<div style=3D"margin-bottom:12.0pt;">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63216">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63215">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63214">
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">El 29 de enero de 2015, 9:30, Gabriel Chomali &lt;<span class=3D"yi=
+v8368376154MsoHyperlink">gabrielchomali@yahoo.com</span>&gt; escribi=C3=B3:=
+</span></div>=20
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63213">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63212">
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Estimados amigos,</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Entretenida y productiva reuni=C3=B3n ayer... esperemos sea el inic=
+io de a=C3=B1os de pasarla bien y buenos negocios.</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Entre los acuerdos de ayer y en los cuales debemos trabajar ya son:=
+</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">1.- RR: Enviar datos personales y objeto de la empresa</span></div>=
+=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">2.- GCH: Crear sociedad administradora de tiendas</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63264">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63263">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">3.- RR: Sacar copia llaves para que podamos ir a visitar el local c=
+on los arquitectos</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">4- AM: Enviar informaci=C3=B3n de los productos a vender con sus pr=
+ecios.</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">5.- AM: Enviar informaci=C3=B3n sobre locales de Canterburry para d=
+ar ideas a los Arquitectos</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">6.- AM: Hacer flujo inicial con ideas sobre ventas de los productos=
+ de acuerdo a experiencia</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">7.- Todos: Cotizar con Arquitectos por dise=C3=B1o de tienda</span>=
+</div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">8.- Todos: Pensar en nombre Tienda</span></div>=20
+</div>
+</div>
+<div>
+<div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">9.- Todos: Una vez recibido flujo, mejorarlo con comentarios</span>=
+</div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63211">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63210">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63261">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63260">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Favor, si se me olvida algo agregarlo.</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63251">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63250">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63258">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63257">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Gabriel</span></div>=20
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63253">
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63252">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63254">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63255" style=3D"margin-b=
+ottom:12.0pt;">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=3D"yiv8368376154yui_3_16_0_1_1423145256811_63256" style=3D"margin-b=
+ottom:12.0pt;">
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">&nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D"">Para asegurar la adecuada lectura en todo tipo de correos electroni=
+cos, se han omitido intencionalmente los signos y acentos diacriticos del i=
+dioma
+ castellano. La informacion contenida en este mensaje y cualquier archivo a=
+djunto es confidencial y no puede ser usada por mas personas que sus destin=
+atarios. El uso no autorizado de esta informacion puede ser sancionado de c=
+onformidad con el Codigo Penal chileno.
+ Si ha recibido este correo por error, por favor notifique al remitente res=
+pondiendo este mismo mensaje y elimine el mensaje y todos los archivos adju=
+ntos. Internet no puede garantizar la integridad de este mensaje, por lo qu=
+e el Banco no se hace responsable
+ si el contenido del mismo ha sido alterado. </span></div>=20
+</div>
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"background:white;"><span sty=
+le=3D""> &nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+</div>
+</td></tr></tbody></table>
+</div>
+</td></tr></tbody></table>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class=3D"yiv8368376154MsoNormal" style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span style=3D""> &nbsp;</span></div>=20
+</div>
+</div>
+</div>
+</div></div>
+</div>
+Para asegurar la adecuada lectura en todo tipo de correos electronicos, se =
+han omitido intencionalmente los signos y acentos diacriticos del idioma ca=
+stellano.=20
+La informacion contenida en este mensaje y cualquier archivo adjunto es con=
+fidencial y no puede ser usada por mas personas que sus destinatarios. El u=
+so no autorizado de esta informacion puede ser sancionado de conformidad co=
+n el Codigo Penal chileno. Si ha recibido este correo por error, por favor =
+notifique al remitente respondiendo este mismo mensaje y elimine el mensaje=
+ y todos los archivos adjuntos.
+Internet no puede garantizar la integridad de este mensaje, por lo que el B=
+anco no se hace responsable si el contenido del mismo ha sido alterado.
+</div></div><br><br></div> </div> </div>  </div></body></html>
+------=_Part_2626782_594828931.1423587633290--

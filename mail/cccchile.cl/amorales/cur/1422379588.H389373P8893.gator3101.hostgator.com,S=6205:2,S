@@ -1,0 +1,125 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 27 Jan 2015 11:26:28 -0600
+Received: from mail-oi0-f41.google.com ([209.85.218.41]:49782)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YG9u9-00026y-Qj
+	for amorales@cccchile.cl; Tue, 27 Jan 2015 11:26:28 -0600
+Received: by mail-oi0-f41.google.com with SMTP id z81so13471673oif.0
+        for <amorales@cccchile.cl>; Tue, 27 Jan 2015 09:26:17 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=ef4akeBSHiCLIthC6Ov7keKAO0fUIG75+oSghExzF0c=;
+        b=ay9Bj5/HShC4OGkRZfO4q5nKwNuCerslOQkPAXVHgzBA9s0ta2VczQXvvMsW3PWh1B
+         yq0L+Wg171QH/38Eysxx9n16hpgwiMATHUFkGU/bUD3Hy+CV1b3V0Vd0kktgEaiBm8ZA
+         M24agyvGh62bFktbweSiZMPSeO/0fyu5BFoOYk0wfWIO30t5z2up8y4aZGOuUmOdA6+s
+         CgkOSRuOkP3Tn+KhNdrh+r/qZuqtlhGEmGAB86SlA0NS734VM7pvVvlHXpRRlqcBgFVS
+         xtdTA1brfWXroghsxfaWj2g5rEb8XvCKbj07hjznuCQ/Jv0rjWCj90qqR+WGh/Y/baxO
+         IXUA==
+X-Gm-Message-State: ALoCoQlu1I5DqDRtNiHMs4BiV9cGjn45Jh+MCOuA+PkaHjqsft1s4QryeMDzSSQ6aE0RqOrWtyrh
+MIME-Version: 1.0
+X-Received: by 10.60.50.234 with SMTP id f10mr1458822oeo.23.1422379577540;
+ Tue, 27 Jan 2015 09:26:17 -0800 (PST)
+Received: by 10.182.28.1 with HTTP; Tue, 27 Jan 2015 09:26:17 -0800 (PST)
+X-Originating-IP: [190.162.163.101]
+In-Reply-To: <00ff01d03a55$24171cb0$6c455610$@tell.cl>
+References: <y9tocs6unttysxblv94woip1.1416233660561@email.android.com>
+	<CAJbDu1nifmePMq7oY+6vw74p_XMxzZj5a6i+BuoVrb=d-7Htfw@mail.gmail.com>
+	<018201d00798$996a5350$cc3ef9f0$@tell.cl>
+	<CAJbDu1kbKEFgH0ekp-cBCDSYf=1VV-KYXsSCtm+zcW_QtFNGJA@mail.gmail.com>
+	<CAJbDu1nW8A7FDUTB6UsoYGN0VBCBEzLODkahC7mnxdYReoHWNg@mail.gmail.com>
+	<011f01d00e69$fcfe3ee0$f6fabca0$@tell.cl>
+	<CAJbDu1na-TqJ=TH9gRrS9T+LMvtp1n_=mVeafcjtHXrWWzkOwg@mail.gmail.com>
+	<CAJbDu1=pd7P9Yc9z0SifUjXenZONMNs13rRTrb4vPNvFvVFfaQ@mail.gmail.com>
+	<CAJbDu1nyOSRQmesJ_GfO0Je37JzyZoRLrnG-1Wg8rEMdDqJBGA@mail.gmail.com>
+	<001001d01ed7$701f8460$505e8d20$@tell.cl>
+	<CAJbDu1mBftZkpGsWhOH+M5Nfd=tmHNdoXtAAzLc8dBoxQznpUQ@mail.gmail.com>
+	<012c01d01f97$b7007e50$25017af0$@tell.cl>
+	<CAJbDu1kRZz=BhJ40LHUWUsxQn2RrOmkjtmcjYJK7zy-FtF6KfA@mail.gmail.com>
+	<CAJbDu1nH2tCdgvLMHVcq2ijGcbTsdxdGCq7cDJS=2NDwbmj2gg@mail.gmail.com>
+	<CAJbDu1=A2irwNezSD1YKtqG4kdqQHk3zfBLhYuQNGuBKZtyS2Q@mail.gmail.com>
+	<00ff01d03a55$24171cb0$6c455610$@tell.cl>
+Date: Tue, 27 Jan 2015 14:26:17 -0300
+Message-ID: <CAJbDu1k7=TCN39fE=2M+=4EV9u4e+xU3yCw3fWVTOL42dDBA6Q@mail.gmail.com>
+Subject: Fwd: SPORTING
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: Guillermo Morales M <gmorales@spindeportes.cl>, 
+	=?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a11c303da7495e0050da58d26
+
+--001a11c303da7495e0050da58d26
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Le copio correo de la gente de SPORTING.
+
+
+Hola V=C3=ADctor.
+
+
+
+Si, efectivamente recib=C3=AD tu cotizaci=C3=B3n, y pens=C3=A9 te hab=C3=AD=
+a dado respuesta.
+Respecto de la misma, convers=C3=A9 el tema en Directorio, y la verdad esta=
+mos
+muy distantes en valores, entendiendo que tu marca es espectacular, pero es
+imposible de financiar por el club. Por lo mismo, hemos vistos propuesta
+bastantes m=C3=A1s econ=C3=B3micas, y con dise=C3=B1o personalizado. Por lo=
+ mismo,
+agradezco tu tiempo y gesti=C3=B3n, pero por este a=C3=B1o al menos, no tra=
+bajaremos
+con Ustedes.
+
+
+
+Saludos,
+
+
+
+Carlos Varas Marinovic
+
+Director
+
+Sporting RC
+
+--001a11c303da7495e0050da58d26
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Le copio correo de la gente de SPORTING.=C2=A0<div><br><di=
+v class=3D"gmail_quote"><br><div lang=3D"ES-CL" link=3D"blue" vlink=3D"purp=
+le"><div><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hola V=C3=ADctor=
+.<u></u><u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"=
+><u></u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1=
+f497d">Si, efectivamente recib=C3=AD tu cotizaci=C3=B3n, y pens=C3=A9 te ha=
+b=C3=ADa dado respuesta. Respecto de la misma, convers=C3=A9 el tema en Dir=
+ectorio, y la verdad estamos muy distantes en valores, entendiendo que tu m=
+arca es espectacular, pero es imposible de financiar por el club. Por lo mi=
+smo, hemos vistos propuesta bastantes m=C3=A1s econ=C3=B3micas, y con dise=
+=C3=B1o personalizado. Por lo mismo, agradezco tu tiempo y gesti=C3=B3n, pe=
+ro por este a=C3=B1o al menos, no trabajaremos con Ustedes.<u></u><u></u></=
+span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u>=
+</u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Saludos,<u=
+></u><u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u=
+></u>=C2=A0<u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">Carlos Varas Marinovic<u></u><u></u></span></p><p class=3D"MsoNormal"><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Director<u></u><u></u></span></p><p class=3D"MsoN=
+ormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#1f497d">Sporting RC<u></u><u></u></span></p><p cl=
+ass=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0</span></p></div>=
+</div></div></div></div>
+
+--001a11c303da7495e0050da58d26--

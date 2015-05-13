@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:10:28
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:16:12
          compiled from "/home2/amorales/public_html/modules/blockfacebook/blockfacebook.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:570679062548abf147fcf63-71590294%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:45783562255477f2c400940-32055303%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '570679062548abf147fcf63-71590294',
+  'nocache_hash' => '45783562255477f2c400940-32055303',
   'function' => 
   array (
   ),
@@ -21,9 +21,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf14812ec2_47491931',
+  'unifunc' => 'content_55477f2c53e141_31625944',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548abf14812ec2_47491931')) {function content_548abf14812ec2_47491931($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477f2c53e141_31625944')) {function content_55477f2c53e141_31625944($_smarty_tpl) {?>
 <?php if ($_smarty_tpl->tpl_vars['facebookurl']->value!=''){?>
 <div id="fb-root"></div>
 <div id="facebook_block" class="col-xs-4">

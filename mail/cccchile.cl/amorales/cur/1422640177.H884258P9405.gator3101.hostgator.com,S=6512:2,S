@@ -1,0 +1,160 @@
+Return-path: <Bryan.Iturrieta@carat.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Fri, 30 Jan 2015 11:49:37 -0600
+Received: from mail-am1on0131.outbound.protection.outlook.com ([157.56.112.131]:7424 helo=emea01-am1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <Bryan.Iturrieta@carat.com>)
+	id 1YHFhJ-0002Ov-FW
+	for amorales@cccchile.cl; Fri, 30 Jan 2015 11:49:37 -0600
+Received: from DBXPR04CA0044.eurprd04.prod.outlook.com (10.141.8.172) by
+ DB4PR04MB0832.eurprd04.prod.outlook.com (10.242.194.27) with Microsoft SMTP
+ Server (TLS) id 15.1.75.20; Fri, 30 Jan 2015 17:49:34 +0000
+Received: from AM1FFO11FD031.protection.gbl (2a01:111:f400:7e00::124) by
+ DBXPR04CA0044.outlook.office365.com (2a01:111:e400:9414::44) with Microsoft
+ SMTP Server (TLS) id 15.1.75.20 via Frontend Transport; Fri, 30 Jan 2015
+ 17:49:34 +0000
+Received: from EMDC2HCM02.media.global.loc (91.206.176.172) by
+ AM1FFO11FD031.mail.protection.outlook.com (10.174.64.220) with Microsoft SMTP
+ Server (TLS) id 15.1.75.11 via Frontend Transport; Fri, 30 Jan 2015 17:49:33
+ +0000
+Received: from EMDC2MBM04.media.global.loc ([fe80::c5b2:86a4:a42:7897]) by
+ EMDC2HCM02.media.global.loc ([fe80::e106:5e9b:db6b:1726%10]) with mapi id
+ 14.03.0210.002; Fri, 30 Jan 2015 17:49:33 +0000
+From: Bryan Iturrieta <Bryan.Iturrieta@carat.com>
+To:
+	=?iso-8859-1?Q?Andr=E9s_Morales_=28CCC-CHILE=29_=28amorales=40cccchile=2E?=
+ =?iso-8859-1?Q?cl=29?= <amorales@cccchile.cl>
+CC: Felipe Ponce <Felipe.Ponce@carat.com>, Pablo Pozarski
+	<Pablo.Pozarski@carat.com>
+Subject: Canterbury - Cambios - Semana 26
+Thread-Topic: Canterbury - Cambios - Semana 26
+Thread-Index: AdA8s+8gT1Kb/7wSTPSHvi0ixWNrfA==
+Date: Fri, 30 Jan 2015 17:49:32 +0000
+Message-ID: <4D433FC4E3403E45842F28B513FBB9E0FF07CE@EMDC2MBM04.media.global.loc>
+Accept-Language: en-GB, en-US
+Content-Language: es-ES
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.16.102.242]
+x-exclaimer-md-config: a158a446-66eb-454e-968f-6fa7a2431270
+Content-Type: multipart/alternative;
+	boundary="_000_4D433FC4E3403E45842F28B513FBB9E0FF07CEEMDC2MBM04mediagl_"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of carat.com designates
+ 91.206.176.172 as permitted sender) receiver=protection.outlook.com;
+ client-ip=91.206.176.172; helo=EMDC2HCM02.media.global.loc;
+Authentication-Results: spf=pass (sender IP is 91.206.176.172)
+ smtp.mailfrom=Bryan.Iturrieta@carat.com; cccchile.cl; dkim=none (message not
+ signed) header.d=none;cccchile.cl; dmarc=permerror action=none
+ header.from=carat.com;
+X-Forefront-Antispam-Report:
+	CIP:91.206.176.172;CTRY:GB;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(6009001)(122424002)(19625215002)(77156002)(102836002)(62966003)(2920100001)(92566002)(2900100001)(16236675004)(15975445007)(33656002)(450100001)(110136001)(512934002)(104016003)(2930100002)(54356999)(19580395003)(50986999)(229853001)(87936001)(106466001)(86362001)(84326002)(19300405004)(6806004)(2656002)(46102003)(55846006)(19627235001);DIR:OUT;SFP:1102;SCL:1;SRVR:DB4PR04MB0832;H:EMDC2HCM02.media.global.loc;FPR:;SPF:None;MLV:sfv;LANG:es;
+X-DmarcAction-Test: None
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(3005004);SRVR:DB4PR04MB0832;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:DB4PR04MB0832;
+X-Forefront-PRVS: 04724A515E
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:DB4PR04MB0832;
+X-OriginatorOrg: carat.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 30 Jan 2015 17:49:33.7015
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 6e8992ec-76d5-4ea5-8eae-b0c5e558749a
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=6e8992ec-76d5-4ea5-8eae-b0c5e558749a;Ip=[91.206.176.172]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB4PR04MB0832
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FF07CEEMDC2MBM04mediagl_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Andr=E9s,
+
+Acorde a lo conversado,
+
+*Nuestro tweet patrocinado ser=E1 publicado el d=EDa lunes AM.
+*Estamos a la espera del material asociado a Sparta.
+*Quedamos a la espera de los Links de we-transfer.
+
+Saludos,
+
+
+
+
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FF07CEEMDC2MBM04mediagl_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"ES-CL" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hola Andr=E9s, <br>
+<br>
+Acorde a lo conversado, <br>
+<br>
+*<b>Nuestro tweet patrocinado ser=E1 publicado el d=EDa lunes AM.<br>
+</b>*<b>Estamos a la espera del material asociado a Sparta. <br>
+*Quedamos a la espera de los Links de we-transfer. <br>
+<br>
+</b>Saludos,<b> <br>
+<br>
+<br>
+</b><br>
+<br>
+<o:p></o:p></p>
+</div>
+</body>
+</html>
+
+--_000_4D433FC4E3403E45842F28B513FBB9E0FF07CEEMDC2MBM04mediagl_--

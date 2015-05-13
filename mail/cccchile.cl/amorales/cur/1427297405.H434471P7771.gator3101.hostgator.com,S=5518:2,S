@@ -1,0 +1,94 @@
+Return-path: <o.fuentealba@rrhhchile.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 25 Mar 2015 10:30:05 -0500
+Received: from smtpout2.gtdinternet.com ([201.238.246.243]:35462)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <o.fuentealba@rrhhchile.cl>)
+	id 1YanFt-0001nI-5C
+	for amorales@cccchile.cl; Wed, 25 Mar 2015 10:30:05 -0500
+Received: from smtpasbout1.gtdinternet.com
+	by smtpout2.gtdinternet.com with esmtp (SMTP 1.0 #2)
+	id 1YanFp-0008Rn-LZ
+	for <amorales@cccchile.cl>; Wed, 25 Mar 2015 12:30:01 -0300
+Received: from asbout-3.gtdinternet.com
+	by smtpasbout1.gtdinternet.com with esmtp (SMTP 1.0 #1)
+	id 1YanFp-0003pT-Hv
+	for <amorales@cccchile.cl>; Wed, 25 Mar 2015 12:30:01 -0300
+X-ASG-Debug-ID: 1427297400-03ffa63e0031eac0001-nkvAXp
+Received: from mta4.gtdinternet.com (mta4.gtdinternet.com [201.238.246.28]) by asbout-3.gtdinternet.com with ESMTP id 5u4tZsjGfeTEfpr6 for <amorales@cccchile.cl>; Wed, 25 Mar 2015 12:30:00 -0300 (ART)
+X-Barracuda-Envelope-From: o.fuentealba@rrhhchile.cl
+X-Barracuda-Apparent-Source-IP: 201.238.246.28
+Received: from [201.220.244.254] (port=29738 helo=[10.45.28.24])
+	by mta4.gtdinternet.com with esmtpa (SMTP 1.0 #2)
+	id 1YanFn-0003SW-5A
+	for <amorales@cccchile.cl>; Wed, 25 Mar 2015 12:30:00 -0300
+Date: Wed, 25 Mar 2015 12:29:57 -0300
+Subject: Responder: Re: Inv Canterberry
+Message-ID: <qfoaigsh7s918bg2o3cbas1w.1427297397970@email.android.com>
+X-ASG-Orig-Subj: Responder: Re: Inv Canterberry
+From: Oscar Fuentealba G - RRHH <o.fuentealba@rrhhchile.cl>
+To: =?ISO-8859-1?Q?Andr=E9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>
+MIME-Version: 1.0
+In-Reply-To: <CAKggD2QzcfDXRbeBjFMypUCGu2XAcy0_N12W8btSZXfApHRQaA@mail.gmail.com>
+References: <000701d066f6$a4b815e0$ee2841a0$@rrhhchile.cl> <CAKggD2QzcfDXRbeBjFMypUCGu2XAcy0_N12W8btSZXfApHRQaA@mail.gmail.com>
+Content-Type: multipart/alternative; boundary="--_com.android.email_263180726689270"
+X-Barracuda-Connect: mta4.gtdinternet.com[201.238.246.28]
+X-Barracuda-Start-Time: 1427297400
+X-Barracuda-URL: https://201.238.246.77:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at gtdinternet.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Bayes: INNOCENT GLOBAL 0.0000 1.0000 -2.0210
+X-Barracuda-Spam-Score: -2.02
+X-Barracuda-Spam-Status: No, SCORE=-2.02 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=3.6 tests=HTML_MESSAGE
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.17153
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+
+----_com.android.email_263180726689270
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+QWwgcXVlIG1lIGxsYW1zdGUgZW4gbGEgbWHDsWFuYSB5IHRlcGVkaSBxdWUgbGxhbWFyYXMgbHVl
+Z28uLi4gSmlqaUoKCkVudmlhZG8gZGVzZGUgbWkgdGVsw6lmb25vIGludGVsaWdlbnRlIFNvbnkg
+WHBlcmlh4oSiCgotLS0tIEFuZHLDqXMgTW9yYWxlcyAoQ0NDLUNISUxFKSBlc2NyaWJpw7MgLS0t
+LQoKPk9zY2FyIGxsYW1hbWUuIE5vc2UgYSBxdWUgdGVsd2Zvbm8gbGxhbWFydGUKPgo+Cj4KPkVs
+IG1pw6lyY29sZXMsIDI1IGRlIG1hcnpvIGRlIDIwMTUsIE9zY2FyIEZ1ZW50ZWFsYmEgRy4gLyBS
+UkhIIC8gQ0wgPG8uZnVlbnRlYWxiYUBycmhoY2hpbGUuY2w+IGVzY3JpYmnDszoKPgo+QW5kcmVz
+LCAKPgo+RW4gZWwgcHJvY2VzbyBkZSBnZW5lcmFjacOzbiBkZSBsYSBndcOtYSBkZSBzYWxpZGEg
+ZmFsdGEgcXVlIGVzcGVjaWZpcXVlcyBzaSB1dGlsaXphcmFzIGVsIGZvcm1hdG8gZGUgc3BpbiBw
+YXJhIGVtaXRpciBsYSBndcOtYSBvIHRpZW5lcyB1bm8uCj4KPkEgc3UgdmV6IHRlIGNvbWVudG8g
+cXVlIENhbnRlcmJlcnJ5IGVzdMOhIHNvYnJlIGxhIGVtcHJlc2EgU1BJTiB5IG5vIGRlIG1hbmVy
+YSBpbmRpdmlkdWFsIGxhIG1hbnRlbmRyw6FzIGFzw60gbyBsYSBzZXBhcm8uCj4KPkF0ZW50byBh
+IHR1cyBjb21lbnRhcmlvcywKPgo+U2FsdWRvcyBjb3JkaWFsZXMuCj4KPk9zY2FyIEZ1ZW50ZWFs
+YmEuCj4K
+----_com.android.email_263180726689270
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PHAgZGlyPSJsdHIiPkFsIHF1ZSBtZSBsbGFtc3RlIGVuIGxhIG1hJiMyNDE7YW5hIHkgdGVwZWRp
+IHF1ZSBsbGFtYXJhcyBsdWVnby4uLiBKaWppSjwvcD4KPHAgZGlyPSJsdHIiPkVudmlhZG8gZGVz
+ZGUgbWkgdGVsJiMyMzM7Zm9ubyBpbnRlbGlnZW50ZSBTb255IFhwZXJpYSYjODQ4Mjs8L3A+Cjxi
+cj48YnI+LS0tLSBBbmRyw6lzIE1vcmFsZXMgKENDQy1DSElMRSkgZXNjcmliacOzIC0tLS08YnI+
+PGJyPk9zY2FyIGxsYW1hbWUuIE5vc2UgYSBxdWUgdGVsd2Zvbm8gbGxhbWFydGU8ZGl2Pjxicj48
+YnI+RWwgbWnDqXJjb2xlcywgMjUgZGUgbWFyem8gZGUgMjAxNSwgT3NjYXIgRnVlbnRlYWxiYSBH
+LiAvIFJSSEggLyBDTCAmbHQ7PGEgaHJlZj0ibWFpbHRvOm8uZnVlbnRlYWxiYUBycmhoY2hpbGUu
+Y2wiPm8uZnVlbnRlYWxiYUBycmhoY2hpbGUuY2w8L2E+Jmd0OyBlc2NyaWJpw7M6PGJyPjxibG9j
+a3F1b3RlIGNsYXNzPSJnbWFpbF9xdW90ZSIgc3R5bGU9Im1hcmdpbjowIDAgMCAuOGV4O2JvcmRl
+ci1sZWZ0OjFweCAjY2NjIHNvbGlkO3BhZGRpbmctbGVmdDoxZXgiPjxkaXYgbGFuZz0iRVMtQ0wi
+IGxpbms9ImJsdWUiIHZsaW5rPSJwdXJwbGUiPjxkaXY+PHAgY2xhc3M9Ik1zb05vcm1hbCI+QW5k
+cmVzLCA8dT48L3U+PHU+PC91PjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5FbiBlbCBwcm9jZXNv
+IGRlIGdlbmVyYWNpw7NuIGRlIGxhIGd1w61hIGRlIHNhbGlkYSBmYWx0YSBxdWUgZXNwZWNpZmlx
+dWVzIHNpIHV0aWxpemFyYXMgZWwgZm9ybWF0byBkZSBzcGluIHBhcmEgZW1pdGlyIGxhIGd1w61h
+IG8gdGllbmVzIHVuby48dT48L3U+PHU+PC91PjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5BIHN1
+IHZleiB0ZSBjb21lbnRvIHF1ZSBDYW50ZXJiZXJyeSBlc3TDoSBzb2JyZSBsYSBlbXByZXNhIFNQ
+SU4geSBubyBkZSBtYW5lcmEgaW5kaXZpZHVhbCBsYSBtYW50ZW5kcsOhcyBhc8OtIG8gbGEgc2Vw
+YXJvLjx1PjwvdT48dT48L3U+PC9wPjxwIGNsYXNzPSJNc29Ob3JtYWwiPkF0ZW50byBhIHR1cyBj
+b21lbnRhcmlvcyw8dT48L3U+PHU+PC91PjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5TYWx1ZG9z
+IGNvcmRpYWxlcy48dT48L3U+PHU+PC91PjwvcD48cCBjbGFzcz0iTXNvTm9ybWFsIj5Pc2NhciBG
+dWVudGVhbGJhLjx1PjwvdT48dT48L3U+PC9wPjwvZGl2PjwvZGl2PjwvYmxvY2txdW90ZT48L2Rp
+dj4NCg==
+----_com.android.email_263180726689270--
+

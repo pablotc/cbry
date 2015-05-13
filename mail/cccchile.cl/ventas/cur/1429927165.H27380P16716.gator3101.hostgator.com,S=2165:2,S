@@ -1,0 +1,50 @@
+Return-path: <carlos.villarroel@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Fri, 24 Apr 2015 20:59:25 -0500
+Received: from mail-qg0-f51.google.com ([209.85.192.51]:34113)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <carlos.villarroel@gmail.com>)
+	id 1YlpNM-0004Jw-Kf
+	for ventas@cccchile.cl; Fri, 24 Apr 2015 20:59:24 -0500
+Received: by qgfi89 with SMTP id i89so30658264qgf.1
+        for <ventas@cccchile.cl>; Fri, 24 Apr 2015 18:59:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:from:content-type:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=ZfqCiNtNB9ZNrxK+uNvh5YFy7wF1RckAZskAwx+VG4g=;
+        b=aIqk/Qk01YlVlD2KHp/F2gnUmUUr3SMnlvCrUu70lG1Cq7J4kYl9Dse+rbP8PKTdye
+         cPPpsQxxnQhBIuXupFVRDUKZ4c2oWUziRBUEtCrZ5V+o7A1A/BrafayGGevV6v+i7c58
+         a/LIhcoYGfRzAgS8OailqP0NO7tJSRtT0Vtz/q3gQ/bU5xzL31qcM0uXdC+X6+JIIEmp
+         vojSkJ+cPJOCPzU7Jxl+nXmIQTcde4NVZMPZL+7nzNyDHyemEN/mDn8UMylray1ULD9r
+         0ZrxjuyPvn7nyFBA3rEx072qBY9TYu7PZfMnNu1txuiyf+tAovTFoEbvz1c6kqQkrqs2
+         5kEw==
+X-Received: by 10.55.25.42 with SMTP id k42mr1742475qkh.66.1429927162306;
+        Fri, 24 Apr 2015 18:59:22 -0700 (PDT)
+Received: from [192.168.1.36] (181-163-214-231.baf.movistar.cl. [181.163.214.231])
+        by mx.google.com with ESMTPSA id 197sm9266613qhq.23.2015.04.24.18.59.21
+        for <ventas@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 24 Apr 2015 18:59:21 -0700 (PDT)
+Subject: =?utf-8?Q?Cotizaci=C3=B3n_polera_polo?=
+From: Carlos Villarroel <carlos.villarroel@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (11D257)
+Message-Id: <62801D59-4684-4D69-ADF5-A007E2F661B1@gmail.com>
+Date: Fri, 24 Apr 2015 22:59:16 -0300
+To: "ventas@cccchile.cl " <ventas@cccchile.cl>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Srs. Buenas noches
+
+Necesito cotizaci=C3=B3n de poleras tipo polo para la presentaci=C3=B3n de m=
+i equipo de rugby
+
+
+Saluda atte
+Carlos villarroel p.
+
+Enviado desde mi iPhone=

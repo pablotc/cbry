@@ -1,0 +1,208 @@
+Return-path: <no-reply@mail.instagram.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Wed, 04 Mar 2015 20:26:01 -0600
+Received: from outmail009.prn2.facebook.com ([66.220.144.136]:19317 helo=mx-out.facebook.com)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES128-SHA:128)
+	(Exim 4.82)
+	(envelope-from <no-reply@mail.instagram.com>)
+	id 1YTLU8-00067x-Tt
+	for ventas@cccchile.cl; Wed, 04 Mar 2015 20:26:01 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1425522358;
+	bh=veSVq4DSK7kWWz9Dwb0Q0XT6wi7zaAkllNfYbuYUOQQ=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=uLA55EnEGfO4+3QrDgeRbmA2GqBzUEEFak9iFC15y9vluxnAvQCTOFMM6AHuduN6c
+	 1+CENlt97WH8EEcLPZOcBHbgDXM3NfyZhDmxMimzxhQ7Kw0lODKqcVS4MjGUJT3Pus
+	 /5e7VwtLWbzSF292e4V40X8S1fG81AvVBLll1DBM=
+Received: from facebook.com (yXGf/Gvj+Jf6cQw5EnB3b5/CKgLlTK7KxZwzmL2agGk/XC/ymSpIcwi8xne+rtvW 10.223.77.93)
+ by facebook.com with Thrift id f5a5d71ec2de11e489fe24be058faa80-f99ef2a0;
+ Wed, 04 Mar 2015 18:25:58 -0800
+X-Facebook: from 2401:db00:2040:7003:face:0:4f:0 ([MTI3LjAuMC4x]) 
+	by api.facebook.com with HTTP (ZuckMail);
+Date: Wed, 4 Mar 2015 18:25:58 -0800
+To: ventas@cccchile.cl
+From: "Instagram" <no-reply@mail.instagram.com>
+Reply-to: Instagram <no-reply@mail.instagram.com>
+Subject: Te damos la bienvenida a Instagram
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: no-reply@mail.instagram.com
+X-Facebook-Notify: ig_welcome; mailid=HMTkwOTU0NDY4OnZlbnRhc0BjY2NjaGlsZS5jbDo1Njc
+List-Unsubscribe: <https://www.facebook.com/o.php?k=AS1UvRSYvZo3E54w&e=ventas%40cccchile.cl&mid=HMTkwOTU0NDY4OnZlbnRhc0BjY2NjaGlsZS5jbDo1Njc>
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Message-ID: <dc031e3301569169e563c091d37d01f9@api.facebook.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dc031e3301569169e563c091d37d01f9"
+
+
+--b1_dc031e3301569169e563c091d37d01f9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+Te damos la bienvenida a Instagram, canterburychile
+
+Confirma tu direcci=C3=B3n de correo electr=C3=B3nico para comenzar a =
+capturar y compartir tus momentos con todo el mundo.
+
+Confirmar direcci=C3=B3n de correo electr=C3=B3nico[https://instagram.com/=
+accounts/confirm_email/IkA1SP8T/dmVudGFzQGNjY2NoaWxlLmNs/?app_redirect=3DF=
+alse]=20
+
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Este mensaje se ha enviado a ventas@cccchile.cl. Si no quieres recibir =
+este tipo de correos electr=C3=B3nicos de Facebook, haz clic en el =
+siguiente enlace para cancelar tu suscripci=C3=B3n.
+https://instagram.com/accounts/remove/report_wrong_email/sqighv/3zr-4081d7=
+a69825eb34840c/JUSZnfxG/dmVudGFzQGNjY2NoaWxlLmNs/
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_dc031e3301569169e563c091d37d01f9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" =
+/><style>body{background:#dcdee3;font-family:'Helvetica =
+Neue',Helvetica,'Lucida Grande',tahoma,verdana,arial,sans-serif;font-weigh=
+t:300}a{color:#141823;text-decoration:none;white-space:nowrap =
+!important}#email_table{width:100% !important}#email_content{padding:0 =
+!important}#profile_pic =
+img{border:0}*[class].usercard{background:#fff}@media all and =
+(max-device-width: 720px){a{white-space:pre-wrap =
+!important}table[bgcolor=3D"#e9eaed"]{background:transparent =
+!important}*[id]#body_container{border-bottom:1px solid #e5e5e5 =
+!important}table[width=3D"610"],*[id]#body_container,*[id]#cta_container{t=
+able-layout:fixed}*[id]#cta_outer{border:none !important}*[id]#header_prof=
+ile>table>tbody>tr>td:not(:nth-child(4)){display:none =
+!important}*[id]#profile_name{display:none}*[id]#profile_pic{-moz-border-r=
+adius:3px !important;-webkit-border-radius:3px =
+!important;border-radius:3px !important;border-width:0 =
+!important;overflow:hidden}*[id]#header_title{width:auto =
+!important}*[id]#header_profile{width:24px}*[class].bio{display:none =
+!important}*[id]#main_content{width:100%}*[class].content>div =
+a{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap =
+!important;width:160px}*[class].ext{padding-right:20px}*[class].image =
+a{display:block;margin-left:20px}*[class].cta_btn,*[class].scnd_btn{displa=
+y:block}*[id]#email_cta>tbody>tr>td[width=3D"100%"]{display:none}}@media =
+all and (device-width: 720px){table[width=3D"610"],*[id]#body_container,*[=
+id]#footer_container{width:340px}*[id]#email_filler td{height:12px =
+!important}*[class].usercard{width:300px !important}}@media all and =
+(max-device-width: =
+480px){*[id]#cta_container>table>tbody>tr>td[height=3D"15"]{display:none =
+!important}}@media all and (device-width: 320px){table[width=3D"610"],*[id=
+]#body_container,*[id]#cta_container{min-width:400px;width:auto}center{pad=
+ding:0 10px}*[class].content>div a{width:182px}}@media screen and =
+(max-width: 512px){*[id]#welcome_header{font-size:20px =
+!important}*[id]#welcome_header_username{font-size:20px =
+!important}*[id]#welcome_body{font-size:15px =
+!important}*[id]#welcome_cta{font-size:17px =
+!important}*[id]#welcome_header_wrapper{padding:4px 16px 0 16px =
+!important}*[id]#welcome_body_wrapper{padding:12px 16px 0 16px =
+!important}*[id]#welcome_cta_wrapper{padding:28px 16px 24px 16px =
+!important}*[id]#instagram_footer{padding:16px 0x 12px 0 =
+!important}}</style></head><body style=3D"margin:0;padding:0;" =
+dir=3D"ltr"><table cellspacing=3D"0" cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;padding:0px;ba=
+ckground:#ffffff;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0;background-color:#fff;border-left:none;border-right:none;=
+border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"padding:0;width:100%;"><span style=3D"color:#FFFFFF;display:none =
+!important;font-size:1px;">Te damos la bienvenida a Instagram, =
+canterburychile Confirma tu direcci=C3=B3n de correo electr=C3=B3nico para =
+comenzar a capturar y compartir tus momentos con todo el mundo. Confirmar =
+direcci=C3=B3n de correo electr=C3=B3nico</span></td></tr><tr><td =
+style=3D"padding:0;width:100%;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" height=3D"48px" bgcolor=3D"2b5a83" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D""><center><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td align=3D"left" =
+id=3D"header_title" style=3D"width:100%;line-height:0px;"><center><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><td style=3D""><img =
+src=3D"https://fbstatic-a.akamaihd.net/rsrc.php/v1/yt/r/RbfOnQTXuhF.jpg" =
+width=3D"128" height=3D"40" style=3D"border:0;" /></td></table></center></=
+td></tr></table></center></td></tr></table></td></tr><tr><td =
+style=3D"padding:0;width:100%;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" bgcolor=3D"#ffffff" id=3D"table_color" =
+style=3D"border-collapse:collapse;"><td style=3D""><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" id=3D"email_filler" =
+style=3D"border-collapse:collapse;"><td height=3D"19" =
+style=3D"">&nbsp;</td></table><center><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"480px" =
+style=3D"border-collapse:collapse;max-width:480px;width:auto;"><tr><td =
+align=3D"left" id=3D"body_container" style=3D"background-color:#ffffff;bor=
+der-color:#c1c2c4;border-style:solid;display:block;border:none;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><td style=3D""><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td height=3D"24px" =
+id=3D"welcome_header_wrapper" style=3D"padding:20px 24px 0px 24px;"><span =
+style=3D"font-size:22px;line-height:32px;font-weight:500;font-family:Helve=
+tica Neue,Helvetica,Arial,sans-serif;" id=3D"welcome_header">Te damos la =
+bienvenida a Instagram, <a id=3D"header_username" style=3D"color:#2b5a83;t=
+ext-decoration:none;font-size:22px;line-height:32px;font-family:Helvetica =
+Neue,Helvetica,Arial,sans-serif;" href=3D"http://www.instagram.com/canterb=
+urychile">canterburychile</a></span></td></tr></table><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td height=3D"20px" =
+id=3D"welcome_body_wrapper" style=3D"padding:16px 24px 0px 24px;"><span =
+style=3D"font-size:16px;line-height:20px;font-family:Helvetica =
+Neue,Helvetica,Arial,sans-serif;" id=3D"welcome_body">Confirma tu =
+direcci=C3=B3n de correo electr=C3=B3nico para comenzar a capturar y =
+compartir tus momentos con todo el mundo.</span></td></tr></table><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td height=3D"17px" =
+id=3D"welcome_cta_wrapper" style=3D"padding:30px 0px 38px 0px;"><center><a =
+id=3D"welcome_cta" style=3D"color:#2b5a83;text-decoration:none;border-radi=
+us:3px;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid =
+#2b5a83;padding:10px 19px 12px 19px;font-size:17px;font-weight:500;white-s=
+pace:nowrap;border-collapse:collapse;display:inline-block;font-family:Helv=
+etica Neue,Helvetica,Arial,sans-serif;" href=3D"https://instagram.com/acco=
+unts/confirm_email/IkA1SP8T/dmVudGFzQGNjY2NoaWxlLmNs/?app_redirect=3DFalse=
+">Confirmar direcci=C3=B3n de correo electr=C3=B3nico</a></center></td></t=
+r></table></td></table></td></tr></table></center></td></table></td></tr><=
+tr><td style=3D"padding:0;width:100%;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D""><center><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"border-collapse:collapse;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+id=3D"instagram_footer" border=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:12px;font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;padding:24px 0px 24px =
+0px;border-left:none;border-right:none;border-top:solid 1px =
+#c9cbcd;border-bottom:none;color:#888888;font-weight:300;line-height:20px;=
+text-align:center;">Si no creaste una cuenta de Instagram con esta =
+direcci=C3=B3n de correo electr=C3=B3nico, <a href=3D"https://instagram.co=
+m/accounts/remove/report_wrong_email/sqighv/3zr-4081d7a69825eb34840c/JUSZn=
+fxG/dmVudGFzQGNjY2NoaWxlLmNs/" =
+style=3D"color:#888888;text-decoration:underline;font-family:Helvetica =
+Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;font-weight:b=
+old;">inf=C3=B3rmanos</a>.</td></tr></table></td></tr></table></center></t=
+d></tr></table></td></tr></table></td></tr></table><span =
+style=3D"width:100%;"><img src=3D"https://www.facebook.com/email_open_log_=
+pic.php?mid=3DHMTkwOTU0NDY4OnZlbnRhc0BjY2NjaGlsZS5jbDo1Njc" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_dc031e3301569169e563c091d37d01f9--
+

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-01-18 12:27:57
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:18:56
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/customer_threads/helpers/view/view.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:5818141454bbd0fd1bd6a2-25834959%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:136543097655477fd0554173-03229289%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -35,7 +35,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '5818141454bbd0fd1bd6a2-25834959',
+  'nocache_hash' => '136543097655477fd0554173-03229289',
   'function' => 
   array (
   ),
@@ -46,17 +46,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_54bbd0fdc6fc93_10786271',
+  'unifunc' => 'content_55477fd16e7870_59014671',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54bbd0fdc6fc93_10786271')) {function content_54bbd0fdc6fc93_10786271($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477fd16e7870_59014671')) {function content_55477fd16e7870_59014671($_smarty_tpl) {?>
 
 <div class="leadin"></div>
 
 
 <?php /*  Call merged included template "./modal.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./modal.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '5818141454bbd0fd1bd6a2-25834959');
-content_54bbd0fd653243_88551206($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./modal.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '136543097655477fd0554173-03229289');
+content_55477fd0ba1f51_51411392($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "./modal.tpl" */?>
 <div class="panel">
 	<div class="panel-heading">
@@ -146,8 +146,8 @@ $_smarty_tpl->tpl_vars['action']->_loop = true;
 						<?php if (!$_smarty_tpl->tpl_vars['first_message']->value['id_employee']){?>
 							<?php /*  Call merged included template "./message.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./message.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('message'=>$_smarty_tpl->tpl_vars['first_message']->value,'initial'=>true), 0, '5818141454bbd0fd1bd6a2-25834959');
-content_54bbd0fda35026_43499689($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./message.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('message'=>$_smarty_tpl->tpl_vars['first_message']->value,'initial'=>true), 0, '136543097655477fd0554173-03229289');
+content_55477fd0ef45c5_29867764($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "./message.tpl" */?>
 						<?php }?>
 					</div>
@@ -163,8 +163,8 @@ $_smarty_tpl->tpl_vars['message']->_loop = true;
 ?>
 			<?php /*  Call merged included template "./message.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./message.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('message'=>$_smarty_tpl->tpl_vars['message']->value,'initial'=>false), 0, '5818141454bbd0fd1bd6a2-25834959');
-content_54bbd0fda35026_43499689($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("./message.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('message'=>$_smarty_tpl->tpl_vars['message']->value,'initial'=>false), 0, '136543097655477fd0554173-03229289');
+content_55477fd0ef45c5_29867764($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "./message.tpl" */?>
 		<?php } ?>
 	</div>
@@ -230,8 +230,8 @@ $_smarty_tpl->tpl_vars['timeline_item']->_loop = true;
 ?>
 				<?php /*  Call merged included template "controllers/customer_threads/helpers/view/timeline_item.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("controllers/customer_threads/helpers/view/timeline_item.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('timeline_item'=>$_smarty_tpl->tpl_vars['timeline_item']->value), 0, '5818141454bbd0fd1bd6a2-25834959');
-content_54bbd0fdb96bd0_42328225($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate("controllers/customer_threads/helpers/view/timeline_item.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('timeline_item'=>$_smarty_tpl->tpl_vars['timeline_item']->value), 0, '136543097655477fd0554173-03229289');
+content_55477fd11558e1_94693659($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "controllers/customer_threads/helpers/view/timeline_item.tpl" */?>
 			<?php } ?>
 		<?php } ?>
@@ -307,9 +307,9 @@ if (!empty($_capture_buffer)) {
 	<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['hook'][0][0]->smartyHook(array('h'=>$_smarty_tpl->tpl_vars['hookName']->value),$_smarty_tpl);?>
 
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-01-18 12:27:57
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:18:56
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/customer_threads/helpers/view/modal.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_54bbd0fd653243_88551206')) {function content_54bbd0fd653243_88551206($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477fd0ba1f51_51411392')) {function content_55477fd0ba1f51_51411392($_smarty_tpl) {?>
 
 <form action="<?php echo $_smarty_tpl->tpl_vars['link']->value->getAdminLink('AdminCustomerThreads');?>
 &viewcustomer_thread&id_customer_thread=<?php echo $_smarty_tpl->tpl_vars['id_customer_thread']->value;?>
@@ -380,9 +380,9 @@ $_smarty_tpl->tpl_vars['employee']->_loop = true;
 		else
 			$("button[name='submitForward']").prop('disabled', 'disabled');
 	});
-</script><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-01-18 12:27:57
+</script><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:18:56
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/customer_threads/helpers/view/message.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_54bbd0fda35026_43499689')) {function content_54bbd0fda35026_43499689($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477fd0ef45c5_29867764')) {function content_55477fd0ef45c5_29867764($_smarty_tpl) {?>
 
 <?php if (!$_smarty_tpl->tpl_vars['message']->value['id_employee']){?>
 	<?php $_smarty_tpl->tpl_vars["type"] = new Smarty_variable("customer", null, 0);?>
@@ -425,9 +425,9 @@ $_smarty_tpl->tpl_vars['employee']->_loop = true;
 		<p class="message-item-text"><?php echo $_smarty_tpl->tpl_vars['message']->value['message'];?>
 </p>
 	</div>
-</div><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-01-18 12:27:57
+</div><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:18:57
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/controllers/customer_threads/helpers/view/timeline_item.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_54bbd0fdb96bd0_42328225')) {function content_54bbd0fdb96bd0_42328225($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477fd11558e1_94693659')) {function content_55477fd11558e1_94693659($_smarty_tpl) {?>
 
 <article class="timeline-item <?php if (isset($_smarty_tpl->tpl_vars['timeline_item']->value['alt'])){?> alt <?php }?>">
 	<div class="timeline-caption">

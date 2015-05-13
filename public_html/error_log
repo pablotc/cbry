@@ -131,3 +131,60 @@ Stack trace:
 #1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templateparser.php(3209): Smarty_Internal_Templateparser->yy_syntax_error(40, '*  ')
 #2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_smartytemplatecompiler.php(105): Smarty_Internal_Templateparser->doParse(40, '*  ')
 #3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php(206): Smarty_Internal_SmartyTemplateCompiler->doCompile('{*\n* 2007-2014 ... in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatecompilerbase.php on line 667
+[10-Mar-2015 15:25:29 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/socialsharing/16/68/b7/3e/8f/wrt54ff3719ca24e8.54876816' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('\t<p class="soci...')
+#4 /home2/amo in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[07-Apr-2015 00:03:25 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/57/1/68/85/51/a0/wrt552348fd813e93.49290396' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('')
+#4 /home2/amorale in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[08-Apr-2015 13:37:54 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/45/1/68/85/51/a0/wrt5525596221dde9.65919439' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('')
+#4 /home2/amorale in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[20-Apr-2015 10:06:04 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/67/1/68/85/51/a0/wrt5534f9bc25e9d9.52223365' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('')
+#4 /home2/amorale in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[24-Apr-2015 11:15:59 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/67/1/68/85/51/a0/wrt553a501fe68b30.14455018' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('')
+#4 /home2/amorale in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[28-Apr-2015 22:16:44 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/crossselling/productfooter/58/1/68/85/51/a0/wrt55403f0c30f7e9.71494613' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('')
+#4 /home2/amorale in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[29-Apr-2015 19:33:51 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/cache/productscategory/62/13/1/68/6a/d4/04/wrt55416a5f6bf738.49613197' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_cacheresource_file.php(102): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /*%%Smart...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_cacheresource.php(367): Smarty_Internal_CacheResource_File->writeCachedContent(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#2 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(230): Smarty_Template_Cached->write(Object(Smarty_Internal_Template), '<?php /*%%Smart...')
+#3 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(259): Smarty_Internal_Template->writeCachedContent('<section class=...')
+#4 /ho in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[04-May-2015 10:16:08 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/compile/98/4a/49/wrt55477f28c607d8.15656452' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(201): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /* Smarty...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(155): Smarty_Internal_Template->compileTemplateSource()
+#2 /home2/amorales/public_html/classes/module/Module.php(2020): Smarty_Internal_TemplateBase->fetch()
+#3 /home2/amorales/public_html/modules/blocksearch/blocksearch.php(116): ModuleCore->display('/home2/amorales...', 'blocksearch-top...', 'blocksearch-top...')
+#4 /home2/amorales/public_html/classes/Hook.php(509): BlockSearch->hookTop(Array)
+#5 /home2/amorales/public_html/classes/controller/FrontController.php(448): HookCore::exe in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44

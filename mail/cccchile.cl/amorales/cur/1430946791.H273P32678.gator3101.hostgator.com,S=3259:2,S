@@ -1,0 +1,78 @@
+Return-path: <felipe.olivares@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 06 May 2015 16:13:11 -0500
+Received: from mail-ie0-f176.google.com ([209.85.223.176]:35942)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <felipe.olivares@gmail.com>)
+	id 1Yq6cw-0008R7-Mn
+	for amorales@cccchile.cl; Wed, 06 May 2015 16:13:10 -0500
+Received: by iecnq11 with SMTP id nq11so24860990iec.3
+        for <amorales@cccchile.cl>; Wed, 06 May 2015 14:13:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ut4KHMlMi9Irk6TV/qqTb79litPvduBFoujWo641EfE=;
+        b=dGrMltlRYmzrB1MJgR30wIvpo1r3/M2mHxq9dYlaMm7SZ9DX3YJQ2cRb//tRohmdZn
+         73yuKM5FEMtvLkLpsvcnjHNzrurG01bWJ1hgcXvXRVzttibRxxgZ2uHw3esQpDWPIBDm
+         IdDi3Yu+wBRuQTbsvxvEN1Pq9Kdgf/TePlzPP4STfnLZ8I+hLB0WDMkNsRb5xCQD0HdA
+         1sEX3FMLLClyvki6x9gqBWkfRe815h0v1EFrH4I67wR2BqXvG9e6TH/a13UrQ4XuWYi3
+         00nP6SsZqu/I6Cqk3KkjaeuhomBZC3IQZdYrAbfxnzZ/mB/rIbSfc5rZNvKLV26Wwbu2
+         gaPw==
+MIME-Version: 1.0
+X-Received: by 10.107.138.130 with SMTP id c2mr920791ioj.74.1430946785846;
+ Wed, 06 May 2015 14:13:05 -0700 (PDT)
+Received: by 10.50.227.134 with HTTP; Wed, 6 May 2015 14:13:05 -0700 (PDT)
+Date: Wed, 6 May 2015 18:13:05 -0300
+Message-ID: <CAFsQWu=8OWS=Ecdj5qS8hy0CzEwscsh_S=68G+FjOV6RThHAmw@mail.gmail.com>
+Subject: Uniformes Dunners-CCC
+From: "Felipe Olivares M." <felipe.olivares@gmail.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>, 
+	Directiva Dunners Hockey <directiva.dunners@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113f284edcebe30515704239
+
+--001a113f284edcebe30515704239
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andr=C3=A9s,
+
+Como te coment=C3=A9 en el d=C3=ADa de ayer, el equipo de Hockey de Ex-Alum=
+nas del
+colegio Dunalastair (DUNNERS) est=C3=A1 actualmente cotizando uniforme, por=
+ lo
+que te contacto con ellas.
+A su vez les coment=C3=A9 que estamos comenzando a trabajar en conjunto, po=
+r lo
+que podr=C3=ADamos ir armando un buen proyecto como Clubes de Rugby&Hockey
+Dunalastair.
+
+Saludos,
+
+Felipe Olivares M.
+Presidente DOBS.
+
+
+
+
+--=20
+Felipe Olivares Mercado.
+Abogado.
+
+--001a113f284edcebe30515704239
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andr=C3=A9s,<div><br></div><div>Como te coment=C3=A9 en el=
+ d=C3=ADa de ayer, el equipo de Hockey de Ex-Alumnas del colegio Dunalastai=
+r (DUNNERS) est=C3=A1 actualmente cotizando uniforme, por lo que te contact=
+o con ellas.=C2=A0</div><div>A su vez les coment=C3=A9 que estamos comenzan=
+do a trabajar en conjunto, por lo que podr=C3=ADamos ir armando=C2=A0<span =
+style=3D"font-size:12.8000001907349px">un buen proyecto como Clubes de Rugb=
+y&amp;Hockey Dunalastair.</span></div><div><br></div><div>Saludos,</div><di=
+v><div><div><br></div><div>Felipe Olivares M.=C2=A0</div><div>Presidente DO=
+BS.</div><div><br></div><div><br></div><div><br></div><div><br></div>-- <br=
+><div>Felipe Olivares Mercado.<br>Abogado.</div>
+</div></div></div>
+
+--001a113f284edcebe30515704239--

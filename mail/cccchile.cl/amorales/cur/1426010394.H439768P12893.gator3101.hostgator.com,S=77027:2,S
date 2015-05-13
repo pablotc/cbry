@@ -1,0 +1,1527 @@
+Return-path: <macarena.concha@dafiti.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 10 Mar 2015 12:59:54 -0500
+Received: from mail-wg0-f46.google.com ([74.125.82.46]:35563)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <macarena.concha@dafiti.cl>)
+	id 1YVORd-0003JH-P4
+	for amorales@cccchile.cl; Tue, 10 Mar 2015 12:59:54 -0500
+Received: by wggy19 with SMTP id y19so3665468wgg.2
+        for <amorales@cccchile.cl>; Tue, 10 Mar 2015 10:59:50 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=y/EQPtLoGocrHTmx6AMauFgcxrfqPH1/0NnCiifeqg4=;
+        b=jp2ZuoPLT0f+QP9T5uHcK00ThYs6VFNLj1qvcpYtvsC6Yi0pqgJLnTGcEB4fNMq2nh
+         LJIZbzdhIFyZE7yrAojqkIkUUIWX2yEnFEQ5EUj6/L6RTVSal4LceAR7irVJu8InMohW
+         GRUTCCTfsuUSsvKD7cFgX9WvHYwYQ9y4diazIq2WEKmg1l/Fke8cAlTkZCcjxeKnjmyi
+         KyUUNn0V2LTR1zLBS8tQ/eTXCXsuIKVNcNofuODW3KE1R1KKKh8jWk5wjWPBfZebOtEg
+         +18FjlmSeUaOgxSrpBTFC6GO50Q4CIMTHhxWBA3ZgxwpXTLM6yWtETsya9kvO7Zke9mI
+         YyEA==
+X-Gm-Message-State: ALoCoQkHSjaiRPHKPJcU2WlEaJ7vd+FTQiMnM8vxls1mFcpvoAKBGoMdDWd9n4RHOFE8EBPuH7I1
+MIME-Version: 1.0
+X-Received: by 10.180.210.231 with SMTP id mx7mr40053425wic.31.1426010390530;
+ Tue, 10 Mar 2015 10:59:50 -0700 (PDT)
+Received: by 10.194.69.71 with HTTP; Tue, 10 Mar 2015 10:59:50 -0700 (PDT)
+In-Reply-To: <CAJr24H9VPy4D0XLiWVZXv1hfaC7arEL9DLsyncBPsQBBRX8X7A@mail.gmail.com>
+References: <CAJr24H8LSToukOD3u+fOJ_jPbS6+fj+aBwncn=QvrR17sBWADQ@mail.gmail.com>
+	<CAJr24H-=TtgSQE99fVNZxzP5mAg3PU8z49vNfzB4Knph=vFc7g@mail.gmail.com>
+	<006001d05132$e4d65210$ae82f630$@spindeportes.cl>
+	<CAJr24H-9TGhAV6xUH-_K1d34_oAVxM41u3pwe5J7KXTqcfaNQw@mail.gmail.com>
+	<040c01d05289$4031d830$c0958890$@spindeportes.cl>
+	<CAJr24H-LYCBa47r=RHSQYFTMUi3CG72+zjSNoZy_G56wYt+obQ@mail.gmail.com>
+	<044e01d0529f$c4b5c970$4e215c50$@spindeportes.cl>
+	<CAJr24H9gpt=x+Kw84+0OQ6NaON1JcU8qSDopCHi-JVOTXE=vBQ@mail.gmail.com>
+	<CAJr24H8WUfr-KDM-QPbzoFYMP4L896_df-5CZWsKp8_BQQDLJw@mail.gmail.com>
+	<05d701d05508$a522e050$ef68a0f0$@spindeportes.cl>
+	<CAJr24H-bUh4K2TotDu341YCv7Bu66KK8dfMJ0JNixSUp10_Wzg@mail.gmail.com>
+	<CAJr24H-bwNT1qB1NDaBFpznejjZCxOrzRDFzz5AXnC2b1vEPsA@mail.gmail.com>
+	<010501d0568f$da61a9d0$8f24fd70$@spindeportes.cl>
+	<CAJr24H82rfLe+o6M8-YwXO0XCmYcg0w51t8pUNKFM3M621S9Fg@mail.gmail.com>
+	<CAJr24H-dL-GN1SHkBD8Aw0dO6y7=cr1s4F80_w=wQp=9puHuSg@mail.gmail.com>
+	<CAJr24H_zjgpVkOGx=F1pw5eJarYGnY9pgXtpx6g2M3XHMsCsnQ@mail.gmail.com>
+	<CAJr24H-e44hC9eQHpSKOR9uKVX_zY0Pm_DyMXoW4r=OSJF=WLw@mail.gmail.com>
+	<CAJr24H9VPy4D0XLiWVZXv1hfaC7arEL9DLsyncBPsQBBRX8X7A@mail.gmail.com>
+Date: Tue, 10 Mar 2015 13:59:50 -0400
+Message-ID: <CAJr24H-vttHtjNqsfhYxqLqgRoFv=ACpghRT1kDSkQHuJSamPg@mail.gmail.com>
+Subject: Re: pack five blu
+From: Macarena Concha <macarena.concha@dafiti.cl>
+To: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+Cc: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/related; boundary=001a11c25d32c6b91a0510f2eaa0
+
+--001a11c25d32c6b91a0510f2eaa0
+Content-Type: multipart/alternative; boundary=001a11c25d32c6b9150510f2ea9f
+
+--001a11c25d32c6b9150510f2ea9f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andres
+Podria ir para tu of el jueves a las 3:30 PM o viernes a las 9:30 AM,
+confirmame que les acomoda mejor
+
+Gracias
+Maca
+
+El 9 de marzo de 2015, 12:21 p. m., Macarena Concha<
+macarena.concha@dafiti.cl> escribi=C3=B3:
+
+> Hola Guillermo
+> Revisaron los estampados??
+>
+> Espero su respuesta para que =C2=B4podamos avanzar
+>
+> Gracias
+> Maca
+>
+> El 6 de marzo de 2015, 11:19 a. m., Macarena Concha<
+> macarena.concha@dafiti.cl> escribi=C3=B3:
+>
+> Hola Guillermo
+>> Te adjunto estampado numero 3 y la ubicacion que tendria que tener.
+>> este estampado te lo mando en psd, para que se puedan cambiar colores si
+>> es necesario.
+>>
+>> cuentame si las resoluciones estan ok
+>>
+>> espero tu respuesta
+>> Gracias
+>> Maca
+>>
+>>
+>>
+>>
+>> El 6 de marzo de 2015, 11:04 a. m., Macarena Concha<
+>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>
+>> Hola Guillermo
+>>> Te adjunto el estampado numero 2.
+>>> Este estampado de arboles va en la parte de abajo de una polera de lado
+>>> a lado.
+>>> Medidas: altura 24 cms x 65 cms de ancho (es de lado a lado)
+>>>
+>>> espero tu confirmacion
+>>> Gracias
+>>> Maca
+>>>
+>>>
+>>>
+>>>
+>>> El 6 de marzo de 2015, 11:02 a. m., Macarena Concha<
+>>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>>
+>>> Hola Guillermo
+>>>> Te voy a mandar tres mails con diferentes prints. Hay de diferentes
+>>>> medidas y grados de complejidad para ver si lo podemos lograr, seria
+>>>> increible!
+>>>>
+>>>> Estampado LA: 30 cms x 50 cms (el estampado va en el centro de la
+>>>> polera, adjunto referencia)
+>>>> Por favor confirmame que recibiste el mail y que esta ok.
+>>>>
+>>>> Gracias
+>>>> Maca
+>>>>
+>>>>
+>>>>
+>>>> El 5 de marzo de 2015, 4:07 p. m., Macarena Concha<
+>>>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>>>
+>>>>> Estoy trabajando en esto! te mando lo antes posible
+>>>>>
+>>>>> El 4 de marzo de 2015, 11:28 a. m., Guillermo Morales - Spin Ltda<
+>>>>> gmorales@spindeportes.cl> escribi=C3=B3:
+>>>>>
+>>>>> Macarena
+>>>>>>
+>>>>>> Los estampados delanteros tienen unos 25 de ancho por 30 de alto.
+>>>>>> aprox. La foto en la mejor resoluci=C3=B3n que encuentres.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *De:* Macarena Concha [mailto:macarena.concha@dafiti.cl]
+>>>>>> *Enviado el:* mi=C3=A9rcoles, 04 de marzo de 2015 12:24
+>>>>>> *Para:* Guillermo Morales - Spin Ltda
+>>>>>> *CC:* Andr=C3=A9s Morales (CCC-CHILE)
+>>>>>>
+>>>>>> *Asunto:* Re: pack five blu
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Guillermo
+>>>>>>
+>>>>>> dime entonces las medidas del estampado que necesitas, porque
+>>>>>> necesito poder ver muestras luego.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Muchas gracias
+>>>>>>
+>>>>>> Saludos
+>>>>>>
+>>>>>> Maca
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 2 de marzo de 2015, 2:07 p. m., Macarena Concha<
+>>>>>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>>>>>
+>>>>>> Hola Guillermo
+>>>>>>
+>>>>>> Pero no te sirve la imagen de ninguna de las poleras??
+>>>>>>
+>>>>>> Que le puedan hacer zoom y estampar?
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Espero tu respuesta
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>> Maca
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 2 de marzo de 2015, 12:47 p. m., Guillermo Morales - Spin Ltda<
+>>>>>> gmorales@spindeportes.cl> escribi=C3=B3:
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Macarena
+>>>>>>
+>>>>>> Asi no me sirve para imprimir. Necesito las fotos que quieren aplica=
+r
+>>>>>> , no la imagen de la prenda. Lo otrom seria tener la muestra f=C3=AD=
+sica con el
+>>>>>> estampado.
+>>>>>>
+>>>>>> saludos
+>>>>>>
+>>>>>> GM
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *De:* Macarena Concha [mailto:macarena.concha@dafiti.cl]
+>>>>>> *Enviado el:* lunes, 02 de marzo de 2015 13:25
+>>>>>>
+>>>>>>
+>>>>>> *Para:* Guillermo Morales - Spin Ltda; Andr=C3=A9s Morales (CCC-CHIL=
+E)
+>>>>>> *Asunto:* Re: pack five blu
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Hola Andres/Guillermo
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Les adjunto algunos estampados.
+>>>>>>
+>>>>>> Por favor me cuentan si sirven o que tendr=C3=ADamos que hacer para =
+que
+>>>>>> sirvieran.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> - El print 7 me encantaria poder hacerlo para que por favor le pidan
+>>>>>> ayuda a su dise=C3=B1adora, ya que no esta toda la imagen.
+>>>>>>
+>>>>>> - Del print 8 estoy mandando dos fotos, la idea es poner una imagen
+>>>>>> playera con degrade detras de triangulos demarcados blancos. (por fa=
+vor
+>>>>>> confirmenme si se entiende, sino se los explico por telefono)
+>>>>>>
+>>>>>> -cuentenme si es posible hacer algo full print como el print 10 y 12=
+.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> espero sus respuesta para ver como proseguimos
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>> Maca
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 27 de febrero de 2015, 11:34 a. m., Macarena Concha<
+>>>>>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>>>>>
+>>>>>> Guillermo
+>>>>>>
+>>>>>> Mis respuestas en morado.
+>>>>>>
+>>>>>> Recuerda darme el tama=C3=B1o aprox que necesitas para el estampado =
+de las
+>>>>>> poleras.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>> Macarena
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> ---------- Mensaje enviado ----------
+>>>>>> De: *Guillermo Morales - Spin Ltda* <gmorales@spindeportes.cl>
+>>>>>> Fecha: 27 de febrero de 2015, 11:12 a. m.
+>>>>>> Asunto: RE: pack five blu
+>>>>>> Para: Macarena Concha <macarena.concha@dafiti.cl>, "Andr=C3=A9s Mora=
+les
+>>>>>> (CCC-CHILE)" <amorales@cccchile.cl>
+>>>>>>
+>>>>>> Macarena
+>>>>>>
+>>>>>> Mis respuestas en rojo.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *De:* Macarena Concha [mailto:macarena.concha@dafiti.cl]
+>>>>>> *Enviado el:* viernes, 27 de febrero de 2015 10:45
+>>>>>> *Para:* Guillermo Morales - Spin Ltda; Andr=C3=A9s Morales (CCC-CHIL=
+E)
+>>>>>> *Asunto:* Re: pack five blu
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Hola Guillermo, mis respuestas en *negrita*.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Tengo algunas dudas:
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> 1- Con Serigrafia te refieres a estampado?? Solo por eso podr=C3=ADa=
+n
+>>>>>> variar los precios?? Yo necesito estar clara con el precio de las po=
+leras
+>>>>>> b=C3=A1sicas (modelo 1 y 2), porque son mis poleras de primer precio=
+.
+>>>>>>
+>>>>>> SI, los precios de los  estampados con serigraf=C3=ADa dependen de l=
+a
+>>>>>> cantidad de colores y de cantidades minimas. Solo esos precios puede=
+n
+>>>>>> variar. Poleras 1 y 2 fijas.
+>>>>>>
+>>>>>> *Ok perfecto lo del precio, me averiguas cuales son los minimos para
+>>>>>> estampados por favor?*
+>>>>>>
+>>>>>> Sobre 300 unds. no hay cobro de matriceria y de set up  (puesta en
+>>>>>> maquina)
+>>>>>>
+>>>>>> Imposible 300 u, habra que considerar cobro de matriceria y set up
+>>>>>> entonces, cuanto podria subir una plera, tienes una idea?
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> 2- Tus precios consideran las etiquetas?
+>>>>>>
+>>>>>> Si las consideran. *Ok*
+>>>>>>
+>>>>>> 3- Son sin iva?
+>>>>>>
+>>>>>> si son precios netos mas iva. *Ok*
+>>>>>>
+>>>>>> 4- El precio de la segunda polera ($3900) incluye bordado?
+>>>>>>
+>>>>>> si lo incluye. *Ok*
+>>>>>>
+>>>>>> 5- La quinta polera ( la tipo polo de algodon de $5900), la
+>>>>>> necesitaria a $5500, es posible?. Confirmame que tambien incluye bor=
+dado.
+>>>>>>
+>>>>>> Incluye bordado. Dejala en $5.700 *No me da, veamos como queda la
+>>>>>> muestra para ver si la puedo vender m=C3=A1s cara.*
+>>>>>>
+>>>>>> Ok. Desarrollemosla y revisamos el precio, Ok
+>>>>>>
+>>>>>> 6- Acerca de los polerones, necesitaria tener uno a $8000 para que
+>>>>>> sea mi punta de precio.
+>>>>>>
+>>>>>> Te puedo dejar solo el mas b=C3=A1sico sin cierre a ese precio *Ok*
+>>>>>>
+>>>>>> 7- Estuve mirando la tela blanca que estampamos y me dio nervio que
+>>>>>> fuera demasiado transparente y quedara muy tela de cebolla, tu con t=
+u
+>>>>>> experiencia que crees?? Sera adecuada? Tu crees que la tela azul que
+>>>>>> tambien te pasaron ser=C3=A1 mas pesada o sera s=C3=B3lo efecto del =
+color?  Tu tienes
+>>>>>> otras opciones de telas? Las que tu usas generalmente son mas 100% c=
+otton,
+>>>>>> con polyester o elastano?
+>>>>>>
+>>>>>> si, hagamos todo en un jersey intermedio que este entre esa muestra
+>>>>>> delgad=C3=ADsima que estampamos y la tela de la polera de muestra nu=
+estra. Vere
+>>>>>> que hay disponible. Siempre el color blanco tiene menos peso que los
+>>>>>> colores. Las que usamos nosotros normalmente son 100% poli=C3=A9ster=
+ o con
+>>>>>> poli=C3=A9ster elastano porque son para deportes.
+>>>>>>
+>>>>>> *Podrias aprovechar de ver si tienen telas con spandex?? Vimos varia=
+s
+>>>>>> en americanino que tenian elastano y se veian bien buenas.*
+>>>>>>
+>>>>>> Los precios que necesitas no dan para trabajar telas con elastano
+>>>>>> porque son un 40% mas caras.
+>>>>>>
+>>>>>> Podrias por favor conseguirte una tela igual y si quedan increibles
+>>>>>>  hacemos un par de modelos mas caros .
+>>>>>>
+>>>>>> *Por fa hagamos tambi=C3=A9n alguna muestra con la tela delgadita pa=
+ra ver
+>>>>>> como queda.*
+>>>>>>
+>>>>>> OK. Gracias
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> 8- Necesitar=C3=ADa que me desarrollaras las muestras fisicas para p=
+oder
+>>>>>> chequear que quedaran como las originales.
+>>>>>>
+>>>>>> OK. partiremos con el desarrollo. Mandame las fotos o estampados que
+>>>>>> deber=C3=ADa aplicar en las prendas estampadas. Tambien m=C3=A1ndame=
+ alguna
+>>>>>> aplicaci=C3=B3n para desarrollar un primer poleron a ver si nos acer=
+camos a la
+>>>>>> muestra que nos llevaste.
+>>>>>>
+>>>>>> *Dime por favor el tama=C3=B1o aprox que necesitas para el estampado=
+ para
+>>>>>> buscar alguno que nos sirva.*
+>>>>>>
+>>>>>> *A que te refieres con aplicacion para el poleron?? Un estampado?
+>>>>>> Bordado?? Me gustaria que usaramos de tirador unos cordones anchos p=
+lanos
+>>>>>> como los de la foto del poleron burdeo con cierre que estaba en la
+>>>>>> planilla.*
+>>>>>>
+>>>>>> *Por favor cuiden las muestras del Larra, que me mata si las rompen.=
+*
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *Gracias!*
+>>>>>>
+>>>>>> *Espero tu respuesta *
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> saludos
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 27 de febrero de 2015, 8:30 a. m., Guillermo Morales - Spin Ltda<
+>>>>>> gmorales@spindeportes.cl> escribi=C3=B3:
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *De:* Macarena Concha [mailto:macarena.concha@dafiti.cl]
+>>>>>> *Enviado el:* jueves, 26 de febrero de 2015 12:28
+>>>>>> *Para:* Guillermo Morales - Spin Ltda
+>>>>>> *CC:* Andr=C3=A9s Morales
+>>>>>> *Asunto:* Re: pack five blu
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Hola Guillermo
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Tengo algunas dudas:
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> 1- Con Serigrafia te refieres a estampado?? Solo por eso podr=C3=ADa=
+n
+>>>>>> variar los precios?? Yo necesito estar clara con el precio de las po=
+leras
+>>>>>> b=C3=A1sicas (modelo 1 y 2), porque son mis poleras de primer precio=
+.
+>>>>>>
+>>>>>> SI, los precios de los  estampados con serigraf=C3=ADa dependen de l=
+a
+>>>>>> cantidad de colores y de cantidades minimas. Solo esos precios puede=
+n
+>>>>>> variar. Poleras 1 y 2 fijas.
+>>>>>>
+>>>>>> 2- Tus precios consideran las etiquetas?
+>>>>>>
+>>>>>> Si las consideran.
+>>>>>>
+>>>>>> 3- Son sin iva?
+>>>>>>
+>>>>>> si son precios netos mas iva.
+>>>>>>
+>>>>>> 4- El precio de la segunda polera ($3900) incluye bordado?
+>>>>>>
+>>>>>> si lo incluye.
+>>>>>>
+>>>>>> 5- La quinta polera ( la tipo polo de algodon de $5900), la
+>>>>>> necesitaria a $5500, es posible?. Confirmame que tambien incluye bor=
+dado.
+>>>>>>
+>>>>>> Incluye bordado. Dejala en $5.700
+>>>>>>
+>>>>>> 6- Acerca de los polerones, necesitaria tener uno a $8000 para que
+>>>>>> sea mi punta de precio.
+>>>>>>
+>>>>>> Te puedo dejar solo el mas b=C3=A1sico sin cierre a ese precio
+>>>>>>
+>>>>>> 7- Estuve mirando la tela blanca que estampamos y me dio nervio que
+>>>>>> fuera demasiado transparente y quedara muy tela de cebolla, tu con t=
+u
+>>>>>> experiencia que crees?? Sera adecuada? Tu crees que la tela azul que
+>>>>>> tambien te pasaron ser=C3=A1 mas pesada o sera s=C3=B3lo efecto del =
+color?  Tu tienes
+>>>>>> otras opciones de telas? Las que tu usas generalmente son mas 100% c=
+otton,
+>>>>>> con polyester o elastano?
+>>>>>>
+>>>>>> si, hagamos todo en un jersey intermedio que este entre esa muestra
+>>>>>> delgad=C3=ADsima que estampamos y la tela de la polera de muestra nu=
+estra. Vere
+>>>>>> que hay disponible. Siempre el color blanco tiene menos peso que los
+>>>>>> colores. Las que usamos nosotros normalmente son 100% poli=C3=A9ster=
+ o con
+>>>>>> poli=C3=A9ster elastano porque son para deportes.
+>>>>>>
+>>>>>> 8- Necesitar=C3=ADa que me desarrollaras las muestras fisicas para p=
+oder
+>>>>>> chequear que quedaran como las originales.
+>>>>>>
+>>>>>> OK. partiremos con el desarrollo. Mandame las fotos o estampados que
+>>>>>> deber=C3=ADa aplicar en las prendas estampadas. Tambien m=C3=A1ndame=
+ alguna
+>>>>>> aplicaci=C3=B3n para desarrollar un primer poleron a ver si nos acer=
+camos a la
+>>>>>> muestra que nos llevaste.
+>>>>>>
+>>>>>> saludos
+>>>>>>
+>>>>>> GM
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Espero tu respuesta y confirmacion de los precios
+>>>>>>
+>>>>>> Muchas gracias
+>>>>>>
+>>>>>> Macarena
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 25 de febrero de 2015, 3:40 p. m., Guillermo Morales - Spin Ltda<
+>>>>>> gmorales@spindeportes.cl> escribi=C3=B3:
+>>>>>>
+>>>>>> Macarena:
+>>>>>>
+>>>>>> Te adjunto planilla con precios. Los precios finales igual habr=C3=
+=ADa que
+>>>>>> confirmarlos una vez desarrolladas las muestras sobre todo en las pr=
+endas
+>>>>>> que llevan serigraf=C3=ADa por los costos de matriceria y set up del=
+ estampado.
+>>>>>>
+>>>>>> Saludos
+>>>>>>
+>>>>>> GM
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> *De:* Macarena Concha [mailto:macarena.concha@dafiti.cl]
+>>>>>> *Enviado el:* mi=C3=A9rcoles, 25 de febrero de 2015 15:40
+>>>>>> *Para:* gmorales@spindeportes.cl; Andr=C3=A9s Morales (CCC-CHILE)
+>>>>>> *Asunto:* Re: pack five blu
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Guillermo/Andres
+>>>>>>
+>>>>>> Un gusto conocerlos!!
+>>>>>>
+>>>>>> Les adjunto el archivo excel con los tipos de poleras y polerones qu=
+e
+>>>>>> hariamos.
+>>>>>>
+>>>>>> En varios articulos les pido cotizar tambien con bordado de bigote,
+>>>>>> como para darle un plus a la prenda.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Por favor revisen el tema de los precios y me lo mandan.
+>>>>>>
+>>>>>> Necesito buenos precios por favor!!!
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Cualquier duda me avisan
+>>>>>>
+>>>>>> Que les vaya bien
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>> Macarena
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> El 25 de febrero de 2015, 10:59 a. m., Macarena Concha<
+>>>>>> macarena.concha@dafiti.cl> escribi=C3=B3:
+>>>>>>
+>>>>>>
+>>>>>> Aca les mando las etiquetas de Five Blu.
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> Gracias
+>>>>>>
+>>>>>> Maca
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> [image: Imagen quitada por el remitente.] <http://www.dafiti.cl/>
+>>>>>>
+>>>>>>
+>>>>>> *MACARENA CONCHA*COMPRADORA VESTUARIO MASCULINO
+>>>>>> skype: macarena.concha80
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> <http://www.dafiti.cl/>MACARENA CONCHA
+>>>>> COMPRADORA VESTUARIO MASCULINO
+>>>>> skype: macarena.concha80
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>> <http://www.dafiti.cl/>MACARENA CONCHA
+>>>> COMPRADORA VESTUARIO MASCULINO
+>>>> skype: macarena.concha80
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> <http://www.dafiti.cl/>MACARENA CONCHA
+>>> COMPRADORA VESTUARIO MASCULINO
+>>> skype: macarena.concha80
+>>>
+>>
+>>
+>>
+>> --
+>> <http://www.dafiti.cl/>MACARENA CONCHA
+>> COMPRADORA VESTUARIO MASCULINO
+>> skype: macarena.concha80
+>>
+>
+>
+>
+> --
+> <http://www.dafiti.cl/>MACARENA CONCHA
+> COMPRADORA VESTUARIO MASCULINO
+> skype: macarena.concha80
+>
+
+
+
+--=20
+<http://www.dafiti.cl/>MACARENA CONCHA
+COMPRADORA VESTUARIO MASCULINO
+skype: macarena.concha80
+
+--001a11c25d32c6b9150510f2ea9f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andres<div>Podria ir para tu of el jueves a las 3:30 PM o =
+viernes a las 9:30 AM, confirmame que les acomoda mejor</div><div><br></div=
+><div>Gracias</div><div>Maca</div></div><div class=3D"gmail_extra"><br><div=
+ class=3D"gmail_quote">El 9 de marzo de 2015, 12:21 p.=C2=A0m., Macarena Co=
+ncha<span dir=3D"ltr">&lt;<a href=3D"mailto:macarena.concha@dafiti.cl" targ=
+et=3D"_blank">macarena.concha@dafiti.cl</a>&gt;</span> escribi=C3=B3:<br><b=
+lockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px =
+#ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Guillermo<div>Revisaron =
+los estampados??</div><div><br></div><div>Espero su respuesta para que =C2=
+=B4podamos avanzar</div><div><br></div><div>Gracias</div><div>Maca</div></d=
+iv><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 6 de marzo =
+de 2015, 11:19 a.=C2=A0m., Macarena Concha<span dir=3D"ltr">&lt;<a href=3D"=
+mailto:macarena.concha@dafiti.cl" target=3D"_blank">macarena.concha@dafiti.=
+cl</a>&gt;</span> escribi=C3=B3:<div><div class=3D"h5"><br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pad=
+ding-left:1ex"><div dir=3D"ltr">Hola Guillermo<div>Te adjunto estampado num=
+ero 3 y la ubicacion que tendria que tener.</div><div>este estampado te lo =
+mando en psd, para que se puedan cambiar colores si es necesario.</div><div=
+><br></div><div>cuentame si las resoluciones estan ok</div><span><div><br><=
+/div><div>espero tu respuesta</div><div>Gracias</div><div>Maca</div><div><b=
+r></div><div><br></div><div><br></div></span></div><div class=3D"gmail_extr=
+a"><br><div class=3D"gmail_quote">El 6 de marzo de 2015, 11:04 a.=C2=A0m., =
+Macarena Concha<span dir=3D"ltr">&lt;<a href=3D"mailto:macarena.concha@dafi=
+ti.cl" target=3D"_blank">macarena.concha@dafiti.cl</a>&gt;</span> escribi=
+=C3=B3:<div><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 =
+0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola G=
+uillermo<div>Te adjunto el estampado numero 2.</div><div>Este estampado de =
+arboles va en la parte de abajo de una polera de lado a lado.</div><div>Med=
+idas: altura 24 cms x 65 cms de ancho (es de lado a lado)</div><div><br></d=
+iv><div>espero tu confirmacion</div><div>Gracias</div><div>Maca</div><div><=
+br></div><div><br></div><div><br></div></div><div class=3D"gmail_extra"><br=
+><div class=3D"gmail_quote">El 6 de marzo de 2015, 11:02 a.=C2=A0m., Macare=
+na Concha<span dir=3D"ltr">&lt;<a href=3D"mailto:macarena.concha@dafiti.cl"=
+ target=3D"_blank">macarena.concha@dafiti.cl</a>&gt;</span> escribi=C3=B3:<=
+div><div><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;b=
+order-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Guillermo=
+<div>Te voy a mandar tres mails con diferentes prints. Hay de diferentes me=
+didas y grados de complejidad para ver si lo podemos lograr, seria increibl=
+e!</div><div><br></div><div>Estampado LA: 30 cms x 50 cms (el estampado va =
+en el centro de la polera, adjunto referencia)</div><div>Por favor confirma=
+me que recibiste el mail y que esta ok.</div><div><br></div><div>Gracias</d=
+iv><div><div><div>Maca</div><div><br></div><div><br></div><div class=3D"gma=
+il_extra"><br><div class=3D"gmail_quote">El 5 de marzo de 2015, 4:07 p.=C2=
+=A0m., Macarena Concha<span dir=3D"ltr">&lt;<a href=3D"mailto:macarena.conc=
+ha@dafiti.cl" target=3D"_blank">macarena.concha@dafiti.cl</a>&gt;</span> es=
+cribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Estoy traba=
+jando en esto! te mando lo antes posible</div><div class=3D"gmail_extra"><b=
+r><div class=3D"gmail_quote">El 4 de marzo de 2015, 11:28 a.=C2=A0m., Guill=
+ermo Morales - Spin Ltda<span dir=3D"ltr">&lt;<a href=3D"mailto:gmorales@sp=
+indeportes.cl" target=3D"_blank">gmorales@spindeportes.cl</a>&gt;</span> es=
+cribi=C3=B3:<div><div><br><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div lang=3D"ES" l=
+ink=3D"blue" vlink=3D"purple"><div><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Macarena<u></u><u></u></span></p><p class=3D"MsoNormal"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1f497d">Los estampados delanteros tienen unos 25 de ancho por 30 =
+de alto. aprox. La foto en la mejor resoluci=C3=B3n que encuentres.<u></u><=
+u></u></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=
+=C2=A0<u></u></span></p><p class=3D"MsoNormal"><b><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b=
+><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-=
+serif&quot;"> Macarena Concha [mailto:<a href=3D"mailto:macarena.concha@daf=
+iti.cl" target=3D"_blank">macarena.concha@dafiti.cl</a>] <br><b>Enviado el:=
+</b> mi=C3=A9rcoles, 04 de marzo de 2015 12:24<span><br><b>Para:</b> Guille=
+rmo Morales - Spin Ltda<br></span><b>CC:</b> Andr=C3=A9s Morales (CCC-CHILE=
+)</span></p><div><div><br><b>Asunto:</b> Re: pack five blu<u></u><u></u></d=
+iv></div><p></p><div><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><d=
+iv><p class=3D"MsoNormal">Guillermo<u></u><u></u></p><div><p class=3D"MsoNo=
+rmal">dime entonces las medidas del estampado que necesitas, porque necesit=
+o poder ver muestras luego.<u></u><u></u></p></div><div><p class=3D"MsoNorm=
+al"><u></u>=C2=A0<u></u></p></div><div><p class=3D"MsoNormal">Muchas gracia=
+s<u></u><u></u></p></div><div><p class=3D"MsoNormal">Saludos<u></u><u></u><=
+/p></div><div><p class=3D"MsoNormal">Maca<u></u><u></u></p></div></div><div=
+><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><div><p class=3D"MsoNormal"=
+>El 2 de marzo de 2015, 2:07 p.=C2=A0m., Macarena Concha&lt;<a href=3D"mail=
+to:macarena.concha@dafiti.cl" target=3D"_blank">macarena.concha@dafiti.cl</=
+a>&gt; escribi=C3=B3:<u></u><u></u></p><div><p class=3D"MsoNormal">Hola Gui=
+llermo<u></u><u></u></p><div><p class=3D"MsoNormal">Pero no te sirve la ima=
+gen de ninguna de las poleras??<u></u><u></u></p></div><div><p class=3D"Mso=
+Normal">Que le puedan hacer zoom y estampar?<u></u><u></u></p></div><div><p=
+ class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div><div><p class=3D"MsoNorm=
+al">Espero tu respuesta<u></u><u></u></p></div><div><p class=3D"MsoNormal">=
+Gracias<u></u><u></u></p></div><div><p class=3D"MsoNormal">Maca<u></u><u></=
+u></p></div><div><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div>=
+</div></div><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><div><p cla=
+ss=3D"MsoNormal">El 2 de marzo de 2015, 12:47 p.=C2=A0m., Guillermo Morales=
+ - Spin Ltda&lt;<a href=3D"mailto:gmorales@spindeportes.cl" target=3D"_blan=
+k">gmorales@spindeportes.cl</a>&gt; escribi=C3=B3:<u></u><u></u></p><div><d=
+iv><blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding=
+:0cm 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm"><p class=3D"MsoNorma=
+l"><u></u>=C2=A0<u></u></p><div><div><p class=3D"MsoNormal"><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;col=
+or:#1f497d">Macarena</span><u></u><u></u></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d">Asi no me sirve para imprimir. Necesito las fotos que q=
+uieren aplicar , no la imagen de la prenda. Lo otrom seria tener la muestra=
+ f=C3=ADsica con el estampado.</span><u></u><u></u></p><p class=3D"MsoNorma=
+l"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sa=
+ns-serif&quot;;color:#1f497d">saludos</span><u></u><u></u></p><p class=3D"M=
+soNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#1f497d">GM</span><u></u><u></u></p><p class=3D=
+"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></u></p><p cl=
+ass=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot;Taho=
+ma&quot;,&quot;sans-serif&quot;">De:</span></b><span style=3D"font-size:10.=
+0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Macarena Concha=
+ [mailto:<a href=3D"mailto:macarena.concha@dafiti.cl" target=3D"_blank">mac=
+arena.concha@dafiti.cl</a>] <br><b>Enviado el:</b> lunes, 02 de marzo de 20=
+15 13:25</span><u></u><u></u></p><div><div><p class=3D"MsoNormal"><br><b>Pa=
+ra:</b> Guillermo Morales - Spin Ltda; Andr=C3=A9s Morales (CCC-CHILE)<br><=
+b>Asunto:</b> Re: pack five blu<u></u><u></u></p></div></div><div><div><p c=
+lass=3D"MsoNormal">=C2=A0<u></u><u></u></p><div><p class=3D"MsoNormal">Hola=
+ Andres/Guillermo<u></u><u></u></p><div><p class=3D"MsoNormal">=C2=A0<u></u=
+><u></u></p></div><div><p class=3D"MsoNormal">Les adjunto algunos estampado=
+s.<u></u><u></u></p></div><div><p class=3D"MsoNormal">Por favor me cuentan =
+si sirven o que tendr=C3=ADamos que hacer para que sirvieran.<u></u><u></u>=
+</p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div><p=
+ class=3D"MsoNormal">- El print 7 me encantaria poder hacerlo para que por =
+favor le pidan ayuda a su dise=C3=B1adora, ya que no esta toda la imagen.<u=
+></u><u></u></p></div><div><p class=3D"MsoNormal">- Del print 8 estoy manda=
+ndo dos fotos, la idea es poner una imagen playera con degrade detras de tr=
+iangulos demarcados blancos. (por favor confirmenme si se entiende, sino se=
+ los explico por telefono)<u></u><u></u></p></div><div><p class=3D"MsoNorma=
+l">-cuentenme si es posible hacer algo full print como el print 10 y 12.<u>=
+</u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></=
+div><div><p class=3D"MsoNormal">espero sus respuesta para ver como prosegui=
+mos<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u>=
+</p></div><div><p class=3D"MsoNormal">Gracias<u></u><u></u></p></div><div><=
+p class=3D"MsoNormal">Maca<u></u><u></u></p></div><div><p class=3D"MsoNorma=
+l">=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><=
+u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><=
+div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div><p class=3D"M=
+soNormal">=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<=
+u></u><u></u></p></div></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></=
+u></p><div><p class=3D"MsoNormal">El 27 de febrero de 2015, 11:34 a.=C2=A0m=
+., Macarena Concha&lt;<a href=3D"mailto:macarena.concha@dafiti.cl" target=
+=3D"_blank">macarena.concha@dafiti.cl</a>&gt; escribi=C3=B3:<u></u><u></u><=
+/p><div><p class=3D"MsoNormal">Guillermo=C2=A0<u></u><u></u></p><div><p cla=
+ss=3D"MsoNormal">Mis respuestas en <span style=3D"color:#9900ff">morado</sp=
+an>.<u></u><u></u></p></div><div><p class=3D"MsoNormal">Recuerda darme el t=
+ama=C3=B1o aprox que necesitas para el estampado de las poleras.<u></u><u><=
+/u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div=
+><p class=3D"MsoNormal">Gracias<u></u><u></u></p></div><div><p class=3D"Mso=
+Normal">Macarena<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<=
+u></u><u></u></p><div><p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"=
+>---------- Mensaje enviado ----------<br>De: <b>Guillermo Morales - Spin L=
+tda</b> &lt;<a href=3D"mailto:gmorales@spindeportes.cl" target=3D"_blank">g=
+morales@spindeportes.cl</a>&gt;<br>Fecha: 27 de febrero de 2015, 11:12 a.=
+=C2=A0m.<br>Asunto: RE: pack five blu<br>Para: Macarena Concha &lt;<a href=
+=3D"mailto:macarena.concha@dafiti.cl" target=3D"_blank">macarena.concha@daf=
+iti.cl</a>&gt;, &quot;Andr=C3=A9s Morales (CCC-CHILE)&quot; &lt;<a href=3D"=
+mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt;=
+<u></u><u></u></p><div><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Ma=
+carena </span><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1=
+f497d">Mis respuestas en rojo.</span><u></u><u></u></p><p class=3D"MsoNorma=
+l"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sa=
+ns-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></u></p><p class=3D"Ms=
+oNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,=
+&quot;sans-serif&quot;">De:</span></b><span style=3D"font-size:10.0pt;font-=
+family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Macarena Concha [mailto:=
+<a href=3D"mailto:macarena.concha@dafiti.cl" target=3D"_blank">macarena.con=
+cha@dafiti.cl</a>] <br><b>Enviado el:</b> viernes, 27 de febrero de 2015 10=
+:45<br><b>Para:</b> Guillermo Morales - Spin Ltda; Andr=C3=A9s Morales (CCC=
+-CHILE)<br><b>Asunto:</b> Re: pack five blu</span><u></u><u></u></p><p clas=
+s=3D"MsoNormal">=C2=A0<u></u><u></u></p><div><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:9.5pt">Hola Guillermo, mis respuestas en <b>negrita</b>.<=
+/span><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:9.5=
+pt">=C2=A0</span><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-size:9.5pt">Gracias</span><u></u><u></u></p><p class=3D"MsoNormal"><span=
+ style=3D"font-size:9.5pt">=C2=A0</span><u></u><u></u></p><div><p class=3D"=
+MsoNormal">=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal"><span =
+style=3D"font-size:9.5pt">Tengo algunas dudas:</span><u></u><u></u></p><div=
+><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoN=
+ormal">1- Con Serigrafia te refieres a estampado?? Solo por eso podr=C3=ADa=
+n variar los precios?? Yo necesito estar clara con el precio de las poleras=
+ b=C3=A1sicas (modelo 1 y 2), porque son mis poleras de primer precio.<u></=
+u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">SI, los prec=
+ios de los =C2=A0estampados con serigraf=C3=ADa dependen de la cantidad de =
+colores y de cantidades minimas. Solo esos precios pueden variar. Poleras 1=
+ y 2 fijas.</span><u></u><u></u></p><p class=3D"MsoNormal"><b><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:black">Ok perfecto lo del precio, me averiguas cuales son los minimo=
+s para estampados por favor?</span></b><u></u><u></u></p><p class=3D"MsoNor=
+mal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:red">Sobre 300 unds. no hay cobro de matriceria y de=
+ set up =C2=A0(puesta en maquina)</span><u></u><u></u></p><p class=3D"MsoNo=
+rmal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#9900ff">Imposible 300 u, habra que considerar cobr=
+o de matriceria y set up entonces, cuanto podria subir una plera, tienes un=
+a idea?</span><u></u><u></u></p><p class=3D"MsoNormal">=C2=A0<u></u><u></u>=
+</p><p class=3D"MsoNormal">2- Tus precios consideran las etiquetas?=C2=A0<u=
+></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Si las co=
+nsideran. </span><b><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:black">Ok</span></b><u></u><u></u></p=
+></div><div><p class=3D"MsoNormal">3- Son sin iva?<u></u><u></u></p><p clas=
+s=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;;color:#1f497d">si son precios netos mas iva.=C2=
+=A0</span><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,&quot;sans-serif&quot;;color:black">Ok</span></b><u></u><u></u></p></div>=
+<div><p class=3D"MsoNormal">4- El precio de la segunda polera ($3900) inclu=
+ye bordado?<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">si lo incluye.=C2=A0</span><b><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Ok</span></b><u>=
+</u><u></u></p></div><div><p class=3D"MsoNormal">5- La quinta polera ( la t=
+ipo polo de algodon de $5900), la necesitaria a $5500, es posible?. Confirm=
+ame que tambien incluye bordado.<u></u><u></u></p><p class=3D"MsoNormal"><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Incluye bordado. Dejala en $5.700 </span><b><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;;color:black">No me da, veamos como queda la muestra para ver si la pu=
+edo vender m=C3=A1s cara.</span></b><u></u><u></u></p><p class=3D"MsoNormal=
+"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;san=
+s-serif&quot;;color:red">Ok. Desarrollemosla y revisamos el precio, </span>=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-=
+serif&quot;;color:#9900ff">Ok</span><u></u><u></u></p></div><div><p class=
+=3D"MsoNormal">6- Acerca de los polerones, necesitaria tener uno a $8000 pa=
+ra que sea mi punta de precio.<u></u><u></u></p><p class=3D"MsoNormal"><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">Te puedo dejar solo el mas b=C3=A1sico sin cierre a =
+ese precio </span><b><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:black">Ok</span></b><u></u><u></u></=
+p></div><div><p class=3D"MsoNormal">7- Estuve mirando la tela blanca que es=
+tampamos y me dio nervio que fuera demasiado transparente y quedara muy tel=
+a de cebolla, tu con tu experiencia que crees?? Sera adecuada? Tu crees que=
+ la tela azul que tambien te pasaron ser=C3=A1 mas pesada o sera s=C3=B3lo =
+efecto del color?=C2=A0 Tu tienes otras opciones de telas? Las que tu usas =
+generalmente son mas 100% cotton, con polyester o elastano?<u></u><u></u></=
+p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">si, hagamos todo en un =
+jersey intermedio que este entre esa muestra delgad=C3=ADsima que estampamo=
+s y la tela de la polera de muestra nuestra. Vere que hay disponible. Siemp=
+re el color blanco tiene menos peso que los colores. Las que usamos nosotro=
+s normalmente son 100% poli=C3=A9ster o con poli=C3=A9ster elastano porque =
+son para deportes.</span><u></u><u></u></p><p class=3D"MsoNormal"><b><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;;color:black">Podrias aprovechar de ver si tienen telas con spandex?? =
+Vimos varias en americanino que tenian elastano y se veian bien buenas.</sp=
+an></b><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:red">Los =
+precios que necesitas no dan para trabajar telas con elastano porque son un=
+ 40% mas caras. </span><u></u><u></u></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#9900ff">Podrias por favor conseguirte una tela igual y si quedan in=
+creibles =C2=A0hacemos un par de modelos mas caros .</span><u></u><u></u></=
+p><p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Por fa hagamos tambi=
+=C3=A9n alguna muestra con la tela delgadita para ver como queda.</span></b=
+><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:red">OK. </span=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#9900ff">Gracias</span><u></u><u></u></p><p class=3D"Mso=
+Normal">=C2=A0<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-=
+size:9.5pt">=C2=A0</span><u></u><u></u></p></div><div><div><div><div><div><=
+p class=3D"MsoNormal">8- Necesitar=C3=ADa que me desarrollaras las muestras=
+ fisicas para poder chequear que quedaran como las originales.<u></u><u></u=
+></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">OK. partiremos con e=
+l desarrollo. Mandame las fotos o estampados que deber=C3=ADa aplicar en la=
+s prendas estampadas. Tambien m=C3=A1ndame alguna aplicaci=C3=B3n para desa=
+rrollar un primer poleron a ver si nos acercamos a la muestra que nos lleva=
+ste.</span><u></u><u></u></p><p class=3D"MsoNormal"><b><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:bl=
+ack">Dime por favor el tama=C3=B1o aprox que necesitas para el estampado pa=
+ra buscar alguno que nos sirva.</span></b><u></u><u></u></p><p class=3D"Mso=
+Normal"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;;color:black">A que te refieres con aplicacion para e=
+l poleron?? Un estampado? Bordado?? Me gustaria que usaramos de tirador uno=
+s cordones anchos planos como los de la foto del poleron burdeo con cierre =
+que estaba en la planilla.</span></b><u></u><u></u></p><p class=3D"MsoNorma=
+l"><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black">Por favor cuiden las muestras del Larra, que=
+ me mata si las rompen.</span></b><u></u><u></u></p><p class=3D"MsoNormal">=
+=C2=A0<u></u><u></u></p><p class=3D"MsoNormal"><b><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">=
+Gracias!</span></b><u></u><u></u></p><p class=3D"MsoNormal"><b><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:black">Espero tu respuesta=C2=A0</span></b><u></u><u></u></p><p clas=
+s=3D"MsoNormal">=C2=A0<u></u><u></u></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">saludos</span><u></u><u></u></p></div></div></div></div></d=
+iv></div><div><div><div><div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></=
+u></p><div><p class=3D"MsoNormal">El 27 de febrero de 2015, 8:30 a.=C2=A0m.=
+, Guillermo Morales - Spin Ltda&lt;<a href=3D"mailto:gmorales@spindeportes.=
+cl" target=3D"_blank">gmorales@spindeportes.cl</a>&gt; escribi=C3=B3:<u></u=
+><u></u></p><div><div><p class=3D"MsoNormal"><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497=
+d">=C2=A0</span><u></u><u></u></p><p class=3D"MsoNormal"><b><span style=3D"=
+font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:=
+</span></b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&=
+quot;sans-serif&quot;"> Macarena Concha [mailto:<a href=3D"mailto:macarena.=
+concha@dafiti.cl" target=3D"_blank">macarena.concha@dafiti.cl</a>] <br><b>E=
+nviado el:</b> jueves, 26 de febrero de 2015 12:28<br><b>Para:</b> Guillerm=
+o Morales - Spin Ltda<br><b>CC:</b> Andr=C3=A9s Morales<br><b>Asunto:</b> R=
+e: pack five blu</span><u></u><u></u></p><p class=3D"MsoNormal">=C2=A0<u></=
+u><u></u></p><div><p class=3D"MsoNormal">Hola Guillermo<u></u><u></u></p><d=
+iv><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div><p class=3D"Ms=
+oNormal">Tengo algunas dudas:<u></u><u></u></p><div><p class=3D"MsoNormal">=
+=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">1- Con Serigrafia=
+ te refieres a estampado?? Solo por eso podr=C3=ADan variar los precios?? Y=
+o necesito estar clara con el precio de las poleras b=C3=A1sicas (modelo 1 =
+y 2), porque son mis poleras de primer precio.<u></u><u></u></p><p class=3D=
+"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">SI, los precios de los =C2=A0estampa=
+dos con serigraf=C3=ADa dependen de la cantidad de colores y de cantidades =
+minimas. Solo esos precios pueden variar. Poleras 1 y 2 fijas.</span><u></u=
+><u></u></p><p class=3D"MsoNormal">2- Tus precios consideran las etiquetas?=
+=C2=A0<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">S=
+i las consideran.</span><u></u><u></u></p></div><div><p class=3D"MsoNormal"=
+>3- Son sin iva?<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:=
+#1f497d">si son precios netos mas iva.</span><u></u><u></u></p></div><div><=
+p class=3D"MsoNormal">4- El precio de la segunda polera ($3900) incluye bor=
+dado?<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">si=
+ lo incluye.</span><u></u><u></u></p></div><div><p class=3D"MsoNormal">5- L=
+a quinta polera ( la tipo polo de algodon de $5900), la necesitaria a $5500=
+, es posible?. Confirmame que tambien incluye bordado.<u></u><u></u></p><p =
+class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">Incluye bordado. Dejala en $=
+5.700</span><u></u><u></u></p></div><div><p class=3D"MsoNormal">6- Acerca d=
+e los polerones, necesitaria tener uno a $8000 para que sea mi punta de pre=
+cio.<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Te =
+puedo dejar solo el mas b=C3=A1sico sin cierre a ese precio</span><u></u><u=
+></u></p></div><div><p class=3D"MsoNormal">7- Estuve mirando la tela blanca=
+ que estampamos y me dio nervio que fuera demasiado transparente y quedara =
+muy tela de cebolla, tu con tu experiencia que crees?? Sera adecuada? Tu cr=
+ees que la tela azul que tambien te pasaron ser=C3=A1 mas pesada o sera s=
+=C3=B3lo efecto del color?=C2=A0 Tu tienes otras opciones de telas? Las que=
+ tu usas generalmente son mas 100% cotton, con polyester o elastano?<u></u>=
+<u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">si, hagamos to=
+do en un jersey intermedio que este entre esa muestra delgad=C3=ADsima que =
+estampamos y la tela de la polera de muestra nuestra. Vere que hay disponib=
+le. Siempre el color blanco tiene menos peso que los colores. Las que usamo=
+s nosotros normalmente son 100% poli=C3=A9ster o con poli=C3=A9ster elastan=
+o porque son para deportes.</span><u></u><u></u></p></div><div><p class=3D"=
+MsoNormal">8- Necesitar=C3=ADa que me desarrollaras las muestras fisicas pa=
+ra poder chequear que quedaran como las originales.<u></u><u></u></p><p cla=
+ss=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">OK. partiremos con el desarroll=
+o. Mandame las fotos o estampados que deber=C3=ADa aplicar en las prendas e=
+stampadas. Tambien m=C3=A1ndame alguna aplicaci=C3=B3n para desarrollar un =
+primer poleron a ver si nos acercamos a la muestra que nos llevaste.</span>=
+<u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">saludos=
+</span><u></u><u></u></p><p class=3D"MsoNormal"><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+GM</span><u></u><u></u></p></div><div><div><div><p class=3D"MsoNormal">=C2=
+=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">Espero tu respuesta =
+y confirmacion de los precios=C2=A0<u></u><u></u></p></div><div><p class=3D=
+"MsoNormal">Muchas gracias<u></u><u></u></p></div><div><p class=3D"MsoNorma=
+l">Macarena<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u=
+><u></u></p></div></div></div></div></div><div><div><div><p class=3D"MsoNor=
+mal">=C2=A0<u></u><u></u></p><div><p class=3D"MsoNormal">El 25 de febrero d=
+e 2015, 3:40 p.=C2=A0m., Guillermo Morales - Spin Ltda&lt;<a href=3D"mailto=
+:gmorales@spindeportes.cl" target=3D"_blank">gmorales@spindeportes.cl</a>&g=
+t; escribi=C3=B3:<u></u><u></u></p><div><div><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d">Macarena:</span><u></u><u></u></p><p class=3D"MsoNormal=
+"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;san=
+s-serif&quot;;color:#1f497d">Te adjunto planilla con precios. Los precios f=
+inales igual habr=C3=ADa que confirmarlos una vez desarrolladas las muestra=
+s sobre todo en las prendas que llevan serigraf=C3=ADa por los costos de ma=
+triceria y set up del estampado.</span><u></u><u></u></p><p class=3D"MsoNor=
+mal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Saludos</span><u></u><u></u></p><p class=3D=
+"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">GM</span><u></u><u></u></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span><u></u><u></u></p><p=
+ class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot;T=
+ahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Macarena Con=
+cha [mailto:<a href=3D"mailto:macarena.concha@dafiti.cl" target=3D"_blank">=
+macarena.concha@dafiti.cl</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 25 de=
+ febrero de 2015 15:40<br><b>Para:</b> <a href=3D"mailto:gmorales@spindepor=
+tes.cl" target=3D"_blank">gmorales@spindeportes.cl</a>; Andr=C3=A9s Morales=
+ (CCC-CHILE)<br><b>Asunto:</b> Re: pack five blu</span><u></u><u></u></p><p=
+ class=3D"MsoNormal">=C2=A0<u></u><u></u></p><div><p class=3D"MsoNormal">Gu=
+illermo/Andres<u></u><u></u></p><div><p class=3D"MsoNormal">Un gusto conoce=
+rlos!!<u></u><u></u></p></div><div><p class=3D"MsoNormal">Les adjunto el ar=
+chivo excel con los tipos de poleras y polerones que hariamos.<u></u><u></u=
+></p></div><div><p class=3D"MsoNormal">En varios articulos les pido cotizar=
+ tambien con bordado de bigote, como para darle un plus a la prenda.<u></u>=
+<u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div>=
+<div><p class=3D"MsoNormal">Por favor revisen el tema de los precios y me l=
+o mandan.<u></u><u></u></p></div><div><p class=3D"MsoNormal">Necesito bueno=
+s precios por favor!!!<u></u><u></u></p></div><div><p class=3D"MsoNormal">=
+=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">Cualquier duda me=
+ avisan<u></u><u></u></p></div><div><p class=3D"MsoNormal">Que les vaya bie=
+n<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></=
+p></div><div><p class=3D"MsoNormal">Gracias<u></u><u></u></p></div><div><p =
+class=3D"MsoNormal">Macarena<u></u><u></u></p></div><div><p class=3D"MsoNor=
+mal">=C2=A0<u></u><u></u></p></div><div><p class=3D"MsoNormal">=C2=A0<u></u=
+><u></u></p></div></div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p=
+><div><p class=3D"MsoNormal">El 25 de febrero de 2015, 10:59 a.=C2=A0m., Ma=
+carena Concha&lt;<a href=3D"mailto:macarena.concha@dafiti.cl" target=3D"_bl=
+ank">macarena.concha@dafiti.cl</a>&gt; escribi=C3=B3:<u></u><u></u></p><div=
+><p class=3D"MsoNormal"><br clear=3D"all"><u></u><u></u></p><div><p class=
+=3D"MsoNormal">Aca les mando las etiquetas de Five Blu.<u></u><u></u></p></=
+div><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><div><p class=
+=3D"MsoNormal">Gracias<u></u><u></u></p></div><div><p class=3D"MsoNormal">M=
+aca<u></u><u></u></p></div><div><p class=3D"MsoNormal"><span style=3D"color=
+:#888888">=C2=A0</span><u></u><u></u></p></div><p class=3D"MsoNormal"><span=
+ style=3D"color:#888888">-- </span><u></u><u></u></p><div><div><table borde=
+r=3D"0" cellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><tr =
+style=3D"height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;padding:=
+.75pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr><td =
+style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"http://=
+www.dafiti.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:solid=
+ windowtext 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" width=
+=3D"364" height=3D"103" src=3D"cid:image001.jpg@01D05676.AF903E60" alt=3D"I=
+magen quitada por el remitente."></span></a><u></u><u></u></p></td></tr></t=
+body></table></td><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .=
+75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0" widt=
+h=3D"198" style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt"><td w=
+idth=3D"192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;height:=
+77.25pt"><p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-fami=
+ly:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br></sp=
+an></b><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;=
+,&quot;sans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skype: ma=
+carena.concha80</span><u></u><u></u></p></td></tr></tbody></table></td></tr=
+></tbody></table></div></div></div></div><p class=3D"MsoNormal"><br><br cle=
+ar=3D"all"><u></u><u></u></p><div><p class=3D"MsoNormal">=C2=A0<u></u><u></=
+u></p></div><p class=3D"MsoNormal">-- <u></u><u></u></p><div><div><table bo=
+rder=3D"0" cellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><=
+tr style=3D"height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;paddi=
+ng:.75pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr>=
+<td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"htt=
+p://www.dafiti.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:s=
+olid windowtext 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" w=
+idth=3D"364" height=3D"103" src=3D"cid:image001.jpg@01D05676.AF903E60" alt=
+=3D"Imagen quitada por el remitente."></span></a><u></u><u></u></p></td></t=
+r></tbody></table></td><td width=3D"205" style=3D"width:153.75pt;padding:.7=
+5pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0"=
+ width=3D"198" style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt">=
+<td width=3D"192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;he=
+ight:77.25pt"><p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font=
+-family:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br=
+></span></b><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&=
+quot;,&quot;sans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skyp=
+e: macarena.concha80</span><u></u><u></u></p></td></tr></tbody></table></td=
+></tr></tbody></table><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div>=
+</div></div></div></div></div><p class=3D"MsoNormal"><br><br clear=3D"all">=
+<u></u><u></u></p><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div=
+><p class=3D"MsoNormal">-- <u></u><u></u></p><div><div><table border=3D"0" =
+cellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><tr style=3D=
+"height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;padding:.75pt .7=
+5pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr><td style=3D=
+"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"http://www.dafi=
+ti.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:solid windowt=
+ext 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" width=3D"364"=
+ height=3D"103" src=3D"cid:image001.jpg@01D05676.AF903E60" alt=3D"Imagen qu=
+itada por el remitente."></span></a><u></u><u></u></p></td></tr></tbody></t=
+able></td><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .75pt .75=
+pt .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0" width=3D"198=
+" style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt"><td width=3D"=
+192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;height:77.25pt"=
+><p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-family:&quot=
+;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br></span></b><=
+span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;s=
+ans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skype: macarena.c=
+oncha80</span><u></u><u></u></p></td></tr></tbody></table></td></tr></tbody=
+></table><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div></div></div><=
+/div></div></div></div></div><p class=3D"MsoNormal"><br><br clear=3D"all"><=
+u></u><u></u></p><div><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div>=
+<p class=3D"MsoNormal">-- <u></u><u></u></p><div><div><table border=3D"0" c=
+ellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><tr style=3D"=
+height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;padding:.75pt .75=
+pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr><td style=3D"=
+padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"http://www.dafit=
+i.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:solid windowte=
+xt 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" width=3D"364" =
+height=3D"103" src=3D"cid:image001.jpg@01D05676.AF903E60" alt=3D"Imagen qui=
+tada por el remitente."></span></a><u></u><u></u></p></td></tr></tbody></ta=
+ble></td><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .75pt .75p=
+t .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0" width=3D"198"=
+ style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt"><td width=3D"1=
+92" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;height:77.25pt">=
+<p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-family:&quot;=
+Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br></span></b><s=
+pan style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sa=
+ns-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skype: macarena.co=
+ncha80</span><u></u><u></u></p></td></tr></tbody></table></td></tr></tbody>=
+</table><p class=3D"MsoNormal">=C2=A0<u></u><u></u></p></div></div></div></=
+div></div></div></div></div></div></div><p class=3D"MsoNormal"><span style=
+=3D"color:#888888"><br><br clear=3D"all"></span><u></u><u></u></p><div><p c=
+lass=3D"MsoNormal">=C2=A0<u></u><u></u></p></div><p class=3D"MsoNormal"><sp=
+an style=3D"color:#888888">-- </span><u></u><u></u></p><div><div><table bor=
+der=3D"0" cellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><t=
+r style=3D"height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;paddin=
+g:.75pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr>=
+<td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"htt=
+p://www.dafiti.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:s=
+olid windowtext 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" w=
+idth=3D"364" height=3D"103" src=3D"cid:image001.jpg@01D05676.AF903E60" alt=
+=3D"Imagen quitada por el remitente."></span></a><u></u><u></u></p></td></t=
+r></tbody></table></td><td width=3D"205" style=3D"width:153.75pt;padding:.7=
+5pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0"=
+ width=3D"198" style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt">=
+<td width=3D"192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;he=
+ight:77.25pt"><p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font=
+-family:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br=
+></span></b><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&=
+quot;,&quot;sans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skyp=
+e: macarena.concha80</span><u></u><u></u></p></td></tr></tbody></table></td=
+></tr></tbody></table></div></div></div></div></div><p class=3D"MsoNormal">=
+<br><br clear=3D"all"><u></u><u></u></p><div><p class=3D"MsoNormal">=C2=A0<=
+u></u><u></u></p></div><p class=3D"MsoNormal">-- <u></u><u></u></p><div><di=
+v><table border=3D"0" cellpadding=3D"0" width=3D"500" style=3D"width:375.0p=
+t"><tbody><tr style=3D"height:98.25pt"><td width=3D"161" style=3D"width:120=
+.75pt;padding:.75pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"161" style=3D"width:120.75pt"><=
+tbody><tr><td style=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a h=
+ref=3D"http://www.dafiti.cl/" target=3D"_blank"><span style=3D"color:#1155c=
+c;border:solid windowtext 1.0pt;padding:0cm;text-decoration:none"><img bord=
+er=3D"0" width=3D"364" height=3D"103" src=3D"cid:image001.jpg@01D05676.AF90=
+3E60" alt=3D"Imagen quitada por el remitente."></span></a><u></u><u></u></p=
+></td></tr></tbody></table></td><td width=3D"205" style=3D"width:153.75pt;p=
+adding:.75pt .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellpadd=
+ing=3D"0" width=3D"198" style=3D"width:148.5pt"><tbody><tr style=3D"height:=
+77.25pt"><td width=3D"192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt=
+ .75pt;height:77.25pt"><p class=3D"MsoNormal"><b><span style=3D"font-size:9=
+.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA =
+CONCHA<br></span></b><span style=3D"font-size:10.0pt;font-family:&quot;Treb=
+uchet MS&quot;,&quot;sans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=
+=A0<br>skype: macarena.concha80</span><u></u><u></u></p></td></tr></tbody><=
+/table></td></tr></tbody></table><p class=3D"MsoNormal">=C2=A0<u></u><u></u=
+></p></div></div></div></div></div></div></div></blockquote></div></div></d=
+iv><p class=3D"MsoNormal"><span style=3D"color:#888888"><br><br clear=3D"al=
+l"><span><u></u><u></u></span></span></p><div><p class=3D"MsoNormal"><u></u=
+>=C2=A0<u></u></p></div><p class=3D"MsoNormal"><span><span style=3D"color:#=
+888888">-- </span></span><u></u><u></u></p><div><div><table border=3D"0" ce=
+llpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><tr style=3D"h=
+eight:98.25pt"><td width=3D"161" style=3D"width:120.75pt;padding:.75pt .75p=
+t .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr><td style=3D"p=
+adding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"http://www.dafiti=
+.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:solid windowtex=
+t 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" width=3D"364" h=
+eight=3D"103" src=3D"cid:image002.jpg@01D05676.AF903E60" alt=3D"Imagen quit=
+ada por el remitente."></span></a><u></u><u></u></p></td></tr></tbody></tab=
+le></td><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .75pt .75pt=
+ .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0" width=3D"198" =
+style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt"><td width=3D"19=
+2" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;height:77.25pt"><=
+p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-family:&quot;T=
+rebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br></span></b><sp=
+an style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;san=
+s-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skype: macarena.con=
+cha80</span><u></u><u></u></p></td></tr></tbody></table></td></tr></tbody><=
+/table></div></div></div></div><p class=3D"MsoNormal"><br><br clear=3D"all"=
+><u></u><u></u></p><div><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></di=
+v><p class=3D"MsoNormal">-- <u></u><u></u></p><div><div><table border=3D"0"=
+ cellpadding=3D"0" width=3D"500" style=3D"width:375.0pt"><tbody><tr style=
+=3D"height:98.25pt"><td width=3D"161" style=3D"width:120.75pt;padding:.75pt=
+ .75pt .75pt .75pt;height:98.25pt"><table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"161" style=3D"width:120.75pt"><tbody><tr><td style=
+=3D"padding:0cm 0cm 0cm 0cm"><p class=3D"MsoNormal"><a href=3D"http://www.d=
+afiti.cl/" target=3D"_blank"><span style=3D"color:#1155cc;border:solid wind=
+owtext 1.0pt;padding:0cm;text-decoration:none"><img border=3D"0" width=3D"3=
+64" height=3D"103" src=3D"cid:image002.jpg@01D05676.AF903E60" alt=3D"Imagen=
+ quitada por el remitente."></span></a><u></u><u></u></p></td></tr></tbody>=
+</table></td><td width=3D"205" style=3D"width:153.75pt;padding:.75pt .75pt =
+.75pt .75pt;height:98.25pt"><table border=3D"0" cellpadding=3D"0" width=3D"=
+198" style=3D"width:148.5pt"><tbody><tr style=3D"height:77.25pt"><td width=
+=3D"192" style=3D"width:144.0pt;padding:.75pt .75pt .75pt .75pt;height:77.2=
+5pt"><p class=3D"MsoNormal"><b><span style=3D"font-size:9.0pt;font-family:&=
+quot;Trebuchet MS&quot;,&quot;sans-serif&quot;">MACARENA CONCHA<br></span><=
+/b><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&qu=
+ot;sans-serif&quot;">COMPRADORA VESTUARIO MASCULINO =C2=A0<br>skype: macare=
+na.concha80</span><u></u><u></u></p></td></tr></tbody></table></td></tr></t=
+body></table><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div></div></d=
+iv></div></div></div></div></blockquote></div></div></div><span><font color=
+=3D"#888888"><br><br clear=3D"all"><div><br></div>-- <br></font></span><div=
+><div dir=3D"ltr"><span><font color=3D"#888888"></font></span><table width=
+=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);font-family:&#39;Times New =
+Roman&#39;;font-size:medium"><tbody><tr><td width=3D"161" height=3D"131"><t=
+able width=3D"161" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody>=
+<tr><td colspan=3D"6"><a href=3D"http://www.dafiti.cl/" style=3D"color:rgb(=
+17,85,204)" target=3D"_blank"><img src=3D"http://static.dafiti.cl/cms/Firma=
+/imagen_firma_mailv4.jpg" alt=3D"" width=3D"364" height=3D"103" usemap=3D"#=
+14bff57c1eec9193_14befab949c94254_14bef9e31b4ca813_14bef9c357510666_14beb8d=
+0fd2d63bd_SafeHtmlFilter_14b835001415c083_SafeHtmlFilter_145fc95762b3cc70_M=
+ap" border=3D"0"></a></td></tr></tbody></table></td><td width=3D"205"><tabl=
+e width=3D"198" height=3D"107" border=3D"0"><tbody><tr><td width=3D"192" he=
+ight=3D"103" align=3D"left"><span style=3D"font-family:&#39;Trebuchet MS&#3=
+9;,Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold">MACARENA CON=
+CHA<br></span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helve=
+tica,sans-serif;font-size:13px">COMPRADORA VESTUARIO MASCULINO =C2=A0</span=
+><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-ser=
+if;font-size:13px"><br>skype: macarena.concha80</span></td></tr></tbody></t=
+able></td></tr></tbody></table></div></div>
+</div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div><div di=
+r=3D"ltr"><table width=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);font-=
+family:&#39;Times New Roman&#39;;font-size:medium"><tbody><tr><td width=3D"=
+161" height=3D"131"><table width=3D"161" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0"><tbody><tr><td colspan=3D"6"><a href=3D"http://www.dafiti.cl=
+/" style=3D"color:rgb(17,85,204)" target=3D"_blank"><img src=3D"http://stat=
+ic.dafiti.cl/cms/Firma/imagen_firma_mailv4.jpg" alt=3D"" width=3D"364" heig=
+ht=3D"103" usemap=3D"#14bff57c1eec9193_14befab949c94254_14bef9e31b4ca813_14=
+bef9c357510666_SafeHtmlFilter_14b835001415c083_SafeHtmlFilter_145fc95762b3c=
+c70_Map" border=3D"0"></a></td></tr></tbody></table></td><td width=3D"205">=
+<table width=3D"198" height=3D"107" border=3D"0"><tbody><tr><td width=3D"19=
+2" height=3D"103" align=3D"left"><span style=3D"font-family:&#39;Trebuchet =
+MS&#39;,Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold">MACAREN=
+A CONCHA<br></span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,=
+Helvetica,sans-serif;font-size:13px">COMPRADORA VESTUARIO MASCULINO =C2=A0<=
+/span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,san=
+s-serif;font-size:13px"><br>skype: macarena.concha80</span></td></tr></tbod=
+y></table></td></tr></tbody></table></div></div>
+</div></div></div></div>
+</blockquote></div></div></div><div><div><br><br clear=3D"all"><div><br></d=
+iv>-- <br><div><div dir=3D"ltr"><table width=3D"500" border=3D"0" style=3D"=
+color:rgb(0,0,0);font-family:&#39;Times New Roman&#39;;font-size:medium"><t=
+body><tr><td width=3D"161" height=3D"131"><table width=3D"161" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td colspan=3D"6"><a href=
+=3D"http://www.dafiti.cl/" style=3D"color:rgb(17,85,204)" target=3D"_blank"=
+><img src=3D"http://static.dafiti.cl/cms/Firma/imagen_firma_mailv4.jpg" alt=
+=3D"" width=3D"364" height=3D"103" usemap=3D"#14bff57c1eec9193_14befab949c9=
+4254_14bef9e31b4ca813_SafeHtmlFilter_14b835001415c083_SafeHtmlFilter_145fc9=
+5762b3cc70_Map" border=3D"0"></a></td></tr></tbody></table></td><td width=
+=3D"205"><table width=3D"198" height=3D"107" border=3D"0"><tbody><tr><td wi=
+dth=3D"192" height=3D"103" align=3D"left"><span style=3D"font-family:&#39;T=
+rebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold=
+">MACARENA CONCHA<br></span><span style=3D"font-family:&#39;Trebuchet MS&#3=
+9;,Arial,Helvetica,sans-serif;font-size:13px">COMPRADORA VESTUARIO MASCULIN=
+O =C2=A0</span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helv=
+etica,sans-serif;font-size:13px"><br>skype: macarena.concha80</span></td></=
+tr></tbody></table></td></tr></tbody></table></div></div>
+</div></div></div>
+</blockquote></div></div></div><div><div><br><br clear=3D"all"><div><br></d=
+iv>-- <br><div><div dir=3D"ltr"><table width=3D"500" border=3D"0" style=3D"=
+color:rgb(0,0,0);font-family:&#39;Times New Roman&#39;;font-size:medium"><t=
+body><tr><td width=3D"161" height=3D"131"><table width=3D"161" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td colspan=3D"6"><a href=
+=3D"http://www.dafiti.cl/" style=3D"color:rgb(17,85,204)" target=3D"_blank"=
+><img src=3D"http://static.dafiti.cl/cms/Firma/imagen_firma_mailv4.jpg" alt=
+=3D"" width=3D"364" height=3D"103" usemap=3D"#14bff57c1eec9193_14befab949c9=
+4254_SafeHtmlFilter_14b835001415c083_SafeHtmlFilter_145fc95762b3cc70_Map" b=
+order=3D"0"></a></td></tr></tbody></table></td><td width=3D"205"><table wid=
+th=3D"198" height=3D"107" border=3D"0"><tbody><tr><td width=3D"192" height=
+=3D"103" align=3D"left"><span style=3D"font-family:&#39;Trebuchet MS&#39;,A=
+rial,Helvetica,sans-serif;font-size:12px;font-weight:bold">MACARENA CONCHA<=
+br></span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica=
+,sans-serif;font-size:13px">COMPRADORA VESTUARIO MASCULINO =C2=A0</span><sp=
+an style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;f=
+ont-size:13px"><br>skype: macarena.concha80</span></td></tr></tbody></table=
+></td></tr></tbody></table></div></div>
+</div></div></div>
+</blockquote></div></div></div><div><div class=3D"h5"><br><br clear=3D"all"=
+><div><br></div>-- <br><div><div dir=3D"ltr"><table width=3D"500" border=3D=
+"0" style=3D"color:rgb(0,0,0);font-family:&#39;Times New Roman&#39;;font-si=
+ze:medium"><tbody><tr><td width=3D"161" height=3D"131"><table width=3D"161"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td colspan=3D=
+"6"><a href=3D"http://www.dafiti.cl/" style=3D"color:rgb(17,85,204)" target=
+=3D"_blank"><img src=3D"http://static.dafiti.cl/cms/Firma/imagen_firma_mail=
+v4.jpg" alt=3D"" width=3D"364" height=3D"103" usemap=3D"#14bff57c1eec9193_S=
+afeHtmlFilter_14b835001415c083_SafeHtmlFilter_145fc95762b3cc70_Map" border=
+=3D"0"></a></td></tr></tbody></table></td><td width=3D"205"><table width=3D=
+"198" height=3D"107" border=3D"0"><tbody><tr><td width=3D"192" height=3D"10=
+3" align=3D"left"><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,H=
+elvetica,sans-serif;font-size:12px;font-weight:bold">MACARENA CONCHA<br></s=
+pan><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-=
+serif;font-size:13px">COMPRADORA VESTUARIO MASCULINO =C2=A0</span><span sty=
+le=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-si=
+ze:13px"><br>skype: macarena.concha80</span></td></tr></tbody></table></td>=
+</tr></tbody></table></div></div>
+</div></div></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature"><div dir=3D"ltr"><table width=3D"500" border=3D"0" sty=
+le=3D"color:rgb(0,0,0);font-family:&#39;Times New Roman&#39;;font-size:medi=
+um"><tbody><tr><td width=3D"161" height=3D"131"><table width=3D"161" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td colspan=3D"6"><a =
+href=3D"http://www.dafiti.cl/" style=3D"color:rgb(17,85,204)" target=3D"_bl=
+ank"><img src=3D"http://static.dafiti.cl/cms/Firma/imagen_firma_mailv4.jpg"=
+ alt=3D"" width=3D"364" height=3D"103" usemap=3D"#SafeHtmlFilter_14b8350014=
+15c083_SafeHtmlFilter_145fc95762b3cc70_Map" border=3D"0"></a></td></tr></tb=
+ody></table></td><td width=3D"205"><table width=3D"198" height=3D"107" bord=
+er=3D"0"><tbody><tr><td width=3D"192" height=3D"103" align=3D"left"><span s=
+tyle=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-=
+size:12px;font-weight:bold">MACARENA CONCHA<br></span><span style=3D"font-f=
+amily:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:13px">COM=
+PRADORA VESTUARIO MASCULINO =C2=A0</span><span style=3D"font-family:&#39;Tr=
+ebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:13px"><br>skype: macar=
+ena.concha80</span></td></tr></tbody></table></td></tr></tbody></table></di=
+v></div>
+</div>
+
+--001a11c25d32c6b9150510f2ea9f--
+--001a11c25d32c6b91a0510f2eaa0
+Content-Type: image/jpeg; name="image002.jpg"
+Content-Disposition: inline; filename="image002.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image002.jpg@01D05676.AF903E60>
+X-Attachment-Id: 45b571a3a6e16e4d_0.2
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/wAALCABnAWwBAREA/8QAHwAAAQUBAQEB
+AQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1Fh
+ByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZ
+WmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/APZqKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK//Z
+--001a11c25d32c6b91a0510f2eaa0
+Content-Type: image/jpeg; name="image001.jpg"
+Content-Disposition: inline; filename="image001.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.jpg@01D05676.AF903E60>
+X-Attachment-Id: 45b571a3a6e16e4d_0.1
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAmJSMg
+IyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/wAALCABnAWwBAREA/8QAHwAAAQUBAQEB
+AQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1Fh
+ByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZ
+WmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEBAAA/APZqKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
+KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK//Z
+--001a11c25d32c6b91a0510f2eaa0--

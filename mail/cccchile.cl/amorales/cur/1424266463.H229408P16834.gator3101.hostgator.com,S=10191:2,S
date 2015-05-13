@@ -1,0 +1,140 @@
+Return-path: <gabrielchomali@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 18 Feb 2015 07:34:23 -0600
+Received: from nm42-vm2.bullet.mail.gq1.yahoo.com ([67.195.87.153]:34082)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabrielchomali@yahoo.com>)
+	id 1YO4li-0004LE-TG
+	for amorales@cccchile.cl; Wed, 18 Feb 2015 07:34:23 -0600
+Received: from [127.0.0.1] by nm42.bullet.mail.gq1.yahoo.com with NNFMP; 18 Feb 2015 13:34:20 -0000
+Received: from [216.39.60.181] by nm42.bullet.mail.gq1.yahoo.com with NNFMP; 18 Feb 2015 13:31:31 -0000
+Received: from [98.139.215.143] by tm17.bullet.mail.gq1.yahoo.com with NNFMP; 18 Feb 2015 13:31:30 -0000
+Received: from [98.139.212.250] by tm14.bullet.mail.bf1.yahoo.com with NNFMP; 18 Feb 2015 13:31:30 -0000
+Received: from [127.0.0.1] by omp1059.mail.bf1.yahoo.com with NNFMP; 18 Feb 2015 13:31:30 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 558179.49278.bm@omp1059.mail.bf1.yahoo.com
+Received: (qmail 90037 invoked by uid 60001); 18 Feb 2015 13:31:30 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1424266290; bh=H9GkU/F+mBZ8o2sTpxH4H6XfhUfajb3yQNZFUPoXytk=; h=Message-ID:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=PQ0B1rz0JeezgARQ4U9xyDJAJxNofCtXe5Tvlu2vvZADm9AZy4bNkTI8MpKwYkDBJAOx0zO20aK8eVE9nHLB/B+/tsh8fqzmwRJuaoRdvUOxAuZ8gd6/FHTkeEkrCiBBUN8X6V0iU1tFPnPBo0617fkbtEPUGLx4MJMaHVi5v5U=
+X-YMail-OSG: 8sGMPDAVM1mPhqz05rZjcszVxUeURQvlTlnrxbCMTIz7J4Q
+ e3G20cUx7gXbQsfKr98K3.Jt.sTNujVrZ0WD67Y9pl6DzyD26IXI8y7gBU14
+ mEmbVeW0ieUa0MLe6qNU0fhZ5WpyhqMv0BufZdSRrMQCWH5wolJ0cxmSGf3W
+ i75e9fdDBSCPjmx8gjXPTqkbM5qehuZcMymy0QchPd5mr.MsvFywIYZzydE1
+ jyvXPvk5CDAiWcAglAdXenkEUpMh2w98SNuxwoWG5HRuP8P_fXa2fUx9Op0X
+ 9n1E3dboWYgJZ9ie3o2zYckC_l2S7CKC829fG8InicRSqkmrepVjc.rm1loJ
+ Nkgrh7uk_TlJdvP4buWdmuhJLlyoPd3j0X1RG4rJfN4Cqsrw81keN42WUfkH
+ BQjqLvrYEgUlCVo_bA_HN7nHLKtSkkjA9HkZ3iSXoYerKn78hxx6eyxKP3Ab
+ v8veHD.MqmbjCB8Nyi3E1_r5wM2o4a0onwG5v6ED82dBWrzf2q2YllKj3a8k
+ 5MwgyHUC8n7CqFs3Uh4daKsrz9hX3Xg.f8qYfsc8M6hgF6blaVsqV7p0ai03
+ iws.YsGhZGB1kIDK0zqvZ1KZtOuNLNlqwewE2G28neWkNsD1BG8wwsLtObVG
+ LrBlA1fNLyf2b21ZACvgLVYlMQLbThn.uM.XwIGEJxmG9tY7dtMu5aqHQwMi
+ 7Dnw3pUziVNmVzLqgl2ng5KZDX3Up.55VYOEvjjJoorh4aCDnAV.qYTGcl.l
+ 3m7fC6IgfqEVnkd11qOU3Rrs-
+Received: from [200.119.246.254] by web140601.mail.bf1.yahoo.com via HTTP; Wed, 18 Feb 2015 05:31:30 PST
+X-Rocket-MIMEInfo: 002.001,TWHDsWFuYSBubyBwdWVkby4uLiB0ZW5nbyB5YSB1biBhbG11ZXJ6byBmaWphZG8uCgpkZXNkZSBlbCB2aWVybmVzIGVzdGFyw6EgbGEgZXNjcml0dXJhIHBhcmEgZmlybWFyc2UuCgpHYWJyaWVsCgpFbnZpYWRvIGRlc2RlIFlhaG9vIE1haWwgcGFyYSBBbmRyb2lkCgpEZToiUmlvcyBQcmFkbywgUm9kcmlnbyIgPFJvZHJpZ28uUmlvc0BpdGF1LmNsPgpGZWNoYTptacOpIDE4IDE4ZSBmZWIgMThlIDIwMTUgYSBsYXMgOToxOSBBTQpBc3VudG86UkU6IFRpZW5kYSBSdWdieQoKRWwgbWlvIGRlIHZhY2FjaW9uZXMBMAEBAQE-
+X-Mailer: YahooMailAndroidMobile/4.8.4 YahooMailWebService/0.8.203.740
+Message-ID: <1424266290.53189.YahooMailAndroidMobile@web140601.mail.bf1.yahoo.com>
+Date: Wed, 18 Feb 2015 05:31:30 -0800
+From: Gabriel Chomali <gabrielchomali@yahoo.com>
+Subject: Re: RE: Tienda Rugby
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>,
+  =?iso-8859-1?Q?Andr=E9s_Morales?= <amorales@cccchile.cl>
+In-Reply-To: <50A0FA980D0CA64EBE525618E1A7B5A0AD8FF4@CLSTGEXCP00N1.Itauchile.cl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="969045052-820380708-1424266290=:53189"
+
+--969045052-820380708-1424266290=:53189
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ma=F1ana no puedo... tengo ya un almuerzo fijado.=0A=0Adesde el viernes est=
+ar=E1 la escritura para firmarse.=0A=0AGabriel=0A=0AEnviado desde Yahoo Mai=
+l para Android=0A=0ADe:"Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>=0AFecha=
+:mi=E9 18 18e feb 18e 2015 a las 9:19 AM=0AAsunto:RE: Tienda Rugby=0A=0AEl =
+mio de vacaciones descartado para no seguir atras=E1ndonos , juntemosnos ma=
+=F1ana al almuerzo perdimos la semana completa =0A=0AGabriel firmemos la es=
+critura =0A=0A=A0=0A=0ARodrigo R=EDos Prado=0AAgente, Sucursal Pedro de Val=
+divia=0ABanco Ita=FA Chile=0APedro de Valdivia N=B03558=0A=D1u=F1oa, Santia=
+go=0ARodrigo.Rios@itau.cl=0AFono :+5626854681 =0A=0ABackUp: =0AAndres.River=
+a@itau.cl=0A=0AFono :+5626854688=0A=0A=A0=0A=0ADe: Gabriel Chomali [mailto:=
+gabrielchomali@yahoo.com] =0AEnviado el: mi=E9rcoles, 18 de febrero de 2015=
+ 9:11=0APara: Andr=E9s Morales (CCC-CHILE); Rios Prado, Rodrigo=0AAsunto: T=
+ienda Rugby=0A=0A=A0=0A=0AEstimados,=0A=0ACreo que vamos muy lentos en el p=
+royecto y debemos hacernos la idea de que abriremos en Abril.=0A=0AHan ido =
+vuestros arquitectos para que veamos la definici=F3n del arreglo del local?=
+=0A=0A=A0=0A=0AGabriel=0A=0A=A0=0A=0APara asegurar la adecuada lectura en t=
+odo tipo de correos electronicos, se han omitido intencionalmente los signo=
+s y acentos diacriticos del idioma castellano. La informacion contenida en =
+este mensaje y cualquier archivo adjunto es confidencial y no puede ser usa=
+da por mas personas que sus destinatarios. El uso no autorizado de esta inf=
+ormacion puede ser sancionado de conformidad con el Codigo Penal chileno. S=
+i ha recibido este correo por error, por favor notifique al remitente respo=
+ndiendo este mismo mensaje y elimine el mensaje y todos los archivos adjunt=
+os. Internet no puede garantizar la integridad de este mensaje, por lo que =
+el Banco no se hace responsable si el contenido del mismo ha sido alterado.=
+ =0A=0A
+--969045052-820380708-1424266290=:53189
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op">Ma=F1ana no puedo... tengo ya un almuerzo fijado.<div id=3D"yMail_curso=
+rElementTracker_0.8704958944581449">desde el viernes estar=E1 la escritura =
+para firmarse.</div><div id=3D"yMail_cursorElementTracker_0.870495894458144=
+9">Gabriel<br><br><p><a href=3D"https://overview.mail.yahoo.com/mobile/?.sr=
+c=3DAndroid">Enviado desde Yahoo Mail para Android</a></p> <hr><table cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody> <tr> <td valign=3D"top=
+"> <div style=3D"font-family:Roboto, sans-serif;color:#7e7d80;"><b>De</b>:"=
+Rios Prado, Rodrigo" &lt;Rodrigo.Rios@itau.cl&gt;<br><b>Fecha</b>:mi=E9 18 =
+18e feb 18e 2015 a las 9:19 AM<br><b>Asunto</b>:RE: Tienda Rugby<br><br></d=
+iv> =0A<div class=3D"WordSection1">=0A<p class=3D"MsoNormal"><span style=3D=
+"font-size:11.0pt;">El mio de vacaciones descartado para no seguir atras=E1=
+ndonos , juntemosnos ma=F1ana al almuerzo perdimos la semana completa=0A</s=
+pan></p> =0A<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;">Gabrie=
+l firmemos la escritura=0A</span></p> =0A<p class=3D"MsoNormal"><span style=
+=3D"font-size:11.0pt;"> &nbsp;</span></p> =0A<div>=0A<p class=3D"MsoNormal"=
+><b><span style=3D"font-size:11.0pt;">Rodrigo R=EDos Prado</span></b><span =
+style=3D"font-size:11.0pt;"><br clear=3D"none">=0A<b>Agente, Sucursal Pedro=
+ de Valdivia</b><br clear=3D"none">=0ABanco Ita=FA Chile<br clear=3D"none">=
+=0APedro de Valdivia N=B03558<br clear=3D"none">=0A=D1u=F1oa, Santiago<br c=
+lear=3D"none">=0A</span><b><u><span style=3D"font-size:11.0pt;">Rodrigo.Rio=
+s@itau.cl</span></u></b><span style=3D"font-size:11.0pt;"><br clear=3D"none=
+">=0AFono :+5626854681 <br clear=3D"none">=0A<br clear=3D"none">=0A</span><=
+span style=3D"font-size:11.0pt;">BackUp:=0A<br clear=3D"none">=0A<u>Andres.=
+Rivera<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:rodrigo.paredes@=
+itau.cl" target=3D"_blank" href=3D"javascript:return"><span style=3D"color:=
+#7F7F7F;">@itau.cl</span></a></u></span></p> =0A<p class=3D"MsoNormal"><spa=
+n style=3D"font-size:11.0pt;">Fono :+5626854688</span><span style=3D"font-s=
+ize:11.0pt;"></span></p> =0A</div>=0A<p class=3D"MsoNormal"><span style=3D"=
+font-size:11.0pt;"> &nbsp;</span></p> =0A<div class=3D"yQTDBase yqt64772962=
+83" id=3D"yqt03895"><div>=0A<div style=3D"border:none;border-top:solid #B5C=
+4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm;">=0A<p class=3D"MsoNormal"><b><span la=
+ng=3D"ES" style=3D"font-size:10.0pt;">De:</span></b><span lang=3D"ES" style=
+=3D"font-size:10.0pt;"> Gabriel Chomali [mailto:gabrielchomali@yahoo.com]=
+=0A<br clear=3D"none">=0A<b>Enviado el:</b> mi=E9rcoles, 18 de febrero de 2=
+015 9:11<br clear=3D"none">=0A<b>Para:</b> Andr=E9s Morales (CCC-CHILE); Ri=
+os Prado, Rodrigo<br clear=3D"none">=0A<b>Asunto:</b> Tienda Rugby</span></=
+p> =0A</div>=0A</div>=0A<p class=3D"MsoNormal"> &nbsp;</p> =0A<div>=0A<div>=
+=0A<p class=3D"MsoNormal" style=3D"background:white;"><span style=3D"">Esti=
+mados,</span></p> =0A</div>=0A<div>=0A<p class=3D"MsoNormal" style=3D"backg=
+round:white;"><span style=3D"">Creo que vamos muy lentos en el proyecto y d=
+ebemos hacernos la idea de que abriremos en Abril.</span></p> =0A</div>=0A<=
+div>=0A<p class=3D"MsoNormal" style=3D"background:white;"><span style=3D"">=
+Han ido vuestros arquitectos para que veamos la definici=F3n del arreglo de=
+l local?</span></p> =0A</div>=0A<div>=0A<p class=3D"MsoNormal" style=3D"bac=
+kground:white;"><span style=3D""> &nbsp;</span></p> =0A</div>=0A<div>=0A<p =
+class=3D"MsoNormal" style=3D"background:white;"><span style=3D"">Gabriel</s=
+pan></p> =0A</div>=0A<div>=0A<p class=3D"MsoNormal" style=3D"background:whi=
+te;"><span style=3D""> &nbsp;</span></p> =0A</div>=0A</div></div>=0A</div>=
+=0APara asegurar la adecuada lectura en todo tipo de correos electronicos, =
+se han omitido intencionalmente los signos y acentos diacriticos del idioma=
+ castellano. =0ALa informacion contenida en este mensaje y cualquier archiv=
+o adjunto es confidencial y no puede ser usada por mas personas que sus des=
+tinatarios. El uso no autorizado de esta informacion puede ser sancionado d=
+e conformidad con el Codigo Penal chileno. Si ha recibido este correo por e=
+rror, por favor notifique al remitente respondiendo este mismo mensaje y el=
+imine el mensaje y todos los archivos adjuntos.=0AInternet no puede garanti=
+zar la integridad de este mensaje, por lo que el Banco no se hace responsab=
+le si el contenido del mismo ha sido alterado.=0A</td>  </tr>   </tbody>   =
+</table></div></td></tr></table>
+--969045052-820380708-1424266290=:53189--

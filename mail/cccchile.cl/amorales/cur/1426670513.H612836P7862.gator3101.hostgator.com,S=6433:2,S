@@ -1,0 +1,163 @@
+Return-path: <gonzalo.samaniego@am.sony.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 18 Mar 2015 04:21:53 -0500
+Received: from mail-by2on0067.outbound.protection.outlook.com ([207.46.100.67]:33568 helo=na01-by2-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <gonzalo.samaniego@am.sony.com>)
+	id 1YYAAj-00020p-CJ
+	for amorales@cccchile.cl; Wed, 18 Mar 2015 04:21:53 -0500
+Received: from BY2PR08CA0082.namprd08.prod.outlook.com (25.163.62.178) by
+ BY2PR08MB330.namprd08.prod.outlook.com (10.242.237.18) with Microsoft SMTP
+ Server (TLS) id 15.1.106.15; Wed, 18 Mar 2015 09:21:50 +0000
+Received: from BN1BFFO11FD019.protection.gbl (2a01:111:f400:7c10::1:151) by
+ BY2PR08CA0082.outlook.office365.com (2a01:111:e400:58a4::50) with Microsoft
+ SMTP Server (TLS) id 15.1.118.21 via Frontend Transport; Wed, 18 Mar 2015
+ 09:21:49 +0000
+Received: from usculsndmail01v.am.sony.com (160.33.194.228) by
+ BN1BFFO11FD019.mail.protection.outlook.com (10.58.144.82) with Microsoft SMTP
+ Server (TLS) id 15.1.125.13 via Frontend Transport; Wed, 18 Mar 2015 09:21:49
+ +0000
+Received: from usculsndmail14v.am.sony.com (usculsndmail14v.am.sony.com [146.215.230.105])
+	by usculsndmail01v.am.sony.com (Sentrion-MTA-4.3.2/Sentrion-MTA-4.3.2) with ESMTP id t2I9LmLa003819
+	(version=TLSv1/SSLv3 cipher=RC4-SHA bits=128 verify=NO)
+	for <amorales@cccchile.cl>; Wed, 18 Mar 2015 09:21:48 GMT
+From: "Samaniego, Gonzalo" <Gonzalo.Samaniego@am.sony.com>
+To: =?Windows-1252?Q?Andr=E9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>
+Subject: Responder: Vitepal
+Thread-Topic: Responder: Vitepal
+Thread-Index: AQHQYVz1Q6ekCjvlPUiLze8FSuebOQ==
+Date: Wed, 18 Mar 2015 09:21:47 +0000
+Message-ID: <6cn1lvqrmubrxp1ogpyccgmh.1426674099949@email.android.com>
+References: <CAKggD2QomFenvbWLjEBfY-ObqZ89UEM3-_9bx_tXRXcJ9jjmvQ@mail.gmail.com>
+In-Reply-To: <CAKggD2QomFenvbWLjEBfY-ObqZ89UEM3-_9bx_tXRXcJ9jjmvQ@mail.gmail.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_000_6cn1lvqrmubrxp1ogpyccgmh1426674099949emailandroidcom_"
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+Received-SPF: Pass (protection.outlook.com: domain of am.sony.com designates
+ 160.33.194.228 as permitted sender) receiver=protection.outlook.com;
+ client-ip=160.33.194.228; helo=usculsndmail01v.am.sony.com;
+Authentication-Results: spf=pass (sender IP is 160.33.194.228)
+ smtp.mailfrom=Gonzalo.Samaniego@am.sony.com; cccchile.cl; dkim=none (message
+ not signed) header.d=none;
+X-Forefront-Antispam-Report:
+	CIP:160.33.194.228;CTRY:US;IPV:NLI;EFV:NLI;BMV:1;SFV:NSPM;SFS:(10009020)(6009001)(438002)(189002)(199003)(122434002)(450100001)(84326002)(102836002)(104016003)(63666004)(229853001)(62966003)(77156002)(16236675004)(107886001)(110136001)(19580395003)(19580405001)(6806004)(2950100001)(106466001)(33646002)(106116001)(76176999)(50986999)(4546004)(87936001)(46102003)(512944002)(92566002)(2656002)(54356999)(86362001)(95246002);DIR:OUT;SFP:1101;SCL:1;SRVR:BY2PR08MB330;H:usculsndmail01v.am.sony.com;FPR:;SPF:Pass;MLV:sfv;MX:1;A:0;LANG:es;
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BY2PR08MB330;
+X-Microsoft-Antispam-PRVS:
+	<BY2PR08MB330E6008F29B4B8A31B8F90B8000@BY2PR08MB330.namprd08.prod.outlook.com>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004)(5002010)(5005006);SRVR:BY2PR08MB330;BCL:0;PCL:0;RULEID:;SRVR:BY2PR08MB330;
+X-Forefront-PRVS: 051900244E
+X-OriginatorOrg: am.sony.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Mar 2015 09:21:49.2117
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 86f99b1e-a08b-4313-8c0c-2258d53da610
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=86f99b1e-a08b-4313-8c0c-2258d53da610;Ip=[160.33.194.228];Helo=[usculsndmail01v.am.sony.com]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR08MB330
+
+--_000_6cn1lvqrmubrxp1ogpyccgmh1426674099949emailandroidcom_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hola kaezon
+Rumbo a Bolivia almorcemos nek wik. Estamos al rev=E9s, cortando clientes n=
+o abriendo.
+Saludos
+
+Enviado desde mi tel=E9fono inteligente Sony Xperia=99
+
+"Andr=E9s Morales (CCC-CHILE)" <amorales@cccchile.cl> escribi=F3:
+
+
+
+Hola Sama,
+
+como va todo? te apuesto que ya nos extra=F1an!!
+
+Y mi almuerzo??
+
+Mira, lo que pasa es que mi vecino es due=F1o de vitepal y esta muy interes=
+ado es distribuir Car Audio. Tiene varios canelaes de venta ya abiertos que=
+ creo puede servirte.
+Crees que le puedas asignar alguna hora en tu apretada agenda?
+
+confirmame y lo coordino....
+
+Si no te interesa...invitame a almorzar al menos!!!!
+
+Un abrazo muy grande a la distancia....
+
+Besos a la Rosa! y a tooooooooodos tus piojos....
+
+KBZN
+
+
+
+--_000_6cn1lvqrmubrxp1ogpyccgmh1426674099949emailandroidcom_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+</head>
+<body>
+<pre style=3D"word-wrap:break-word; font-size:10.0pt; font-family:Tahoma; c=
+olor:black">Hola kaezon=0A=
+Rumbo a Bolivia almorcemos nek wik. Estamos al rev=E9s, cortando clientes n=
+o abriendo. =0A=
+Saludos =0A=
+=0A=
+Enviado desde mi tel=E9fono inteligente Sony Xperia=99=0A=
+=0A=
+&quot;Andr=E9s Morales (CCC-CHILE)&quot; &lt;amorales@cccchile.cl&gt; escri=
+bi=F3:=0A=
+=0A=
+</pre>
+<div>
+<div dir=3D"ltr">Hola Sama,
+<div><br>
+</div>
+<div>como va todo? te apuesto que ya nos extra=F1an!!</div>
+<div><br>
+</div>
+<div>Y mi almuerzo??</div>
+<div><br>
+</div>
+<div>Mira, lo que pasa es que mi vecino es due=F1o de vitepal y esta muy in=
+teresado es distribuir Car Audio. Tiene varios canelaes de venta ya abierto=
+s que creo puede servirte.</div>
+<div>Crees que le puedas asignar alguna hora en tu apretada agenda?</div>
+<div><br>
+</div>
+<div>confirmame y lo coordino....</div>
+<div><br>
+</div>
+<div>Si no te interesa...invitame a almorzar al menos!!!!</div>
+<div><br>
+</div>
+<div>Un abrazo muy grande a la distancia....</div>
+<div><br>
+</div>
+<div>Besos a la Rosa! y a tooooooooodos tus piojos....</div>
+<div><br>
+</div>
+<div>KBZN</div>
+<div><br>
+</div>
+<div><br>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_6cn1lvqrmubrxp1ogpyccgmh1426674099949emailandroidcom_--

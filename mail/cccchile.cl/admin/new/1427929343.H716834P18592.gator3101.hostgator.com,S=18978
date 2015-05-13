@@ -1,0 +1,272 @@
+Return-path: <novedades@mailing-payu.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Wed, 01 Apr 2015 18:02:23 -0500
+Received: from smtpauth136.icommarketing.com ([108.168.135.41]:28917)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <novedades@mailing-payu.com>)
+	id 1YdReR-0004oc-Ac
+	for admin@cccchile.cl; Wed, 01 Apr 2015 18:02:23 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector1; d=mailing-payu.com;
+ h=MIME-Version:Date:From:Reply-To:Content-Type:Subject:To:List-Unsubscribe:Message-ID; i=novedades@mailing-payu.com;
+ bh=pVWT2llcC0VfkiWgZmdOEJ5y1HY=;
+ b=e4JTKLG6l6GLAc3sDt2U7UzLnO6f3ZQqW5lCwMXpzagxMW5SRWNhbE27wVZ9RGlgGa/PWWafJ0rE
+   JcPrCqQtTMKKFG0RjawcLf4Tu882paNs1RKDnNGgqbl4MDFPZdD/1OSZJUgyPQEpNrabCGHaNRf7
+   t7u9Da6WeoWGd0/vKxs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector1; d=mailing-payu.com;
+ b=kaewFwR4KSRvka7MBc4lnDt+qVJ32m+9SYYNPhez/z9S0fjhr51n5xtMePiMUiRdoEyyxP1FjH4i
+   lU79+9zOFtWhv4OtFMws+xUtD0eBcjtqMmKH9synAkwoBEU1I3stg/tjW10dEydM9VdLL+65YpCa
+   bpemydO+AwsW5UJh+sk=;
+Received: by smtpauth136.icommarketing.com id h3hsfq1mo5ss for <admin@cccchile.cl>; Wed, 1 Apr 2015 20:02:20 -0300 (envelope-from <novedades@mailing-payu.com>)
+MIME-Version: 1.0
+Date: Wed, 01 Apr 2015 20:01:52 -0300
+X-Priority: 3 (Normal)
+From: "PayU Latam" <novedades@mailing-payu.com>
+Reply-To: novedades-reply@mailing-payu.com
+SMTP: 494
+Fecha-Envio: 01/04/2015 08:01:52
+Feedback-ID: 553:553_195226:553_3405_139569:iComMkt
+X-Mailer: Payu - Colombia
+Content-Type: multipart/alternative;
+	 boundary="------------050709010200010103030206"
+Subject: =?utf-8?B?Tm90aWZpY2FjacOzbiBkZSBtYW50ZW5pbWllbnRvIHByb2dyYW1hZG8gMDguMDQuMTU=?=
+To: admin@cccchile.cl
+List-Unsubscribe: <http://www.mailing-payu.com/sp_removido.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zNDA1JnBpZXphPTEzOTU2OSZjb25maWc9TVRrMU1qSTImbWFpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NTcxOTAmY29kRW1haWw9MjgwNiZub21icmVQcm92PU90aGVycw%3d%3d>
+X-CorpRelay: 553|3405|139569|195226|admin@cccchile.cl|0|2806|Others
+Message-ID: <0.3.1C.DF3.1D06CCFE833F841.0@smtpauth136.icommarketing.com>
+
+--------------050709010200010103030206
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"; format=flowed
+
+PayU Status
+Estimado cliente,
+Como parte del proceso de mejora continua, la plataforma PayU estar=C3=A1 f=
+uera de servicio debido a un mantenimiento que se realizar=C3=A1 en la sigu=
+iente fecha:
+Inicio:=C2=A008=C2=A0de abril, 00:00 A.M. - hora=C2=A0Colombia=C2=A0(-5:00 =
+GMT).
+Finalizaci=C3=B3n: 08 de abril, 3:00 A.M. - hora=C2=A0Colombia=C2=A0(-5:00 =
+GMT).
+Enviamos esta notificaci=C3=B3n con anterioridad, para que se tomen las pre=
+cauciones y acciones necesarias.
+Cordialmente Servicio al cliente PayU
+Dear customer,
+Due to maintenance, the PayU plattform will be unavailable on the following=
+ date:
+Start date:=C2=A0April 8th, 00:00 A.M. - Colombian time (-5:00 GMT). End da=
+te:=C2=A0April 8th, 3:00 A.M. - Colombian time=C2=A0(-5:00 GMT).
+We are sending this notification in advance so you can take the precautions=
+ and actions you deem necessary.
+SincerelyServicio al cliente=C2=A0PayU=C2=A0 www.payulatam.com  El presente=
+ mensaje electr=C3=B3nico y sus archivos adjuntos est=C3=A1n sujetos a una =
+pol=C3=ADtica que puede ser vista en=C2=A0www.payulatam.com/email-disclaime=
+r.html. =C2=A0 This electronic communication and the attached file(s) are s=
+ubject to a disclaimer which can be viewed at=C2=A0www.payulatam.com/email-=
+disclaimer.html.
+
+--------------050709010200010103030206
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:v=3D"urn:schemas-microsoft-co=
+m:vml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3DUTF-8"><meta name=3D"viewport" content=3D"target-densitydpi=3Ddevice-dp=
+i"><meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D=
+1.0, maximum-scale=3D1.0" /></head><body style=3D"text-align: center;"><div=
+ itemscope itemtype=3D"http://schema.org/Offer"><link itemprop=3D"image" hr=
+ef=3D"http://images.mailing-payu.com/clientes/553/3405/139569/icmThumbnail_=
+Home.jpg"/></div><div align=3D"center" style=3D"text-align:center;margin-le=
+ft:auto;margin-right:auto;"><table cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" align=3D"center" width=3D"600px" style=3D"margin-left:auto;margin-=
+right:auto;width:600px;"><tr><td width=3D"600" style=3D"width:600px;" valig=
+n=3D"top" align=3D"left"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td width=3D"12px" valign=3D"top" style=3D"width:12px"></td><td =
+width=3D"577px" valign=3D"top" style=3D"width:577px;text-align:center;" ali=
+gn=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td height=3D"11px" width=3D"577px" style=3D"width:577px; height:11px; line-=
+height:11px;" valign=3D"top"></td></tr></table><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"center" style=3D"text-align:center;mar=
+gin-left:auto;margin-right:auto;"><tr><td width=3D"577px" style=3D"width:57=
+7px; text-align:center;" valign=3D"top" align=3D"center"><font style=3D"fon=
+t-family:Tahoma; font-size:11px; color:#ADB3B5;"><a href=3D"http://www.mail=
+ing-payu.com/verEmail2.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zNDA1JnBpZXphPTEzOTU=
+2OSZjb25maWc9MTk1MjI2Jm1haWw9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZmlsPTU3MTkwJmNvZE=
+VtYWlsPTI4MDYmZW52aW9ucm89MjgwNiZub21icmVQcm92PU90aGVycyZzdWJqZWN0PTIwNzYzN=
+w%3d%3d" style=3D"text-decoration:none;font-family:Tahoma; font-size:11px; =
+color:#ADB3B5;" target=3D"_blank">Versi=C3=B3n Online</a></font></td></tr><=
+/table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td heig=
+ht=3D"5px" width=3D"577px" style=3D"width:577px; height:5px; line-height:5p=
+x;" valign=3D"top"></td></tr></table></td><td width=3D"11px" valign=3D"top"=
+ style=3D"width:11px"></td></tr></table></td></tr><tr><td height=3D"10" sty=
+le=3D"height: 10px;"></td></tr></table></div><div align=3D"center" style=3D=
+"margin-left:auto;margin-right:auto;">=0A			=0A<table id=3D"Table_01" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A	<tr>=0A		<td>=0A			<table w=
+idth=3D'599' align=3D'center'><tr></tr></table><!-- // End Module: Standard=
+ Preheader \\ --><!-- // End Template Preheader \\ --> <!-- // Begin Module=
+: Standard Header Image \\ --><img src=3D'http://www.payulatam.com/imagenes=
+-correos/header_mantenimiento.png' width=3D'600' height=3D'130' alt=3D'PayU=
+ Status'> <!-- // End Module: Standard Header Image \\ --><table border=3D'=
+0' cellpadding=3D'0' cellspacing=3D'0' width=3D'600' id=3D'templateContaine=
+r'><tr><td align=3D'center' valign=3D'top'><!-- // Begin Template Header \\=
+ --><table border=3D'0' cellpadding=3D'0' cellspacing=3D'0' width=3D'600' i=
+d=3D'templateHeader'><tr><td class=3D'headerContent'></td></tr></table><!--=
+ // End Template Header \\ --></td></tr><tr><td align=3D'center' valign=3D'=
+top'><!-- // Begin Template Body \\ --><table border=3D'0' cellpadding=3D'0=
+' cellspacing=3D'0' width=3D'500' id=3D'templateBody'><tr><td valign=3D'top=
+' class=3D'bodyContent'><!-- // Begin Module: Standard Content \\ --><table=
+ border=3D'0' cellpadding=3D'0' cellspacing=3D'0' width=3D'500'><tr><td val=
+ign=3D'top'><div mc:edit=3D'std_content00'><div style=3D'background: #fff;'=
+><div style=3D'padding: 30px 30px 30px 30px; width: 540px;'><span style=3D'=
+font-size: 18px;'><span style=3D'font-family: arial,helvetica neue,helvetic=
+a,sans-serif;'><strong><span style=3D'color: #1c3f95;'><span style=3D'line-=
+height: 22px; margin-bottom: 5px;'>Estimado cliente,=C2=A0</span></span></s=
+trong></span></span><div><div>=C2=A0</div><div style=3D'text-align: left;'>=
+<div style=3D'background-color: #fff;'><div style=3D'background-color: #fff=
+;'><span style=3D'font-family: arial,helvetica neue,helvetica,sans-serif;'>=
+<span style=3D'font-size: 12px;'><span style=3D'background-color: #f9f9f9; =
+color: #828282;'>Como parte del proceso de mejora continua, la plataforma P=
+ayU estar=C3=A1 fuera de servicio debido a un mantenimiento que se realizar=
+=C3=A1 en la siguiente fecha: </span></span></span></div><div style=3D'back=
+ground-color: #fff;'><br> <span style=3D'font-family: arial,helvetica neue,=
+helvetica,sans-serif;'><span style=3D'font-size: 12px;'><span style=3D'colo=
+r: #828282;'><strong>Inicio:</strong>=C2=A008=C2=A0de abril, 00:00 A.M. - h=
+ora=C2=A0Colombia=C2=A0(-5:00 GMT).</span></span></span></div><div style=3D=
+'text-align: justify; background-color: #fff;'><div style=3D'text-align: le=
+ft;'><span style=3D'font-family: arial,helvetica neue,helvetica,sans-serif;=
+'><span style=3D'font-size: 12px;'><span style=3D'color: #828282;'><strong>=
+Finalizaci=C3=B3n:</strong> 08 de abril, 3:00 A.M. - hora=C2=A0Colombia=C2=
+=A0(-5:00 GMT).<br></span><br> <span style=3D'color: #828282;'><strong></st=
+rong></span></span></span></div></div></div><div style=3D'text-align: justi=
+fy; background-color: #fff;'><div style=3D'text-align: left;'><span style=
+=3D'font-family: arial,helvetica neue,helvetica,sans-serif;'><span style=3D=
+'font-size: 12px;'><span style=3D'color: #828282; text-align: justify;'>Env=
+iamos esta notificaci=C3=B3n con anterioridad, para que se tomen las precau=
+ciones y acciones necesarias.</span></span></span></div></div></div><div st=
+yle=3D'text-align: justify;'>=C2=A0</div><div style=3D'text-align: justify;=
+'><span style=3D'font-family: arial,helvetica neue,helvetica,sans-serif;'><=
+span style=3D'font-size: 12px;'><span style=3D'color: #828282;'><strong>Cor=
+dialmente</strong></span><br> <span style=3D'color: #828282;'>Servicio al c=
+liente PayU</span></span></span><br> =C2=A0<hr><br> <span style=3D'font-siz=
+e: 18px;'><span style=3D'font-family: arial,helvetica neue,helvetica,sans-s=
+erif;'><strong><span style=3D'color: #1c3a85;'>Dear customer,=C2=A0=C2=A0</=
+span></strong></span></span><div style=3D'text-align: left;'><div style=3D'=
+background-color: #fff;'><br> <span style=3D'font-size: 12px;'><span style=
+=3D'background-color: #fff; color: #828282; font-family: arial,helvetica ne=
+ue,helvetica,sans-serif;'>Due to maintenance, the PayU plattform will be un=
+available on the following date: </span></span><br> <br style=3D'font-famil=
+y: arial,;' helvetica=3D'' neue=3D'' sans-serif=3D'' background-color:=3D''=
+ fff=3D''> <span style=3D'font-family: arial,helvetica neue,helvetica,sans-=
+serif;'><span style=3D'font-size: 12px;'><span style=3D'background-color: #=
+fff; color: #828282;'><strong>Start date:=C2=A0</strong>April 8th, 00:00 A.=
+M. - Colombian time (-5:00 GMT).<br> <strong>End date:=C2=A0</strong>April =
+8th, 3:00 A.M. - Colombian time=C2=A0(-5:00 GMT).<br> </span></span></span>=
+</div><br> <span style=3D'font-family: arial,helvetica neue,helvetica,sans-=
+serif;'><span style=3D'background-color: #fff; color: #828282; text-align: =
+justify;'><span style=3D'font-size: 12px;'>We are sending this notification=
+ in advance so you can take the precautions and actions you deem necessary.=
+</span></span></span><br> <br> <span style=3D'font-family: arial,helvetica =
+neue,helvetica,sans-serif;'><span style=3D'font-size: 12px;'><span style=3D=
+'color: #828282;'><span style=3D'background-color: #fff;'>Sincerely<br></sp=
+an><span>Servicio al cliente=C2=A0</span><span>PayU=C2=A0</span><br><br> <s=
+trong style=3D'color: #222222; font-family: arial,sans-serif; font-size: 13=
+px; line-height: normal; text-align: justify;'><span style=3D'font-size: 12=
+px;'><span style=3D'font-family: arial,helvetica,sans-serif;'><span style=
+=3D'color: #00aeef; font-weight: normal;'><a href=3D"http://www.mailing-pay=
+u.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haW=
+w%3d&utm_content=3DVk1fUEFZVV8wOC4wNC4xNQ%3d%3d&utm_campaign=3DSWNvbW1hcmtl=
+dGluZyAtIFZlbnRhbmFzICAtIFZNX1BheVVfMDguMDQuMTU%3d&boton=3DMjM2NzMzMQ%3d%3d=
+&config=3DMTk1MjI2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3D=
+YWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dht=
+tp://pagosonline.us5.list-manage1.com/track/click%7b33%7du%7b22%7db4e002968=
+190f2bbf2afda7e3%7b11%7did%7b22%7d9792d92f4c%7b11%7de%7b22%7dc7dd11b9c7" id=
+=3D"boton1" style=3D'color: #1155cc; font-weight: normal;' target=3D'_blank=
+'>www.payulatam.com</a></span></span></span></strong><br> <br> <span style=
+=3D'font-family: arial,helvetica neue,helvetica,sans-serif;'><span style=3D=
+'font-size: 11px;'><span style=3D'color: #828282;'>El presente mensaje elec=
+tr=C3=B3nico y sus archivos adjuntos est=C3=A1n sujetos a una pol=C3=ADtica=
+ que puede ser vista<br> en=C2=A0</span><a href=3D"http://www.mailing-payu.=
+com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%=
+3d&utm_content=3DVk1fUEFZVV8wOC4wNC4xNQ%3d%3d&utm_campaign=3DSWNvbW1hcmtldG=
+luZyAtIFZlbnRhbmFzICAtIFZNX1BheVVfMDguMDQuMTU%3d&boton=3DMjM2NzMzMg%3d%3d&c=
+onfig=3DMTk1MjI2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYW=
+RtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp=
+://www.payulatam.com/email-disclaimer.html" id=3D"boton2" target=3D'_blank'=
+><span style=3D'color: #828282;'>www.payulatam.com/email-disclaimer.html</s=
+pan></a><span style=3D'color: #828282;'>. =C2=A0<br> This electronic commun=
+ication and the attached file(s) are subject to a disclaimer which can be v=
+iewed at=C2=A0</span><a href=3D"http://www.mailing-payu.com/click2.aspx?utm=
+_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DVk=
+1fUEFZVV8wOC4wNC4xNQ%3d%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIFZlbnRhbmFzI=
+CAtIFZNX1BheVVfMDguMDQuMTU%3d&boton=3DMjM2NzMzMw%3d%3d&config=3DMTk1MjI2&en=
+vionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY=
+2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.payulatam.co=
+m/email-disclaimer.html" id=3D"boton3" target=3D'_blank'><span style=3D'col=
+or: #828282;'>www.payulatam.com/email-disclaimer.html</span></a><span style=
+=3D'color: #828282;'>.</span></span></span><br> =C2=A0</span></span></span>=
+</div></div></div></div></div></div></td></tr></table><!-- // End Module: S=
+tandard Content \\ --></td></tr></table><!-- // End Template Body \\ --></t=
+d></tr><tr></tr></table><!-- // End Template Footer \\ -->=0A		</td>=0A	</t=
+r>=0A</table>=0A=0A		</div><div align=3D"center" style=3D"text-align:center=
+;margin-left:auto;margin-right:auto"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" align=3D"center" width=3D"600px" style=3D"margin-left:a=
+uto;margin-right:auto;width:600px;"><tr><td width=3D"600px" style=3D"width:=
+600px;" valign=3D"top" align=3D"left"><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td width=3D"12px" valign=3D"top" style=3D"width:12=
+px"></td><td width=3D"577px" valign=3D"top" style=3D"width:577px"><table ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td height=3D"13px" widt=
+h=3D"577px" style=3D"width:577px; height:13px; line-height:13px;" valign=3D=
+"top"></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td width=3D"577px" style=3D"width:577px; text-align:center;" va=
+lign=3D"top" align=3D"center"><font style=3D"font-family:Tahoma; font-size:=
+11px; color:#ADB3B5;">Este email fue enviado a: <span style=3D"color:#6C6D6=
+F;">admin@cccchile.cl</span> | Este email fue enviado por: <span style=3D"c=
+olor:#6C6D6F;">PayU Latam </span></font></td></tr></table><table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0"><tr><td height=3D"5px" width=3D"577p=
+x" style=3D"width:577px; height:5px; line-height:5px;" valign=3D"top"></td>=
+</tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"line-height:1px;" valign=3D"top"><img src=3D"http://images.maili=
+ng-payu.com/clientes/images/SeparadorFoot.gif" alt=3D"SeparadorFoot" width=
+=3D"577" height=3D"5"  /></td></tr></table><table cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" align=3D"center"><tr><td width=3D"577px" style=3D"w=
+idth:577px; text-align:center;" valign=3D"top"><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:5px;height:5px;" h=
+eight=3D"5px" valign=3D"top" align=3D"center">&nbsp;</td></tr></table><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td height=3D"13px" =
+width=3D"577px" style=3D"width:577px; height:13px; line-height:13px;" valig=
+n=3D"top" align=3D"center"><font style=3D"font-family:Tahoma; font-size:11p=
+x; color:#ADB3B5;"><a href=3D"http://www.mailing-payu.com/sp_removido.aspx?=
+Y2xpZW50ZT01NTMmY2FtcGFuYT0zNDA1JnBpZXphPTEzOTU2OSZjb25maWc9MTk1MjI2Jm1haWw=
+9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZmlsPTU3MTkwJmNvZEVtYWlsPTI4MDYmbm9tYnJlUHJvdj=
+1PdGhlcnM%3d" style=3D"text-decoration:none; font-family:Tahoma; font-size:=
+11px; color:#ADB3B5;" target=3D"_blank">Remover suscripci=C3=B3n</a> . <a h=
+ref=3D"http://www.mailing-payu.com/termycond.aspx" style=3D"text-decoration=
+:none;font-family:Tahoma; font-size:11px; color:#ADB3B5;"  target=3D"_blank=
+">T=C3=A9rminos y Condiciones</a></font></td></tr></table><table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:5px;hei=
+ght:5px;" height=3D"5px" valign=3D"top" align=3D"center">&nbsp;</td></tr></=
+table></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td style=3D"line-height:1px;" valign=3D"top"><img src=3D"http:/=
+/images.mailing-payu.com/clientes/images/SeparadorFoot.gif" alt=3D"Separado=
+rFoot" width=3D"577" height=3D"5"  /></td></tr></table><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:5px;heig=
+ht:5px;" height=3D"5px" valign=3D"top" align=3D"center">&nbsp;</td></tr><tr=
+><td style=3D"line-height:14px;height:14px;width:567px;" height=3D"14px" wi=
+dth=3D"577px;" valign=3D"top" align=3D"right"><a href=3D"www.mailing-payu.c=
+om/PoweredBy.aspx?alianza=3D891&e1=3DYWRtaW5AY2NjY2hpbGUuY2w=3D&e2=3DUGF5dS=
+AtIENvbG9tYmlh&e3=3DVk1fUEFZVV8wOC4wNC4xNQ=3D=3D&e4=3DVk1fUGF5VV8wOC4wNC4xN=
+Q=3D=3D&utm_source=3DiComMkt&utm_medium=3DEmail&utm_content=3DPayu - Colomb=
+ia-VM_PAYU_08.04.15-VM_PayU_08.04.15&utm_campaign=3DiComMkt%2BVerified%2BBy=
+" style=3D"text-decoration:none;"><font style=3D"font-family:Tahoma; font-s=
+ize:11px;"><font style=3D"color:#f77a2f;">Verified</font>&nbsp;<font style=
+=3D"color:#a5ac12;">By</font>&nbsp;<font style=3D"color:#358cbe;">iComMkt</=
+font></font></a></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tr><td style=3D"line-height:10px;height:10px;" height=3D"10=
+px" valign=3D"top" align=3D"center">&nbsp;</td></tr></table></td></tr></tab=
+le></div><img src=3D"http://www.mailing-payu.com/Pixel.aspx?Y2xpZW50ZT01NTM=
+mY2FtcGFuYT0zNDA1JnBpZXphPTEzOTU2OSZjb25maWc9MTk1MjI2JmVudmlvbnJvPTI4MDYmbW=
+FpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NTcxOTAmdmlyYWw9MCZjb2RFbWFpbD0yODA2J=
+m5vbWJyZVByb3Y9T3RoZXJzJnN1YmplY3Q9MjA3NjM3" width=3D"0" height=3D"0" borde=
+r=3D"0"></body></html>
+--------------050709010200010103030206--
+

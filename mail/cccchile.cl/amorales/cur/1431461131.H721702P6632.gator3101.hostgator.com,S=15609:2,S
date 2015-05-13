@@ -1,0 +1,337 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 12 May 2015 15:05:31 -0500
+Received: from mail-qk0-f181.google.com ([209.85.220.181]:36018)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YsGQl-0001hG-Fd
+	for amorales@cccchile.cl; Tue, 12 May 2015 15:05:31 -0500
+Received: by qku63 with SMTP id 63so13958705qku.3
+        for <amorales@cccchile.cl>; Tue, 12 May 2015 13:05:29 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=L1AHl9Er19ybfSvbnfBjdHIFquEIH5YoXGdQReX1/qw=;
+        b=Hdj9zOBsPhgbQDBhV7kepMfOEhkPNPGGWwJwuWY1VaekrwEDmStUQmoIUR/TMQC3i/
+         YEVW6t/68LdT8w3kgdcVE0nUFlnz/luU6L1lbDXU4Hq07KB5L1iU7+GcaYvZykQcN0cY
+         cI6rPlaHjaZJdxkyKXz+0ml9F9KPhy+aj6FQ5X5JG3tHzydhp/ZqB3+cg6NhT6NYb2SQ
+         eZGHt1YbWdBWuQd7WTQVS/J9L3iJ5zGNrO3hFd+IBLmchIvtmlvtRM0767AiBGwOLLc7
+         9dE/2s6aJoz0ft62+qm+RTz1w9NXPYrWwIXEVkZG6Z5RzK3q5dDW+8Rt3iOLTJtPbrk2
+         Jv1A==
+X-Gm-Message-State: ALoCoQmhRH6GRN6+gfzMumhRdBzkF/oOgx2yFIGI1fo+cgLQumlidnVu9ofnjS1sVZkn5y1PY2dF
+X-Received: by 10.55.42.88 with SMTP id q85mr36875322qkh.40.1431461129827;
+        Tue, 12 May 2015 13:05:29 -0700 (PDT)
+Received: from [192.168.0.3] (pc-146-38-120-200.cm.vtr.net. [200.120.38.146])
+        by mx.google.com with ESMTPSA id h3sm13939616qkh.34.2015.05.12.13.05.28
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 12 May 2015 13:05:29 -0700 (PDT)
+References: <CAJbDu1mcdbVMWqXZ28Atx0qk_z8mkUuf+i4_N1WsDgA=_6x6OQ@mail.gmail.com> <004e01d08cf1$a1bf2510$e53d6f30$@spindeportes.cl> <00c901d08cea$f9479bc0$ebd6d340$@spindeportes.cl> <000001d08cf4$76040c30$620c2490$@spindeportes.cl> <00e501d08cee$a3457e50$e9d07af0$@spindeportes.cl>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <00e501d08cee$a3457e50$e9d07af0$@spindeportes.cl>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-42A14079-0757-4876-8CBC-59CDCBF82AA0
+Content-Transfer-Encoding: 7bit
+Message-Id: <2596BB66-9CA3-4FD1-B3C5-E5765BFFED6C@viaglobal.cl>
+Cc: Contabilidad Spin Ltda <contabilidad@spindeportes.cl>,
+ =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+X-Mailer: iPhone Mail (12F70)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: CONFIRMAR PAGOS
+Date: Tue, 12 May 2015 17:05:52 -0300
+To: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+
+
+--Apple-Mail-42A14079-0757-4876-8CBC-59CDCBF82AA0
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Gonzalo Aluz
+Es la persona de Gaucho.
+Si quieres me pasas la boleta y se la paso.
+
+
+
+
+
+> El 12-05-2015, a las 17:02, Guillermo Morales - Spin Ltda <gmorales@spinde=
+portes.cl> escribi=C3=B3:
+>=20
+> ANA MARIA
+> MANDELES UNA BOLETA POR EL VALOR
+> =20
+> De: Contabilidad Spin Ltda [mailto:contabilidad@spindeportes.cl]=20
+> Enviado el: martes, 12 de mayo de 2015 17:44
+> Para: 'Guillermo Morales - Spin Ltda'; 'Victor Irigoyen'; 'Andr=C3=A9s Mor=
+ales (CCC-CHILE)'
+> Asunto: RE: CONFIRMAR PAGOS
+> =20
+> Quedo pagado, pero NO facturado,  no tengo ning=C3=BAn dato para emitir la=
+ factura.
+> =20
+> De: Guillermo Morales - Spin Ltda [mailto:gmorales@spindeportes.cl]=20
+> Enviado el: martes, 12 de mayo de 2015 15:37
+> Para: 'Victor Irigoyen'; Andr=C3=A9s Morales (CCC-CHILE)
+> CC: 'Contabilidad Spin Ltda'
+> Asunto: RE: CONFIRMAR PAGOS
+> =20
+> Se entregaron 5 0 6 pelotas a Gauchos. Quedo ordenado con gu=C3=ADa y fact=
+ura? Lo pagaron?
+> =20
+> De: Contabilidad Spin Ltda [mailto:contabilidad@spindeportes.cl]=20
+> Enviado el: martes, 12 de mayo de 2015 17:24
+> Para: 'Victor Irigoyen'; 'Guillermo Morales M'
+> Asunto: RE: CONFIRMAR PAGOS
+> =20
+> 1.      old locks: SURLAT (2da cuota)                      Dicen que pagan=
+ a 30 dias pago deber=C3=ADa estar el 25/05
+> 2.      old newlanders: TELL (sponsor mangas)         Solo ayer 11/05 reci=
+bi la  O/C de esto.
+> 3.      old newlanders: PORTILLO (sponsor pecho) Hay una factura emitida a=
+ portillo que se envio al factoring
+> 4.      tigres: boleta (350.000 + iva)                           No tengo c=
+ontacto, tel=C3=A9fono o donde pregunto.
+> =20
+> =20
+> De: Victor Irigoyen [mailto:virigoyen@viaglobal.cl]=20
+> Enviado el: viernes, 08 de mayo de 2015 11:51
+> Para: Guillermo Morales M; Contabilidad ana maria Montero
+> Asunto: CONFIRMAR PAGOS
+> =20
+> =20
+> 1. old locks: SURLAT (2da cuota)
+> 2. old newlanders: TELL (sponsor mangas)
+> 3. old newlanders: PORTILLO (sponsor pecho)
+> 4. tigres: boleta (350.000 + iva)=20
+> =20
+> =20
+> =20
+
+--Apple-Mail-42A14079-0757-4876-8CBC-59CDCBF82AA0
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Gonzalo Aluz</div><div>Es la persona d=
+e Gaucho.</div><div>Si quieres me pasas la boleta y se la paso.</div><div><b=
+r><br><br><div><br></div></div><div><br>El 12-05-2015, a las 17:02, Guillerm=
+o Morales - Spin Ltda &lt;<a href=3D"mailto:gmorales@spindeportes.cl">gmoral=
+es@spindeportes.cl</a>&gt; escribi=C3=B3:<br><br></div><blockquote type=3D"c=
+ite"><div><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+utf-8"><meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered mediu=
+m)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EstiloCorreo21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EstiloCorreo22
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EstiloCorreo23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1315258837;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1259875632 201981967 201981977 201981979 2019=
+81967 201981977 201981979 201981967 201981977 201981979;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--><div class=3D"WordSection1"><p class=3D"Ms=
+oNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1F497D">ANA MARIA<o:p></o:p></span></p><p class=3D=
+"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;;color:#1F497D">MANDELES UNA BOLETA POR EL VALOR <o:p>=
+</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp=
+;</o:p></span></p><div><div style=3D"border:none;border-top:solid #B5C4DF 1.=
+0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span style=3D"font=
+-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</spa=
+n></b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;s=
+ans-serif&quot;"> Contabilidad Spin Ltda [<a href=3D"mailto:contabilidad@spi=
+ndeportes.cl">mailto:contabilidad@spindeportes.cl</a>] <br><b>Enviado el:</b=
+> martes, 12 de mayo de 2015 17:44<br><b>Para:</b> 'Guillermo Morales - Spin=
+ Ltda'; 'Victor Irigoyen'; 'Andr=C3=A9s Morales (CCC-CHILE)'<br><b>Asunto:</=
+b> RE: CONFIRMAR PAGOS<o:p></o:p></span></p></div></div><p class=3D"MsoNorma=
+l"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Que=
+do pagado, pero NO facturado, &nbsp;no tengo ning=C3=BAn dato para emitir la=
+ factura.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-si=
+ze:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F49=
+7D"><o:p>&nbsp;</o:p></span></p><div><div style=3D"border:none;border-top:so=
+lid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal"><b><span=
+ style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&q=
+uot;">De:</span></b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma=
+&quot;,&quot;sans-serif&quot;"> Guillermo Morales - Spin Ltda [<a href=3D"ma=
+ilto:gmorales@spindeportes.cl">mailto:gmorales@spindeportes.cl</a>] <br><b>E=
+nviado el:</b> martes, 12 de mayo de 2015 15:37<br><b>Para:</b> 'Victor Irig=
+oyen'; Andr=C3=A9s Morales (CCC-CHILE)<br><b>CC:</b> 'Contabilidad Spin Ltda=
+'<br><b>Asunto:</b> RE: CONFIRMAR PAGOS<o:p></o:p></span></p></div></div><p c=
+lass=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal"><span style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;col=
+or:#1F497D">Se entregaron 5 0 6 pelotas a Gauchos. Quedo ordenado con gu=C3=AD=
+a y factura? Lo pagaron?<o:p></o:p></span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p><div><div style=3D"border:non=
+e;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoN=
+ormal"><b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;">De:</span></b><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Contabilidad Spin Ltda [<a hr=
+ef=3D"mailto:contabilidad@spindeportes.cl">mailto:contabilidad@spindeportes.=
+cl</a>] <br><b>Enviado el:</b> martes, 12 de mayo de 2015 17:24<br><b>Para:<=
+/b> 'Victor Irigoyen'; 'Guillermo Morales M'<br><b>Asunto:</b> RE: CONFIRMAR=
+ PAGOS<o:p></o:p></span></p></div></div><p class=3D"MsoNormal"><o:p>&nbsp;</=
+o:p></p><p class=3D"MsoListParagraph" style=3D"text-indent:-18.0pt;mso-list:=
+l0 level1 lfo2"><!--[if !supportLists]--><span style=3D"mso-list:Ignore">1.<=
+span style=3D"font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span></span><!--[endif]-->old locks: SURLAT (2da cuota) &nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dicen que pagan a 30 dias pago deber=C3=ADa e=
+star el 25/05<o:p></o:p></p><p class=3D"MsoListParagraph" style=3D"text-inde=
+nt:-18.0pt;mso-list:l0 level1 lfo2"><!--[if !supportLists]--><span style=3D"=
+mso-list:Ignore">2.<span style=3D"font:7.0pt &quot;Times New Roman&quot;">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->old newlanders: TEL=
+L (sponsor mangas)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Solo ayer=
+ 11/05 recibi la &nbsp;O/C de esto.<o:p></o:p></p><p class=3D"MsoListParagra=
+ph" style=3D"text-indent:-18.0pt;mso-list:l0 level1 lfo2"><!--[if !supportLi=
+sts]--><span style=3D"mso-list:Ignore">3.<span style=3D"font:7.0pt &quot;Tim=
+es New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]=
+-->old newlanders: PORTILLO (sponsor pecho) Hay una factura emitida a portil=
+lo que se envio al factoring<o:p></o:p></p><p class=3D"MsoListParagraph" sty=
+le=3D"text-indent:-18.0pt;mso-list:l0 level1 lfo2"><!--[if !supportLists]-->=
+<span style=3D"mso-list:Ignore">4.<span style=3D"font:7.0pt &quot;Times New R=
+oman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]-->tigre=
+s: boleta (350.000 + iva)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; No tengo contacto, tel=C3=A9fono o donde pregunto.<=
+o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</=
+o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;<=
+/o:p></span></p><p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;fo=
+nt-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;=
+"> Victor Irigoyen [<a href=3D"mailto:virigoyen@viaglobal.cl">mailto:virigoy=
+en@viaglobal.cl</a>] <br><b>Enviado el:</b> viernes, 08 de mayo de 2015 11:5=
+1<br><b>Para:</b> Guillermo Morales M; Contabilidad ana maria Montero<br><b>=
+Asunto:</b> CONFIRMAR PAGOS<o:p></o:p></span></p><p class=3D"MsoNormal"><o:p=
+>&nbsp;</o:p></p><div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><div><p cl=
+ass=3D"MsoNormal">1. old locks: SURLAT (2da cuota)<o:p></o:p></p></div><div>=
+<p class=3D"MsoNormal">2. old newlanders: TELL (sponsor mangas)<o:p></o:p></=
+p></div><div><p class=3D"MsoNormal">3. old newlanders: PORTILLO (sponsor pec=
+ho)<o:p></o:p></p></div><div><p class=3D"MsoNormal">4. tigres: boleta (350.0=
+00 + iva)&nbsp;<o:p></o:p></p></div><div><p class=3D"MsoNormal"><o:p>&nbsp;<=
+/o:p></p></div><div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p></div><div><=
+p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p></div></div></div></div></blockqu=
+ote></body></html>=
+
+--Apple-Mail-42A14079-0757-4876-8CBC-59CDCBF82AA0--

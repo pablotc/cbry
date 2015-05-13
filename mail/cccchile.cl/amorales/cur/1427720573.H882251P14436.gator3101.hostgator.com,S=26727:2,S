@@ -1,0 +1,723 @@
+Return-path: <maxcorream@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 30 Mar 2015 08:02:53 -0500
+Received: from mail-ig0-f175.google.com ([209.85.213.175]:35820)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <maxcorream@gmail.com>)
+	id 1YcZLB-0003j0-MK
+	for amorales@cccchile.cl; Mon, 30 Mar 2015 08:02:53 -0500
+Received: by igcau2 with SMTP id au2so73553736igc.0
+        for <amorales@cccchile.cl>; Mon, 30 Mar 2015 06:02:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=St6WjOQWhyQ8mCACHW3SQYFdeNmwoLnxCTfQ4M5xkYk=;
+        b=yi6oEi3cvBDI7t37BJLSw9LqJooAUx9gRcKdOv0a/nAOErneatM3fAW6ZJFdp7MEfS
+         R0Xr0nibX8NB6HBm8CPSqr4urtPMoPzvX/+dc7TopfMFYAEzq6iX/8+KuCzmlmdwBoyr
+         dFQozP4J5yrD+eLXG+Gd3LU4OT7mvDWNiZ09PYu2SM4lIzdElOUlgmovpnLD/GsqmuTS
+         d9ujkMZF6QPxPU+kDl0ZJU47nU+8TJWINUfQuKO4BtOqM2VfAcZE217xBfsZ/xRwRT8c
+         qY48fduFiL2ln+cfvfi1dMaW1LjTz7I9dK3hhwP7wNzmIjvXmx9IeMQ2NpPwtE+QofpG
+         FKjA==
+MIME-Version: 1.0
+X-Received: by 10.50.35.195 with SMTP id k3mr17508600igj.11.1427720571698;
+ Mon, 30 Mar 2015 06:02:51 -0700 (PDT)
+Received: by 10.107.142.17 with HTTP; Mon, 30 Mar 2015 06:02:51 -0700 (PDT)
+In-Reply-To: <1753738932.1383832.1427718493861.JavaMail.yahoo@mail.yahoo.com>
+References: <CAOxT3ai6q75J6fybgXn1TvzmDxh4eTMgSyMa89ctZwAqKF0LSA@mail.gmail.com>
+	<1753738932.1383832.1427718493861.JavaMail.yahoo@mail.yahoo.com>
+Date: Mon, 30 Mar 2015 10:02:51 -0300
+Message-ID: <CAF6gypnECfLQ_nN0JAS-f328d6bM5Kn71wGRk3YzpRX7fghDqg@mail.gmail.com>
+Subject: Re: Propuesta Tienda Lo Castillo
+From: Max Correa <maxcorream@gmail.com>
+To: Gabriel Chomali <gabrielchomali@yahoo.com>
+Cc: josefa morales <josefa.m@gmail.com>, "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>, 
+	=?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a1134af1a83c5f805128119d1
+
+--001a1134af1a83c5f805128119d1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Gabriel,
+
+Entre hoy y ma=C3=B1ana nos debieran tener las cotizaciones de los muebles,
+creemos que es mejor reunirnos una vez que ya tengamos todo cotizado para
+conversar sobre el presupuesto final.
+
+Podr=C3=ADa ser el miercoles a las 19.00 horas, pero deja confirmar una vez=
+ que
+tengamos las cotizaciones.
+
+Saludos
+Max
+
+
+
+El 30 de marzo de 2015, 9:28, Gabriel Chomali <gabrielchomali@yahoo.com>
+escribi=C3=B3:
+
+> Nos juntamos hoy a las 19:00 en la tienda??
+> Gabriel
+>
+>   ------------------------------
+>  *From:* josefa morales <josefa.m@gmail.com>
+> *To:* "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+> *Cc:* Max Correa <maxcorream@gmail.com>; Gabriel Chomali <
+> gabrielchomali@yahoo.com>; Andr=C3=A9s Morales (CCC-CHILE) <
+> amorales@cccchile.cl>
+> *Sent:* Friday, March 20, 2015 8:03 PM
+>
+> *Subject:* Re: Propuesta Tienda Lo Castillo
+>
+> Estimados,
+> Seg=C3=BAn lo que les coment=C3=B3 Max, les adjunto la imagen del Antepro=
+yecto:
+> - La idea es dejar los muros como un mueble de paneles de madera que
+> permitan colgar, poner repisas, instalar una tele,  y se incorporar=C3=AD=
+an
+> cajones en uno de estos muros.
+> - Al medio , ser=C3=ADa un mueble central que permita guardar productos, =
+pero
+> de forma visible. Y hacia la vitrina un mueble bajo con diferentes altura=
+s
+> que permita poner los accesorios. A estos pensamos incorporar im=C3=A1gen=
+es del
+> rugby estilo CCC.
+> - El probador quedar=C3=ADa atr=C3=A1s de la puerta y atr=C3=A1s de la es=
+calera un mueble
+> m=C3=A1s de administraci=C3=B3n.
+>
+> La idea es recibir todas las observaciones y comentarios para poder segui=
+r
+> con lo planificado.
+> Les proponemos que nos juntemos el lunes si es que tienen muchos
+> comentarios, pero en el caso que no hayan tantos, nos podr=C3=ADamos reun=
+ir el
+> viernes para tenerles m=C3=A1s avanzado ya el proyecto (con la cubicaci=
+=C3=B3n y
+> cotizaci=C3=B3n de las obras).
+>
+> Quedamos a la espera de sus comentarios.
+> Un abrazo, y buen fin de semana!
+>
+> --
+> Josefa Morales G
+> +569 75192437
+> josefa.m@gmail.com
+>
+>
+>
+>
+> El 20 de marzo de 2015, 15:12, Rios Prado, Rodrigo <Rodrigo.Rios@itau.cl>
+> escribi=C3=B3:
+>
+>  Partamos no mas con los trabajos
+>
+> *Rodrigo R=C3=ADos Prado*
+> *Agente, Sucursal Pedro de Valdivia*
+> Banco Ita=C3=BA Chile
+> Pedro de Valdivia N=C2=B03558
+> =C3=91u=C3=B1oa, Santiago
+> *Rodrigo.Rios@itau.cl <Rodrigo.Rios@itau.cl>*
+> Fono :+5626854681
+>
+> BackUp:
+> *Andres.Rivera@itau.cl <rodrigo.paredes@itau.cl>*
+> Fono :+5626854688
+>
+>  *De:* Max Correa [mailto:maxcorream@gmail.com]
+> *Enviado el:* viernes, 20 de marzo de 2015 15:11
+> *Para:* Gabriel Chomali
+> *CC:* josefa morales; Rios Prado, Rodrigo; Andr=C3=A9s Morales (CCC-CHILE=
+)
+> *Asunto:* Re: Propuesta Tienda Lo Castillo
+>
+>  Gabriel,
+>
+>  No te preocupes, les enviaremos una imagen de la tiena para que la
+> puedan revisar y ah=C3=AD nos juntamos.
+>
+>  Eso s=C3=AD nosotros tenemos pensado comenzar la pr=C3=B3xima semana los=
+ trabajos,
+> para reunirnos previamente a conversar los detalles de la propuesta.
+>
+>  Saludos
+>  Max
+>
+>
+>  El 20 de marzo de 2015, 14:54, Gabriel Chomali <gabrielchomali@yahoo.com=
+>
+> escribi=C3=B3:
+>   Disculpen, pero me ha surgido un problema de =C3=BAltimo minuto y no po=
+dr=C3=A9
+> asistir a la reuni=C3=B3n.... habr=C3=ADa alg=C3=BAn problema en que la h=
+ici=C3=A9ramos este
+> lunes a las 19:00? Si tienen algo por escrito que pudieran enviar podr=C3=
+=ADamos
+> avanzar algo.
+>  Gabriel
+>
+>    ------------------------------
+>  *From:* josefa morales <josefa.m@gmail.com>
+> *To:* Gabriel Chomali <gabrielchomali@yahoo.com>
+> *Cc:* Max Correa <maxcorream@gmail.com>; "Rios Prado, Rodrigo" <
+> Rodrigo.Rios@itau.cl>; Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchile=
+.cl>
+> *Sent:* Tuesday, March 17, 2015 8:59 AM
+>  *Subject:* Re: Propuesta Tienda Lo Castillo
+>
+>   Gabriel,
+>  Nosotros podr=C3=ADamos el viernes a las 19:00hrs. Les parece?
+>  Saludos
+>
+>
+>
+>  El 16 de marzo de 2015, 23:47, Gabriel Chomali <gabrielchomali@yahoo.com=
+>
+> escribi=C3=B3:
+>   Lamentablemente jueves es imposible.
+>  Podr=C3=ADa ser el mi=C3=A9rcoles o viernes a esa hora.
+>  Sino cualquier otro d=C3=ADa a las 14:30
+>  Gabriel
+>
+>     ------------------------------
+>  *From:* Max Correa <maxcorream@gmail.com>
+> *To:* Gabriel Chomali <gabrielchomali@yahoo.com>
+> *Cc:* josefa morales <josefa.m@gmail.com>; "Rios Prado, Rodrigo" <
+> Rodrigo.Rios@itau.cl>; Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchile=
+.cl>
+> *Sent:* Monday, March 16, 2015 7:56 PM
+> *Subject:* Re: Propuesta Tienda Lo Castillo
+>
+>   Gabriel,
+>
+>  Te parece que nos juntemos el jueves a las 19.00 horas.
+>
+>  Quedamos atento a su confirmaci=C3=B3n.
+>  Saludos
+>  Max Correa
+>
+>
+>
+>
+>  El 15 de marzo de 2015, 20:50, Gabriel Chomali <gabrielchomali@yahoo.com=
+>
+> escribi=C3=B3:
+>   Josefa,
+>  Espero est=C3=A9s bien.... cu=C3=A1ndo crees que tengamos una idea del p=
+royecto
+> final como para juntarnos?
+>  Atte,
+>  Gabriel
+>
+>    ------------------------------
+>  *From:* josefa morales <josefa.m@gmail.com>
+> *To:* "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>; Gabriel Chomali <
+> gabrielchomali@yahoo.com>
+> *Cc:* Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccchile.cl>; Max Correa
+> Malschafsky <maxcorream@gmail.com>
+> *Sent:* Friday, March 6, 2015 8:41 AM
+> *Subject:* Propuesta Tienda Lo Castillo
+>
+>   Rodrigo y Gabriel,
+>  C=C3=B3mo est=C3=A1n?
+>  Seg=C3=BAn lo acordado les adjuntamos la propuesta de trabajo para la ti=
+enda
+> de Lo Castillo. Va una presentaci=C3=B3n que muestra la estrategia a usar=
+ y la
+> carta con las etapas y honorarios, para que puedan evaluar la propuesta.
+>  Cualquier duda nos contactan.
+>  Quedamos atentos a sus comentarios.
+>  Saludos,
+>
+>  Josefa Morales
+>
+>
+>
+>
+>
+>
+>
+>   Para asegurar la adecuada lectura en todo tipo de correos electronicos,
+> se han omitido intencionalmente los signos y acentos diacriticos del idio=
+ma
+> castellano. la informacion contenida en este mensaje y cualquier archivo
+> adjunto es confidencial y no puede ser usada por mas personas que sus
+> destinatarios. El uso no autorizado de esta informacion puede ser
+> sancionado de conformidad con el Codigo Penal chileno. Si ha recibido est=
+e
+> correo por error, por favor notifique al remitente respondiendo este mism=
+o
+> mensaje y elimine el mensaje y todos los archivos adjuntos. Internet no
+> puede garantizar la integridad de este mensaje, por lo que el Banco no se
+> hace responsable si el contenido del mismo ha sido alterado
+>
+>
+>
+>
+>
+
+--001a1134af1a83c5f805128119d1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Gabriel,<div><br></div><div>Entre hoy y ma=C3=B1ana nos de=
+bieran tener las cotizaciones de los muebles, creemos que es mejor reunirno=
+s una vez que ya tengamos todo cotizado para conversar sobre el presupuesto=
+ final.</div><div><br></div><div>Podr=C3=ADa ser el miercoles a las 19.00 h=
+oras, pero deja confirmar una vez que tengamos las cotizaciones.</div><div>=
+<br></div><div>Saludos</div><div>Max</div><div><br></div><div><br></div><di=
+v class=3D"gmail_extra"><br><div class=3D"gmail_quote">El 30 de marzo de 20=
+15, 9:28, Gabriel Chomali <span dir=3D"ltr">&lt;<a href=3D"mailto:gabrielch=
+omali@yahoo.com" target=3D"_blank">gabrielchomali@yahoo.com</a>&gt;</span> =
+escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex"><div><div style=3D"color:#=
+000;background-color:#fff;font-family:verdana,helvetica,sans-serif;font-siz=
+e:16px"><div>Nos juntamos hoy a las 19:00 en la tienda??</div><div dir=3D"l=
+tr">Gabriel<br></div><div><span></span></div><br>  <div style=3D"font-famil=
+y:verdana,helvetica,sans-serif;font-size:16px"> <div style=3D"font-family:H=
+elveticaNeue,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;font-s=
+ize:16px"> <div dir=3D"ltr"> <hr size=3D"1">  <font face=3D"Arial"><span cl=
+ass=3D""> <b><span style=3D"font-weight:bold">From:</span></b> josefa moral=
+es &lt;<a href=3D"mailto:josefa.m@gmail.com" target=3D"_blank">josefa.m@gma=
+il.com</a>&gt;<br> <b><span style=3D"font-weight:bold">To:</span></b> &quot=
+;Rios Prado, Rodrigo&quot; &lt;<a href=3D"mailto:Rodrigo.Rios@itau.cl" targ=
+et=3D"_blank">Rodrigo.Rios@itau.cl</a>&gt; <br></span><span class=3D""><b><=
+span style=3D"font-weight:bold">Cc:</span></b> Max Correa &lt;<a href=3D"ma=
+ilto:maxcorream@gmail.com" target=3D"_blank">maxcorream@gmail.com</a>&gt;; =
+Gabriel Chomali &lt;<a href=3D"mailto:gabrielchomali@yahoo.com" target=3D"_=
+blank">gabrielchomali@yahoo.com</a>&gt;; Andr=C3=A9s Morales (CCC-CHILE) &l=
+t;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchi=
+le.cl</a>&gt; <br> </span><b><span style=3D"font-weight:bold">Sent:</span><=
+/b> Friday, March 20, 2015 8:03 PM<div><div class=3D"h5"><br> <b><span styl=
+e=3D"font-weight:bold">Subject:</span></b> Re: Propuesta Tienda Lo Castillo=
+<br> </div></div></font> </div><div><div class=3D"h5"> <div><br><div><div><=
+div dir=3D"ltr">Estimados,=C2=A0<div>Seg=C3=BAn lo que les coment=C3=B3 Max=
+, les adjunto la imagen del Anteproyecto:=C2=A0</div><div>- La idea es deja=
+r los muros como un mueble de paneles de madera que permitan colgar, poner =
+repisas, instalar una tele, =C2=A0y se incorporar=C3=ADan cajones en uno de=
+ estos muros.=C2=A0</div><div>- Al medio , ser=C3=ADa un mueble central que=
+ permita guardar productos, pero de forma visible. Y hacia la vitrina un mu=
+eble bajo con diferentes alturas que permita poner los accesorios. A estos =
+pensamos incorporar im=C3=A1genes del rugby estilo CCC.=C2=A0</div><div>- E=
+l probador quedar=C3=ADa atr=C3=A1s de la puerta y atr=C3=A1s de la escaler=
+a un mueble m=C3=A1s de administraci=C3=B3n.=C2=A0</div><div><br clear=3D"n=
+one"></div><div>La idea es recibir todas las observaciones y comentarios pa=
+ra poder seguir con lo planificado.=C2=A0</div><div>Les proponemos que nos =
+juntemos el lunes si es que tienen muchos comentarios, pero en el caso que =
+no hayan tantos, nos podr=C3=ADamos reunir el viernes para tenerles m=C3=A1=
+s avanzado ya el proyecto (con la cubicaci=C3=B3n y cotizaci=C3=B3n de las =
+obras).=C2=A0</div><div><br clear=3D"none"></div><div>Quedamos a la espera =
+de sus comentarios.=C2=A0</div><div>Un abrazo, y buen fin de semana!</div><=
+div><br clear=3D"none"></div><div>--</div><div>Josefa Morales G</div><div><=
+a href=3D"tel:%2B569%2075192437" value=3D"+56975192437" target=3D"_blank">+=
+569 75192437</a></div><div><a rel=3D"nofollow" shape=3D"rect" href=3D"mailt=
+o:josefa.m@gmail.com" target=3D"_blank">josefa.m@gmail.com</a></div><div><b=
+r clear=3D"none"></div><div><br><br></div><div><div><br clear=3D"none"><div=
+>El 20 de marzo de 2015, 15:12, Rios Prado, Rodrigo <span dir=3D"ltr">&lt;<=
+a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:Rodrigo.Rios@itau.cl" targ=
+et=3D"_blank">Rodrigo.Rios@itau.cl</a>&gt;</span> escribi=C3=B3:<br clear=
+=3D"none"><blockquote style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex">
+
+
+
+
+
+<div lang=3D"ES-CL">
+<div>
+<div><span style=3D"font-size:11.0pt">Partamos no mas con los trabajos
+<u></u><u></u></span></div><span>
+</span><div><span style=3D"font-size:11.0pt"><u></u>=C2=A0<u></u></span></d=
+iv>
+<div><b><span style=3D"font-size:11.0pt">Rodrigo R=C3=ADos Prado</span></b>=
+<span style=3D"font-size:11.0pt"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+</span><b><u><span style=3D"font-size:11.0pt"><a rel=3D"nofollow" shape=3D"=
+rect" href=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank">Rodrigo.Rios@i=
+tau.cl</a></span></u></b><span style=3D"font-size:11.0pt"><br clear=3D"none=
+">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+</span><span style=3D"font-size:11.0pt">BackUp:
+<br clear=3D"none">
+<u>Andres.Rivera<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:rodrigo.p=
+aredes@itau.cl" target=3D"_blank"><span style=3D"color:#7f7f7f">@itau.cl</s=
+pan></a><u></u><u></u></u></span></div>
+<div><span style=3D"font-size:11.0pt">Fono :+5626854688</span><span style=
+=3D"font-size:11.0pt"><u></u><u></u></span></div>
+<div><span style=3D"font-size:11.0pt"><u></u>=C2=A0<u></u></span></div>
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<div><b><span style=3D"font-size:10.0pt" lang=3D"ES">De:</span></b><span st=
+yle=3D"font-size:10.0pt" lang=3D"ES"> Max Correa [mailto:<a rel=3D"nofollow=
+" shape=3D"rect" href=3D"mailto:maxcorream@gmail.com" target=3D"_blank">max=
+corream@gmail.com</a>]
+<br clear=3D"none">
+<b>Enviado el:</b> viernes, 20 de marzo de 2015 15:11<br clear=3D"none">
+<b>Para:</b> Gabriel Chomali<br clear=3D"none">
+<b>CC:</b> josefa morales; Rios Prado, Rodrigo; Andr=C3=A9s Morales (CCC-CH=
+ILE)<br clear=3D"none">
+<b>Asunto:</b> Re: Propuesta Tienda Lo Castillo<u></u><u></u></span></div>
+</div><div><div>
+<div><u></u>=C2=A0<u></u></div>
+<div>
+<div>Gabriel,<u></u><u></u></div>
+<div>
+<div><u></u>=C2=A0<u></u></div>
+</div>
+<div>
+<div>No te preocupes, les enviaremos una imagen de la tiena para que la pue=
+dan revisar y ah=C3=AD nos juntamos.<u></u><u></u></div>
+</div>
+<div>
+<div><u></u>=C2=A0<u></u></div>
+</div>
+<div>
+<div>Eso s=C3=AD nosotros tenemos pensado comenzar la pr=C3=B3xima semana l=
+os trabajos, para reunirnos previamente a conversar los detalles de la prop=
+uesta.<u></u><u></u></div>
+</div>
+<div>
+<div><u></u>=C2=A0<u></u></div>
+</div>
+<div>
+<div>Saludos<u></u><u></u></div>
+</div>
+<div>
+<div>Max<u></u><u></u></div>
+</div>
+<div>
+<div><u></u>=C2=A0<u></u></div>
+</div>
+<div>
+<div><u></u>=C2=A0<u></u></div>
+<div>
+<div>El 20 de marzo de 2015, 14:54, Gabriel Chomali &lt;<a rel=3D"nofollow"=
+ shape=3D"rect" href=3D"mailto:gabrielchomali@yahoo.com" target=3D"_blank">=
+gabrielchomali@yahoo.com</a>&gt; escribi=C3=B3:<u></u><u></u></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Disculpen, pero me ha surgido un prob=
+lema de =C3=BAltimo minuto y no podr=C3=A9 asistir a la reuni=C3=B3n.... ha=
+br=C3=ADa alg=C3=BAn problema en que la hici=C3=A9ramos este lunes a
+ las 19:00? Si tienen algo por escrito que pudieran enviar podr=C3=ADamos a=
+vanzar algo.<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Gabriel<u></u><u></u></span></div>
+</div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"text-align:center;background:white" align=3D"center">
+<span>
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div style=3D"background:white"><b><span>From:</span></b><span> josefa mora=
+les &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:josefa.m@gmail.co=
+m" target=3D"_blank">josefa.m@gmail.com</a>&gt;<br clear=3D"none">
+<b>To:</b> Gabriel Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"m=
+ailto:gabrielchomali@yahoo.com" target=3D"_blank">gabrielchomali@yahoo.com<=
+/a>&gt;
+<br clear=3D"none">
+<b>Cc:</b> Max Correa &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto=
+:maxcorream@gmail.com" target=3D"_blank">maxcorream@gmail.com</a>&gt;; &quo=
+t;Rios Prado, Rodrigo&quot; &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"=
+mailto:Rodrigo.Rios@itau.cl" target=3D"_blank">Rodrigo.Rios@itau.cl</a>&gt;=
+; Andr=C3=A9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D"rect" hr=
+ef=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</=
+a>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Tuesday, March 17, 2015 8:59 AM<u></u><u></u></span></div>
+<div>
+<div>
+<div style=3D"background:white"><b><span>Subject:</span></b><span> Re: Prop=
+uesta Tienda Lo Castillo<u></u><u></u></span></div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Gabriel,=C2=A0<u></u><u></u></span></=
+div>
+<div>
+<div style=3D"background:white"><span>Nosotros podr=C3=ADamos el viernes a =
+las 19:00hrs. Les parece?<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Saludos=C2=A0<u></u><u></u></span></d=
+iv>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+</div>
+<div>
+<div style=3D"margin-bottom:12.0pt;background:white"><span><u></u>=C2=A0<u>=
+</u></span></div>
+</div>
+<div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div style=3D"background:white"><span>El 16 de marzo de 2015, 23:47, Gabrie=
+l Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:gabrielchom=
+ali@yahoo.com" target=3D"_blank">gabrielchomali@yahoo.com</a>&gt; escribi=
+=C3=B3:<u></u><u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Lamentablemente jueves es imposible.<=
+u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Podr=C3=ADa ser el mi=C3=A9rcoles o v=
+iernes a esa hora.<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Sino cualquier otro d=C3=ADa a las 14=
+:30<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Gabriel<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div style=3D"text-align:center;background:white" align=3D"center">
+<span>
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div style=3D"background:white"><b><span>From:</span></b><span> Max Correa =
+&lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:maxcorream@gmail.com"=
+ target=3D"_blank">maxcorream@gmail.com</a>&gt;<br clear=3D"none">
+<b>To:</b> Gabriel Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"m=
+ailto:gabrielchomali@yahoo.com" target=3D"_blank">gabrielchomali@yahoo.com<=
+/a>&gt;
+<br clear=3D"none">
+<b>Cc:</b> josefa morales &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"ma=
+ilto:josefa.m@gmail.com" target=3D"_blank">josefa.m@gmail.com</a>&gt;; &quo=
+t;Rios Prado, Rodrigo&quot; &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"=
+mailto:Rodrigo.Rios@itau.cl" target=3D"_blank">Rodrigo.Rios@itau.cl</a>&gt;=
+; Andr=C3=A9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D"rect" hr=
+ef=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</=
+a>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Monday, March 16, 2015 7:56 PM<br clear=3D"none">
+<b>Subject:</b> Re: Propuesta Tienda Lo Castillo</span><span><u></u><u></u>=
+</span></div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Gabriel,<u></u><u></u></span></div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Te parece que nos juntemos el jueves =
+a las 19.00 horas.<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Quedamos atento a su confirmaci=C3=B3=
+n.<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Saludos<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Max Correa<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+</div>
+<div>
+<div style=3D"margin-bottom:12.0pt;background:white"><span><u></u>=C2=A0<u>=
+</u></span></div>
+</div>
+<div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div style=3D"background:white"><span>El 15 de marzo de 2015, 20:50, Gabrie=
+l Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:gabrielchom=
+ali@yahoo.com" target=3D"_blank">gabrielchomali@yahoo.com</a>&gt; escribi=
+=C3=B3:<u></u><u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Josefa,<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Espero est=C3=A9s bien.... cu=C3=A1nd=
+o crees que tengamos una idea del proyecto final como para juntarnos?<u></u=
+><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Atte,<u></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Gabriel<u></u><u></u></span></div>
+</div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"text-align:center;background:white" align=3D"center">
+<span>
+</span><hr align=3D"center" size=3D"1" width=3D"100%">
+</div>
+<div style=3D"background:white"><b><span>From:</span></b><span> josefa mora=
+les &lt;<a rel=3D"nofollow" shape=3D"rect" href=3D"mailto:josefa.m@gmail.co=
+m" target=3D"_blank">josefa.m@gmail.com</a>&gt;<br clear=3D"none">
+<b>To:</b> &quot;Rios Prado, Rodrigo&quot; &lt;<a rel=3D"nofollow" shape=3D=
+"rect" href=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank">Rodrigo.Rios@=
+itau.cl</a>&gt;; Gabriel Chomali &lt;<a rel=3D"nofollow" shape=3D"rect" hre=
+f=3D"mailto:gabrielchomali@yahoo.com" target=3D"_blank">gabrielchomali@yaho=
+o.com</a>&gt;
+<br clear=3D"none">
+<b>Cc:</b> Andr=C3=A9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D=
+"rect" href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccc=
+hile.cl</a>&gt;; Max Correa Malschafsky &lt;<a rel=3D"nofollow" shape=3D"re=
+ct" href=3D"mailto:maxcorream@gmail.com" target=3D"_blank">maxcorream@gmail=
+.com</a>&gt;
+<br clear=3D"none">
+<b>Sent:</b> Friday, March 6, 2015 8:41 AM<br clear=3D"none">
+<b>Subject:</b> Propuesta Tienda Lo Castillo</span><span><u></u><u></u></sp=
+an></div>
+</div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+<div>
+<div>
+<div>
+<div style=3D"background:white"><span>Rodrigo y Gabriel,=C2=A0<u></u><u></u=
+></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>C=C3=B3mo est=C3=A1n?=C2=A0<u></u><u>=
+</u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Seg=C3=BAn lo acordado les adjuntamos=
+ la propuesta de trabajo para la tienda de Lo Castillo. Va una presentaci=
+=C3=B3n que muestra la estrategia a usar y la carta
+ con las etapas y honorarios, para que puedan evaluar la propuesta.=C2=A0<u=
+></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Cualquier duda nos contactan.=C2=A0<u=
+></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Quedamos atentos a sus comentarios.<u=
+></u><u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Saludos,=C2=A0<u></u><u></u></span></=
+div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+<div>
+<div style=3D"background:white"><span>Josefa Morales<u></u><u></u></span></=
+div>
+</div>
+<div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+</div>
+</div>
+<div style=3D"margin-bottom:12.0pt;background:white"><span><u></u>=C2=A0<u>=
+</u></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"margin-bottom:12.0pt;background:white"><span><u></u>=C2=A0<u>=
+</u></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"background:white"><span><u></u>=C2=A0<u></u></span></div>
+</div>
+</div>
+</div>
+</div>
+<div style=3D"margin-bottom:12.0pt;background:white"><span><u></u>=C2=A0<u>=
+</u></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div><u></u>=C2=A0<u></u></div>
+</div>
+</div>
+</div></div></div>
+Para asegurar la adecuada lectura en todo tipo de correos electronicos, se =
+han omitido intencionalmente los signos y acentos diacriticos del idioma ca=
+stellano. la informacion contenida en este mensaje y cualquier archivo adju=
+nto es confidencial y no puede ser usada por mas personas que sus destinata=
+rios. El uso no autorizado de esta informacion puede ser sancionado de conf=
+ormidad con el Codigo Penal chileno. Si ha recibido este correo por error, =
+por favor notifique al remitente respondiendo este mismo mensaje y elimine =
+el mensaje y todos los archivos adjuntos.
+Internet no puede garantizar la integridad de este mensaje, por lo que el B=
+anco no se hace responsable si el contenido del mismo ha sido alterado
+</div>
+
+</blockquote></div><br clear=3D"none"></div></div></div></div></div><br><br=
+></div> </div></div></div> </div>  </div></div></blockquote></div><br></div=
+></div>
+
+--001a1134af1a83c5f805128119d1--

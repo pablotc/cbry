@@ -1,0 +1,59 @@
+Return-path: <giovannidibattista@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 28 Apr 2015 05:40:03 -0500
+Received: from mail-pa0-f50.google.com ([209.85.220.50]:34226)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <giovannidibattista@gmail.com>)
+	id 1Yn2vr-0005fA-PE
+	for amorales@cccchile.cl; Tue, 28 Apr 2015 05:40:03 -0500
+Received: by pacyx8 with SMTP id yx8so160680132pac.1
+        for <amorales@cccchile.cl>; Tue, 28 Apr 2015 03:40:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:content-transfer-encoding:mime-version:subject
+         :message-id:date:references:in-reply-to:to;
+        bh=dDefna03rmySHG4/13TLMN9gReglPWHHVQUraDHEYiM=;
+        b=pwwPwWanNcX9EujN+ehX0j/yo7gFgc9MXAiz0h2hqIRO206ot/I4jW38xyhZdzACUZ
+         Is2KN4XunMQqqSLapZmmdeEpQLPPiFk+t6AKVQIaPhLI8Kc55MKKrs/1N6b/k7V1x27w
+         cAt6AwxaSHNFI0Ae1JjpPZk4cOQzTUln7ldM/RvxlhZFEtQ5HvGnDrhtFEnY3IbXxbzj
+         dSfhDDmmboq9q/eYkFIbWCOqk1+mgrytLtfAPQCOGE32+c/WTGrhhpl6Hmc2BcOzDAER
+         JeFIxGznWEnaU7CSr+lWTm4PEKQiZ8+lsEgjFJSWBbpjTGuAEIGY9hjb+SVnLvdsV07c
+         V4Hw==
+X-Received: by 10.66.55.104 with SMTP id r8mr30085677pap.75.1430217601628;
+        Tue, 28 Apr 2015 03:40:01 -0700 (PDT)
+Received: from [10.131.19.189] ([209.191.164.14])
+        by mx.google.com with ESMTPSA id ax2sm22175120pac.21.2015.04.28.03.39.59
+        for <amorales@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 28 Apr 2015 03:40:00 -0700 (PDT)
+From: Giovanni Di Battista <giovannidibattista@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Subject: Re: Canterbury
+Message-Id: <A81A8064-3B26-4635-8361-0E3A9554C5BE@gmail.com>
+Date: Tue, 28 Apr 2015 07:40:45 -0300
+References: <CAKggD2TDvS3jJxS==0ShZbLiM9Oy1+McOFk6imY55JKF2aC0bQ@mail.gmail.com> <CAMC8vzM5j70we2k8zbdJyH81CipczkUwPUm0cvyKxKrczDxHmw@mail.gmail.com> <CAKggD2TH96LLG0OF_y+S-B3rDUK2=ogCZ3me+trNW-sK7XYV4g@mail.gmail.com> <BC1146B0-EA4E-46E7-A76B-FC56A484E778@gmail.com> <CAKggD2TFqM+zq2S6AwDOTy2RvGWbMd6Q4id7m0sSWELxpL6r+g@mail.gmail.com> <ADCB3206-0F0B-4A1E-80B6-09C74EB44851@gmail.com> <CAKggD2QL7NS5+S1D4KQmzTT89aBEX-rG+qzEpjA6U0PRsBzkhw@mail.gmail.com>
+In-Reply-To: <CAKggD2QL7NS5+S1D4KQmzTT89aBEX-rG+qzEpjA6U0PRsBzkhw@mail.gmail.com>
+To: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+X-Mailer: iPhone Mail (12F70)
+
+Si, lo estamos viendo con guillermo. Esta todo bien gracias
+
+Enviado desde mi iPhone
+
+> El 27-04-2015, a las 0:07, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccch=
+ile.cl> escribi=C3=B3:
+>=20
+> Hola Giovanni,
+>=20
+> Miles de disculpas por responderte tan tarde, pero anduve de viaje.
+>=20
+> Entiendo que =C3=A9sto lo estaban viendo con Guillermo? favor conf=C3=ADrm=
+ame, sino retomamos de inmediato.
+>=20
+> nuevamente disculpas.
+>=20
+> Andr=C3=A9s.

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 14:25:03
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 12:36:42
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/order-payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:510424524548b24ef1fd901-16968315%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11525981285547a01abfef62-42082467%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '510424524548b24ef1fd901-16968315',
+  'nocache_hash' => '11525981285547a01abfef62-42082467',
   'function' => 
   array (
   ),
@@ -71,9 +71,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548b24ef970c16_48205853',
+  'unifunc' => 'content_5547a01b153db7_58447072',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548b24ef970c16_48205853')) {function content_548b24ef970c16_48205853($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5547a01b153db7_58447072')) {function content_5547a01b153db7_58447072($_smarty_tpl) {?>
 <?php if (!$_smarty_tpl->tpl_vars['opc']->value){?>
 	<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('currencySign'=>html_entity_decode($_smarty_tpl->tpl_vars['currencySign']->value,2,"UTF-8")),$_smarty_tpl);?>
 

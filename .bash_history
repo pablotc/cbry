@@ -92,3 +92,45 @@ git commit -a -m Â'2014-12-15'
 git push
 #1422021705
 git add *
+#1422021907
+git commit -a -m '2015-01-23'
+#1422021945
+git push
+#1428633524
+git add .
+#1428633732
+git add *
+#1429049296
+ls
+#1429049321
+mkdir modulo_pago
+#1429049325
+cd modulo_pago/
+#1429049335
+git clone https://github.com/pablotc/ccc
+#1429049349
+ls ccc/
+#1429049352
+cd ccc/
+#1429049407
+cd ..
+#1429049460
+ln -s ccc/dpay/ ../public_html/modules/
+#1429049476
+sudo ln -s ccc/dpay/ ../public_html/modules/
+#1429049496
+cp ccc/dpay/ ../public_html/modules/
+#1429049508
+ls -lh ../public_html/modules/
+#1429049529
+cp -R ccc/dpay/ ../public_html/modules/
+#1429049531
+ls -lh ../public_html/modules/
+#1429114431
+git add *
+#1431539472
+git status
+#1431539794
+git add *
+#1431540060
+git push

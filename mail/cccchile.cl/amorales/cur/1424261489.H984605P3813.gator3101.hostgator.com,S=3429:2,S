@@ -1,0 +1,58 @@
+Return-path: <gabrielchomali@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 18 Feb 2015 06:11:29 -0600
+Received: from nm16.bullet.mail.bf1.yahoo.com ([98.139.212.175]:54162)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabrielchomali@yahoo.com>)
+	id 1YO3TV-0000wN-P7
+	for amorales@cccchile.cl; Wed, 18 Feb 2015 06:11:29 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1424261485; bh=Ic8xyxbnBviQtwDMHCxfFZlIQ73/daYpS/cL05+xf9o=; h=Date:From:Reply-To:To:Subject:From:Subject; b=mgJXFmc39TbV/AaGoGpn1tA7+090ESSYTb//kIe3BD//rQS1FlaGqqMH30W9EsNmTfyFFDRRNirURzO+Vb+cZIwJgB96n3tJeJso8vMKZ2iXjBEGFCIKd/iF9zIYLxKRGy6sEjldhcJSB/Cw+JSBSoyrXmipFv8tN0IX9Tp+t78zp65HPxbdw0vP7kKQ+UNpBa8spzbkjBJwqWe2z0Hv0Y+PttvglbYQqPXiPR58O8I8zXFiae4mfO+vfzdvBK5vW25qRaUaMPir1w0g/SaQKVS/HX3KIP0z2tmzFeMl5gc6Pw1SJxcJHA8u+0pqULTimQM+UbL2D9VHxxca18Egkg==
+Received: from [66.196.81.173] by nm16.bullet.mail.bf1.yahoo.com with NNFMP; 18 Feb 2015 12:11:25 -0000
+Received: from [98.139.212.227] by tm19.bullet.mail.bf1.yahoo.com with NNFMP; 18 Feb 2015 12:11:25 -0000
+Received: from [127.0.0.1] by omp1036.mail.bf1.yahoo.com with NNFMP; 18 Feb 2015 12:11:25 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 656991.61266.bm@omp1036.mail.bf1.yahoo.com
+X-YMail-OSG: m4D2yQkVM1nu8YQtxy_1nOt8W6pTXivmOdyEhpMN89qR.KVF3AXCueuOhkNutK1
+ s57KwvAoKH2GIEr.HiLJzksS9zQcatwjsk0m3gVCzQM50sWjDW6V06i8bge50hCeTDyJOKTzxx5N
+ bGLjpU0rov_uQGrGYOsmjMqVsEmM0zdNVWmP84Sd6v7M9xmQVpX9j5GZ9GiOoa_Ao3VAVva4GW60
+ 6i7wPadQY_yWmrKXlm.Lwz5bPXNC7Zbmq0AmXtJ.AEQrs0znV4sLsSplj9KtyJT.l6u9_9tBE9Gw
+ 0tMPryh4j1j8NU1.YDDM4SsBuMihL_ZPy3FEgNXsGVzHmw2OU2_eitOwTi_oFxhlq9v2z5EsKodn
+ Ow2WKPDWfI2pofm7CNtY7oJKlyaoNDZNdnr9Se4xVkJvfA.Hvyg77JLldpWUnvWju3UO_N0QqALR
+ TuRa.Sj2.qBu0lVIfDVHw64st9LpoSA1wbtHA8j32f8I9HCtuk754nfTpwctGUl9AdAD2ihRCk76
+ Q06GW3pGIxL4AgQ--
+Received: by 66.196.80.124; Wed, 18 Feb 2015 12:11:25 +0000 
+Date: Wed, 18 Feb 2015 12:11:24 +0000 (UTC)
+From: Gabriel Chomali <gabrielchomali@yahoo.com>
+Reply-To: Gabriel Chomali <gabrielchomali@yahoo.com>
+To: =?UTF-8?Q?Andr=C3=A9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>, 
+	Rodrigo Rios Prado <rodrigo.rios@itau.cl>
+Message-ID: <1228797334.618339.1424261484964.JavaMail.yahoo@mail.yahoo.com>
+Subject: Tienda Rugby
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_618338_1528140202.1424261484962"
+Content-Length: 987
+
+------=_Part_618338_1528140202.1424261484962
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Estimados,Creo que vamos muy lentos en el proyecto y debemos hacernos la id=
+ea de que abriremos en Abril.Han ido vuestros arquitectos para que veamos l=
+a definici=C3=B3n del arreglo del local?
+Gabriel
+
+
+------=_Part_618338_1528140202.1424261484962
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:16px"><div>Estimados,</div><div dir=
+=3D"ltr">Creo que vamos muy lentos en el proyecto y debemos hacernos la ide=
+a de que abriremos en Abril.</div><div dir=3D"ltr">Han ido vuestros arquite=
+ctos para que veamos la definici=C3=B3n del arreglo del local?</div><div di=
+r=3D"ltr"><br></div><div dir=3D"ltr">Gabriel<br></div><div><br></div></div>=
+</body></html>
+------=_Part_618338_1528140202.1424261484962--

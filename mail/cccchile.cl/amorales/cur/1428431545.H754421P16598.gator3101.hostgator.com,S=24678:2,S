@@ -1,0 +1,347 @@
+Return-path: <newsletter@mailing-payu.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Tue, 07 Apr 2015 13:32:25 -0500
+Received: from smtpauth137.icommarketing.com ([108.168.135.60]:21992)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <newsletter@mailing-payu.com>)
+	id 1YfYIT-0004Gw-Ca
+	for admin@cccchile.cl; Tue, 07 Apr 2015 13:32:25 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector1; d=mailing-payu.com;
+ h=MIME-Version:Date:From:Reply-To:Content-Type:Subject:To:List-Unsubscribe:Message-ID; i=newsletter@mailing-payu.com;
+ bh=IAVhqVhz0YIdb14PCCgJ9JxZ2qQ=;
+ b=GQPkVFFuo4pK0a+BVl1nFlypJwvnapAjVkhBomyF1aA04oXDN+cAEle8OEsTXxrkVdwCt1Xpabfq
+   vEmR3UVizcWPoWpp3eaJM1XTllXppaU5v3MD7Cr8fBCc/9ZckfXJQGNd0JHsLYD0Hv5CSkA8WyWU
+   URorHDUsH6g4tN5MTTc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector1; d=mailing-payu.com;
+ b=fyR+Jv2oPlxrPcNSxFFM/SACxJKK6asSsl4x8BwMsBbKhfVVenViYQlrWLottx3D+H0o1PigllMm
+   pKojroBze/MX4MBk0b38pfE/CiBDG8OkZljapGfu4zHjxJCIOglUWonTk4kCRNUM9NVBAeMEVIM0
+   fRhjBxle16s0LBW9qKI=;
+Received: by smtpauth137.icommarketing.com id h4ghbg1mo5sp for <admin@cccchile.cl>; Tue, 7 Apr 2015 15:32:22 -0300 (envelope-from <newsletter@mailing-payu.com>)
+MIME-Version: 1.0
+Date: Tue, 07 Apr 2015 15:32:01 -0300
+X-Priority: 3 (Normal)
+From: "PayU Latam" <newsletter@mailing-payu.com>
+Reply-To: newsletter-reply@mailing-payu.com
+SMTP: 494
+Fecha-Envio: 07/04/2015 03:32:02
+Feedback-ID: 553:553_196016:553_3370_139567:iComMkt
+X-Mailer: Payu - Colombia
+Content-Type: multipart/alternative;
+	 boundary="------------050806070305000705000602"
+Subject: Transforma tu marca con branding digital
+To: admin@cccchile.cl
+List-Unsubscribe: <http://www.mailing-payu.com/sp_removido.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTEzOTU2NyZjb25maWc9TVRrMk1ERTImbWFpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NTk2NjYmY29kRW1haWw9MjgwNiZub21icmVQcm92PU90aGVycw%3d%3d>
+X-CorpRelay: 553|3370|139567|196016|admin@cccchile.cl|0|2806|Others
+Message-ID: <0.3.C.C7F.1D07161300BC1BB.0@smtpauth137.icommarketing.com>
+
+--------------050806070305000705000602
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"; format=flowed
+
+Newsletter Marzo
+El comercio electr=C3=B3nico en Latinoam=C3=A9rica crece a pasos agigantado=
+s, y cada vez son m=C3=A1s los negocios que se suman a la comunidad de vend=
+edores en l=C3=ADnea. Nuestros aliados en Tienda Nube son especialistas en =
+crear tiendas virtuales con dise=C3=B1os personalizados y una plataforma se=
+gura para sus clientes. Hoy comparten 12 razones que nos inspiran a seguir =
+siendo parte de la industria e-commerce. Art=C3=ADculo completo
+Branding digital: llevando tu marca a un nuevo nivel
+Cuando decides llevar tu comercio al =E2=80=9C.com=E2=80=9D tu capacidad de=
+ alcance se expande, y como resultado se transforma tu modelo de venta, tu =
+perspectiva como vendedor, y lo m=C3=A1s importante: tu marca. El branding =
+digital es un t=C3=A9rmino que se volver=C3=A1 m=C3=A1s com=C3=BAn para ti;=
+ una herramienta esencial para conquistar el mercado en l=C3=ADnea.Art=C3=
+=ADculo completo
+soluci=C3=B3n estrella
+VirtueMart=C2=A0y=C2=A0Opencarthan sido actualizados recientemente. Descarg=
+a los nuevos manuales y plugins. Carritos de compra
+Per=C3=BA
+El sector de turismo crece y se revitaliza en Per=C3=BA gracias al e-commer=
+ce. Conoce los principales beneficios que recibe la industria gracias a las=
+ ventas en l=C3=ADnea.=C2=A0Leer art=C3=ADculo.
+M=C3=A9xico
+El comercio electr=C3=B3nico tuvo un crecimiento de m=C3=A1s del 35% en M=
+=C3=A9xico en el 2014, y la evoluci=C3=B3n se debe en gran parte a las muje=
+res mexicanas.=C2=A0Leer art=C3=ADculo.
+Argentina
+Cada a=C3=B1o, m=C3=A1s argentinos hacen uso del e-commerce para escoger, r=
+eservar y pagar sus estad=C3=ADas y destino de vacaciones. Leer art=C3=ADcu=
+lo.
+Colombia
+Quienes celebraron el D=C3=ADa Internacional de la Mujer en Marzo encontrar=
+on opciones en l=C3=ADnea, con descuentos especiales, cero colas y transacc=
+iones seguras. Leer art=C3=ADculo.
+
+--------------050806070305000705000602
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:v=3D"urn:schemas-microsoft-co=
+m:vml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3DUTF-8"><meta name=3D"viewport" content=3D"target-densitydpi=3Ddevice-dp=
+i"><meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D=
+1.0, maximum-scale=3D1.0" /></head><body style=3D"text-align: center;"><div=
+ itemscope itemtype=3D"http://schema.org/Offer"><link itemprop=3D"image" hr=
+ef=3D"http://images.mailing-payu.com/clientes/553/3370/139567/icmThumbnail_=
+Home.jpg"/></div><div align=3D"center" style=3D"text-align:center;margin-le=
+ft:auto;margin-right:auto;"><table cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" align=3D"center" width=3D"600px" style=3D"margin-left:auto;margin-=
+right:auto;width:600px;"><tr><td width=3D"600" style=3D"width:600px;" valig=
+n=3D"top" align=3D"left"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td width=3D"12px" valign=3D"top" style=3D"width:12px"></td><td =
+width=3D"577px" valign=3D"top" style=3D"width:577px;text-align:center;" ali=
+gn=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td height=3D"11px" width=3D"577px" style=3D"width:577px; height:11px; line-=
+height:11px;" valign=3D"top"></td></tr></table><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"center" style=3D"text-align:center;mar=
+gin-left:auto;margin-right:auto;"><tr><td width=3D"577px" style=3D"width:57=
+7px; text-align:center;" valign=3D"top" align=3D"center"><font style=3D"fon=
+t-family:Tahoma; font-size:11px; color:#ADB3B5;"><a href=3D"http://www.mail=
+ing-payu.com/verEmail2.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTEzOTU=
+2NyZjb25maWc9MTk2MDE2Jm1haWw9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZmlsPTU5NjY2JmNvZE=
+VtYWlsPTI4MDYmZW52aW9ucm89MjgwNiZub21icmVQcm92PU90aGVycyZzdWJqZWN0PTIwODQ0N=
+g%3d%3d" style=3D"text-decoration:none;font-family:Tahoma; font-size:11px; =
+color:#ADB3B5;" target=3D"_blank">Versi=C3=B3n Online</a></font></td></tr><=
+/table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td heig=
+ht=3D"5px" width=3D"577px" style=3D"width:577px; height:5px; line-height:5p=
+x;" valign=3D"top"></td></tr></table></td><td width=3D"11px" valign=3D"top"=
+ style=3D"width:11px"></td></tr></table></td></tr><tr><td height=3D"10" sty=
+le=3D"height: 10px;"></td></tr></table></div><div align=3D"center" style=3D=
+"margin-left:auto;margin-right:auto;">=0A			=0A<table id=3D"Table_01" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A	<tr>=0A		<td>=0A			<table w=
+idth=3D'600' border=3D'0' align=3D'center' cellpadding=3D'0' cellspacing=3D=
+'0' arial=3D'' gadget=3D'' sans-serif=3D'' padding:=3D'' 20px=3D'' border:=
+=3D'' f3f3f3=3D'' solid=3D'' 1px=3D'' background:=3D'' ffffff=3D''><tr><td =
+colspan=3D'2' align=3D'center' style=3D'border-bottom: solid 1px #333; padd=
+ing-top: 1px;'><img src=3D'http://www.payulatam.com/imagenes-correos/Newsle=
+tters/banner_mes_marzo.png' width=3D'580' height=3D'76' alt=3D'Newsletter O=
+ctubre'><br><br></td></tr><tr><td colspan=3D'2'><table style=3D'color: #787=
+878;' width=3D'600' cellspacing=3D'0' cellpadding=3D'0'><tr><td><table widt=
+h=3D'600' border=3D'0' cellspacing=3D'0' cellpadding=3D'0' style=3D'color: =
+#787878;'><tr><td width=3D'295' height=3D'120' align=3D'center' bgcolor=3D'=
+#fff'><br><img src=3D'http://www.payulatam.com/imagenes-correos/Newsletters=
+/banner_blogger.png' width=3D'600' height=3D'117'><br><br></td></tr><tr><td=
+ width=3D'428' align=3D'left' style=3D'padding: 0px 15px 0px 15px;' bgcolor=
+=3D'#ffffff'><p align=3D'justify' style=3D'text-align: left;'><span style=
+=3D'font-size: 12px; font-family: verdana, geneva;'>El comercio electr=C3=
+=B3nico en Latinoam=C3=A9rica crece a pasos agigantados, y cada vez son m=
+=C3=A1s los negocios que se suman a la comunidad de vendedores en l=C3=ADne=
+a. Nuestros aliados en Tienda Nube son especialistas en crear tiendas virtu=
+ales con dise=C3=B1os personalizados y una plataforma segura para sus clien=
+tes. Hoy comparten 12 razones que nos inspiran a seguir siendo parte de la =
+industria <em>e-commerce</em>. <br><br><a href=3D"http://www.mailing-payu.c=
+om/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3=
+d&utm_content=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtldGl=
+uZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU1NA%3d%3=
+d&config=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=
+=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=
+=3Dhttp://www.payulatam.com/blog/pasar-de-una-tienda-fisica-a-un-ecommerce/=
+" id=3D"boton1" target=3D'_blank'><span style=3D'color: #0000ff;'><span sty=
+le=3D'color: #0000ff;'>Art=C3=ADculo completo</span></span></a></span></p><=
+/td></tr><tr><td></td></tr><tr><td></td></tr></table></td></tr></table></td=
+></tr><tr><td><img src=3D'http://www.payulatam.com/news_enero/blog.png'></t=
+d></tr><tr><td style=3D'color: #666; border: #EBEBEB 1px solid; font-size: =
+14px; padding: 15px 10px;'><span style=3D'color: #808080; font-size: 14px; =
+font-family: verdana, geneva;'><span color=3D'#ff0000'><b>Branding digital:=
+ llevando tu marca a un nuevo nivel</b></span></span><br align=3D'justify'>=
+<br><span style=3D'font-family: verdana, geneva;'><span style=3D'font-size:=
+ 12px; font-weight: normal; margin: 0px;'> Cuando decides llevar tu comerci=
+o al =E2=80=9C.com=E2=80=9D tu capacidad de alcance se expande, y como resu=
+ltado se transforma tu modelo de venta, tu perspectiva como vendedor, y lo =
+m=C3=A1s importante: tu marca. El branding digital es un t=C3=A9rmino que s=
+e volver=C3=A1 m=C3=A1s com=C3=BAn para ti; una herramienta esencial para c=
+onquistar el mercado en l=C3=ADnea.<br><br></span><a href=3D"http://www.mai=
+ling-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=
+=3DRW1haWw%3d&utm_content=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWN=
+vbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM=
+3NTU1NQ%3d%3d&config=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3=
+d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZ=
+XJz&link=3Dhttp://www.payulatam.com/blog/branding-digital/" id=3D"boton2" t=
+arget=3D'_blank'><span style=3D'font-size: 12px;'>Art=C3=ADculo completo</s=
+pan></a></span></td></tr><tr><td colspan=3D'2' align=3D'center'><img src=3D=
+'http://www.payulatam.com/imagenes-correos/Newsletters/actualizaciones.png'=
+ alt=3D'soluci=C3=B3n estrella' height=3D'75'></td></tr><tr><td colspan=3D'=
+2'><blockquote style=3D'padding-left: 30px;'><table style=3D'width: 370px; =
+margin-left: auto; margin-right: auto;' cellspacing=3D'6' cellpadding=3D'3'=
+><tr><td width=3D'250'><img src=3D'http://www.payulatam.com/virtuemart.jpg'=
+ width=3D'150' height=3D'60' style=3D'float: left;'> <img src=3D'http://www=
+=2Epayulatam.com/opencart.jpg' width=3D'150' height=3D'60'></td><td width=
+=3D'250'><p style=3D'text-align: left;'><span style=3D'font-family: verdana=
+, geneva; font-size: 12px;'><span style=3D'color: #808080;'><strong>VirtueM=
+art=C2=A0</strong>y<strong>=C2=A0Opencart<br></strong>han sido actualizados=
+ recientemente. Descarga los nuevos manuales y plugins.</span><strong> <br>=
+<br><strong><a href=3D"http://www.mailing-payu.com/click2.aspx?utm_source=
+=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTmV3c2xld=
+HRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xl=
+dHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU1Ng%3d%3d&config=3DMTk2MDE2&envio=
+nro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%=
+3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://desarrolladores.pay=
+ulatam.com/carritos-de-compra/%20" id=3D"boton3">Carritos de compra</a>=C2=
+=A0</strong></strong></span></p></td></tr></table></blockquote></td></tr><t=
+r><td><img src=3D'http://www.payulatam.com/images/press.png'></td></tr><tr>=
+<td></td></tr><tr><td><table style=3D'border: 0px solid #ebebeb; width: 295=
+px; height: 250px;' width=3D'295' height=3D'270' align=3D'left' cellpadding=
+=3D'0' cellspacing=3D'0'><tr><td height=3D'30' style=3D'background: #EBEBEB=
+; font-weight: bold; font-size: 16px; text-align: center; color: #1c3a85;'>=
+<span style=3D'font-size: 16px; font-family: helvetica;'>Per=C3=BA</span></=
+td></tr><tr><td width=3D'295' height=3D'120' align=3D'center' bgcolor=3D'#f=
+ff'><img src=3D'http://www.payulatam.com/imagenes-correos/Newsletters/La-Re=
+publica-Peru.jpg' width=3D'200' height=3D'125'></td></tr><tr><td style=3D'c=
+olor: #666; font-size: 12px; padding: 15px 10px;'><p align=3D'justify' styl=
+e=3D'text-align: left;'><span style=3D'font-size: 12px; font-family: verdan=
+a, geneva;'>El sector de turismo crece y se revitaliza en Per=C3=BA gracias=
+ al <em>e-commerce</em>. Conoce los principales beneficios que recibe la in=
+dustria gracias a las ventas en l=C3=ADnea.=C2=A0<a href=3D"http://www.mail=
+ing-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=
+=3DRW1haWw%3d&utm_content=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWN=
+vbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM=
+3NTU1Nw%3d%3d&config=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3=
+d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZ=
+XJz&link=3Dhttp://www.larepublica.pe/23-03-2015/el-comercio-electronico-es-=
+una-herramienta-vital-para-el-turismo-en-peru" id=3D"boton4" target=3D'_bla=
+nk'>Leer art=C3=ADculo.</a></span></p></td></tr></table><table style=3D'bor=
+der: 0px solid #ebebeb; width: 295px; height: 250px;' width=3D'295' height=
+=3D'250' border=3D'0' align=3D'right' cellpadding=3D'0' cellspacing=3D'0'><=
+tr><td height=3D'30' style=3D'background: #EBEBEB; font-weight: bold; font-=
+size: 16px; text-align: center; color: #1c3a85;'><span style=3D'font-size: =
+16px; font-family: helvetica;'>M=C3=A9xico</span></td></tr><tr><td width=3D=
+'295' height=3D'120' align=3D'center' bgcolor=3D'#fff'><img src=3D'http://w=
+ww.payulatam.com/imagenes-correos/Newsletters/El-Sol-de-Mexico.jpg' width=
+=3D'200' height=3D'120'></td></tr><tr><td style=3D'color: #666; font-size: =
+12px; padding: 15px 10px;'><p align=3D'justify' style=3D'text-align: left;'=
+><span style=3D'font-size: 12px; font-family: verdana, geneva;'>El comercio=
+ electr=C3=B3nico tuvo un crecimiento de m=C3=A1s del 35% en M=C3=A9xico en=
+ el 2014, y la evoluci=C3=B3n se debe en gran parte a las mujeres mexicanas=
+=2E=C2=A0<a href=3D"http://www.mailing-payu.com/click2.aspx?utm_source=3DSW=
+NvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTmV3c2xldHRlcl=
+9NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlc=
+iAtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU1OA%3d%3d&config=3DMTk2MDE2&envionro=
+=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&=
+viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.oem.com.mx/elsolde=
+mexico/notas/n3730445.htm" id=3D"boton5" target=3D'_blank'>Leer art=C3=ADcu=
+lo.</a></span></p></td></tr></table></td></tr><tr><td><table style=3D'borde=
+r: 0px solid #ebebeb; width: 295px; height: 250px;' width=3D'295' height=3D=
+'270' align=3D'left' cellpadding=3D'0' cellspacing=3D'0'><tr><td height=3D'=
+30' style=3D'background: #EBEBEB; font-weight: bold; font-size: 16px; text-=
+align: center; color: #1c3a85;'><span style=3D'font-size: 16px; font-family=
+: verdana, geneva;'>Argentina</span></td></tr><tr><td width=3D'295' height=
+=3D'120' align=3D'center' bgcolor=3D'#fff'><img src=3D'http://www.payulatam=
+=2Ecom/imagenes-correos/Newsletters/Telam_logoAR.png' width=3D'180' height=
+=3D'110'></td></tr><tr><td style=3D'color: #666; font-size: 12px; padding: =
+15px 10px;'><p align=3D'justify' style=3D'text-align: left;'><span style=3D=
+'font-size: 12px; font-family: verdana, geneva;'>Cada a=C3=B1o, m=C3=A1s ar=
+gentinos hacen uso del <em>e-commerce</em> para escoger, reservar y pagar s=
+us estad=C3=ADas y destino de vacaciones. <a href=3D"http://www.mailing-pay=
+u.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haW=
+w%3d&utm_content=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtl=
+dGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU1OQ%3=
+d%3d&config=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&emai=
+l=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=
+=3Dhttp://www.telam.com.ar/notas/201503/99627-comercio-electronico-turismo.=
+html" id=3D"boton6" target=3D'_blank'>Leer art=C3=ADculo.</a></span></p></t=
+d></tr></table><table style=3D'border: 0px solid #ebebeb; width: 295px; hei=
+ght: 250px;' width=3D'295' height=3D'250' border=3D'0' align=3D'right' cell=
+padding=3D'0' cellspacing=3D'0'><tr><td height=3D'30' style=3D'background: =
+#EBEBEB; font-weight: bold; font-size: 16px; text-align: center; color: #1c=
+3a85;'><span style=3D'font-size: 16px; font-family: verdana, geneva;'>Colom=
+bia</span></td></tr><tr><td width=3D'295' height=3D'120' align=3D'center' b=
+gcolor=3D'#fff'><img src=3D'http://www.payulatam.com/images/colombia.png' w=
+idth=3D'256' height=3D'125'></td></tr><tr><td style=3D'color: #666; font-si=
+ze: 12px; padding: 15px 10px;'><p align=3D'justify' style=3D'text-align: le=
+ft;'><span style=3D'font-size: 12px; font-family: verdana, geneva;'>Quienes=
+ celebraron el D=C3=ADa Internacional de la Mujer en Marzo encontraron opci=
+ones en l=C3=ADnea, con descuentos especiales, cero colas y transacciones s=
+eguras. <a href=3D"http://www.mailing-payu.com/click2.aspx?utm_source=3DSWN=
+vbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTmV3c2xldHRlcl9=
+NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlci=
+AtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU2MA%3d%3d&config=3DMTk2MDE2&envionro=3D=
+MjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&vir=
+al=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.larepublica.co/si-no-=
+ha-buscado-el-regalo-para-su-mujer-c%C3%B3mprele-ropa-o-postres-por-interne=
+t_228401" id=3D"boton7" target=3D'_blank'>Leer art=C3=ADculo.</a></span></p=
+></td></tr></table></td></tr><tr><td colspan=3D'2'>=C2=A0</td></tr><tr></tr=
+><tr><td height=3D'80' colspan=3D'2'><table width=3D'500' border=3D'0' alig=
+n=3D'right' cellpadding=3D'0' cellspacing=3D'2' style=3D'width: 80px; float=
+: right;'><tr><td width=3D'40'><a href=3D"http://www.mailing-payu.com/click=
+2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_co=
+ntent=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1=
+vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM3NTU2MQ%3d%3d&config=
+=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5=
+AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttps://w=
+ww.facebook.com/PayuLatam" id=3D"boton8"><img src=3D'http://www.payulatam.c=
+om/news_enero/logo-facebook.png' alt=3D'' width=3D'37' height=3D'36' border=
+=3D'0'></a></td><td width=3D'41' align=3D'right'><a href=3D"http://www.mail=
+ing-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=
+=3DRW1haWw%3d&utm_content=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&utm_campaign=3DSWN=
+vbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIEFwcmlsXzIwMTU%3d&boton=3DMjM=
+3NTU2Mg%3d%3d&config=3DMTk2MDE2&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3=
+d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZ=
+XJz&link=3Dhttps://twitter.com/payulatam" id=3D"boton9"><img src=3D'http://=
+www.payulatam.com/news_enero/logo-twitter.png' width=3D'37' height=3D'36' b=
+order=3D'0'></a></td></tr></table></td></tr><tr><td height=3D'30' colspan=
+=3D'2' align=3D'center' style=3D'border-top: solid 1px #cccccc; font-size: =
+10px; color: #333;'>Copyright 2014 PayU All rights reserved.</td></tr></tab=
+le>=0A		</td>=0A	</tr>=0A</table>=0A=0A		</div><div align=3D"center" style=
+=3D"text-align:center;margin-left:auto;margin-right:auto"><table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" width=3D"600px" sty=
+le=3D"margin-left:auto;margin-right:auto;width:600px;"><tr><td width=3D"600=
+px" style=3D"width:600px;" valign=3D"top" align=3D"left"><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"12px" valign=3D"top"=
+ style=3D"width:12px"></td><td width=3D"577px" valign=3D"top" style=3D"widt=
+h:577px"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td he=
+ight=3D"13px" width=3D"577px" style=3D"width:577px; height:13px; line-heigh=
+t:13px;" valign=3D"top"></td></tr></table><table cellpadding=3D"0" cellspac=
+ing=3D"0" border=3D"0"><tr><td width=3D"577px" style=3D"width:577px; text-a=
+lign:center;" valign=3D"top" align=3D"center"><font style=3D"font-family:Ta=
+homa; font-size:11px; color:#ADB3B5;">Este email fue enviado a: <span style=
+=3D"color:#6C6D6F;">admin@cccchile.cl</span> | Este email fue enviado por: =
+<span style=3D"color:#6C6D6F;">PayU Latam </span></font></td></tr></table><=
+table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td height=3D"5p=
+x" width=3D"577px" style=3D"width:577px; height:5px; line-height:5px;" vali=
+gn=3D"top"></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0"><tr><td style=3D"line-height:1px;" valign=3D"top"><img src=3D"htt=
+p://images.mailing-payu.com/clientes/images/SeparadorFoot.gif" alt=3D"Separ=
+adorFoot" width=3D"577" height=3D"5"  /></td></tr></table><table cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center"><tr><td width=3D"57=
+7px" style=3D"width:577px; text-align:center;" valign=3D"top"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:5px=
+;height:5px;" height=3D"5px" valign=3D"top" align=3D"center">&nbsp;</td></t=
+r></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td h=
+eight=3D"13px" width=3D"577px" style=3D"width:577px; height:13px; line-heig=
+ht:13px;" valign=3D"top" align=3D"center"><font style=3D"font-family:Tahoma=
+; font-size:11px; color:#ADB3B5;"><a href=3D"http://www.mailing-payu.com/sp=
+_removido.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTEzOTU2NyZjb25maWc9=
+MTk2MDE2Jm1haWw9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZmlsPTU5NjY2JmNvZEVtYWlsPTI4MDY=
+mbm9tYnJlUHJvdj1PdGhlcnM%3d" style=3D"text-decoration:none; font-family:Tah=
+oma; font-size:11px; color:#ADB3B5;" target=3D"_blank">Remover suscripci=C3=
+=B3n</a> . <a href=3D"http://www.mailing-payu.com/termycond.aspx" style=3D"=
+text-decoration:none;font-family:Tahoma; font-size:11px; color:#ADB3B5;"  t=
+arget=3D"_blank">T=C3=A9rminos y Condiciones</a></font></td></tr></table><t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line=
+-height:5px;height:5px;" height=3D"5px" valign=3D"top" align=3D"center">&nb=
+sp;</td></tr></table></td></tr></table><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"line-height:1px;" valign=3D"top"><img =
+src=3D"http://images.mailing-payu.com/clientes/images/SeparadorFoot.gif" al=
+t=3D"SeparadorFoot" width=3D"577" height=3D"5"  /></td></tr></table><table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-heig=
+ht:5px;height:5px;" height=3D"5px" valign=3D"top" align=3D"center">&nbsp;</=
+td></tr><tr><td style=3D"line-height:14px;height:14px;width:567px;" height=
+=3D"14px" width=3D"577px;" valign=3D"top" align=3D"right"><a href=3D"www.ma=
+iling-payu.com/PoweredBy.aspx?alianza=3D891&e1=3DYWRtaW5AY2NjY2hpbGUuY2w=3D=
+&e2=3DUGF5dSAtIENvbG9tYmlh&e3=3DTmV3c2xldHRlcl9NYXJ6b19QYXlV&e4=3DQXByaWxfM=
+jAxNQ=3D=3D&utm_source=3DiComMkt&utm_medium=3DEmail&utm_content=3DPayu - Co=
+lombia-Newsletter_Marzo_PayU-April_2015&utm_campaign=3DiComMkt%2BVerified%2=
+BBy" style=3D"text-decoration:none;"><font style=3D"font-family:Tahoma; fon=
+t-size:11px;"><font style=3D"color:#f77a2f;">Verified</font>&nbsp;<font sty=
+le=3D"color:#a5ac12;">By</font>&nbsp;<font style=3D"color:#358cbe;">iComMkt=
+</font></font></a></td></tr></table><table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td style=3D"line-height:10px;height:10px;" height=3D"=
+10px" valign=3D"top" align=3D"center">&nbsp;</td></tr></table></td></tr></t=
+able></div><img src=3D"http://www.mailing-payu.com/Pixel.aspx?Y2xpZW50ZT01N=
+TMmY2FtcGFuYT0zMzcwJnBpZXphPTEzOTU2NyZjb25maWc9MTk2MDE2JmVudmlvbnJvPTI4MDYm=
+bWFpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NTk2NjYmdmlyYWw9MCZjb2RFbWFpbD0yODA=
+2Jm5vbWJyZVByb3Y9T3RoZXJzJnN1YmplY3Q9MjA4NDQ2" width=3D"0" height=3D"0" bor=
+der=3D"0"></body></html>
+--------------050806070305000705000602--
+

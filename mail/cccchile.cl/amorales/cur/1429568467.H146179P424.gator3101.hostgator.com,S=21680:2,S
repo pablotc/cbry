@@ -1,0 +1,459 @@
+Return-path: <martinsotomayor@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 20 Apr 2015 17:21:07 -0500
+Received: from mail-lb0-f179.google.com ([209.85.217.179]:34856)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <martinsotomayor@gmail.com>)
+	id 1YkK3u-0008Vd-Kt
+	for amorales@cccchile.cl; Mon, 20 Apr 2015 17:21:07 -0500
+Received: by lbbuc2 with SMTP id uc2so141849633lbb.2
+        for <amorales@cccchile.cl>; Mon, 20 Apr 2015 15:21:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=mKnuV6ajNVtpa4q+QBWSkHFqqi1WQf/HwISFGqCTj0I=;
+        b=beLEvmFoqKOqrP+eGkiLCeMORhWpm2tbGuHppLrY9oZ55q7F0+5u+WL22E/+YR1V8L
+         z5CwUsXOaoepastvZ19I6+yKBcfVHwg3iX6smHo7sBjZCHhJJ3KRohH5/+/n9Lv1GmG5
+         shLO6Ozl3L5REDQRAaG4Yl1ECChRUN96rOCUBbRrbgHdmFzfkjPhnZ3Vl7maN1gU5PcP
+         10aIFVlC22fwjFgZWqIl76h95CoXtrD6esBwCO1v2+hcN1zFtvMALCuOCIdicVB0ObWK
+         A4IfQzqvXYNcIJ2CSU8UihyERBF7ui8zkctO4Ksd+m2OJfI1yKokVx/zmU63BrajWvP2
+         185Q==
+MIME-Version: 1.0
+X-Received: by 10.152.23.3 with SMTP id i3mr17400607laf.23.1429568462653; Mon,
+ 20 Apr 2015 15:21:02 -0700 (PDT)
+Received: by 10.114.196.103 with HTTP; Mon, 20 Apr 2015 15:21:02 -0700 (PDT)
+Received: by 10.114.196.103 with HTTP; Mon, 20 Apr 2015 15:21:02 -0700 (PDT)
+In-Reply-To: <CAKggD2QgdOz=bdyX7N4Wr_Lv8K4hzC4meTS3Uyc3XGdeXnOntw@mail.gmail.com>
+References: <CAKggD2SF6n1=+6u-A2ZHJKpM-6AwdxWwV2u-UAgwb_tkXMhP7A@mail.gmail.com>
+	<CAEoT_VVhCU4MV5GjfkOJrukc7vWxJZ2EPZonrtKBWm=Ly+RPnQ@mail.gmail.com>
+	<CAKggD2SinjKnOox5MHAMPYdjK4Oov_1F2K=T6eboX=FprJP7vA@mail.gmail.com>
+	<CAKggD2TLCeXURp4KE+8skytg=qFMnpLZ8bSVryyZDP8omgfHXA@mail.gmail.com>
+	<CAEoT_VWn3i-F6JsboBdfbQwi8wLR=VLrcWp7VmzV7LWKZUDhig@mail.gmail.com>
+	<CAKggD2R98khg98nGx3FaNUjf4E8WQyOHvJvnAPvDWjh6gc4PPg@mail.gmail.com>
+	<CAEoT_VULVPuiUDV2VqCdWiPiuyTEcJJcysjqoCBWWLqOv=8apQ@mail.gmail.com>
+	<CAKggD2Te6+b5HH51cFPSGsoPQhuhHzV2+c-aGsBCZMf9v7UkYQ@mail.gmail.com>
+	<CAEoT_VVDBOd5njygwK88FeRvr5=CEjKe+oh7fsoBGKUVJpgHBw@mail.gmail.com>
+	<CAKggD2Sh_8TO6r15kGfUM_uHFpVfzZh8Q_KKhpdnGghWSUuEPw@mail.gmail.com>
+	<CAEoT_VUDP3h6Wc=Px45DeM4cZrLDRUVXApov0ih2DJrv57tgYw@mail.gmail.com>
+	<CAKggD2SJQtF6cyLnF7TVgSswHP3SKg5fk2ct0mhN0H_G5EC+Kg@mail.gmail.com>
+	<CAKggD2QgdOz=bdyX7N4Wr_Lv8K4hzC4meTS3Uyc3XGdeXnOntw@mail.gmail.com>
+Date: Mon, 20 Apr 2015 19:21:02 -0300
+Message-ID: <CAEoT_VX7sEkhzdWbf84r+635Zu1b2RrFqsj2tBo8hk_2z73sdg@mail.gmail.com>
+Subject: Re: Canterbury
+From: =?UTF-8?Q?Mart=C3=ADn_Sotomayor?= <martinsotomayor@gmail.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=089e0158ad52660e7d05142f5851
+
+--089e0158ad52660e7d05142f5851
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Ll=C3=A1mame 74767497
+El 20/04/2015 18:52, "Andr=C3=A9s Morales (CCC-CHILE)" <amorales@cccchile.c=
+l>
+escribi=C3=B3:
+
+> Hola Martin,
+>
+> Te confirmo reuni=C3=B3n de hoy. Ya voy en camino.
+> Pregunto por ti en la pprteria?
+>
+> El viernes, 17 de abril de 2015, Andr=C3=A9s Morales (CCC-CHILE) <
+> amorales@cccchile.cl> escribi=C3=B3:
+>
+>> Ok, juntemonos el lunes a las 7, en el club.
+>>
+>> Mil disculpas nuevamente.
+>>
+>> El viernes, 1 de 2015, Mart=C3=ADn Sotomayor <martinsotomayor@gmail.com>
+>> escribi=C3=B3:
+>>
+>>> Sorry no puedo m=C3=A1s tarde.
+>>> Quieres enviarme la propuesta y nos juntamos el d=C3=ADa lunes a revisa=
+rla en
+>>> conjunto.
+>>> Puedo lunes despues de las 7pm.
+>>>
+>>> Saludos,
+>>> Mart=C3=ADn S.
+>>>
+>>> El 17 de abril de 2015, 15:30, Andr=C3=A9s Morales (CCC-CHILE) <
+>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>
+>>>> Hola Martin,
+>>>>
+>>>> Mil disculpas por no avisar, tuve un problema familiar y tuve que
+>>>> viajar fuera de stgo.
+>>>> No creo alcanzar a llegar dado que ando en rancagua y estoy haciendo l=
+o
+>>>> posible para llegar y no perder la reunion.
+>>>> Crees que sea posible juntarnos hoy mas tarde cerca de las 6:30?
+>>>> Sino ya seria el lunes en la tarde.
+>>>>
+>>>> Mil disculpas
+>>>>
+>>>>
+>>>> El viernes, 17 de abril de 2015, Mart=C3=ADn Sotomayor <
+>>>> martinsotomayor@gmail.com> escribi=C3=B3:
+>>>>
+>>>>> Andr=C3=A9s,
+>>>>> Quer=C3=ADa confirmar la reuni=C3=B3n de hoy?
+>>>>>
+>>>>> Sabes como llegar al club? voy a avisar en porter=C3=ADa y nos encont=
+ramos
+>>>>> en el club house, lobby central, donde hay unas maquetas de arquitect=
+ura.
+>>>>>
+>>>>> Saludos,
+>>>>> Mart=C3=ADn S.
+>>>>>
+>>>>> El 15 de abril de 2015, 11:58, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>
+>>>>>> si, perfecto.
+>>>>>>
+>>>>>> sls.
+>>>>>>
+>>>>>> El 15 de abril de 2015, 9:57, Mart=C3=ADn Sotomayor <
+>>>>>> martinsotomayor@gmail.com> escribi=C3=B3:
+>>>>>>
+>>>>>>> Excelente.
+>>>>>>> Dejame coordinar una reuni=C3=B3n.
+>>>>>>>
+>>>>>>> Pueden para el viernes en la tarde, tipo 16:30?
+>>>>>>>
+>>>>>>> El 15 de abril de 2015, 9:00, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>
+>>>>>>>> Hola Martin,
+>>>>>>>>
+>>>>>>>> Ya tenemos una propuesta sobre la cual podemos conversar. Dime con
+>>>>>>>> quien la podemos canalizar y presentar.
+>>>>>>>>
+>>>>>>>> Sls.
+>>>>>>>>
+>>>>>>>>
+>>>>>>>> El viernes, 10 de abril de 2015, Mart=C3=ADn Sotomayor <
+>>>>>>>> martinsotomayor@gmail.com> escribi=C3=B3:
+>>>>>>>>
+>>>>>>>>> aproximadamente 20 por equipo.
+>>>>>>>>>
+>>>>>>>>> El 10 de abril de 2015, 14:10, Andr=C3=A9s Morales (CCC-CHILE) <
+>>>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>
+>>>>>>>>>> Vuantos jugadorrs spn los prineros equipos?
+>>>>>>>>>>
+>>>>>>>>>>
+>>>>>>>>>> El viernes, 10 de abril de 2015, Andr=C3=A9s Morales (CCC-CHILE)=
+ <
+>>>>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>>
+>>>>>>>>>>> Hola Martin,
+>>>>>>>>>>>
+>>>>>>>>>>> Voy a armar la propuesta lo antes posible y espero poder
+>>>>>>>>>>> enviartela lunes a mas tardar.
+>>>>>>>>>>>
+>>>>>>>>>>> No hay problema en junatrme con quien corresponda para ver la
+>>>>>>>>>>> factibilidad de nuestra propuesta.
+>>>>>>>>>>>
+>>>>>>>>>>> Abrazo
+>>>>>>>>>>>
+>>>>>>>>>>> Andres
+>>>>>>>>>>>
+>>>>>>>>>>> El viernes, 10 de abril 5, Mart=C3=ADn Sotomayor <
+>>>>>>>>>>> martinsotomayor@gmail.com> escribi=C3=B3:
+>>>>>>>>>>>
+>>>>>>>>>>>> Hola Andres,
+>>>>>>>>>>>> Acus=C3=B3 recibo de tu mail.
+>>>>>>>>>>>>
+>>>>>>>>>>>> No se si estamos a tiempo ya que hemos solicitado cotizaciones
+>>>>>>>>>>>> para cambio de proveedor de uniformes de nuestra rama.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Es posible que me env=C3=ADes alguna propuesta aprox para que =
+nos
+>>>>>>>>>>>> podamos reunir con algo que colocar sobre la mesa.
+>>>>>>>>>>>>
+>>>>>>>>>>>> De doy algunos datos de nuestra instituci=C3=B3n y lo que le e=
+stamos
+>>>>>>>>>>>> solicitando en la propuesta a los proveedore:
+>>>>>>>>>>>> - 400 jugadores aprox.
+>>>>>>>>>>>> - estampar de manera gratuita los logos de los auspiciadores
+>>>>>>>>>>>> del club
+>>>>>>>>>>>> - entregar uniforme de manera gratuita a los primeros equipos
+>>>>>>>>>>>> del club que participen en la primera divisi=C3=B3n del torneo=
+ nacional. (1
+>>>>>>>>>>>> damas y 2 varones para el 2015)
+>>>>>>>>>>>> - asegurar un tiempo de respuesta en la confecci=C3=B3n de los
+>>>>>>>>>>>> uniformes que sea cumplible y en el caso de falla en el plazo =
+de respuesta
+>>>>>>>>>>>> se castigar=C3=A1 economicamente seg=C3=BAn una propuesta que =
+entreguen ustedes en su
+>>>>>>>>>>>> oferta.
+>>>>>>>>>>>> - a cambio nosotros entregamos un contrato para poder ser el
+>>>>>>>>>>>> proveedor exclusivo del uniforme de la rama de hockey del club=
+ en todas sus
+>>>>>>>>>>>> divisiones por un minimo de dos a=C3=B1os renovable por otros =
+2.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Por favor agregar cualquier otro tema que necesiten saber y o
+>>>>>>>>>>>> quieran ofrecer de manera de hacer su propuesta m=C3=A1s atrac=
+tiva que la del
+>>>>>>>>>>>> resto de los competidores.
+>>>>>>>>>>>>
+>>>>>>>>>>>> Si tienes consultas respecto a como hacer la propuesta te voy =
+a
+>>>>>>>>>>>> contactar con quien est=C3=A1 coordinando el proceso.
+>>>>>>>>>>>> Saludos,
+>>>>>>>>>>>> Mart=C3=ADn S.
+>>>>>>>>>>>>
+>>>>>>>>>>>>
+>>>>>>>>>>>> El 09/04/2015 16:39, "Andr=C3=A9s Morales (CCC-CHILE)" <
+>>>>>>>>>>>> amorales@cccchile.cl> escribi=C3=B3:
+>>>>>>>>>>>>
+>>>>>>>>>>>>> Hola Mart=C3=ADn,
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Disculpa que te escriba directamente, Nosotros somos
+>>>>>>>>>>>>> representantes y distribuidores de Canterbury en Chile y nos =
+gustar=C3=ADa
+>>>>>>>>>>>>> ofrecerte nuestros productos.
+>>>>>>>>>>>>> Nosotros tenemos un f=C3=A1brica de confecciones donde somos
+>>>>>>>>>>>>> preveedores de varias marcas internacionales como Umbro, New =
+Balance,
+>>>>>>>>>>>>> Lotto, entre muchas otras. Esto nos obliga a tener muchos est=
+andares de
+>>>>>>>>>>>>> calidad en nuestros procesos.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Te escribo ya que hace un tiempo estuvimos conversando con la
+>>>>>>>>>>>>> rama de Hockey para poder hacer algo en conjunto y con Canter=
+bury pero no
+>>>>>>>>>>>>> llegamos a puerto.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Hoy tenemos varias instituciones que vestimos con nuestra
+>>>>>>>>>>>>> indumentaria como la Uandes, U. Santa Mar=C3=ADa, PWCC, Mayfl=
+ower, Tabancura,
+>>>>>>>>>>>>> etc, en distintas disiplinas y deportes.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Quisiera poder agendar una reuni=C3=B3n contigo para ver si n=
+uestro
+>>>>>>>>>>>>> proyecto es viable con el club Manquehue, estoy seguro que le=
+s va a
+>>>>>>>>>>>>> interesar.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Te dejo un breve video de lo que hicimos con la Uandes como
+>>>>>>>>>>>>> referencia quemuestra un antes y un despu=C3=A9s....
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> *HTTP://VIMEO.COM/41428453 <http://vimeo.com/41428453>*
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Puedes visitar www.canterbury.com para que veas la
+>>>>>>>>>>>>> importancia mundial de la marca.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Abrazo,
+>>>>>>>>>>>>>
+>>>>>>>>>>>>> Andr=C3=A9s.
+>>>>>>>>>>>>>
+>>>>>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>>
+>>>>>>>>> --
+>>>>>>>>> Mart=C3=ADn Sotomayor Mesa
+>>>>>>>>> martinsotomayor@gmail.com
+>>>>>>>>> mesotoma@puc.cl
+>>>>>>>>> 56-02-2082750
+>>>>>>>>> 56-07-4767497
+>>>>>>>>>
+>>>>>>>>
+>>>>>>>
+>>>>>>>
+>>>>>>> --
+>>>>>>> Mart=C3=ADn Sotomayor Mesa
+>>>>>>> martinsotomayor@gmail.com
+>>>>>>> mesotoma@puc.cl
+>>>>>>> 56-02-2082750
+>>>>>>> 56-07-4767497
+>>>>>>>
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> Mart=C3=ADn Sotomayor Mesa
+>>>>> martinsotomayor@gmail.com
+>>>>> mesotoma@puc.cl
+>>>>> 56-02-2082750
+>>>>> 56-07-4767497
+>>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Mart=C3=ADn Sotomayor Mesa
+>>> martinsotomayor@gmail.com
+>>> mesotoma@puc.cl
+>>> 56-02-2082750
+>>> 56-07-4767497
+>>>
+>>
+
+--089e0158ad52660e7d05142f5851
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Ll=C3=A1mame 74767497</p>
+<div class=3D"gmail_quote">El 20/04/2015 18:52, &quot;Andr=C3=A9s Morales (=
+CCC-CHILE)&quot; &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccch=
+ile.cl</a>&gt; escribi=C3=B3:<br type=3D"attribution"><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex">Hola Martin,<div><br></div><div>Te confirmo reuni=C3=B3n de hoy. =
+Ya voy en camino.</div><div>Pregunto por ti en la pprteria?</div><div><br>E=
+l viernes, 17 de abril de 2015, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=
+=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchile.cl</a>=
+&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 =
+0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Ok, juntemonos el lun=
+es a las 7, en el club.<div><br></div><div>Mil disculpas nuevamente.</div><=
+div><div><br>El viernes, 1 de 2015, Mart=C3=ADn Sotomayor &lt;<a>martinsoto=
+mayor@gmail.com</a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote"=
+ style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><d=
+iv dir=3D"ltr"><div>Sorry no puedo m=C3=A1s tarde.</div><div>Quieres enviar=
+me la propuesta y nos juntamos el d=C3=ADa lunes a revisarla en conjunto.</=
+div><div>Puedo lunes despues de las 7pm.</div><div>=C2=A0</div><div>Saludos=
+,</div><div>Mart=C3=ADn S.</div></div><div class=3D"gmail_extra"><br><div c=
+lass=3D"gmail_quote">El 17 de abril de 2015, 15:30, Andr=C3=A9s Morales (CC=
+C-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span> escri=
+bi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;b=
+order-left:1px #ccc solid;padding-left:1ex">Hola Martin,<div><br></div><div=
+>Mil disculpas por no avisar, tuve un problema familiar y tuve que viajar f=
+uera de stgo.=C2=A0</div><div>No creo alcanzar a llegar dado que ando en ra=
+ncagua y estoy haciendo lo posible para llegar y no perder la reunion.</div=
+><div>Crees que sea posible juntarnos hoy mas tarde cerca de las 6:30?</div=
+><div>Sino ya seria el lunes en la tarde.</div><div><br></div><div>Mil disc=
+ulpas<div><div><br><br>El viernes, 17 de abril de 2015, Mart=C3=ADn Sotomay=
+or &lt;<a>martinsotomayor@gmail.com</a>&gt; escribi=C3=B3:<br><blockquote s=
+tyle=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-color:rgb(204=
+,204,204);border-left-width:1px;border-left-style:solid" class=3D"gmail_quo=
+te"><div dir=3D"ltr"><div>Andr=C3=A9s,</div><div>Quer=C3=ADa confirmar la r=
+euni=C3=B3n de hoy?</div><div>=C2=A0</div><div>Sabes como llegar al club? v=
+oy a avisar en porter=C3=ADa y nos encontramos en el club house, lobby cent=
+ral, donde hay unas maquetas de arquitectura.</div><div>=C2=A0</div><div>Sa=
+ludos,</div><div>Mart=C3=ADn S.</div></div><div class=3D"gmail_extra"><br><=
+div class=3D"gmail_quote">El 15 de abril de 2015, 11:58, Andr=C3=A9s Morale=
+s (CCC-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span> =
+escribi=C3=B3:<br><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-lef=
+t:1ex;border-left-color:rgb(204,204,204);border-left-width:1px;border-left-=
+style:solid" class=3D"gmail_quote"><div dir=3D"ltr">si, perfecto.<div><br><=
+/div><div>sls.</div></div><div><div><div class=3D"gmail_extra"><br><div cla=
+ss=3D"gmail_quote">El 15 de abril de 2015, 9:57, Mart=C3=ADn Sotomayor <spa=
+n dir=3D"ltr">&lt;<a>martinsotomayor@gmail.com</a>&gt;</span> escribi=C3=B3=
+:<br><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-=
+left-color:rgb(204,204,204);border-left-width:1px;border-left-style:solid" =
+class=3D"gmail_quote"><div dir=3D"ltr"><div>Excelente.</div><div>Dejame coo=
+rdinar una reuni=C3=B3n.</div><div>=C2=A0</div><div>Pueden para el viernes =
+en la tarde, tipo 16:30?</div></div><div><div><div class=3D"gmail_extra"><b=
+r><div class=3D"gmail_quote">El 15 de abril de 2015, 9:00, Andr=C3=A9s Mora=
+les (CCC-CHILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span=
+> escribi=C3=B3:<br><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-l=
+eft:1ex;border-left-color:rgb(204,204,204);border-left-width:1px;border-lef=
+t-style:solid" class=3D"gmail_quote">Hola Martin,<div><br></div><div>Ya ten=
+emos una propuesta sobre la cual podemos conversar. Dime con quien la podem=
+os canalizar y presentar.</div><div><br></div><div>Sls.<div><div><br><br>El=
+ viernes, 10 de abril de 2015, Mart=C3=ADn Sotomayor &lt;<a>martinsotomayor=
+@gmail.com</a>&gt; escribi=C3=B3:<br><blockquote style=3D"margin:0px 0px 0p=
+x 0.8ex;padding-left:1ex;border-left-color:rgb(204,204,204);border-left-wid=
+th:1px;border-left-style:solid" class=3D"gmail_quote"><div dir=3D"ltr">apro=
+ximadamente 20 por equipo.</div><div class=3D"gmail_extra"><br><div class=
+=3D"gmail_quote">El 10 de abril de 2015, 14:10, Andr=C3=A9s Morales (CCC-CH=
+ILE) <span dir=3D"ltr">&lt;<a>amorales@cccchile.cl</a>&gt;</span> escribi=
+=C3=B3:<br><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;b=
+order-left-color:rgb(204,204,204);border-left-width:1px;border-left-style:s=
+olid" class=3D"gmail_quote">Vuantos jugadorrs spn los prineros equipos?<div=
+><div><br><br>El viernes, 10 de abril de 2015, Andr=C3=A9s Morales (CCC-CHI=
+LE) &lt;<a>amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br><blockquote style=
+=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-color:rgb(204,204=
+,204);border-left-width:1px;border-left-style:solid" class=3D"gmail_quote">=
+Hola Martin,=C2=A0<div><br></div><div>Voy a armar la propuesta lo antes pos=
+ible y espero poder enviartela lunes a mas tardar.</div><div><br></div><div=
+>No hay problema en junatrme con quien corresponda para ver la factibilidad=
+ de nuestra propuesta.</div><div><br></div><div>Abrazo</div><div><br></div>=
+<div>Andres</div><div><br>El viernes, 10 de abril 5, Mart=C3=ADn Sotomayor =
+&lt;<a>martinsotomayor@gmail.com</a>&gt; escribi=C3=B3:<br><blockquote styl=
+e=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-color:rgb(204,20=
+4,204);border-left-width:1px;border-left-style:solid" class=3D"gmail_quote"=
+><div dir=3D"ltr"><div dir=3D"ltr">Hola Andres,<br>
+Acus=C3=B3 recibo de tu mail.</div><div dir=3D"ltr">=C2=A0</div><div>No se =
+si estamos a tiempo ya que hemos solicitado cotizaciones para cambio de pro=
+veedor de uniformes de nuestra rama.</div><div>=C2=A0</div><div>Es posible =
+que me env=C3=ADes alguna propuesta aprox para que nos podamos reunir con a=
+lgo que colocar sobre la mesa.</div><div>=C2=A0</div><div>De doy algunos da=
+tos de nuestra instituci=C3=B3n y lo que le estamos solicitando en la propu=
+esta a los proveedore:</div><div>- 400 jugadores aprox.</div><div>- estampa=
+r de manera gratuita los logos de los auspiciadores del club</div><div>- en=
+tregar uniforme de manera gratuita a los primeros equipos del club que part=
+icipen en la primera divisi=C3=B3n del torneo nacional. (1 damas y 2 varone=
+s para el 2015)</div><div>- asegurar un tiempo de respuesta en la confecci=
+=C3=B3n de los uniformes que sea cumplible y en el caso de falla en el plaz=
+o de respuesta se castigar=C3=A1 economicamente seg=C3=BAn una propuesta qu=
+e entreguen ustedes en su oferta.</div><div>- a cambio nosotros entregamos =
+un contrato para poder ser el proveedor exclusivo del uniforme de la rama d=
+e hockey del club en todas sus divisiones por un minimo de dos a=C3=B1os re=
+novable por otros 2.</div><div>=C2=A0</div><div>Por favor agregar cualquier=
+ otro tema que necesiten saber y o quieran ofrecer de manera de hacer su pr=
+opuesta m=C3=A1s atractiva=C2=A0que la del resto de los competidores.</div>=
+<div>=C2=A0</div><div>Si tienes consultas respecto a como hacer la propuest=
+a te voy a contactar con quien est=C3=A1 coordinando el proceso.</div><div>=
+Saludos,</div><div>Mart=C3=ADn S.</div><div>=C2=A0</div><div>=C2=A0</div>
+<div class=3D"gmail_quote">El 09/04/2015 16:39, &quot;Andr=C3=A9s Morales (=
+CCC-CHILE)&quot; &lt;<a>amorales@cccchile.cl</a>&gt; escribi=C3=B3:<br type=
+=3D"attribution"><blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left=
+:1ex;border-left-color:rgb(204,204,204);border-left-width:1px;border-left-s=
+tyle:solid" class=3D"gmail_quote"><div dir=3D"ltr">Hola Mart=C3=ADn,<div><b=
+r></div><div>Disculpa que te escriba directamente, Nosotros somos represent=
+antes y distribuidores de Canterbury en Chile y nos gustar=C3=ADa ofrecerte=
+ nuestros productos.</div><div>Nosotros tenemos un f=C3=A1brica de confecci=
+ones donde somos preveedores de varias marcas internacionales como Umbro, N=
+ew Balance, Lotto, entre muchas otras. Esto nos obliga a tener muchos estan=
+dares de calidad en nuestros procesos.</div><div><br></div><div>Te escribo =
+ya que hace un tiempo estuvimos conversando con la rama de Hockey para pode=
+r hacer algo en conjunto y con Canterbury pero no llegamos a puerto.</div><=
+div><br></div><div>Hoy tenemos varias instituciones que vestimos con nuestr=
+a indumentaria como la Uandes, U. Santa Mar=C3=ADa, PWCC, Mayflower, Tabanc=
+ura, etc, en distintas disiplinas y deportes.</div><div><br></div><div>Quis=
+iera poder agendar una reuni=C3=B3n contigo para ver si nuestro proyecto es=
+ viable con el club Manquehue, estoy seguro que les va a interesar.</div><d=
+iv><br></div><div>Te dejo un breve video de lo que hicimos con la Uandes co=
+mo referencia quemuestra un antes y un despu=C3=A9s....<br></div><div><br><=
+/div><div><b style=3D"font-family:&quot;Helvetica Neue&quot;;font-size:12.8=
+px"><font color=3D"#000000"><a href=3D"http://vimeo.com/41428453" target=3D=
+"_blank">HTTP://VIMEO.COM/41428453</a></font></b></div><div><br></div><div>=
+Puedes visitar <a href=3D"http://www.canterbury.com" target=3D"_blank">www.=
+canterbury.com</a> para que veas la importancia mundial de la marca.</div><=
+div><br></div><div>Abrazo,</div><div><br></div><div>Andr=C3=A9s.</div><div>=
+<br></div></div>
+</blockquote></div>
+</div>
+</blockquote></div>
+</blockquote>
+</div></div></blockquote></div><br><br clear=3D"all"><br>-- <br><div>Mart=
+=C3=ADn Sotomayor Mesa<br><a>martinsotomayor@gmail.com</a><br><a>mesotoma@p=
+uc.cl</a><br>56-02-2082750<br>56-07-4767497</div>
+</div>
+</blockquote></div></div></div>
+</blockquote></div><br><br clear=3D"all"><br>-- <br><div>Mart=C3=ADn Sotoma=
+yor Mesa<br><a>martinsotomayor@gmail.com</a><br><a>mesotoma@puc.cl</a><br>5=
+6-02-2082750<br>56-07-4767497</div>
+</div>
+</div></div></blockquote></div><br></div>
+</div></div></blockquote></div><br><br clear=3D"all"><br>-- <br><div>Mart=
+=C3=ADn Sotomayor Mesa<br><a>martinsotomayor@gmail.com</a><br><a>mesotoma@p=
+uc.cl</a><br>56-02-2082750<br>56-07-4767497</div>
+</div>
+</blockquote></div></div></div>
+</blockquote></div><br><br clear=3D"all"><br>-- <br><div>Mart=C3=ADn Sotoma=
+yor Mesa<br><a>martinsotomayor@gmail.com</a><br><a>mesotoma@puc.cl</a><br>5=
+6-02-2082750<br>56-07-4767497</div>
+</div>
+</blockquote></div></div>
+</blockquote></div>
+</blockquote></div>
+
+--089e0158ad52660e7d05142f5851--

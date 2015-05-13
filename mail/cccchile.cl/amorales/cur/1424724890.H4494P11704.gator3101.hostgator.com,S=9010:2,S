@@ -1,0 +1,187 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 23 Feb 2015 14:54:50 -0600
+Received: from mail-qc0-f180.google.com ([209.85.216.180]:41464)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YQ01h-000316-Q1
+	for amorales@cccchile.cl; Mon, 23 Feb 2015 14:54:49 -0600
+Received: by qcvs11 with SMTP id s11so13284142qcv.8
+        for <amorales@cccchile.cl>; Mon, 23 Feb 2015 12:54:47 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=IgLRRU0iFoiCr8DPFBNIaT2xqXFLXy6msF07eUKAXbk=;
+        b=PTcJIbEmJRVp5SC33E9lCVaNXEcZzLZSJ2aUKZLxffr0DGnxukYLzH8RaAE+bcT1RB
+         B2SQfglhrHyL9YIWTx7+oK8m5gLu1mu0Y47aaTxJanMvkHsbgsvjmfHrdG5/9zXUpgmz
+         qlvuZjNbyIMx+W9vVQJZ5yobiCBfDHKdXw5pL+69grdhBP+oZTxE14rPxl/B1O8JC5bG
+         U9JxOOOVQZg0N+8JrTr5gXkUorO65MJn4bfms9aiTUytOSeEfnG5VoDJEkIsBIXu8sa+
+         pvPjBVajByAIM2odrh/64M+jrKKrdqm4whjlBy2d7NclrsZ6SHsiKX2SlPrLwkLDC0A7
+         Rk/Q==
+X-Gm-Message-State: ALoCoQlHwbW+K917XBAv2ms6AmvmVhaODymJpuKYhi04nFgWnUXdEWt5S0TrTcrTrys1hRFke8YR
+X-Received: by 10.140.235.208 with SMTP id g199mr29286038qhc.89.1424724887649;
+        Mon, 23 Feb 2015 12:54:47 -0800 (PST)
+Received: from [192.168.0.4] ([190.162.163.101])
+        by mx.google.com with ESMTPSA id m65sm8384855qhb.22.2015.02.23.12.54.46
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 23 Feb 2015 12:54:47 -0800 (PST)
+References: <CAJbDu1mCeXHZjD2TQHpuBsSJ0xETtYTwW6nQ-AFL9+dzt3sWCQ@mail.gmail.com> <CAJbDu1mTs3sbB_k4P9gChNNUjbtDnYhfWUCqFsRQrmN4kCK1nw@mail.gmail.com> <CAKggD2RKG57rdmcZAirE1gvg0sxLqdXP2aJ+djdb-ZZbbKtBzA@mail.gmail.com> <3E226F07-C24F-4CD4-999D-A3BCD6071445@viaglobal.cl> <CAKggD2S1kggyZh3FO95VPQ_NeQfwLbVgxdJo-NrHKL7x-A8QCQ@mail.gmail.com>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <CAKggD2S1kggyZh3FO95VPQ_NeQfwLbVgxdJo-NrHKL7x-A8QCQ@mail.gmail.com>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-AD6D0CE9-0C1A-465A-93EE-542BB0511C9D
+Content-Transfer-Encoding: 7bit
+Message-Id: <79470D61-0B63-4B17-84D0-CA885D9B0C91@viaglobal.cl>
+Cc: Guillermo Morales M <gmorales@spindeportes.cl>
+X-Mailer: iPhone Mail (12B411)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: TEMAS PENDIENTE PRODUCTOS
+Date: Mon, 23 Feb 2015 17:54:45 -0300
+To: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+
+
+--Apple-Mail-AD6D0CE9-0C1A-465A-93EE-542BB0511C9D
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Dale.=20
+Para darle una soluci=C3=B3n r=C3=A1pido y pasarle el problema a el.=20
+
+
+
+
+> El 23-02-2015, a las 17:41, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cccc=
+hile.cl> escribi=C3=B3:
+>=20
+> Precio de la nueva habiamos dicho el precio que compro el pwcc menos un 15=
+.
+>=20
+> El parche va a quedar muy ordinario. Nose como va a quedar, ma=C3=B1ana pu=
+edo ver como puede ser.
+>=20
+> El lunes, 23 de febrero de 2015, V=C3=ADctor Irigoyen <virigoyen@viaglobal=
+.cl> escribi=C3=B3:
+>> Old gold:
+>> Opcion 1: parche con el nombre.
+>> Como va a quedar? Se lo tengo que mostrar...info para que lo vea.
+>> Nombre nuevo: churru
+>>=20
+>> Opcion 2: comprar camiseta nueva. Precio?=20
+>>=20
+>> Segun estas 2 opciones debera elegir.
+>>=20
+>> Ok.
+>>=20
+>>=20
+>>=20
+>>=20
+>>> El 23-02-2015, a las 17:06, Andr=C3=A9s Morales (CCC-CHILE) <amorales@cc=
+cchile.cl> escribi=C3=B3:
+>>>=20
+>>> Hola victor
+>>>=20
+>>> Lo del old gold lo habiamos hablado, era lo del cambio de nombre o no? Q=
+ue falt=C3=B3?
+>>>=20
+>>> Ma=C3=B1ana vuelve guillermo y te confirmo si lo podemos resolver en spi=
+n para el.poleron negro.
+>>>=20
+>>> El lunes, 23 de febrero de 2015, Victor Irigoyen <virigoyen@viaglobal.cl=
+> escribi=C3=B3:
+>>>>=20
+>>>> Hola.=20
+>>>>=20
+>>>> que va a pasar con esto?
+>>>> todavia no le puedo responder a los 2 clientes.=20
+>>>>=20
+>>>> quedo atento.=20
+>>>>=20
+>>>>=20
+>>>> ---------- Forwarded message ----------
+>>>> From: Victor Irigoyen <virigoyen@viaglobal.cl>
+>>>> Date: 2015-02-17 16:08 GMT-03:00
+>>>> Subject: TEMAS PENDIENTE PRODUCTOS
+>>>> To: "Andr=C3=A9s Morales (CCC-CHILE)" <amorales@cccchile.cl>, Guillermo=
+ Morales M <gmorales@spindeportes.cl>
+>>>>=20
+>>>>=20
+>>>> Hola Andres,=20
+>>>>=20
+>>>> tengo 2 temas que debo solucionar.=20
+>>>>=20
+>>>> 1. los 2 polerones negro talla M: me los est=C3=A1n pidiendo, en marzo p=
+arten las ligas y no puedo hacerlo esperar mas.=20
+>>>> Quedo atento a tu respuesta. Por favor urgente porque no le he respondi=
+do en tiempo, es conocido m=C3=ADo ( lo veo siempre) y ya me da verg=C3=BCen=
+za cada vez que lo veo.=20
+>>>>=20
+>>>> 2. poler a OLD GOLD que te pase el otro d=C3=ADa.=20
+>>>> hay que buscarle una soluci=C3=B3n para el nombre, me quedaste en avisa=
+r que podemos hacer.=20
+>>>>=20
+>>>>=20
+>>>> quedo atento a tu respuesta para responder a los involucrados.=20
+>>>>=20
+>>>> saludos
+
+--Apple-Mail-AD6D0CE9-0C1A-465A-93EE-542BB0511C9D
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>Dale.&nbsp;</div><div>Para darle una s=
+oluci=C3=B3n r=C3=A1pido y pasarle el problema a el.&nbsp;<br><br><br><div><=
+br></div></div><div><br>El 23-02-2015, a las 17:41, Andr=C3=A9s Morales (CCC=
+-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>=
+&gt; escribi=C3=B3:<br><br></div><blockquote type=3D"cite"><div>Precio de la=
+ nueva habiamos dicho el precio que compro el pwcc menos un 15.<div><br></di=
+v><div>El parche va a quedar muy ordinario. Nose como va a quedar, ma=C3=B1a=
+na puedo ver como puede ser.<br><br>El lunes, 23 de febrero de 2015, V=C3=AD=
+ctor Irigoyen &lt;<a href=3D"mailto:virigoyen@viaglobal.cl">virigoyen@viaglo=
+bal.cl</a>&gt; escribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"=
+margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"a=
+uto"><div>Old gold:</div><div>Opcion 1: parche con el nombre.</div><div>Como=
+ va a quedar? Se lo tengo que mostrar...info para que lo vea.</div><div>Nomb=
+re nuevo: churru</div><div><br></div><div>Opcion 2: comprar camiseta nueva. P=
+recio?&nbsp;</div><div><br></div><div>Segun estas 2 opciones debera elegir.<=
+/div><div><br></div><div>Ok.</div><div><br><br><div><br></div></div><div><br=
+>El 23-02-2015, a las 17:06, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"=
+javascript:_e(%7B%7D,'cvml','amorales@cccchile.cl');" target=3D"_blank">amor=
+ales@cccchile.cl</a>&gt; escribi=C3=B3:<br><br></div><blockquote type=3D"cit=
+e"><div>Hola victor<div><br></div><div>Lo del old gold lo habiamos hablado, e=
+ra lo del cambio de nombre o no? Que falt=C3=B3?</div><div><br></div><div>Ma=
+=C3=B1ana vuelve guillermo y te confirmo si lo podemos resolver en spin para=
+ el.poleron negro.</div><div><br>El lunes, 23 de febrero de 2015, Victor Iri=
+goyen &lt;<a href=3D"javascript:_e(%7B%7D,'cvml','virigoyen@viaglobal.cl');"=
+ target=3D"_blank">virigoyen@viaglobal.cl</a>&gt; escribi=C3=B3:<br><blockqu=
+ote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc so=
+lid;padding-left:1ex"><div dir=3D"ltr"><div><br></div><div>Hola.&nbsp;</div>=
+<div><br></div><div>que va a pasar con esto?</div><div>todavia no le puedo r=
+esponder a los 2 clientes.&nbsp;</div><div><br></div><div>quedo atento.&nbsp=
+;</div><div><br></div><br><div class=3D"gmail_quote">---------- Forwarded me=
+ssage ----------<br>From: <b class=3D"gmail_sendername">Victor Irigoyen</b> <=
+span dir=3D"ltr">&lt;<a>virigoyen@viaglobal.cl</a>&gt;</span><br>Date: 2015-=
+02-17 16:08 GMT-03:00<br>Subject: TEMAS PENDIENTE PRODUCTOS<br>To: "Andr=C3=A9=
+s Morales (CCC-CHILE)" &lt;<a>amorales@cccchile.cl</a>&gt;, Guillermo Morale=
+s M &lt;<a>gmorales@spindeportes.cl</a>&gt;<br><br><br><div dir=3D"ltr">Hola=
+ Andres,&nbsp;<div><br></div><div>tengo 2 temas que debo solucionar.&nbsp;</=
+div><div><br></div><div>1. los 2 polerones negro talla M: me los est=C3=A1n p=
+idiendo, en marzo parten las ligas y no puedo hacerlo esperar mas.&nbsp;</di=
+v><div>Quedo atento a tu respuesta. Por favor urgente porque no le he respon=
+dido en tiempo, es conocido m=C3=ADo ( lo veo siempre) y ya me da verg=C3=BC=
+enza cada vez que lo veo.&nbsp;</div><div><br></div><div>2. poler a OLD GOLD=
+ que te pase el otro d=C3=ADa.&nbsp;</div><div>hay que buscarle una soluci=C3=
+=B3n para el nombre, me quedaste en avisar que podemos hacer.&nbsp;</div><di=
+v><br></div><div><br></div><div>quedo atento a tu respuesta para responder a=
+ los involucrados.&nbsp;</div><div><br></div><div>saludos</div><div><br></di=
+v></div>
+</div><br></div>
+</blockquote></div>
+</div></blockquote></div></blockquote></div>
+</div></blockquote></body></html>=
+
+--Apple-Mail-AD6D0CE9-0C1A-465A-93EE-542BB0511C9D--

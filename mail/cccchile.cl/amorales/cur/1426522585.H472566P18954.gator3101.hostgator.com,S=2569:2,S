@@ -1,0 +1,58 @@
+Return-path: <info@escuelafc.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 16 Mar 2015 11:16:25 -0500
+Received: from mail-oi0-f47.google.com ([209.85.218.47]:33126)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <info@escuelafc.cl>)
+	id 1YXXgn-0004tT-9u
+	for amorales@cccchile.cl; Mon, 16 Mar 2015 11:16:25 -0500
+Received: by oibu204 with SMTP id u204so42146763oib.0
+        for <amorales@cccchile.cl>; Mon, 16 Mar 2015 09:16:23 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=gCHYRExZhCOKpYaiwwybNEB21U4/Hwlsj9uT9gf1PaM=;
+        b=SEXKEkb3PAMRYpg4y2/6S0AC1pnO5MW3Q2/lloH/is51ZtNC4cYdQpm9dH6fMVVrj+
+         BNmPVfK8fzO1jQRGrryJuUpD/QTwXyTFfT81smAc9iMeZH8fRLvLsu6EzndIbdZyrViB
+         InbZt4XfK+xQy3n+EmCaFSFCuO/L3FIJ5T4fnl70cMfh7gAI6M3G6Hi187Hf1nxOzY08
+         lHXzO+eownNvfu25RZ+0Sogfmj0jwmixIOLVLMx3ivrsYePoeZkA9yUKUnYIHv2b8SFs
+         MebSCldB2D+SBRHWpFrJXACG9hVtUYl/X5IUvp+nz4VS8irSPOPpU24ME7oPI0XgGF+i
+         YlBQ==
+X-Gm-Message-State: ALoCoQnTaYGZXOlgy1kfBX34L6dqjQxcu8epwB+jm0JpemFaVLZprmeX3+OBkOeBEEvU7zRsjrPF
+MIME-Version: 1.0
+X-Received: by 10.202.199.202 with SMTP id x193mr13682146oif.32.1426522583174;
+ Mon, 16 Mar 2015 09:16:23 -0700 (PDT)
+Received: by 10.76.153.166 with HTTP; Mon, 16 Mar 2015 09:16:23 -0700 (PDT)
+X-Originating-IP: [190.196.96.127]
+Date: Mon, 16 Mar 2015 13:16:23 -0300
+Message-ID: <CAGvvz_dH-oZzX0FCGXCO-xyczKZiyFbNAAETwo6uW_tMhcn31g@mail.gmail.com>
+Subject: =?UTF-8?B?UmV1bmnDs24=?=
+From: Formando Campeones <info@escuelafc.cl>
+To: amorales@cccchile.cl
+Content-Type: multipart/alternative; boundary=001a11350454d5949a05116a2ba9
+
+--001a11350454d5949a05116a2ba9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andr=C3=A9s,
+
+C=C3=B3mo estamos?, te parece que nos juntemos esta semana?
+
+Saludos!
+
+--001a11350454d5949a05116a2ba9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andr=C3=A9s,<div><br></div><div>C=C3=B3mo estamos?, te par=
+ece que nos juntemos esta semana?</div><div><br></div><div>Saludos!<br clea=
+r=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"><img src=3D"=
+https://lh6.googleusercontent.com/-AMnmEZxJWEA/U8BUopkObJI/AAAAAAAAAOA/-Ht2=
+banAjPc/w950-h299-no/Firma+Borja.png" width=3D"420" height=3D"131"><br></di=
+v></div></div>
+</div></div>
+
+--001a11350454d5949a05116a2ba9--

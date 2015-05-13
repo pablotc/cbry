@@ -1,0 +1,139 @@
+Return-path: <serviciodetransferencias@bancochile.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Tue, 12 May 2015 12:41:58 -0500
+Received: from wse17.bancochile.cl ([200.14.133.238]:44463)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <serviciodetransferencias@bancochile.cl>)
+	id 1YsEBp-0000zF-0m
+	for ventas@cccchile.cl; Tue, 12 May 2015 12:41:57 -0500
+X-IronPort-AV: E=Sophos;i="5.13,416,1427770800"; 
+   d="scan'208,217";a="205658354"
+Received: from unknown (HELO BCHEX15.bch.bancodechile.cl) ([152.139.2.253])
+  by wse17-20.bancochile.cl with ESMTP; 12 May 2015 14:26:00 -0300
+Received: from el02cn08 ([152.139.84.42]) by BCHEX15.bch.bancodechile.cl with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 12 May 2015 14:41:53 -0300
+Date: Tue, 12 May 2015 14:41:53 -0300 (CLT)
+From: serviciodetransferencias@bancochile.cl
+To: ventas@cccchile.cl
+Message-ID: <833100561.90048.1431452513417.JavaMail.weblogic@el02cn08>
+Subject: Transferencia a terceros
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-OriginalArrivalTime: 12 May 2015 17:41:53.0679 (UTC) FILETIME=[EF26A1F0:01D08CDA]
+
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+  <head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Banco de Chile | Banca Movil</title>
+    <style type="text/css">
+      img { max-width: 100% !important; }
+      body { -webkit-font-smoothing: antialiased !important; -webkit-text-size-adjust: none !important; width: 100% !important; height: 100% !important; }
+    </style>
+  </head>
+  <body bgcolor="#FFFFFF" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased !important; -webkit-text-size-adjust: none !important; width: 100% !important; height: 100% !important; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+
+     <!-- HEADER -->
+<table class="head-wrap" bgcolor="#f6f7f8" style="border-bottom:1px solid #e7e8e8;font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+      <tr>
+        <td>&nbsp;</td>
+        <td class="header container" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; display: block !important; max-width: 600px !important; clear: both !important; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+          <div class="content" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; max-width: 600px; display: block; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px;">
+					<table bgcolor="#f6f7f8" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+              <tr>
+                <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><img src="https://mobileapps.bancochile.cl/webapps/mobilechile/shared/images/mi_banco.png" alt="Banco de Chile" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; max-width: 100% !important; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" /></td>
+                <td> <img src="https://mobileapps.bancochile.cl/webapps/mobilechile/shared/images/bancochile.png" alt="Banco de Chile"/></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <!-- /HEADER -->
+
+    <!-- BODY -->
+    <table class="body-wrap" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+      <tr>
+        <td>&nbsp;</td>
+        <td class="container" bgcolor="#FFFFFF" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; display: block !important; max-width: 600px !important; clear: both !important; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+          <div class="content" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; max-width: 600px; display: block; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px;">
+          <table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+            <tr>
+              <td>
+                <h3 style="font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; line-height: 1.1; color: #000; font-weight: 500; font-size: 24px; margin-top: 0; margin-right: 0; margin-bottom: 15px; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Comprobante de Transferencia a terceros</h3>
+                <p class="lead" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 15px; line-height: 1.6; color: #666; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Estimado(a) <strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Sociedad Comercial Reinalter </strong>,<br/> Le informamos que nuestro(a) cliente <strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Felipe Ignacio Schiaffino Durante</strong> ha efectuado una transferencia a terceros a su cuenta con el siguiente detalle:</p>
+                <br/>
+                <table class="callout" width="100%" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 15px; padding-right: 5px; padding-bottom: 15px; padding-left: 5px; border-top-color: #8DCFFF; border-right-color: #8DCFFF; border-bottom-color: #8DCFFF; border-left-color: #8DCFFF; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #D9EFFF;" bgcolor="#D9EFFF">
+                  <tr><td width="10px" style="padding: 0; margin: 10px 0px 0px;">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Nombre:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Sociedad Comercial Reinalter </td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin: 10px 0px 0px;">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Rut:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">79840460-1</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin: 10px 0px 0px;">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Tipo de Cuenta:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Cuenta Corriente</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin: 10px 0px 0px;">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">N&ordm; de Cuenta:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">00-016-19775-18</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin: 10px 0px 0px;">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Banco:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Banco Chile/Edwards</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td></tr>
+                  <tr><td width="10px">&nbsp;</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-style: dotted; border-top-color: #8DCFFF; border-top-width: 1px; padding-top: 15px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 10px; margin-right: 0; margin-bottom: 0px; margin-left: 0;">Monto:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 18px; border-top-style: dotted; border-top-color: #8DCFFF; border-top-width: 1px; padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 15px; margin-top: 10px; margin-right: 0; margin-bottom: 0px; margin-left: 0;">$ 32.990</td><td width="10px">&nbsp;</td>
+                  </tr>
+                  <tr><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td><td width="10px" style="padding: 0; margin:0px;">&nbsp;</td></tr>
+                   <tr><td width="10px">&nbsp;</td>
+                    <td style="vertical-align: top; min-width: 120px; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-style: dotted; border-top-color: #8DCFFF; border-top-width: 1px; padding-top: 15px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 10px; margin-right: 0; margin-bottom: 0px; margin-left: 0;">Mensaje:</strong></td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 14px; border-top-style: dotted; border-top-color: #8DCFFF; border-top-width: 1px; padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 15px; margin-top: 10px; margin-right: 0; margin-bottom: 0px; margin-left: 0;">Poleron XL </td><td width="10px">&nbsp;</td>
+                  </tr>
+                </table>
+                <table width="100%" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 12px; width: 100%; margin-top: 0px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 15px; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                  <tr>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;"><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Comprobante: </strong><br/>01956670200<br /><br /><br/><strong style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">Fecha y Hora: </strong><br/>12/05/2015  14:41</td>
+                    <td style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; text-align: right; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" align="right"><img src="https://mobileapps.bancochile.cl/webapps/mobilechile/shared/images/comprobante.jpg" style="max-width: 100% !important; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" /></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <!-- /BODY -->
+
+    <!-- FOOTER -->
+    <table class="footer-wrap" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; clear: both !important; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+      <tr>
+        <td>&nbsp;</td>
+        <td class="container" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; display: block !important; max-width: 600px !important; clear: both !important; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+          <!-- content -->
+          <div class="content" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; max-width: 600px; display: block; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; padding-top: 0px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px;">
+            <table style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; width: 100%; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+            <tr>
+              <td align="left">
+                <p class="bordertop" style="font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-weight: normal; font-size: 11px; line-height: 1.6; color: #999; border-top-style: solid; border-top-width: 1px; border-top-color: #dbdbdb; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 15px; padding-right: 0; padding-bottom: 0; padding-left: 0;">Informese sobre la garantia estatal de los depositos en su banco o en www.sbif.cl<br/>
+                &copy; 2014, Banco de Chile. Todos los Derechos Reservados.</p>
+              </td>
+            </tr>
+            </table>
+          </div><!-- /content -->
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table><!-- /FOOTER --> 
+  </body>
+</html>

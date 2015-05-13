@@ -1,0 +1,77 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 16 Mar 2015 10:26:26 -0500
+Received: from mail-ob0-f170.google.com ([209.85.214.170]:35040)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YXWuQ-00086R-64
+	for amorales@cccchile.cl; Mon, 16 Mar 2015 10:26:26 -0500
+Received: by obfv9 with SMTP id v9so38175778obf.2
+        for <amorales@cccchile.cl>; Mon, 16 Mar 2015 08:26:24 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=FF5eZSTsE4mD2ODEViFxfbXYTJJ9JOJikUkKPXDRwmo=;
+        b=mkY7GDNl1+iRYSm9VL1dSjae/zcJy3Eb9DSiNcFKZrczyebzzBXfJbcWwW+qe/Tk9i
+         eE+LRee31RscYpqAzMaZVqLt8SCU1LGD5WKiR+JeerQ9HBX8ELCvNXdP9QZESp2iROyU
+         MwLJ7wCDYuy+Kcov2WHEGmBZNb4an/vQiZOKetZ60spo64AQiZgtYHTmNLSdtjsQH2Ag
+         0tSrAJBrUcO7gNwq8xboloSfnhdxAbf02u37l/y4RwAHye91Cw8Z90yWpjGk0uuJzhax
+         XYWUlOsgNmWnCLk21WFyiayS0OcfBEWd90U0LFbxRGDw6CVkTuSg1Up9sw5ZyqgYNzbP
+         Tl/A==
+X-Gm-Message-State: ALoCoQlfvyAsp9EfcPMl/bhasc0PaZCQ7e3+8jMwACUTsxc0owdAm7t6yOktLXN4PV0y7gMQM7lu
+MIME-Version: 1.0
+X-Received: by 10.60.94.199 with SMTP id de7mr48065388oeb.23.1426519583735;
+ Mon, 16 Mar 2015 08:26:23 -0700 (PDT)
+Received: by 10.182.116.166 with HTTP; Mon, 16 Mar 2015 08:26:23 -0700 (PDT)
+X-Originating-IP: [201.220.243.29]
+Date: Mon, 16 Mar 2015 12:26:23 -0300
+Message-ID: <CAJbDu1mBs5aw6mGvqYDt9oCUdHX=-dbc6Kurqa6AD1tF0C2XgA@mail.gmail.com>
+Subject: INFO
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>, 
+	Guillermo Morales M <gmorales@spindeportes.cl>
+Content-Type: multipart/alternative; boundary=089e011762cb0e48e805116979a2
+
+--089e011762cb0e48e805116979a2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola Andres,
+
+tengo a varios clientes armando compras para partir el a=C3=B1o, necesito
+informaci=C3=B3n clara para poder armar las ventas.
+
+1. llegadas productos/ detalles info / precios / foto: esto es URGENTE sino
+vamos a perder las ventas.
+- pelotas
+- poleras
+- short
+- etc
+
+2. soluci=C3=B3n poleron negro: la situaci=C3=B3n es critica. te di el ok p=
+ara
+hacerlo ac=C3=A1 pero debe quedar igual. necesito confirmar al cliente, sin=
+o le
+tendremos que hacer la devoluci=C3=B3n de la $$$.
+
+quedo atento a tu respuesta
+saludos
+
+--089e011762cb0e48e805116979a2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Andres,=C2=A0<div><br></div><div>tengo a varios clien=
+tes armando compras para partir el a=C3=B1o, necesito informaci=C3=B3n clar=
+a para poder armar las ventas.=C2=A0</div><div><br></div><div>1. llegadas p=
+roductos/ detalles info / precios / foto: esto es URGENTE sino vamos a perd=
+er las ventas.=C2=A0</div><div>- pelotas</div><div>- poleras</div><div>- sh=
+ort</div><div>- etc</div><div><br></div><div>2. soluci=C3=B3n poleron negro=
+: la situaci=C3=B3n es critica. te di el ok para hacerlo ac=C3=A1 pero debe=
+ quedar igual. necesito confirmar al cliente, sino le tendremos que hacer l=
+a devoluci=C3=B3n de la $$$.</div><div><br></div><div>quedo atento a tu res=
+puesta</div><div>saludos</div><div><br></div><div><br></div></div>
+
+--089e011762cb0e48e805116979a2--

@@ -1,0 +1,7 @@
+[user]
+	email = unreamlo@gmail.com
+	name = Pablo Tapia
+[pack]
+	windowMemory = 1000m
+	SizeLimit = 1000m
+	threads = 1

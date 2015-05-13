@@ -1,0 +1,390 @@
+Return-path: <gabrielchomali@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Fri, 06 Feb 2015 10:09:43 -0600
+Received: from nm36-vm8.bullet.mail.ne1.yahoo.com ([98.138.229.120]:53484)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabrielchomali@yahoo.com>)
+	id 1YJlTT-0007oJ-BL
+	for amorales@cccchile.cl; Fri, 06 Feb 2015 10:09:43 -0600
+Received: from [127.0.0.1] by nm36.bullet.mail.ne1.yahoo.com with NNFMP; 06 Feb 2015 16:09:41 -0000
+Received: from [98.138.100.103] by nm36.bullet.mail.ne1.yahoo.com with NNFMP; 06 Feb 2015 16:06:46 -0000
+Received: from [98.139.215.140] by tm102.bullet.mail.ne1.yahoo.com with NNFMP; 06 Feb 2015 16:06:46 -0000
+Received: from [98.139.212.200] by tm11.bullet.mail.bf1.yahoo.com with NNFMP; 06 Feb 2015 16:06:46 -0000
+Received: from [127.0.0.1] by omp1009.mail.bf1.yahoo.com with NNFMP; 06 Feb 2015 16:06:46 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 364215.87618.bm@omp1009.mail.bf1.yahoo.com
+Received: (qmail 97833 invoked by uid 60001); 6 Feb 2015 16:06:46 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1423238806; bh=Weh+rz2OyJ6zQWu4jlFNb6iceBjbXghxFrBG4VZQheA=; h=Message-ID:Date:From:Subject:To:Cc:In-Reply-To:MIME-Version:Content-Type; b=4PJdq/XvzvDIN80GL0wxegv1XX6AeMNlJaznguPToSE+MqE0t8k+ov0gPyJKaqy1FkETOD8Kdzm23fUcOrmY98bs3CKf8JQAAitxD/yJM9bAIW/0wwrGiOYqK0QiY7iQ/um+8Qda6sPg9BvyUhYQWsREBHW8lJHfrVTnYRZNA5o=
+X-YMail-OSG: tN0KOyUVM1n4ns2sHLC5bJPQfCDteceA0BgA_9HEOUreQiY
+ a5E3EwC83Mre4D5.iJQZDKziFaeRnq0wX75LXnKBZSzSZ5oMRtmwinOcozz3
+ XgvePrAWSPgKC9eTslwv8FreZoM2BiVBHqjwgka0IUZL4kKtPv2TIFUSGTR9
+ hDUzo7yNplQKGsSqWX2Z_2L61Q4O9ZcdNA7GEKdi9yxVM0pF3KVL2scMFjpd
+ Lk7Ao5L8TnaBo2_3ouykhF4k3y64yFjlSteksOQsvldu8QwCpYwoySxhwCld
+ Vhf3FpGTFSr5lvWiMR67QUXiLDm58miodnd0gqOl1SuxwkPNS18AMzj.LGCe
+ _nqgXDnDkT3kJAsxNC0eXAPZhqKngpwhLH61tSO5U.LzNGxBw2VxGaW0mC5B
+ pOhFzyU3Dfj9WkpfmQdZjGoMdq.UbRwumARBaEWVlV52O22ObUXYl4ufR0MV
+ MKVTPfiUlSRf7FJQ5r3FEoU7NmZMtoaAMNFSW8jF1GiXCtlZdDR3p1DxmRvX
+ O0gu2mgjFZO7E_wnwBG76Og4D7IVMXoMBmV.HR8D1tZqtkAub1QqxyFPC81w
+ HyTpxZu4VR3lCWE5OiBuJbBdQGOEhBVB0850a.xIChhy.Lja13RT7E0rDpFh
+ tUyqkyO5GGIqnG1MpCdpZfzVt3.AIiecvhdB2X9Iwp37kxBKkyb7Z10gxMdL
+ 0kHTfjRTvrA.KMrucD.dMYZCDwJvIVZibVZfFX2vNr8SI4JzwfrqS1WLWgBE
+ pQe0HMibsPYE-
+Received: from [201.220.243.62] by web140604.mail.bf1.yahoo.com via HTTP; Fri, 06 Feb 2015 08:06:46 PST
+X-Rocket-MIMEInfo: 002.001,RXhjZWxlbnRlLi4gY29uIGVzb3MgZGF0b3MgbWUgbXVldm8uCgpkaXNmcnV0YSB2YWNhY2lvbmVzLgoKR2FicmllbAoKRW52aWFkbyBkZXNkZSBZYWhvbyBNYWlsIHBhcmEgQW5kcm9pZAoKRGU6IkFuZHLDqXMgTW9yYWxlcyAoQ0NDLUNISUxFKSIgPGFtb3JhbGVzQGNjY2NoaWxlLmNsPgpGZWNoYTp2aWUgNiA2ZSBmZWIgNmUgMjAxNSBhIGxhcyAxMjowOCBQTQpBc3VudG86UmU6IEFjdWVyZG9zIFJldW5pw7NuCgpIb2xhIEdhYnJpZWwsCgpTaSwgbG8gZGVsLmRvbWluZ28gaGF5IHF1ZSBjb25zaWRlcmFybG8BMAEBAQE-
+X-Mailer: YahooMailAndroidMobile/4.8.2 YahooMailWebService/0.8.203.740
+Message-ID: <1423238806.75206.YahooMailAndroidMobile@web140604.mail.bf1.yahoo.com>
+Date: Fri, 6 Feb 2015 08:06:46 -0800
+From: Gabriel Chomali <gabrielchomali@yahoo.com>
+Subject: =?iso-8859-1?Q?Re=3A_Acuerdos_Reuni=F3n?=
+To: =?iso-8859-1?Q?Andr=E9s_Morales?= <amorales@cccchile.cl>
+Cc: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+In-Reply-To: <CAKggD2SQhzFbi0BVS4XdVYzkhyxxLu_A87PJH5YLxQ0o21UgiQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1023258982-57822988-1423238806=:75206"
+
+--1023258982-57822988-1423238806=:75206
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Excelente.. con esos datos me muevo.=0A=0Adisfruta vacaciones.=0A=0AGabriel=
+=0A=0AEnviado desde Yahoo Mail para Android=0A=0ADe:"Andr=E9s Morales (CCC-=
+CHILE)" <amorales@cccchile.cl>=0AFecha:vie 6 6e feb 6e 2015 a las 12:08 PM=
+=0AAsunto:Re: Acuerdos Reuni=F3n=0A=0AHola Gabriel,=0A=0ASi, lo del.domingo=
+ hay que considerarlo y lo del sabado tambien.=0A=0APara mi la idea es tene=
+r el maximo posible de productos para la venta, no significa que feben esta=
+r todos exhibidos, se pude optimizar en colores y modelos.=0A=0A=0ALo de ad=
+idas esta perfecto, solo que hay que cuidar los espacios, ya qur no es muy =
+grande wl locla.=0A=0A=0AHablemos a la vuelta.=A0=0A=0AEl viernes, 6 de feb=
+rero de 2015, Gabriel Chomali <gabrielchomali@yahoo.com> escribi=F3:=0A=0AA=
+ndr=E9s,=0A=0AHe revisado un poco la informaci=F3n que enviaste y en el flu=
+jo, que est=E1 muy bueno, har=E9 el cambio de en vez de 30 d=EDas de funcio=
+namiento bajarlo a 26 o abriremos los domingos? (hay que conversarlo ya que=
+ afectar=EDa directamente el gasto en RRHH, de hecho hay que ver si el s=E1=
+bado se abre completo o medio d=EDa... no s=E9 si hay que seguir reglas en =
+el centro comercial donde estar=E1 la tienda. Lo anterior, solo sube unpoco=
+ la cantidad de prendas a vender.=0A=0APregunta... el listado de productos =
+a vender son TODOS los que enviaste? o no tendremos todos esos? Lo anterior=
+ para dimensionar espacio y presentadores del material, adem=E1s de dejar u=
+n par de espacios para las poleras de otras marcas.=0A=0AA tu vuelta, d=E9m=
+osle prioridad tambi=E9n a la conversaci=F3n con Adidas y alguna otra marca=
+, capaz que quieran tener un espacio peque=F1o pero con publicidad e imagen=
+ de ellos.=0A=0AQuedo a la espera de tu respuesta sobre los productos para =
+ponerme de acuerdo con la arquitecta.=0A=0AGAbriel=0A=0A=0A=0AFrom: Andr=E9=
+s Morales (CCC-CHILE) <amorales@cccchile.cl>=0ATo: "Rios Prado, Rodrigo" <R=
+odrigo.Rios@itau.cl> =0ACc: Gabriel Chomali <gabrielchomali@yahoo.com> =0AS=
+ent: Thursday, February 5, 2015 5:52 PM=0ASubject: Re: Acuerdos Reuni=F3n=
+=0A=0A=0AHola!=0A=0A=0AMiles de disculpas por la demora.=0A=0AAdjunto peque=
+=F1o fujo de lo que puede ser la tienda. La verdad es que realmente nose cu=
+anto se puede llegar a vender, pero si muestra cuento se necesita vender pa=
+ra no perder plata.=0A=0A=0AClave es el costo del local y que comienze a ve=
+nder apenas se abra.=A0=0A=0A=0AEn cuanto a los productos que se peuden ofr=
+ecer, Adjunto productos de rugby puro de juego y ropa mas de moda.=0A=0AUna=
+ peque=F1a gondola con sus medidas y fotos de referncia de otras tiendas en=
+ el mundo.=0A=0A=0ALamento decirles que me tome una semana de vacaciones, v=
+uelvo el proximo miercoles en la ma=F1ana.=0A=0A=A0porfa no nos frenemos, s=
+igamos adelante!=0A=0A=0Asls.=0A=0A=0A=0A=0A=0A=0AEl 3 de febrero de 2015, =
+16:11, Rios Prado, Rodrigo <Rodrigo.Rios@itau.cl> escribi=F3:=0A=0APerfecto=
+ =0A=0A=A0=0A=0ARodrigo R=EDos Prado=0AAgente, Sucursal Pedro de Valdivia=
+=0ABanco Ita=FA Chile=0APedro de Valdivia N=B03558=0A=D1u=F1oa, Santiago=0A=
+Rodrigo.Rios@itau.cl=0AFono :+5626854681 =0A=0ABackUp: =0AAndres.Rivera@ita=
+u.cl=0A=0AFono :+5626854688=0A=0A=A0=0A=0ADe: Gabriel Chomali [mailto:gabri=
+elchomali@yahoo.com] =0AEnviado el: martes, 03 de febrero de 2015 15:16=0AP=
+ara: Andr=E9s Morales (CCC-CHILE)=0ACC: Rios Prado, Rodrigo=0AAsunto: Re: A=
+cuerdos Reuni=F3n=0A=0A=A0=0A=0AEstimados,=0A=0AC=F3mo no nos hemos enviado=
+ toda la informaci=F3n... les parece nos juntemos este viernes a las 14:00 =
+en irarrazaval?=0A=0A=A0=0A=0AFrom: Andr=E9s Morales (CCC-CHILE) <amorales@=
+cccchile.cl>=0ATo: Gabriel Chomali <gabrielchomali@yahoo.com> =0ACc: Rodrig=
+o Rios Prado <rodrigo.rios@itau.cl> =0ASent: Saturday, January 31, 2015 1:4=
+1 AM=0ASubject: Re: Acuerdos Reuni=F3n=0A=0A=A0=0A=0AHola!=A0=0A=0ALa.info.=
+mia la mando dentro del finde o el.lunes a mas tardar.=0A=0A=A0=0A=0ASls=0A=
+=0A=A0=0A=0A=0AEl viernes, 30 de enero de 2015, Gabriel Chomali <gabrielcho=
+mali@yahoo.com> escribi=F3:=0A=0AFue un placer recibirlos y espero lo hagam=
+os amenudo.=0A=0ARespecto de las fechas.... estas acciones son todas urgent=
+es y no pueden esperar.=0A=0APero podr=EDamoa partir de la siguiente manera=
+:=0A=0A=A0=0A=0A1.- RR: Enviar datos personales y objeto de la empresa (Vie=
+rnes 30 En)=0A=0A2.- GCH: Crear sociedad administradora de tiendas (Una sem=
+ana de recibido los datos)=0A=0A3.- RR: Sacar copia llaves para que podamos=
+ ir a visitar el local con los arquitectos (Viernes 30 En)=0A=0A4- AM: Envi=
+ar informaci=F3n de los productos a vender con sus precios. (Viernes 30 En)=
+=0A=0A5.- AM: Enviar informaci=F3n sobre locales de Canterburry para dar id=
+eas a los Arquitectos (Viernes 30 En)=0A=0A6.- AM: Hacer flujo inicial con =
+ideas sobre ventas de los productos de acuerdo a experiencia (Mi=E9rcoles 4=
+ Fb)=0A=0A7.- Todos: Cotizar con Arquitectos por dise=F1o de tienda (ASAP..=
+.. yo espero datos de tienda para ir.. arquitecto esperando)=0A=0A8.- Todos=
+: Pensar en nombre Tienda (Pr=F3xima reuni=F3n se cierra nombre)=0A=0A9.- T=
+odos: Una vez recibido flujo, mejorarlo con comentarios (Una semana de reci=
+bido el flujo)=0A=0A=A0=0A=0APr=F3xima reuni=F3n... les parece el pr=F3ximo=
+ mi=E9rcoles a las 14:00 cerca de RR?=0A=0A=A0=0A=0AGabriel=0A=0A=A0=0A=0AH=
+ola Gabriel,=0A=0A=A0=0A=0AGracias por recibirnos y muchas gracias por la a=
+tenci=F3n!=0A=0A=A0=0A=0APodr=E1s poner una fecha al lado de cada tarea? in=
+tentemos respetarla para que veamos avances pronto.=0A=0A=A0=0A=0ACuando es=
+ la pr=F3xima junta? que objetivos va a tener?=0A=0A=A0=0A=0AUn abrazo!=0A=
+=0A=A0=0A=0A=A0=0A=0A=A0=0A=0A=A0=0A=0AEl 29 de enero de 2015, 9:30, Gabrie=
+l Chomali <gabrielchomali@yahoo.com> escribi=F3:=0A=0AEstimados amigos,=0A=
+=0AEntretenida y productiva reuni=F3n ayer... esperemos sea el inicio de a=
+=F1os de pasarla bien y buenos negocios.=0A=0A=A0=0A=0AEntre los acuerdos d=
+e ayer y en los cuales debemos trabajar ya son:=0A=0A=A0=0A=0A1.- RR: Envia=
+r datos personales y objeto de la empresa=0A=0A2.- GCH: Crear sociedad admi=
+nistradora de tiendas=0A=0A3.- RR: Sacar copia llaves para que podamos ir a=
+ visitar el local con los arquitectos=0A=0A4- AM: Enviar informaci=F3n de l=
+os productos a vender con sus precios.=0A=0A5.- AM: Enviar informaci=F3n so=
+bre locales de Canterburry para dar ideas a los Arquitectos=0A=0A6.- AM: Ha=
+cer flujo inicial con ideas sobre ventas de los productos de acuerdo a expe=
+riencia=0A=0A7.- Todos: Cotizar con Arquitectos por dise=F1o de tienda=0A=
+=0A8.- Todos: Pensar en nombre Tienda=0A=0A9.- Todos: Una vez recibido fluj=
+o, mejorarlo con comentarios=0A=0A=A0=0A=0AFavor, si se me olvida algo agre=
+garlo.=0A=0A=A0=0A=0AGabriel=0A=0A=A0=0A=0A=A0=0A=0A=A0=0A=0A=A0=0A=0APara =
+asegurar la adecuada lectura en todo tipo de correos electronicos, se han o=
+mitido intencionalmente los signos y acentos diacriticos del idioma castell=
+ano. La informacion contenida en este mensaje y cualquier archivo adjunto e=
+s confidencial y no puede ser usada por mas personas que sus destinatarios.=
+ El uso no autorizado de esta informacion puede ser sancionado de conformid=
+ad con el Codigo Penal chileno. Si ha recibido este correo por error, por f=
+avor notifique al remitente respondiendo este mismo mensaje y elimine el me=
+nsaje y todos los archivos adjuntos. Internet no puede garantizar la integr=
+idad de este mensaje, por lo que el Banco no se hace responsable si el cont=
+enido del mismo ha sido alterado. =0A=0A=0A=0A=0A
+--1023258982-57822988-1423238806=:75206
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op">Excelente.. con esos datos me muevo.<div id=3D"yMail_cursorElementTrack=
+er_0.8327135408762842">disfruta vacaciones.</div><div id=3D"yMail_cursorEle=
+mentTracker_0.8327135408762842">Gabriel<br><br><p><a href=3D"https://overvi=
+ew.mail.yahoo.com/mobile/?.src=3DAndroid">Enviado desde Yahoo Mail para And=
+roid</a></p> <hr><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <=
+tbody> <tr> <td valign=3D"top"> <div style=3D"font-family:Roboto, sans-seri=
+f;color:#7e7d80;"><b>De</b>:"Andr=E9s Morales (CCC-CHILE)" &lt;amorales@ccc=
+chile.cl&gt;<br><b>Fecha</b>:vie 6 6e feb 6e 2015 a las 12:08 PM<br><b>Asun=
+to</b>:Re: Acuerdos Reuni=F3n<br><br></div> Hola Gabriel,<div>Si, lo del.do=
+mingo hay que considerarlo y lo del sabado tambien.</div><div>Para mi la id=
+ea es tener el maximo posible de productos para la venta, no significa que =
+feben estar todos exhibidos, se pude optimizar en colores y modelos.</div><=
+div><br
+ clear=3D"none"></div><div>Lo de adidas esta perfecto, solo que hay que cui=
+dar los espacios, ya qur no es muy grande wl locla.</div><div><br clear=3D"=
+none"></div><div>Hablemos a la vuelta.&nbsp;<br clear=3D"none"><br clear=3D=
+"none">El viernes, 6 de febrero de 2015, Gabriel Chomali &lt;<a rel=3D"nofo=
+llow" shape=3D"rect" ymailto=3D"mailto:gabrielchomali@yahoo.com" target=3D"=
+_blank" href=3D"javascript:return">gabrielchomali@yahoo.com</a>&gt; escribi=
+=F3:<br clear=3D"none"><div class=3D"yQTDBase yqt5126417455" id=3D"yqt00634=
+"><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex;"><div><div style=3D"color:#000;background-=
+color:#fff;font-family:verdana, helvetica, sans-serif;font-size:16px;"><div=
+>Andr=E9s,</div><div dir=3D"ltr">He revisado un poco la informaci=F3n que e=
+nviaste y en el flujo, que est=E1 muy bueno, har=E9 el cambio de en vez de =
+30 d=EDas de funcionamiento bajarlo a 26 o abriremos los domingos? (hay que=
+ conversarlo ya que afectar=EDa
+ directamente el gasto en RRHH, de hecho hay que ver si el s=E1bado se abre=
+ completo o medio d=EDa... no s=E9 si hay que seguir reglas en el centro co=
+mercial donde estar=E1 la tienda. Lo anterior, solo sube unpoco la cantidad=
+ de prendas a vender.</div><div dir=3D"ltr">Pregunta... el listado de produ=
+ctos a vender son TODOS los que enviaste? o no tendremos todos esos? Lo ant=
+erior para dimensionar espacio y presentadores del material, adem=E1s de de=
+jar un par de espacios para las poleras de otras marcas.</div><div dir=3D"l=
+tr">A tu vuelta, d=E9mosle prioridad tambi=E9n a la conversaci=F3n con Adid=
+as y alguna otra marca, capaz que quieran tener un espacio peque=F1o pero c=
+on publicidad e imagen de ellos.</div><div dir=3D"ltr">Quedo a la espera de=
+ tu respuesta sobre los productos para ponerme de acuerdo con la arquitecta=
+.</div><div dir=3D"ltr">GAbriel<br clear=3D"none"></div><div dir=3D"ltr"><b=
+r clear=3D"none"></div><div><span></span></div><br clear=3D"none">  <div
+ style=3D"font-family:verdana, helvetica, sans-serif;font-size:16px;"> <div=
+ style=3D"font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Luci=
+da Grande, sans-serif;font-size:16px;"> <div dir=3D"ltr"> <hr size=3D"1">  =
+<font face=3D"Arial"> <b><span style=3D"font-weight:bold;">From:</span></b>=
+ Andr=E9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D"rect">amoral=
+es@cccchile.cl</a>&gt;<br clear=3D"none"> <b><span style=3D"font-weight:bol=
+d;">To:</span></b> "Rios Prado, Rodrigo" &lt;<a rel=3D"nofollow" shape=3D"r=
+ect">Rodrigo.Rios@itau.cl</a>&gt; <br clear=3D"none"><b><span style=3D"font=
+-weight:bold;">Cc:</span></b> Gabriel Chomali &lt;<a rel=3D"nofollow" shape=
+=3D"rect">gabrielchomali@yahoo.com</a>&gt; <br clear=3D"none"> <b><span sty=
+le=3D"font-weight:bold;">Sent:</span></b> Thursday, February 5, 2015 5:52 P=
+M<br clear=3D"none"> <b><span style=3D"font-weight:bold;">Subject:</span></=
+b> Re: Acuerdos Reuni=F3n<br clear=3D"none"> </font> </div> <div><br clear=
+=3D"none"><div><div><div
+ dir=3D"ltr">Hola!<div><br clear=3D"none"></div><div>Miles de disculpas por=
+ la demora.</div><div>Adjunto peque=F1o fujo de lo que puede ser la tienda.=
+ La verdad es que realmente nose cuanto se puede llegar a vender, pero si m=
+uestra cuento se necesita vender para no perder plata.</div><div><br clear=
+=3D"none"></div><div>Clave es el costo del local y que comienze a vender ap=
+enas se abra.&nbsp;</div><div><br clear=3D"none"></div><div>En cuanto a los=
+ productos que se peuden ofrecer, Adjunto productos de rugby puro de juego =
+y ropa mas de moda.</div><div>Una peque=F1a gondola con sus medidas y fotos=
+ de referncia de otras tiendas en el mundo.</div><div><br clear=3D"none"></=
+div><div>Lamento decirles que me tome una semana de vacaciones, vuelvo el p=
+roximo miercoles en la ma=F1ana.</div><div>&nbsp;porfa no nos frenemos, sig=
+amos adelante!</div><div><br clear=3D"none"></div><div>sls.</div><div><br c=
+lear=3D"none"></div><div><br clear=3D"none"></div></div><div><br clear=3D"n=
+one"><br
+ clear=3D"none"></div><div><div><br clear=3D"none"><div>El 3 de febrero de =
+2015, 16:11, Rios Prado, Rodrigo <span dir=3D"ltr">&lt;<a rel=3D"nofollow" =
+shape=3D"rect">Rodrigo.Rios@itau.cl</a>&gt;</span> escribi=F3:<br clear=3D"=
+none"><blockquote style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pad=
+ding-left:1ex;">=0A=0A=0A=0A=0A=0A<div lang=3D"ES-CL">=0A<div>=0A<div><span=
+ style=3D"font-size:11.0pt;">Perfecto=0A<u></u><u></u></span></div>=0A<div>=
+<span style=3D"font-size:11.0pt;"><u></u>&nbsp;<u></u></span></div>=0A<div>=
+=0A<div><b><span style=3D"font-size:11.0pt;">Rodrigo R=EDos Prado</span></b=
+><span style=3D"font-size:11.0pt;"><br clear=3D"none">=0A<b>Agente, Sucursa=
+l Pedro de Valdivia</b><br clear=3D"none">=0ABanco Ita=FA Chile<br clear=3D=
+"none">=0APedro de Valdivia N=B03558<br clear=3D"none">=0A=D1u=F1oa, Santia=
+go<br clear=3D"none">=0A</span><b><u><span style=3D"font-size:11.0pt;"><a r=
+el=3D"nofollow" shape=3D"rect">Rodrigo.Rios@itau.cl</a></span></u></b><span=
+ style=3D"font-size:11.0pt;"><br clear=3D"none">=0AFono :+5626854681 <br cl=
+ear=3D"none">=0A<br clear=3D"none">=0A</span><span style=3D"font-size:11.0p=
+t;">BackUp:=0A<br clear=3D"none">=0A<u>Andres.Rivera<a rel=3D"nofollow" sha=
+pe=3D"rect"><span style=3D"color:#7f7f7f;">@itau.cl</span></a><u></u><u></u=
+></u></span></div>=0A<div><span style=3D"font-size:11.0pt;">Fono :+56268546=
+88</span><span style=3D"font-size:11.0pt;"><u></u><u></u></span></div>=0A</=
+div>=0A<div><span style=3D"font-size:11.0pt;"><u></u>&nbsp;<u></u></span></=
+div>=0A<div>=0A<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;pad=
+ding:3.0pt 0cm 0cm 0cm;">=0A<div><b><span lang=3D"ES" style=3D"font-size:10=
+.0pt;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;"> Gabriel=
+ Chomali [mailto:<a rel=3D"nofollow" shape=3D"rect">gabrielchomali@yahoo.co=
+m</a>]=0A<br clear=3D"none">=0A<b>Enviado el:</b> martes, 03 de febrero de =
+2015 15:16<br clear=3D"none">=0A<b>Para:</b> Andr=E9s Morales (CCC-CHILE)<b=
+r clear=3D"none">=0A<b>CC:</b> Rios Prado, Rodrigo<br clear=3D"none">=0A<b>=
+Asunto:</b> Re: Acuerdos Reuni=F3n<u></u><u></u></span></div>=0A</div>=0A</=
+div><div><div>=0A<div><u></u>&nbsp;<u></u></div>=0A<div>=0A<div>=0A<div sty=
+le=3D"background:white;"><span>Estimados,<u></u><u></u></span></div>=0A</di=
+v>=0A<div>=0A<div style=3D"background:white;"><span>C=F3mo no nos hemos env=
+iado toda la informaci=F3n... les parece nos juntemos este viernes a las 14=
+:00 en irarrazaval?<u></u><u></u></span></div>=0A</div>=0A<div style=3D"bac=
+kground:white;"><span><u></u>&nbsp;<u></u></span></div>=0A<div>=0A<div>=0A<=
+div>=0A<div align=3D"center" style=3D"text-align:center;background:white;">=
+=0A<span>=0A</span><hr align=3D"center" size=3D"1" width=3D"100%">=0A</div>=
+=0A<div style=3D"background:white;"><b><span style=3D"font-size:10.0pt;">Fr=
+om:</span></b><span style=3D"font-size:10.0pt;"> Andr=E9s Morales (CCC-CHIL=
+E) &lt;<a rel=3D"nofollow" shape=3D"rect">amorales@cccchile.cl</a>&gt;<br c=
+lear=3D"none">=0A<b>To:</b> Gabriel Chomali &lt;<a rel=3D"nofollow" shape=
+=3D"rect">gabrielchomali@yahoo.com</a>&gt;=0A<br clear=3D"none">=0A<b>Cc:</=
+b> Rodrigo Rios Prado &lt;<a rel=3D"nofollow" shape=3D"rect">rodrigo.rios@i=
+tau.cl</a>&gt;=0A<br clear=3D"none">=0A<b>Sent:</b> Saturday, January 31, 2=
+015 1:41 AM<br clear=3D"none">=0A<b>Subject:</b> Re: Acuerdos Reuni=F3n</sp=
+an><span><u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"backg=
+round:white;"><span><u></u>&nbsp;<u></u></span></div>=0A<div>=0A<div>=0A<di=
+v style=3D"background:white;"><span>Hola!&nbsp;<u></u><u></u></span></div>=
+=0A<div>=0A<div style=3D"background:white;"><span>La.info.mia la mando dent=
+ro del finde o el.lunes a mas tardar.<u></u><u></u></span></div>=0A</div>=
+=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u></spa=
+n></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>Sls<u></=
+u><u></u></span></div>=0A<div>=0A<div style=3D"margin-bottom:12.0pt;backgro=
+und:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=0A<div=
+ style=3D"background:white;"><span><br clear=3D"none">=0AEl viernes, 30 de =
+enero de 2015, Gabriel Chomali &lt;<a rel=3D"nofollow" shape=3D"rect">gabri=
+elchomali@yahoo.com</a>&gt; escribi=F3:<br clear=3D"none">=0A<br clear=3D"n=
+one">=0A<u></u><u></u></span></div>=0A<div>=0A<div>=0A<div>=0A<div style=3D=
+"background:white;"><span>Fue un placer recibirlos y espero lo hagamos amen=
+udo.<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background=
+:white;"><span>Respecto de las fechas.... estas acciones son todas urgentes=
+ y no pueden esperar.<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div st=
+yle=3D"background:white;"><span>Pero podr=EDamoa partir de la siguiente man=
+era:<br clear=3D"none">=0A<br clear=3D"none">=0A<u></u><u></u></span></div>=
+=0A</div>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u>=
+</u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span=
+>1.- RR: Enviar datos personales y objeto de la empresa (Viernes 30 En)<u><=
+/u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"=
+><span>2.- GCH: Crear sociedad administradora de tiendas (Una semana de rec=
+ibido los datos)<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=
+=3D"background:white;"><span>3.- RR: Sacar copia llaves para que podamos ir=
+ a visitar el local con los arquitectos (Viernes 30 En)<u></u><u></u></span=
+></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>4- AM: En=
+viar informaci=F3n de los productos a vender con sus precios. (Viernes 30 E=
+n)<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:w=
+hite;"><span>5.- AM: Enviar informaci=F3n sobre locales de Canterburry para=
+ dar ideas a los Arquitectos (Viernes 30 En)<u></u><u></u></span></div>=0A<=
+/div>=0A<div>=0A<div style=3D"background:white;"><span>6.- AM: Hacer flujo =
+inicial con ideas sobre ventas de los productos de acuerdo a experiencia (M=
+i=E9rcoles 4 Fb)<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=
+=3D"background:white;"><span>7.- Todos: Cotizar con Arquitectos por dise=F1=
+o de tienda (ASAP.... yo espero datos de tienda para ir.. arquitecto espera=
+ndo)<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background=
+:white;"><span>8.- Todos: Pensar en nombre Tienda (Pr=F3xima reuni=F3n se c=
+ierra nombre)<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div>=0A<div st=
+yle=3D"background:white;"><span>9.- Todos: Una vez recibido flujo, mejorarl=
+o con comentarios (Una semana de recibido el flujo)<u></u><u></u></span></d=
+iv>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;=
+<u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><s=
+pan>Pr=F3xima reuni=F3n... les parece el pr=F3ximo mi=E9rcoles a las 14:00 =
+cerca de RR?<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"ba=
+ckground:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=
+=0A<div style=3D"background:white;"><span>Gabriel<u></u><u></u></span></div=
+>=0A</div>=0A</div>=0A<div>=0A<div>=0A<div>=0A<div style=3D"background:whit=
+e;"><span><u></u>&nbsp;<u></u></span></div>=0A<div>=0A<div>=0A<div>=0A<div =
+style=3D"background:white;"><span>Hola Gabriel,<u></u><u></u></span></div>=
+=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u></spa=
+n></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>Gracias =
+por recibirnos y muchas gracias por la atenci=F3n!<u></u><u></u></span></di=
+v>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<=
+u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><sp=
+an>Podr=E1s poner una fecha al lado de cada tarea? intentemos respetarla pa=
+ra que veamos avances pronto.<u></u><u></u></span></div>=0A</div>=0A<div>=
+=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u></span></div>=
+=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>Cuando es la pr=
+=F3xima junta? que objetivos va a tener?<u></u><u></u></span></div>=0A</div=
+>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u></sp=
+an></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>Un abra=
+zo!<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:=
+white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=0A<div sty=
+le=3D"background:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=
+=0A</div>=0A<div>=0A<div style=3D"margin-bottom:12.0pt;background:white;"><=
+span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=0A<div>=0A<div styl=
+e=3D"background:white;"><span><u></u>&nbsp;<u></u></span></div>=0A<div>=0A<=
+div style=3D"background:white;"><span>El 29 de enero de 2015, 9:30, Gabriel=
+ Chomali &lt;<span><a rel=3D"nofollow" shape=3D"rect">gabrielchomali@yahoo.=
+com</a></span>&gt; escribi=F3:<u></u><u></u></span></div>=0A<div>=0A<div>=
+=0A<div>=0A<div style=3D"background:white;"><span>Estimados amigos,<u></u><=
+u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><sp=
+an>Entretenida y productiva reuni=F3n ayer... esperemos sea el inicio de a=
+=F1os de pasarla bien y buenos negocios.<u></u><u></u></span></div>=0A</div=
+>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u></sp=
+an></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>Entre l=
+os acuerdos de ayer y en los cuales debemos trabajar ya son:<u></u><u></u><=
+/span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span><u><=
+/u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:w=
+hite;"><span>1.- RR: Enviar datos personales y objeto de la empresa<u></u><=
+u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><sp=
+an>2.- GCH: Crear sociedad administradora de tiendas<u></u><u></u></span></=
+div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>3.- RR: Saca=
+r copia llaves para que podamos ir a visitar el local con los arquitectos<u=
+></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background:white=
+;"><span>4- AM: Enviar informaci=F3n de los productos a vender con sus prec=
+ios.<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"background=
+:white;"><span>5.- AM: Enviar informaci=F3n sobre locales de Canterburry pa=
+ra dar ideas a los Arquitectos<u></u><u></u></span></div>=0A</div>=0A<div>=
+=0A<div style=3D"background:white;"><span>6.- AM: Hacer flujo inicial con i=
+deas sobre ventas de los productos de acuerdo a experiencia<u></u><u></u></=
+span></div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>7.- T=
+odos: Cotizar con Arquitectos por dise=F1o de tienda<u></u><u></u></span></=
+div>=0A</div>=0A<div>=0A<div style=3D"background:white;"><span>8.- Todos: P=
+ensar en nombre Tienda<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div s=
+tyle=3D"background:white;"><span>9.- Todos: Una vez recibido flujo, mejorar=
+lo con comentarios<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=
+=3D"background:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<=
+div>=0A<div style=3D"background:white;"><span>Favor, si se me olvida algo a=
+gregarlo.<u></u><u></u></span></div>=0A</div>=0A<div>=0A<div style=3D"backg=
+round:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A<div>=0A<d=
+iv style=3D"background:white;"><span>Gabriel<u></u><u></u></span></div>=0A<=
+/div>=0A<div>=0A<div style=3D"background:white;"><span><u></u>&nbsp;<u></u>=
+</span></div>=0A</div>=0A</div>=0A</div>=0A</div>=0A<div style=3D"backgroun=
+d:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A</div>=0A</div=
+>=0A</div>=0A<div style=3D"margin-bottom:12.0pt;background:white;"><span><u=
+></u>&nbsp;<u></u></span></div>=0A</div>=0A</div>=0A</div>=0A</div>=0A</div=
+>=0A</div>=0A</div>=0A</div>=0A</div>=0A<div style=3D"margin-bottom:12.0pt;=
+background:white;"><span><u></u>&nbsp;<u></u></span></div>=0A</div>=0A</div=
+>=0A</div>=0A</div>=0A</div></div></div>=0APara asegurar la adecuada lectur=
+a en todo tipo de correos electronicos, se han omitido intencionalmente los=
+ signos y acentos diacriticos del idioma castellano. =0ALa informacion cont=
+enida en este mensaje y cualquier archivo adjunto es confidencial y no pued=
+e ser usada por mas personas que sus destinatarios. El uso no autorizado de=
+ esta informacion puede ser sancionado de conformidad con el Codigo Penal c=
+hileno. Si ha recibido este correo por error, por favor notifique al remite=
+nte respondiendo este mismo mensaje y elimine el mensaje y todos los archiv=
+os adjuntos.=0AInternet no puede garantizar la integridad de este mensaje, =
+por lo que el Banco no se hace responsable si el contenido del mismo ha sid=
+o alterado.=0A</div>=0A=0A</blockquote></div><br clear=3D"none"></div></div=
+></div></div><br clear=3D"none"><br clear=3D"none"></div> </div> </div>  </=
+div></div></blockquote></div></div></td>  </tr>   </tbody>   </table></div>=
+</td></tr></table>
+--1023258982-57822988-1423238806=:75206--

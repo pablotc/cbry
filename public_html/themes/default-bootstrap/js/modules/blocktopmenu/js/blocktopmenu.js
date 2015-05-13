@@ -82,6 +82,7 @@ function mobileInit()
 
 	mCategoryGrover.on('click touchstart', function(){
 		$(this).toggleClass('active').parent().find('ul.menu-content').stop().slideToggle('medium');
+		return false; // PREVIENE DOBLE FIRING
 	});
 
 	$('.sf-menu > li > ul').addClass('menu-mobile clearfix').parent().prepend('<span class="menu-mobile-grover"></span>');

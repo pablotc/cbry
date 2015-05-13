@@ -1,0 +1,80 @@
+Return-path: <no-responder@pagosonline.net>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Mon, 23 Mar 2015 16:41:04 -0500
+Received: from mail.pagosonline.net ([198.61.156.98]:43788)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <no-responder@pagosonline.net>)
+	id 1YaA5o-00020R-DA
+	for admin@cccchile.cl; Mon, 23 Mar 2015 16:41:04 -0500
+Received: from 468718-payuapp01.pagosonline.net (unknown [10.50.100.170])
+	by mail.pagosonline.net (Postfix) with ESMTP id E4DC6B7436;
+	Mon, 23 Mar 2015 16:41:01 -0500 (COT)
+Date: Mon, 23 Mar 2015 16:41:01 -0500 (COT)
+From: no-responder@pagosonline.net
+To: admin@cccchile.cl
+Cc: test.tech.001@gmail.com
+Message-ID: <1463091740.333794.1427146861842.JavaMail.root@468718-payuapp01.pagosonline.net>
+Subject: =?UTF-8?Q?--Error_al_enviar_pagina_de_confirmaci=C3=B3n--?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_333792_1998458484.1427146861840"
+
+------=_Part_333792_1998458484.1427146861840
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">
+<!--
+table {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+-->
+</style>
+</head>
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td align="justify">Apreciado(a): Pablo Tapia C,</td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="0">
+  <tr>
+    <td align="justify">El sistema realiz&oacute; varios intentos para reportar a la p&aacute;gina de confirmaci&oacute;n sin embargo un error impidi&oacute; que este proceso se ejecutara de forma exitosa.</td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="0">
+  <tr>
+    <td align="justify">La URL de la p&aacute;gina es : http://cccchile.cl/modules/payulatam/pages/confirmation.php</td>
+   </tr>
+	<tr>
+	<td align="justify">El c&oacute;digo de la &oacute;rden es : 84840935</td>
+  </tr>
+   <tr>
+	<td align="justify">El c&oacute;digo de la transacci&oacute;n es : 99715f74-59df-4094-87ea-602897ec91b8</td>
+  </tr>
+   <tr>
+	<td align="justify">El c&oacute;digo HTTP es : 500</td>
+  </tr>
+   <tr>
+	<td align="justify">El mensaje del error es: </td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="0">
+  <tr>
+    <td align="justify">Si usted no desea utiizar la p&aacute;gina de confirmaci&oacute;n comuniquese con Asesor&iacute;a en l&iacute;nea en <a href="www.pagosonline.net">www.pagosonline.net</a></td>
+  </tr>
+</table>
+</body>
+</html>
+
+------=_Part_333792_1998458484.1427146861840--

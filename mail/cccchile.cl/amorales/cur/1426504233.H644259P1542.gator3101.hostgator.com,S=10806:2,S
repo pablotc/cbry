@@ -1,0 +1,194 @@
+Return-path: <3J7oGVQsJCGQGNQFKG.HFNTIOCKN.EQOCOQTCNGUEEEEJKNG.EN@calendar-server.bounces.google.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 16 Mar 2015 06:10:33 -0500
+Received: from mail-yk0-f201.google.com ([209.85.160.201]:33797)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <3J7oGVQsJCGQGNQFKG.HFNTIOCKN.EQOCOQTCNGUEEEEJKNG.EN@calendar-server.bounces.google.com>)
+	id 1YXSun-0000NH-CW
+	for amorales@cccchile.cl; Mon, 16 Mar 2015 06:10:33 -0500
+Received: by ykq142 with SMTP id 142so6023105ykq.1
+        for <amorales@cccchile.cl>; Mon, 16 Mar 2015 04:10:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:sender:auto-submitted:message-id:date:subject
+         :from:to:content-type;
+        bh=5taZQ5zQCZsKwXFd/spiM1pFxWld/69n2SstGT0jtVI=;
+        b=LyEPZ+FNVLShGaTTKSpq4BTGDCpANumd9homNX9SxfOCuYv7zIzrDhuwE78Pbt1/Uj
+         Dq/TnFNMpefYnrkZgM1/mjlM26GhlfL3ifMPwHXK6IO79q+KHDnuRq4/J6FO4YEOza0X
+         LEsRdH/R5aECkLoXQ0MH++km/nNYS/jozHq7nsEpJTq35dBZjjJIwbw4+aVmFvF2ggc9
+         UJmpe8iu1P73h2IuIdRD3ASUWAzSfGgzGkDLqLswDECF0M21pAyk+dkTSFcCeyxf1t44
+         Qcc/bs3HDlbUePASdKKwrfDTvGJEhO1pg3Bqnf8F7x0Mxl5MwM6NWoE4aeQXRJi3WwUN
+         7Yww==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:reply-to:sender:auto-submitted:message-id:date:subject
+         :from:to:content-type;
+        bh=5taZQ5zQCZsKwXFd/spiM1pFxWld/69n2SstGT0jtVI=;
+        b=XC/WLXHdWYFH4tV+ZaDt6M1tYXESMazDLgvZCT9j61+W8efM8Nl2ygfecEIrOfPM2Z
+         ddG7fBe7uL8/h/7gzEsC1CvHyU0DVKq9IctpI5Y3KY2mC4yjUm09xlKa1FGDhdG9oVoL
+         x1Mnz0VXi1M2RbK7weQEzSBc5xs9dL5XClxv+fTgtC+zB29qcWQgWqFzRACZ8C8+GNya
+         Tr4jirAH6jeU+dNhqUBmmaNVKszp19YQCK8R84ew5qwB86qPyU6tq9jjbn33kiGVkFYl
+         kwdoZ/gIcG5OiwtNmWngMkhOX+jw8QCds5pRAGGaDjzeMAD7JkCk4LBgWbRGsgeHWjQ3
+         P3lA==
+MIME-Version: 1.0
+X-Received: by 10.236.14.2 with SMTP id c2mr63388790yhc.29.1426504231251; Mon,
+ 16 Mar 2015 04:10:31 -0700 (PDT)
+Reply-To: "elodie.fdlr@gmail.com" <elodie.fdlr@gmail.com>
+Sender: Google Calendar <calendar-notification@google.com>
+Auto-Submitted: auto-generated
+Message-ID: <089e0139fc84f97915051165e5fd@google.com>
+Date: Mon, 16 Mar 2015 11:10:31 +0000
+Subject: =?ISO-8859-1?Q?Evento_cancelado=3A_Reuni=F3n_Andres_Morales=2FElodie=2A=2A9=3A?=
+	=?ISO-8859-1?Q?30_Hrs_el_lun_16_de_Mar_de_2015_08=3A40_=2D_09=3A40_=28elodiefdlr=29?=
+From: "elodie.fdlr@gmail.com" <elodie.fdlr@gmail.com>
+To: Andres Morales <amorales@cccchile.cl>
+Content-Type: multipart/mixed; boundary=089e0139fc84f978f1051165e5fc
+
+--089e0139fc84f978f1051165e5fc
+Content-Type: multipart/alternative; boundary=089e0139fc84f978eb051165e5fa
+
+--089e0139fc84f978eb051165e5fa
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+RXN0ZSBldmVudG8gc2UgaGEgY2FuY2VsYWRvIHkgc3VwcmltaWRvIGRlbCBjYWxlbmRhcmlvLg0K
+DQpU7XR1bG86IFJldW5p824gQW5kcmVzIE1vcmFsZXMvRWxvZGllKio5OjMwIEhycw0KQ3XhbmRv
+OiBsdW4gMTYgZGUgTWFyIGRlIDIwMTUgMDg6NDAgLSAwOTo0MCBTYW50aWFnbw0KTHVnYXI6IFJl
+YWdlbmRhcg0KQ2FsZW5kYXJpbzogZWxvZGllZmRscg0KUXVp6W46DQogICAgICogZWxvZGllZmRs
+ci0gb3JnYW5pemFkb3INCg0KDQpJbnZpdGFjafNuIGRlIEdvb2dsZSBDYWxlbmRhcjogaHR0cHM6
+Ly93d3cuZ29vZ2xlLmNvbS9jYWxlbmRhci8NCg0KUmVjaWJlcyBlc3RlIG1lbnNhamUgZGUgY29y
+dGVz7WEgZW4gbGEgZGlyZWNjafNuIGFtb3JhbGVzQGNjY2NoaWxlLmNsIGRlIGxhICANCmN1ZW50
+YSBwb3JxdWUgZXJlcyB1bm8gZGUgbG9zIHBhcnRpY2lwYW50ZXMgZGUgZXN0ZSBldmVudG8uDQoN
+ClNpIGRlc2VhcyBkZWphciBkZSByZWNpYmlyIG5vdGlmaWNhY2lvbmVzIHBhcmEgZXN0ZSBldmVu
+dG8sIHJlY2jhemFsby4gU2kgIA0KbG8gcHJlZmllcmVzLCBzb2xpY2l0YSB1bmEgY3VlbnRhIGRl
+IEdvb2dsZSBlbiAgDQpodHRwczovL3d3dy5nb29nbGUuY29tL2NhbGVuZGFyLyB5IGNvbnRyb2xh
+IGxhIGNvbmZpZ3VyYWNp824gcmVsYXRpdmEgYSBsYXMgIA0Kbm90aWZpY2FjaW9uZXMgZGUgdG9k
+byBlbCBjYWxlbmRhcmlvLg0K
+--089e0139fc84f978eb051165e5fa
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D""><table cellspacing=3D"0" cellpadding=3D"8" border=3D"0" sum=
+mary=3D"" style=3D"width:100%;font-family:Arial,Sans-serif;border:1px Solid=
+ #ccc;border-width:1px 2px 2px 1px;background-color:#fff;" itemscope itemty=
+pe=3D"http://schema.org/Event"><tr><td><meta itemprop=3D"eventStatus" conte=
+nt=3D"http://schema.org/EventCancelled"/><h4 style=3D"padding:6px 10px;marg=
+in:0 0 4px 0;font-family:Arial,Sans-serif;font-size:13px;line-height:1.4;bo=
+rder:1px Solid #fcc;background:#fcc;color:#222;font-weight:bold">Este event=
+o se ha cancelado y suprimido del calendario.</h4><div style=3D"padding:2px=
+"><span itemprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Orga=
+nization"><meta itemprop=3D"name" content=3D"Google Calendar"/></span><meta=
+ itemprop=3D"eventId/googleCalendar" content=3D"_84sj2e9k68pjab9l68qjeb9k6h=
+336ba2892j4b9l6cq38d1i690k4dq474"/><h3 style=3D"padding:0 0 6px 0;margin:0;=
+font-family:Arial,Sans-serif;font-size:16px;font-weight:bold;color:#222"><s=
+pan itemprop=3D"name">Reuni=F3n Andres Morales/Elodie**9:30 Hrs</span></h3>=
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" summary=3D"Informac=
+i=F3n del evento"><tr><td style=3D"padding:0 1em 10px 0;font-family:Arial,S=
+ans-serif;font-size:13px;color:#888;white-space:nowrap" valign=3D"top"><div=
+><i style=3D"font-style:normal">Cu=E1ndo</i></div></td><td style=3D"padding=
+-bottom:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222" valign=
+=3D"top"><time itemprop=3D"startDate" datetime=3D"20150316T114000Z"></time>=
+<time itemprop=3D"endDate" datetime=3D"20150316T124000Z"></time>lun 16 de M=
+ar de 2015 08:40 &ndash; 09:40 <span style=3D"color:#888">Santiago</span></=
+td></tr><tr><td style=3D"padding:0 1em 10px 0;font-family:Arial,Sans-serif;=
+font-size:13px;color:#888;white-space:nowrap" valign=3D"top"><div><i style=
+=3D"font-style:normal">D=F3nde</i></div></td><td style=3D"padding-bottom:10=
+px;font-family:Arial,Sans-serif;font-size:13px;color:#222" valign=3D"top"><=
+span itemprop=3D"location" itemscope itemtype=3D"http://schema.org/Place"><=
+span itemprop=3D"name">Reagendar</span><span dir=3D"ltr"> (<a href=3D"https=
+://maps.google.cl/maps?q=3DReagendar&amp;hl=3Des" style=3D"color:#20c;white=
+-space:nowrap" target=3D"_blank" itemprop=3D"map">mapa</a>)</span></span></=
+td></tr><tr><td style=3D"padding:0 1em 10px 0;font-family:Arial,Sans-serif;=
+font-size:13px;color:#888;white-space:nowrap" valign=3D"top"><div><i style=
+=3D"font-style:normal">Calendario</i></div></td><td style=3D"padding-bottom=
+:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222" valign=3D"top=
+">elodiefdlr</td></tr><tr><td style=3D"padding:0 1em 10px 0;font-family:Ari=
+al,Sans-serif;font-size:13px;color:#888;white-space:nowrap" valign=3D"top">=
+<div><i style=3D"font-style:normal">Qui=E9n</i></div></td><td style=3D"padd=
+ing-bottom:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222" val=
+ign=3D"top"><table cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"pad=
+ding-right:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222"><sp=
+an style=3D"font-family:Courier New,monospace">&#x2022;</span></td><td styl=
+e=3D"padding-right:10px;font-family:Arial,Sans-serif;font-size:13px;color:#=
+222"><div><div style=3D"margin:0 0 0.3em 0"><span itemprop=3D"attendee" ite=
+mscope itemtype=3D"http://schema.org/Person"><span itemprop=3D"name">elodie=
+fdlr</span><meta itemprop=3D"email" content=3D"elodie.fdlr@gmail.com"/></sp=
+an><span style=3D"font-size:11px;color:#888">- organizador</span></div></di=
+v></td></tr></table></td></tr></table></div></td></tr><tr><td style=3D"back=
+ground-color:#f6f6f6;color:#888;border-top:1px Solid #ccc;font-family:Arial=
+,Sans-serif;font-size:11px"><p>Invitaci=F3n de <a href=3D"https://www.googl=
+e.com/calendar/" target=3D"_blank" style=3D"">Google Calendar</a></p><p>Rec=
+ibes este mensaje de cortes=EDa en la direcci=F3n amorales@cccchile.cl de l=
+a cuenta porque eres uno de los participantes de este evento.</p><p>Si dese=
+as dejar de recibir notificaciones para este evento, rech=E1zalo. Si lo pre=
+fieres, solicita una cuenta de Google en https://www.google.com/calendar/ y=
+ controla la configuraci=F3n relativa a las notificaciones de todo el calen=
+dario.</p></td></tr></table></div>
+--089e0139fc84f978eb051165e5fa
+Content-Type: text/calendar; charset=UTF-8; method=CANCEL
+Content-Transfer-Encoding: quoted-printable
+
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20150316T114000Z
+DTEND:20150316T124000Z
+DTSTAMP:20150316T111031Z
+ORGANIZER;CN=3Delodiefdlr:mailto:elodie.fdlr@gmail.com
+UID:A9194235-5257-44F3-BBE2-5344422AB7D9
+ATTENDEE;CUTYPE=3DINDIVIDUAL;ROLE=3DREQ-PARTICIPANT;PARTSTAT=3DDECLINED;CN=
+=3DAndres
+  Morales;X-NUM-GUESTS=3D0:mailto:amorales@cccchile.cl
+CREATED:20150309T163113Z
+DESCRIPTION:
+LAST-MODIFIED:20150316T111030Z
+LOCATION:Reagendar
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reuni=C3=B3n Andres Morales/Elodie**9:30 Hrs
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT1H0M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=3DDATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
+--089e0139fc84f978eb051165e5fa--
+--089e0139fc84f978f1051165e5fc
+Content-Type: application/ics; name="invite.ics"
+Content-Disposition: attachment; filename="invite.ics"
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBTEVOREFSDQpQUk9ESUQ6LS8vR29vZ2xlIEluYy8vR29vZ2xlIENhbGVuZGFyIDcw
+LjkwNTQvL0VODQpWRVJTSU9OOjIuMA0KQ0FMU0NBTEU6R1JFR09SSUFODQpNRVRIT0Q6Q0FOQ0VM
+DQpCRUdJTjpWRVZFTlQNCkRUU1RBUlQ6MjAxNTAzMTZUMTE0MDAwWg0KRFRFTkQ6MjAxNTAzMTZU
+MTI0MDAwWg0KRFRTVEFNUDoyMDE1MDMxNlQxMTEwMzFaDQpPUkdBTklaRVI7Q049ZWxvZGllZmRs
+cjptYWlsdG86ZWxvZGllLmZkbHJAZ21haWwuY29tDQpVSUQ6QTkxOTQyMzUtNTI1Ny00NEYzLUJC
+RTItNTM0NDQyMkFCN0Q5DQpBVFRFTkRFRTtDVVRZUEU9SU5ESVZJRFVBTDtST0xFPVJFUS1QQVJU
+SUNJUEFOVDtQQVJUU1RBVD1ERUNMSU5FRDtDTj1BbmRyZXMNCiAgTW9yYWxlcztYLU5VTS1HVUVT
+VFM9MDptYWlsdG86YW1vcmFsZXNAY2NjY2hpbGUuY2wNCkNSRUFURUQ6MjAxNTAzMDlUMTYzMTEz
+Wg0KREVTQ1JJUFRJT046DQpMQVNULU1PRElGSUVEOjIwMTUwMzE2VDExMTAzMFoNCkxPQ0FUSU9O
+OlJlYWdlbmRhcg0KU0VRVUVOQ0U6MQ0KU1RBVFVTOkNPTkZJUk1FRA0KU1VNTUFSWTpSZXVuacOz
+biBBbmRyZXMgTW9yYWxlcy9FbG9kaWUqKjk6MzAgSHJzDQpUUkFOU1A6T1BBUVVFDQpCRUdJTjpW
+QUxBUk0NCkFDVElPTjpESVNQTEFZDQpERVNDUklQVElPTjpUaGlzIGlzIGFuIGV2ZW50IHJlbWlu
+ZGVyDQpUUklHR0VSOi1QMERUMUgwTTBTDQpFTkQ6VkFMQVJNDQpCRUdJTjpWQUxBUk0NCkFDVElP
+TjpESVNQTEFZDQpERVNDUklQVElPTjpUaGlzIGlzIGFuIGV2ZW50IHJlbWluZGVyDQpUUklHR0VS
+Oi1QMERUMEgzME0wUw0KRU5EOlZBTEFSTQ0KQkVHSU46VkFMQVJNDQpBQ1RJT046Tk9ORQ0KVFJJ
+R0dFUjtWQUxVRT1EQVRFLVRJTUU6MTk3NjA0MDFUMDA1NTQ1Wg0KRU5EOlZBTEFSTQ0KRU5EOlZF
+VkVOVA0KRU5EOlZDQUxFTkRBUg0K
+--089e0139fc84f978f1051165e5fc--

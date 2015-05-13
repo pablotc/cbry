@@ -1,0 +1,59 @@
+Return-path: <andrevnogueira@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 02 Mar 2015 14:12:39 -0600
+Received: from mail-ig0-f172.google.com ([209.85.213.172]:44775)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <andrevnogueira@gmail.com>)
+	id 1YSWhj-0005X4-J2
+	for amorales@cccchile.cl; Mon, 02 Mar 2015 14:12:39 -0600
+Received: by igdh15 with SMTP id h15so20615947igd.3
+        for <amorales@cccchile.cl>; Mon, 02 Mar 2015 12:12:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=UxB50bx9jNnYam9m+QO7keGdfiK9v4pvMnYX1sMEjmw=;
+        b=s+vr+QnwAW6MaYGogZu5C9yegbB6y8hzJV+4f0wptIEy54GTpIjWrcsgBkVs5KEkZP
+         ipKetvQ2bIXgyTAHY0vjOd0IttgzwcA4FqQAVmxkhUN9+BKn6URA/n9MbB9iU3HYV3kt
+         DICyKtHgibXmCCH8K1BhmyuSq4uW+BCG90NVjUC1DJcVKh9YdLR+xkIU8ib+SJDOUL3t
+         iYP0bVCcwbMd2/Ik755hae3avxVxrwzDoOf8y7xn3FF9h8gflikM8Ns5RzP+jeF6fZw+
+         Y5lPk/oCm7opz6yDL4RdRzG2o0QAfxSX5+rZ2g4/xUhXeNy7c5r0RM8q5Bj3q850+bY9
+         CiFA==
+MIME-Version: 1.0
+X-Received: by 10.42.28.199 with SMTP id o7mr32981916icc.23.1425327157582;
+ Mon, 02 Mar 2015 12:12:37 -0800 (PST)
+Received: by 10.64.90.69 with HTTP; Mon, 2 Mar 2015 12:12:37 -0800 (PST)
+Date: Mon, 2 Mar 2015 17:12:37 -0300
+Message-ID: <CANG=yuAfsJCQ0-VPGi9utVcnPHZAO1+rp_cpNEUtOyrwdChwxA@mail.gmail.com>
+Subject: Canterbury
+From: =?UTF-8?Q?Andr=C3=A9_Nogueira?= <andrevnogueira@gmail.com>
+To: amorales@cccchile.cl
+Content-Type: multipart/alternative; boundary=20cf304271b2eac6b2051053d65f
+
+--20cf304271b2eac6b2051053d65f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Morales,
+
+I am Andr=C3=A9 Nogueira, friend of Luiz Dias.
+As per your request I am sending you this message in order to discuss the
+opportunities we might have.
+
+Please feel free to send me your thoughts.
+
+Best regards,
+
+Andr=C3=A9 Nogueira.
+
+--20cf304271b2eac6b2051053d65f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Morales,<div><br></div><div>I am Andr=C3=A9 Nogueira,=
+ friend of Luiz Dias.</div><div>As per your request I am sending you this m=
+essage in order to discuss the opportunities we might have.</div><div><br><=
+/div><div>Please feel free to send me your thoughts.</div><div><br></div><d=
+iv>Best regards,</div><div><br></div><div>Andr=C3=A9 Nogueira.</div></div>
+
+--20cf304271b2eac6b2051053d65f--

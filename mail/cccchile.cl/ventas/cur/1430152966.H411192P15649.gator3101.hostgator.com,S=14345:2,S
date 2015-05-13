@@ -1,0 +1,270 @@
+Return-path: <ventas@cccchile.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Mon, 27 Apr 2015 11:42:46 -0500
+Received: from amorales by gator3101.hostgator.com with local (Exim 4.82)
+	(envelope-from <ventas@cccchile.cl>)
+	id 1Ymm7K-00043Y-49
+	for ventas@cccchile.cl; Mon, 27 Apr 2015 11:42:46 -0500
+To:  <ventas@cccchile.cl>
+Subject: =?utf-8?Q?[Canterbury_Chile]_Uno_o_m=C3=A1s_productos_es?=  =?utf-8?Q?t=C3=A1n_agotados?=
+X-PHP-Script: cccchile.cl/backoffice/ajax-tab.php for 190.196.25.182
+From: Canterbury Chile <ventas@cccchile.cl>
+Reply-To: Canterbury Chile <ventas@cccchile.cl>
+Date: Mon, 27 Apr 2015 12:42:46 -0400
+X-LibVersion: 3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/related;
+ boundary="_=_swift-1844795884553e6706119f28.02069454_=_"
+Content-Transfer-Encoding: 7bit
+Message-ID: <20150427164246.1800188924.swift@cccchile.cl>
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-1844795884553e6706119f28.02069454_=_
+Content-Type: multipart/alternative;
+ boundary="_=_swift-1671994025553e670611a975.41094687_=_"
+Content-Transfer-Encoding: 7bit
+
+
+--_=_swift-1671994025553e670611a975.41094687_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+[http://cccchile.cl/index.php] 
+
+Hola, 
+
+Las existencias restante es ahora menor que el mínimo especificado
+de: 3.
+
+EXISTENCIAS DISPONIBLES: 1
+
+Se aconseja abrir administrador del producto Producto a fin de
+reponer el inventario. 		 
+
+Canterbury Chile [http://cccchile.cl/index.php] creado por
+PrestaShop(tm) [http://www.prestashop.com/] 
+
+
+--_=_swift-1671994025553e670611a975.41094687_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<title>Mensaje desde Canterbury Chile</title>
+		
+		
+		<style>	@media only screen and (max-width: 300px){ 
+				body {
+					width:218px !important;
+					margin:auto !important;
+				}
+				.table {width:195px !important;margin:auto !important;}
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto !important;display: block !important;}		
+				span.title{font-size:20px !important;line-height: 23px !important}
+				span.subtitle{font-size: 14px !important;line-height: 18px !important;padding-top:10px !important;display:block !important;}		
+				td.box p{font-size: 12px !important;font-weight: bold !important;}
+				.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr { 
+					display: block !important; 
+				}
+				.table-recap{width: 200px!important;}
+				.table-recap tr td, .conf_body td{text-align:center !important;}	
+				.address{display: block !important;margin-bottom: 10px !important;}
+				.space_address{display: none !important;}	
+			}
+	@media only screen and (min-width: 301px) and (max-width: 500px) { 
+				body {width:308px!important;margin:auto!important;}
+				.table {width:285px!important;margin:auto!important;}	
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}	
+				.table-recap table, .table-recap thead, .table-recap tbody, .table-recap th, .table-recap td, .table-recap tr { 
+					display: block !important; 
+				}
+				.table-recap{width: 295px !important;}
+				.table-recap tr td, .conf_body td{text-align:center !important;}
+				
+			}
+	@media only screen and (min-width: 501px) and (max-width: 768px) {
+				body {width:478px!important;margin:auto!important;}
+				.table {width:450px!important;margin:auto!important;}	
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}			
+			}
+	@media only screen and (max-device-width: 480px) { 
+				body {width:308px!important;margin:auto!important;}
+				.table {width:285px;margin:auto!important;}	
+				.logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				
+				.table-recap{width: 295px!important;}
+				.table-recap tr td, .conf_body td{text-align:center!important;}	
+				.address{display: block !important;margin-bottom: 10px !important;}
+				.space_address{display: none !important;}	
+			}
+</style>
+
+	</head>
+	<body style="-webkit-text-size-adjust:none;background-color:#fff;width:650px;font-family:Open-sans, sans-serif;color:#555454;font-size:13px;line-height:18px;margin:auto">
+		<table class="table table-mail" style="width:100%;margin-top:10px;-moz-box-shadow:0 0 5px #afafaf;-webkit-box-shadow:0 0 5px #afafaf;-o-box-shadow:0 0 5px #afafaf;box-shadow:0 0 5px #afafaf;filter:progid:DXImageTransform.Microsoft.Shadow(color=#afafaf,Direction=134,Strength=5)">
+			<tr>
+				<td class="space" style="width:20px;padding:7px 0">&nbsp;</td>
+				<td align="center" style="padding:7px 0">
+					<table class="table" bgcolor="#ffffff" style="width:100%">
+						<tr>
+							<td align="center" class="logo" style="border-bottom:4px solid #333333;padding:7px 0">
+								<a title="Canterbury Chile" href="http://cccchile.cl/index.php" style="color:#337ff1">
+									<img src="cid:swift-1430152966553e670610f4c.0@cccchile.cl" alt="Canterbury Chile" />
+								</a>
+							</td>
+						</tr>
+
+<tr>
+	<td align="center" class="titleblock" style="padding:7px 0">
+		<font size="2" face="Open-sans, sans-serif" color="#555454">
+			<span class="title" style="font-weight:500;font-size:28px;text-transform:uppercase;line-height:33px">Hola,</span>
+		</font>
+	</td>
+</tr>
+<tr>
+	<td class="space_footer" style="padding:0!important">&nbsp;</td>
+</tr>
+<tr>
+	<td class="box" style="border:1px solid #D6D4D4;background-color:#f8f8f8;padding:7px 0">
+		<table class="table" style="width:100%">
+			<tr>
+				<td width="10" style="padding:7px 0">&nbsp;</td>
+				<td style="padding:7px 0">
+					<font size="2" face="Open-sans, sans-serif" color="#555454">
+						<p data-html-only="1" style="border-bottom:1px solid #D6D4D4;margin:3px 0 7px;text-transform:uppercase;font-weight:500;font-size:18px;padding-bottom:10px">
+							CCC LOGO TEE BLUE : Size - XXL está fuera de stock						</p>
+						<span style="color:#777">
+							Las existencias restante es ahora menor que el mínimo especificado de: <strong><span style="color:#333">3.</span></strong><br /><br /> 
+							<strong><span style="color:#333">Existencias disponibles:</span></strong> 1<br/><br/>
+							Se aconseja abrir administrador del producto Producto a fin de reponer el inventario.						</span>
+					</font>
+				</td>
+				<td width="10" style="padding:7px 0">&nbsp;</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+
+						<tr>
+							<td class="space_footer" style="padding:0!important">&nbsp;</td>
+						</tr>
+						<tr>
+							<td class="footer" style="border-top:4px solid #333333;padding:7px 0">
+								<span><a href="http://cccchile.cl/index.php" style="color:#337ff1">Canterbury Chile</a> creado por <a href="http://www.prestashop.com/" style="color:#337ff1">PrestaShop&trade;</a></span>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td class="space" style="width:20px;padding:7px 0">&nbsp;</td>
+			</tr>
+		</table>
+	</body>
+</html>
+--_=_swift-1671994025553e670611a975.41094687_=_--
+
+--_=_swift-1844795884553e6706119f28.02069454_=_
+Content-Type: image/jpeg; name=canterbury-1406319596.jpg
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename=canterbury-1406319596.jpg
+Content-ID: <swift-1430152966553e670610f4c.0@cccchile.cl>
+
+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
+gHH+deShEi5CKQE21sJwOzrKD2w29u/+D//Z
+--_=_swift-1844795884553e6706119f28.02069454_=_--
+

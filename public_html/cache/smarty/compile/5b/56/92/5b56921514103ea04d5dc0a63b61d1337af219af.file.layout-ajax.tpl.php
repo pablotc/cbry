@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-29 16:25:32
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:19:01
          compiled from "/home2/amorales/public_html/backoffice/themes/default/template/layout-ajax.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:212516385254a1aaacdaa029-59835969%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:49428255355477fd5cd8496-87223068%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '212516385254a1aaacdaa029-59835969',
+  'nocache_hash' => '49428255355477fd5cd8496-87223068',
   'function' => 
   array (
   ),
@@ -33,9 +33,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_54a1aaad088af4_75369947',
+  'unifunc' => 'content_55477fd5ede295_51298522',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_54a1aaad088af4_75369947')) {function content_54a1aaad088af4_75369947($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_55477fd5ede295_51298522')) {function content_55477fd5ede295_51298522($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['json']->value)){?>
 {<?php if (isset($_smarty_tpl->tpl_vars['status']->value)&&trim($_smarty_tpl->tpl_vars['status']->value)!=''){?><?php $_smarty_tpl->tpl_vars['hasresult'] = new Smarty_variable('ok', null, 0);?>"status" : "<?php echo $_smarty_tpl->tpl_vars['status']->value;?>
 "<?php }?><?php if (isset($_smarty_tpl->tpl_vars['confirmations']->value)&&count($_smarty_tpl->tpl_vars['confirmations']->value)>0){?><?php if ($_smarty_tpl->tpl_vars['hasresult']->value=='ok'){?>,<?php }?><?php $_smarty_tpl->tpl_vars['hasresult'] = new Smarty_variable('ok', null, 0);?>"confirmations" : <?php echo $_smarty_tpl->tpl_vars['confirmations']->value;?>

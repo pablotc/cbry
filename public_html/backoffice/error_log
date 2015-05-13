@@ -54,3 +54,90 @@
 [16-Jan-2015 18:05:37 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
 [18-Jan-2015 12:27:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
 [20-Jan-2015 15:18:38 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[23-Jan-2015 11:14:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[24-Jan-2015 21:48:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Jan-2015 23:17:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[29-Jan-2015 00:14:28 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[14-Feb-2015 12:11:10 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Feb-2015 19:59:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[03-Mar-2015 15:44:45 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[09-Mar-2015 12:45:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[19-Mar-2015 17:41:53 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[20-Mar-2015 17:46:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[21-Mar-2015 23:11:54 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[21-Mar-2015 23:31:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/statsproduct/statsproduct.php on line 490
+[21-Mar-2015 23:31:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/statsproduct/statsproduct.php on line 490
+[21-Mar-2015 23:31:35 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/statsproduct/statsproduct.php on line 490
+[21-Mar-2015 23:31:35 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/statsproduct/statsproduct.php on line 490
+[23-Mar-2015 23:19:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[25-Mar-2015 00:19:55 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[25-Mar-2015 00:30:15 America/Santiago] PHP Fatal error:  Call to a member function hasBeenShipped() on a non-object in /home2/amorales/public_html/controllers/admin/AdminOrdersController.php on line 261
+[25-Mar-2015 00:30:24 America/Santiago] PHP Fatal error:  Call to a member function hasBeenShipped() on a non-object in /home2/amorales/public_html/controllers/admin/AdminOrdersController.php on line 261
+[25-Mar-2015 14:37:59 America/Santiago] PHP Fatal error:  Uncaught exception 'SmartyException' with message 'unable to write file /home2/amorales/public_html/cache/smarty/compile/8c/64/eb/wrt5512f2772e2b20.93842486' in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php:44
+Stack trace:
+#0 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_template.php(201): Smarty_Internal_Write_File::writeFile('/home2/amorales...', '<?php /* Smarty...', Object(Smarty))
+#1 /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_templatebase.php(155): Smarty_Internal_Template->compileTemplateSource()
+#2 /home2/amorales/public_html/classes/helper/HelperList.php(655): Smarty_Internal_TemplateBase->fetch()
+#3 /home2/amorales/public_html/classes/helper/HelperList.php(149): HelperListCore->displayListHeader()
+#4 /home2/amorales/public_html/classes/controller/AdminController.php(2036): HelperListCore->generateList(Array, Array)
+#5 /home2/amorales/public_html/controllers/admin/AdminAttributesGroupsController.php(95): AdminControlle in /home2/amorales/public_html/tools/smarty/sysplugins/smarty_internal_write_file.php on line 44
+[26-Mar-2015 13:07:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Mar-2015 16:15:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[29-Mar-2015 22:04:54 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[01-Apr-2015 00:16:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[02-Apr-2015 15:33:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[05-Apr-2015 14:31:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[06-Apr-2015 15:56:07 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[08-Apr-2015 00:17:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[09-Apr-2015 00:19:52 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[10-Apr-2015 18:12:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[13-Apr-2015 09:42:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[14-Apr-2015 19:12:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[14-Apr-2015 19:13:16 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/amorales/public_html/modules/dpay/dpay.php:1) in /home2/amorales/public_html/classes/Tools.php on line 143
+[15-Apr-2015 10:14:58 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 10:15:26 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 13:04:15 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:04:21 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:05:07 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:05:07 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:08:16 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:08:20 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:08:21 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:09:18 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:09:19 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:09:24 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:09:26 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:12:14 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 13:12:14 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 14:07:46 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:07:49 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:07:52 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:07:53 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:07:57 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:08:17 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:08:25 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:08:55 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:09:43 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 14:09:46 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[15-Apr-2015 14:09:53 America/Santiago] PHP Parse error:  syntax error, unexpected '?' in /home2/amorales/public_html/classes/module/Module.php(1223) : eval()'d code on line 1
+[15-Apr-2015 14:09:58 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[17-Apr-2015 11:40:36 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[17-Apr-2015 12:48:51 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[20-Apr-2015 00:07:57 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[20-Apr-2015 00:08:35 America/Santiago] PHP Fatal error:  Call to undefined method DPay::readPaymentcarddetails() in /home2/amorales/public_html/modules/dpay/dpay.php on line 67
+[22-Apr-2015 11:03:22 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[23-Apr-2015 16:34:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[24-Apr-2015 16:38:22 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[25-Apr-2015 23:16:03 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[27-Apr-2015 10:29:55 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[28-Apr-2015 14:12:32 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[29-Apr-2015 20:29:14 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[01-May-2015 22:44:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[03-May-2015 20:38:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[04-May-2015 22:18:19 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[06-May-2015 09:52:43 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[07-May-2015 19:08:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[08-May-2015 21:11:22 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[10-May-2015 21:05:17 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[12-May-2015 09:56:28 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323
+[13-May-2015 11:26:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home2/amorales/public_html/modules/gamification/gamification.php on line 323

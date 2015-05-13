@@ -1,0 +1,61 @@
+Return-path: <cdelacerdarrieta@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Wed, 18 Mar 2015 20:30:09 -0500
+Received: from mail-qg0-f50.google.com ([209.85.192.50]:36265)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <cdelacerdarrieta@gmail.com>)
+	id 1YYPHl-0004SJ-9F
+	for ventas@cccchile.cl; Wed, 18 Mar 2015 20:30:09 -0500
+Received: by qgf3 with SMTP id 3so53663814qgf.3
+        for <ventas@cccchile.cl>; Wed, 18 Mar 2015 18:30:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:references:from:content-type:in-reply-to:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=uDWgXFQGcWzJ2Z/VFgQXl5Ngn/c+563AvD/AvkLZYbc=;
+        b=xV8Brbi2S/eGyv8SJVahlSHbVST6WqazCrQfnhXtZxkWFflfEA/kaDxiPb9ocT5XOx
+         b9pHoFmn8GOyzYhmFzbaILqUvN5iF7shhRYfXGvHWyPEwMDp7bX+z/FwraF3PUKaTzIk
+         BZ03p2YDtYF0fl7GiHqUsNirtmi4F503j7GH0Fu7H3w+w5HlVtcpKFgSLcXedShV8Q/d
+         /wWjI3HMvmIx+WQZQvYFfUZu8rq0KB5gbIE9avpyYqepcY4vnRZIP0Kw3kVykRnz9P1m
+         GmATKF6C4qHAy+/6/aGUERld0iKRmAYMexyewjykiJ/CPYmALG1fnK6TONv/YoQ/NV/y
+         ZwWw==
+X-Received: by 10.55.55.12 with SMTP id e12mr99380019qka.50.1426728607147;
+        Wed, 18 Mar 2015 18:30:07 -0700 (PDT)
+Received: from [192.168.0.12] (pc-52-185-44-190.cm.vtr.net. [190.44.185.52])
+        by mx.google.com with ESMTPSA id 86sm13036794qkv.22.2015.03.18.18.30.06
+        for <ventas@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 18 Mar 2015 18:30:06 -0700 (PDT)
+Subject: Re: canterbury
+References: <CAKggD2RwhDh1CfrR9Kbtsun_85k0njTHsehKYK8PAek_Z+K8PQ@mail.gmail.com>
+From: Cristobal de la Cerda <cdelacerdarrieta@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (11D257)
+In-Reply-To: <CAKggD2RwhDh1CfrR9Kbtsun_85k0njTHsehKYK8PAek_Z+K8PQ@mail.gmail.com>
+Message-Id: <557AB114-9FBC-4664-A788-08304B0482DD@gmail.com>
+Date: Wed, 18 Mar 2015 22:30:49 -0300
+To: =?utf-8?Q?Andr=C3=A9s_Morales?= <ventas@cccchile.cl>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Efectivamente, he realizado el pedido, pero todav=C3=ADa no pago ya que ten=C3=
+=ADa la duda, que la mande previamente al contacto de la pagina, que si exis=
+t=C3=ADa alguna forma de probarme los zapatos antes de efectuar la compra...=
+ Espero tu respuesta, muchas gracias!
+
+Sent from my iPhone
+
+> On 17-03-2015, at 4:31 p.m., Andr=C3=A9s Morales <ventas@cccchile.cl> wrot=
+e:
+>=20
+> Hola Cristobal,
+>=20
+> Nos lleg=C3=B3 un pedido por un par de zapatos, nuestro sistema lo esta pr=
+ocesando, pero no tenemos confirmaci=C3=B3n del pago.
+> Nos env=C3=ADas copia o comprobante del pago?
+>=20
+> Miles de gracias
+>=20
+> Equipo CCC

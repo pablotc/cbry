@@ -1,0 +1,2104 @@
+Return-path: <german.angellotti@equitybr.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Fri, 23 Jan 2015 08:37:22 -0600
+Received: from mail-la0-f47.google.com ([209.85.215.47]:34770)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <german.angellotti@equitybr.com>)
+	id 1YEfMP-0006Kr-3i
+	for amorales@cccchile.cl; Fri, 23 Jan 2015 08:37:21 -0600
+Received: by mail-la0-f47.google.com with SMTP id hz20so7602683lab.6
+        for <amorales@cccchile.cl>; Fri, 23 Jan 2015 06:37:17 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:content-type;
+        bh=dzcW9R0NkLcSmoCBiKMRGSiqD7lYeTms9M/y2jyy2X4=;
+        b=Utr2TNDtlL1/jx2XnkcRycWSNGl0EAJJ+043HC5nVkJV5OTDxwJ805etpq6gr7aSqF
+         Y/P6u42JYFmDvTF2WGYVFjlbes4dZEh0Mj5ZK3VpPF4dbDh85PPlTzQc+GaPV9GWZNyk
+         d+SYA3uusXOZpsLs5VJJMuGda6b/vIooqtW/Rl/ZECCRGcsNByyPMv5dIGJ5nYjdDnZG
+         3EXRxFZnJhWk7Dy5q0THZi4wkotv6RvS2o0qWVdNHXFPHjWtGtjnYSBb/siy4NjJ3oXe
+         SoVSYqnp9mv2fKT+wgAf9rwhjLcmPhUR9gXHZygmaZdVUuQ4zD5+8G+emhOxc2aCuQxM
+         UM4Q==
+X-Gm-Message-State: ALoCoQm1oIBLFfkqMT2F+bpQOL2vzXvn4R2KhrdN82IyB9EBBsiG9XSGkHijFV3tsHC+tHiF4iu8
+X-Received: by 10.112.198.233 with SMTP id jf9mr7828985lbc.9.1422023836720;
+ Fri, 23 Jan 2015 06:37:16 -0800 (PST)
+From: German Angellotti <german.angellotti@equitybr.com>
+References: <CAKggD2SQfrrjR87M6EAm36+QPS5mFzGj6d9U79FdmKwOF4e=wQ@mail.gmail.com>
+	<CAKggD2TW7RN4eSWrYT1uMf8SgZ9TgT4-=1YxtPsWHzGNbf6euA@mail.gmail.com>
+	<331cda8a5c2b66f443292210616da16a@mail.gmail.com>	<CAKggD2TXJE0Ax_ti75qz8xKOs_V1q7VvAa_po5ncd66owspOLg@mail.gmail.com>
+	<CAKggD2RYaK2YWzWEk+sYhzOVmRntnxMOcRRoHq5DHMXfWhHO+w@mail.gmail.com>
+	<CAKggD2TD7AdVNZuCTBL35-vNSZRR1qaTA+8adLdQDZa2bfhtOw@mail.gmail.com>
+	<CAKggD2Szw0BxsuYm-Zyz9La4n2qsKTKhBQ7h+MpwbFmEdoyDPQ@mail.gmail.com>
+	<CAKggD2QxZe0CdcSQzKPrQHQzPKHZWVinOBPMz6_ExASU2cu=Mw@mail.gmail.com>
+	<96e0041ece00f208cf65e3005231404e@mail.gmail.com>	<CAKggD2RjxfVipr_Wo76b7PoEu6=S6d=qOp4BYtD8x=G28uA7Bw@mail.gmail.com>
+	<4ca4315fe240e390ee353c9ceaa5d735@mail.gmail.com>	<CAKggD2TihjcFTXh2MZVWdFru8ArTMK3p0oLq=LoO6y8StuVtqA@mail.gmail.com>
+	<5fced2c3ffc5d2241c9139518bdd42c8@mail.gmail.com>	<CAKggD2RS3HM7rDbdMykCCxkwENrXG2g2ts_fc877Fpdhzmp4Gg@mail.gmail.com>
+	<037859cb7a06b465c0a19321ddebc253@mail.gmail.com>	<8a2a966f4acb1447eec32e25bd08191e@mail.gmail.com>
+	<CAKggD2TT QQDG7uzxxiPUft7u1oLbZk1Wj5nynW2xr4jB+tyZ5g@mail.gmail.com>
+	<af40640e442f34ebe1f14ef81de368cd@mail.gmail.com>	<CAKggD2ToHF14sMurknqLiJ9Eid35y6z9q7fC65KKMp2E79iCzg@mail.gmail.com>
+	<8b420264e01d3ecf2732d0b88fad618d@mail.gmail.com>	<CAKggD2R46fqBHAV7r1SALoudOe_9U7wCsSrPWd7hxs7=4+yJtg@mail.gmail.com>
+	<237e4c5d632a1008a6d1ed3d80d97c8c@mail.gmail.com>	<CAKggD2RXr34av66+E7otYBPE6qYqNyc9E-HXqwM=k350-oXQEQ@mail.gmail.com>
+	<555b5b1d532646992e92f5eb55f137c8@mail.gmail.com>	<CAKggD2Q4qDwjNCNGV9i4Z1omV3+-HCwa0sJvhDBz-SXXo3qEJg@mail.gmail.com>
+ <CAKggD2Q730TUO93C__2Pvp5s62KJ8zKrSOL0cJXfZzCbSGtn-w@mail.gmail.com>
+In-Reply-To: <CAKggD2Q730TUO93C__2Pvp5s62KJ8zKrSOL0cJXfZzCbSGtn-w@mail.gmail.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKmW/WS05ittnz6qvu9e8ApJU8H/gIvqONcAlamJNYAvEEtNQHn0h9DAX8R1pECaj2k0QIY3LN0AMdWgVYCcY6qDgId8UxAAfSEUUMCLUv4nwI9Y70MAY4MGUUBihBmbwFiQbifAbeDL+8CyHl0kQEWb12mATM9pC4BRe9mWQFLhPC3AfTjZ+wCAghYVQHM+GnLmb2cDCA=
+Date: Fri, 23 Jan 2015 11:37:15 -0300
+Message-ID: <4337b94ed53e36fb79ef899bd9f65a02@mail.gmail.com>
+Subject: RE: Canterbury pasos a seguir
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=001a11c32cf4a674b2050d52b9b1
+
+--001a11c32cf4a674b2050d52b9b1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andr=C3=A9s;
+
+
+
+Gracias por los c=C3=B3digos. Se supone que del Silver adulto me vas a envi=
+ar un
+mix de varios colores? De cual tienes disponibles para crearlos? Dime las
+cantidades por color para poder ponerlos de forma correcta en la OC.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+*Enviado el:* viernes, 23 de enero de 2015 11:19
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Adjunto EAN.
+
+
+
+Silver
+
+black/yellow
+
+843486001365
+
+blue/yellow
+
+843486001372
+
+green/yellow
+
+843486000832
+
+red/yellow
+
+843486001402
+
+white/yellow
+
+843486001419
+
+Junior
+
+blue/orange
+
+843486001433
+
+yellow/orange
+
+843486001426
+
+
+
+El 22 de enero de 2015, 20:19, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Ok, te.lo mando hoy o ma=C3=B1ana am.
+
+Sls
+
+
+
+El jueves, 22 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Gracias por la aclaraci=C3=B3n.
+
+
+
+Me puedes mandar los c=C3=B3digos de barra de los protectores bucales por f=
+avor?
+Solo me estar=C3=ADa faltando eso, tengo el resto casi listo.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* jueves, 22 de enero de 2015 17:27
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+La planilla tiene un error. Son talla M y L de ni=C3=B1o.
+
+Los EAN estan clrrectos
+
+
+
+
+
+El jueves, 22 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Hola Andr=C3=A9s, una pregunta: EN la planilla el casco de ni=C3=B1o no tra=
+e el tipo
+de talla en que podemos cargar, esas 15 unidades por talla son en S y M o
+en otro tallaje?
+
+
+
+Quedo atento
+
+
+
+Saludos!
+
+
+
+*De:* German Angellotti [mailto:german.angellotti@equitybr.com
+<german.angellotti@equitybr.com>]
+*Enviado el:* mi=C3=A9rcoles, 21 de enero de 2015 12:21
+*Para:* 'Andr=C3=A9s Morales (CCC-CHILE)'
+*Asunto:* RE: Canterbury pasos a seguir
+
+
+
+No creo que vaya a reemplazar La Dehesa, es una buena plaza. Lo de Temuco
+voy a verlo cuando haga la pre-distribuci=C3=B3n, es probable que si la
+considere. Tiendas de sur poniente de Santiago puede ser que le mandemos
+algunos art=C3=ADculos tambi=C3=A9n.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* mi=C3=A9rcoles, 21 de enero de 2015 12:03
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+OK,
+
+Con esa predistribuci=C3=B3n nosotros armamos la entrega.
+
+Cuando nos juntamos hab=C3=ADamos habaldo de estar en:
+
+
+
+*SANTIAGO:*
+
+Mall Sport
+
+Alto
+
+Costantera
+
+La dehesa (Te parece cambiarlo por temuco?)
+
+
+
+*CONCEPCION:*
+
+Trebol
+
+
+
+*VI=C3=91A:*
+
+Marina
+
+
+
+*TEMUCO:*
+
+Portal Temuco
+
+
+
+Si consideras otra tienda, creo que puede ser alguno no oriente en stgo,
+por ejempplo Ahumada, Florida center, Oeste o vespucio.....(el rugby esta
+creciendo mucho hacia otros serctores)
+
+
+
+sls.
+
+
+
+El 21 de enero de 2015, 9:49, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Andres;
+
+
+
+-          Yo te mando 2 archivos: Uno PDF donde viene la OC y otro Excel
+donde viene la pre-distribuci=C3=B3n, asique no te preocupes por eso.
+
+-          Cu=C3=A1l ser=C3=ADa el display que ofreces para protectores buc=
+ales? Me
+lo puedes describir o mandar alguna foto con un montaje?
+
+-          Si, ojala me puedas mandar fotos de los productos.
+
+
+
+Voy a empezar a trabajar en la OC.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* martes, 20 de enero de 2015 19:45
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+ok,
+
+
+
+Te adjunto EAN para la creaci=C3=B3n,
+
+
+
+Algunas dudas:
+
+-Necesitas que nosotros hagamos la predistribuci=C3=B3n? o prefieres
+centralizado?
+
+-En el primer caso, necesito que me confirmes las tiendas.
+
+-Para el caso de los protectores bucales, vamos a poder generar agun
+display especial? puedo hacer uno especial para cada tienda si quieres.
+
+-Necesitas impagenes de los productos?
+
+-Te env=C3=ADo aparte los EAN de los protectores bucales.
+
+
+
+Quedo atento a la OC.
+
+
+
+Sls.
+
+
+
+
+
+El 20 de enero de 2015, 18:14, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Tienes raz=C3=B3n Andr=C3=A9s, lo acabo de verificar.
+
+
+
+El tema de los d=C3=ADas de plazo tengo el ok para 60 d=C3=ADas, asique pod=
+emos
+proceder.
+
+
+
+Saludos
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* martes, 20 de enero de 2015 18:10
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+te cuento que nosotros ya estamos creados como proveedores.
+
+
+
+Te paso el rut para que lo puedes confirmar..
+
+
+
+1.       *Raz=C3=B3n Social: Confecciones de vestuario spin ltda.*
+
+   1. *Rut de la Empresa:  78.556.430-8*
+
+
+
+El 19 de enero de 2015, 18:32, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola German,
+
+
+
+Hoy.o ma=C3=B1ana dentro de la ma=C3=B1ana te estoy.mandando los EAN.
+
+Me confirmas el plazo de pago?
+
+
+
+Sls
+
+El viernes, 16 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+
+
+Andr=C3=A9s;
+
+
+
+Estoy OK con la =C3=BAltima planilla que me mandaste (cantidades y estilos)=
+,
+asique procedamos a generar la orden. Te pido por favor que me mandes los
+c=C3=B3digos de barra y que llenes el formulario que te adjunto para poder
+crearte como proveedor en SAP. Tambi=C3=A9n te adjunto el procedimiento de
+despacho para nuestra bodega e informaci=C3=B3n =C3=BAtil relativa.
+
+
+
+La forma de pago es a 90 d=C3=ADas.
+
+
+
+Quedo atento a que me env=C3=ADes la informaci=C3=B3n solicitada.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* lunes, 12 de enero de 2015 18:41
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Te adjunto versi=C3=B3n final. Tiene unos peque=C3=B1os ajustes, por ejempl=
+o:
+
+
+
+-Short: estan ok. inlcuimos talla 30
+
+-Poleras Entrenamiento: Para poder cumplir la curva que solicitas, vamos a
+tener que incorporar otro estilo. Por cantidad no tengo m=C3=A1s.
+
+-Cascos y protecciones ok
+
+-zapatos: ok 1 unidad mas de cada modelo para que queden cuadrados a la
+curva de 5 o 10.
+
+-Pelotas: Disminu=C3=AD las de 21.990 porque me pidieron de urgencia para e=
+l
+seven de re=C3=B1aca de =C3=A9ste fin de semana. Mil disculpas. Pero te aum=
+ente las
+de 16.990.
+
+-Replica Inglaterra: OK, ajust=C3=A9 levemente la curva a la disponibilidad
+final.
+
+-Protectores ok.
+
+
+
+Ma=C3=B1ana martes te estoy mandando los EAN.
+
+
+
+Conf=C3=ADrmame criterio o protocolo de recepci=C3=B3n de tus bodegas para =
+poder
+rotular o etiquetar seg=C3=BAn corresponda, de ser necesario.
+
+
+
+Abrazo.
+
+
+
+Andr=C3=A9s
+
+
+
+
+
+
+
+El 9 de enero de 2015, 17:35, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Ok Andr=C3=A9s, est=C3=A1 bien, es s=C3=B3lo ese producto, voy a tomarlo.
+
+
+
+Te mando la planilla definitiva. Tom=C3=A9 algunas de las sugerencias que m=
+e
+dijiste (Short Azul + talla 30, Casco de Ni=C3=B1o) pero tuve que declinar
+otras. Tuve que ajustar tambi=C3=A9n el n=C3=BAmero final para estar bien c=
+on PPTO,
+pero si esto que metemos anda bien podr=C3=ADamos hacer una nueva carga.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 09 de enero de 2015 17:08
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Puedo incrmentar el margen un 2% s=C3=B3lo en ese producto como ocasi=C3=B3=
+n especial.
+
+Si bien la nueva esta en el mercado (Europa), en chile no ha llegado y es
+la =C3=BAnica Replica de Inglaterra que hay disponible en el pais.
+
+
+
+Confirmame.
+
+
+
+sls.
+
+
+
+
+
+El 9 de enero de 2015, 13:55, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+El dcto lo definen uds. Solo hice notar que siempre que algo no es de la
+temporada actual (a menos que sea producto Carry-Over como pelotas,
+guantes, shorts, etc) como en este caso esta camiseta, se toma con dcto
+adicional ya que la nueva camiseta ya est=C3=A1 en el mercado.
+
+
+
+Saludos
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 09 de enero de 2015 13:50
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+cuanto adiconal?
+
+
+
+lo veo dificil.
+
+
+
+
+
+El 9 de enero de 2015, 13:14, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Cuando te llegar=C3=ADa la nueva?
+
+
+
+Entonces por no ser la actual deber=C3=ADa poder compr=C3=A1rsela a uds con=
+ alg=C3=BAn
+tipo de descuento adicional, ya que no es de temporada. En general cuando
+las camisetas o colecciones no son de temporada se aplica esto, con el
+resto de los proveedores funciona as=C3=AD.
+
+
+
+Atento a tus comentarios.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 09 de enero de 2015 12:29
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+La polera que tengo es la 2013-2014, la que sacaron hace poco (2015-2016)
+me esta llegando mas adelnate junto con la de irlanda (que son las del
+mundial)
+
+
+
+
+
+
+
+El 9 de enero de 2015, 11:53, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Andres;
+
+
+
+Ya tengo listo el pedido definitivo. Tengo 2 preguntas:
+
+
+
+-          La camiseta de Inglaterra que estamos tomando es la =C3=BAltima?
+Porque me met=C3=AD a una p=C3=A1gina de Rugby donde salen cat=C3=A1logos c=
+ompletos y sale
+una diferente de Inglaterra
+
+
+
+http://www.lovellrugby.es/Rugby-Camisetas/Canterbury/Inglaterra-2014-o-15-H=
+ome-Pro-M-o-C---Camiseta-de-Rugby-Blanco-Brillante
+
+
+
+-          Hab=C3=ADamos agregado la camiseta de Irlanda para incorporarla
+ahora, pero me fije que sale Julio. Te llega en Julio efectivamente o la
+podemos meter ahora?
+
+
+
+Apenas me aclares estas dudas te mando la planilla.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* German Angellotti [mailto:german.angellotti@equitybr.com
+<german.angellotti@equitybr.com>]
+*Enviado el:* jueves, 08 de enero de 2015 18:28
+*Para:* 'Andr=C3=A9s Morales (CCC-CHILE)'
+*Asunto:* RE: Canterbury pasos a seguir
+
+
+
+Andr=C3=A9s;
+
+
+
+D=C3=A9jame revisar bien todo junto con tus sugerencia y te confirmo cantid=
+ades
+y colecci=C3=B3n definitiva.
+
+
+
+Los c=C3=B3digos de barra y c=C3=B3digos de estilo por favor env=C3=ADamelo=
+s para poder
+crear los productos.
+
+La OC la empezaremos a trabajar la pr=C3=B3xima semana, de aqu=C3=AD a una =
+semana yo
+creo que la emitimos.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* jueves, 08 de enero de 2015 0:36
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola Germ=C3=A1n,
+
+
+
+Te adjunto confirmaci=C3=B3n de unidades y algunos comentarios sobre los
+productos que estoy con algo menos de disponibilidad, pero en general creo
+que estamos ok.
+
+
+
+Si estas ok, necesitamos definir:
+
+- C=C3=B3digos de barra, Te env=C3=ADo un listado de =C3=A9stos estilo/colo=
+/talla para que
+los puedan crear.
+
+- Requisitos para entrega, lugar y si necesitas algun etiquetado especial o
+rotulado.
+
+- Confirmame cu=C3=A1ndo emitir=C3=ADas la OC.
+
+
+
+Te pido =C3=A9sto, ya que para entregarte en febrero, debo dejar todo coord=
+inado
+ya que gente del equipo sale de vacaciones.
+
+
+
+Desde ya, nosotros nos ponemos a trabajar en potenciar la comunicaci=C3=B3n=
+ de
+nuestros productos en tus tiendas,
+
+
+
+Hablemos si tienes cualquier duda o quieres modificar algo.
+
+
+
+Sls.
+
+
+
+Andr=C3=A9s.
+
+CCC
+
+
+
+
+
+
+
+El 5 de enero de 2015, 15:44, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Andr=C3=A9s;
+
+
+
+Tal como hablamos te hago env=C3=ADo de la planilla de reserva para que la
+puedas revisar y me confirmes las cantidades y los estilos.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* lunes, 05 de enero de 2015 10:42
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+Ok, nos vemos.
+
+El lunes, 5 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Hola Andr=C3=A9s, te parece que nos juntemos a las 3 PM aqu=C3=AD?
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 02 de enero de 2015 12:06
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German, me confirmas si puedes el lunes en la tarde?
+
+
+
+Mil gracias.
+
+El mi=C3=A9rcoles, 24 de diciembre de 2014, Andr=C3=A9s Morales (CCC-CHILE)=
+ <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola German,
+
+Puedes el lunes?, o este viernes, nose si trabajas..
+
+Confirmame para coordinarme,
+
+Abrazo.
+
+El martes, 23 de diciembre de 2014, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola Germ=C3=A1n,
+
+
+
+Te adjunto lista de productos con los costos corregidos.
+
+Como te coment=C3=A9 hay algunos productos que necesito confirmar,
+principalmente los de Julio.
+
+Con respecto a los protectores bucales, demoran 1,5 mes aprox desde que los
+pedimos, por lo que ser=C3=ADa ideal saber que cantidad y que modelos para
+tenerlos ac=C3=A1 a fines del verano. Por otro lado, definir c=C3=B3mo cree=
+s que sea
+mejor exhibirlos.
+
+Para los productos de febrero, confirmame c=C3=B3mo andas de tiempo y nos
+juntamos a revisar las cantidades que te interesan e ir confirmandote
+disponibilidades.
+
+
+
+Te parece pr=C3=B3ximo lunes?
+
+
+
+Abrazo.
+
+
+
+Andr=C3=A9s.
+
+
+
+
+
+El 18 de diciembre de 2014, 11:47, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola German,
+
+
+
+Me dieron ok con lo que hablamos ayer.
+
+Margen 45%.
+
+Confirmame si estas ok.
+
+
+
+Sls
+
+
+El mi=C3=A9rcoles, 17 de diciembre de 2014, Andr=C3=A9s Morales (CCC-CHILE)=
+ <
+amorales@cccchile.cl> escribi=C3=B3:
+
+
+
+German,
+
+Entiendo pero ese fue el margen que habiamos habladob ese dia. Confirmame
+si tu entendimiento fue otro.
+
+Confirmame que margen te parece para confirmarte ma=C3=B1ana si es posible.=
+o.no
+en mi llamada con inglaterra de ma=C3=B1ana. O bajo que esquema te parece
+trabajar la marca.
+
+
+
+Saludos
+
+El mi=C3=A9rcoles, 17 de diciembre de 2014, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Hola Andr=C3=A9s;
+
+
+
+Muchas gracias por la planilla y la respuesta. Lamentablemente con un
+margen de 40% se me hace imposible introducir la marca, ya que adem=C3=A1s =
+de
+ser el proveedor con margen m=C3=A1s bajo que tendr=C3=ADa actualmente, par=
+a el
+pr=C3=B3ximo a=C3=B1o tengo exigencias de margen mayores a los presentes pa=
+ra la
+categor=C3=ADa.
+
+
+
+Gracias por el contacto y tu tiempo.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* mi=C3=A9rcoles, 17 de diciembre de 2014 16:01
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+C=C3=B3mo estas?
+
+Pudiste ver el archivo?
+
+
+
+Seguro que estas a full con navidad.
+
+
+
+Cuentame..
+
+
+
+un abrazo.
+
+
+
+El 15 de diciembre de 2014, 22:48, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola German,
+
+
+
+Disculpa mi demora, te adjunto listado completo de productos y fecha de
+disponibilidad.
+
+
+
+Seg=C3=BAn lo que conversamos, te confirmo costo de 40% de margen sobre pre=
+cios
+sugeridos. Confirmame plazos de pagos.
+
+
+
+Como te coment=C3=A9, creo que podemos incorporar los productos en 3-4 tien=
+das
+en un principio dado el stock que puedo confirmarte. Para que as=C3=AD
+ccompletemos las restantes en Julio. (dadas las compras por semestre).
+
+
+
+Tu intenci=C3=B3n son las siguiente 6:
+
+1) Mall Sport
+
+2) Alto Las Condes
+
+3) La Dehesa
+
+4) Marina Arauco
+
+5) Concepci=C3=B3n Trebol
+
+6) Antofagasta / La Serena
+
+
+
+C=C3=B3mo ser=C3=ADa el orden tu de preferencia seg=C3=BAn tus ventas?
+
+
+
+Por =C3=BAltimo, c=C3=B3mo te acomoda mpas que hagamos seguimiento? nos jun=
+tamos cada
+semana? 15 d=C3=ADas? ideal para nosotros si es que pueden compartir las ve=
+ntas
+sku/local por semana.
+
+
+
+Miles de gracias y quedo atento a tus comentarios.
+
+
+
+Abrazo,
+
+
+
+Andr=C3=A9s.
+
+--001a11c32cf4a674b2050d52b9b1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered m=
+edium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:ES-CL;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:2028946479;
+	mso-list-template-ids:92295278;}
+@list l0:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style></head><body lang=3D"ES-CL" link=3D"blue" vlink=3D"purple"><div =
+class=3D"WordSection1"><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">An=
+dr=C3=A9s;</span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Gracias por=
+ los c=C3=B3digos. Se supone que del Silver adulto me vas a enviar un mix d=
+e varios colores? De cual tienes disponibles para crearlos? Dime las cantid=
+ades por color para poder ponerlos de forma correcta en la OC.</span></p><p=
+ class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">Saludos</span></p><p class=3D"Mso=
+Normal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal">=
+<b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></sp=
+an></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team=
+ Sports<br>Equity Brands &amp; Retail<br>F: +56228287751 </span><span lang=
+=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d"></span></p><p class=3D"MsoNormal"><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d"></span></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal"><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497=
+d">=C2=A0</span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-siz=
+e:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span><=
+/b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quo=
+t;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [mailto:<a href=
+=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>] <br><b>Enviado e=
+l:</b> viernes, 23 de enero de 2015 11:19<br><b>Para:</b> German Angellotti=
+<br><b>Asunto:</b> Re: Canterbury pasos a seguir</span></p><p class=3D"MsoN=
+ormal">=C2=A0</p><div><p class=3D"MsoNormal">Hola German,</p><div><p class=
+=3D"MsoNormal">=C2=A0</p></div><div><p class=3D"MsoNormal">Adjunto EAN.</p>=
+</div><div><p class=3D"MsoNormal">=C2=A0</p></div><div><table class=3D"MsoN=
+ormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"321" =
+style=3D"width:241.0pt;border-collapse:collapse"><tr style=3D"height:21.0pt=
+"><td width=3D"67" style=3D"width:50.0pt;padding:0cm 0cm 0cm 0cm;height:21.=
+0pt"><p class=3D"MsoNormal">Silver</p></td><td width=3D"144" style=3D"width=
+:108.0pt;padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal">blac=
+k/yellow</p></td><td width=3D"111" style=3D"width:83.0pt;padding:0cm 0cm 0c=
+m 0cm;height:21.0pt"><p class=3D"MsoNormal" align=3D"right" style=3D"text-a=
+lign:right">843486001365</p></td></tr><tr style=3D"height:21.0pt"><td style=
+=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td><td style=3D"padding:0cm 0c=
+m 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal">blue/yellow</p></td><td sty=
+le=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal" align=
+=3D"right" style=3D"text-align:right">843486001372</p></td></tr><tr style=
+=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td=
+><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal"=
+>green/yellow</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><=
+p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right">8434860008=
+32</p></td></tr><tr style=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0c=
+m 0cm;height:21.0pt"></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0p=
+t"><p class=3D"MsoNormal">red/yellow</p></td><td style=3D"padding:0cm 0cm 0=
+cm 0cm;height:21.0pt"><p class=3D"MsoNormal" align=3D"right" style=3D"text-=
+align:right">843486001402</p></td></tr><tr style=3D"height:21.0pt"><td styl=
+e=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td><td style=3D"padding:0cm 0=
+cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal">white/yellow</p></td><td s=
+tyle=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal" align=
+=3D"right" style=3D"text-align:right">843486001419</p></td></tr><tr style=
+=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p c=
+lass=3D"MsoNormal">Junior</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;heig=
+ht:21.0pt"><p class=3D"MsoNormal">blue/orange</p></td><td style=3D"padding:=
+0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal" align=3D"right" style=
+=3D"text-align:right">843486001433</p></td></tr><tr style=3D"height:21.0pt"=
+><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td><td style=3D"padd=
+ing:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNormal">yellow/orange</p>=
+</td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p class=3D"MsoNor=
+mal" align=3D"right" style=3D"text-align:right">843486001426</p></td></tr><=
+/table></div></div><div><p class=3D"MsoNormal">=C2=A0</p><div><p class=3D"M=
+soNormal">El 22 de enero de 2015, 20:19, Andr=C3=A9s Morales (CCC-CHILE) &l=
+t;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amorales@cccchi=
+le.cl</a>&gt; escribi=C3=B3:</p><p class=3D"MsoNormal">Ok, te.lo mando hoy =
+o ma=C3=B1ana am.</p><div><p class=3D"MsoNormal">Sls</p><div><div><p class=
+=3D"MsoNormal"><br><br>El jueves, 22 de enero de 2015, German Angellotti &l=
+t;<a href=3D"mailto:german.angellotti@equitybr.com" target=3D"_blank">germa=
+n.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"M=
+soNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;">Gracias por la aclaraci=C3=B3n.</span></p><p c=
+lass=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNorma=
+l" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;">Me puedes mandar los c=C3=B3digos de barra de los pro=
+tectores bucales por favor? Solo me estar=C3=ADa faltando eso, tengo el res=
+to casi listo.</span></p><p class=3D"MsoNormal" style><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</=
+span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p cla=
+ss=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=
+=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Com=
+prador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=
+=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</a> </span></p><p cl=
+ass=3D"MsoNormal" style><span style=3D"font-size:10.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 11=
+03<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (C=
+CC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile=
+.cl</a>] <br><b>Enviado el:</b> jueves, 22 de enero de 2015 17:27<br><b>Par=
+a:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir</s=
+pan></p><p class=3D"MsoNormal" style>=C2=A0</p><p class=3D"MsoNormal" style=
+>La planilla tiene un error. Son talla M y L de ni=C3=B1o.</p><div><p class=
+=3D"MsoNormal" style>Los EAN estan clrrectos</p></div><div><p class=3D"MsoN=
+ormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style><br><br>El j=
+ueves, 22 de enero de 2015, German Angellotti &lt;<a href=3D"mailto:german.=
+angellotti@equitybr.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=
+=B3:</p><div><div><p class=3D"MsoNormal" style><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">H=
+ola Andr=C3=A9s, una pregunta: EN la planilla el casco de ni=C3=B1o no trae=
+ el tipo de talla en que podemos cargar, esas 15 unidades por talla son en =
+S y M o en otro tallaje?</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">Quedo atento</span></p><p class=3D"MsoNormal" style><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1f497d">Saludos!</span></p><p class=3D"MsoNormal" style><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1f497d">=C2=A0</span></p><div><div style=3D"border:none;border-to=
+p:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal" sty=
+le><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&=
+quot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font=
+-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> German=
+ Angellotti [<a href=3D"mailto:german.angellotti@equitybr.com">mailto:germa=
+n.angellotti@equitybr.com</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 21 de=
+ enero de 2015 12:21<br><b>Para:</b> &#39;Andr=C3=A9s Morales (CCC-CHILE)&#=
+39;<br><b>Asunto:</b> RE: Canterbury pasos a seguir</span></p></div></div><=
+p class=3D"MsoNormal" style>=C2=A0</p><p class=3D"MsoNormal" style><span st=
+yle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;">No creo que vaya a reemplazar La Dehesa, es una buena plaza. Lo de Tem=
+uco voy a verlo cuando haga la pre-distribuci=C3=B3n, es probable que si la=
+ considere. Tiendas de sur poniente de Santiago puede ser que le mandemos a=
+lgunos art=C3=ADculos tambi=C3=A9n.</span></p><p class=3D"MsoNormal" style>=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-=
+serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Sal=
+udos</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D=
+"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;co=
+lor:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=3D"EN-US" styl=
+e=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; R=
+etail<br>F: <a href=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</=
+a> </span></p><p class=3D"MsoNormal" style><span style=3D"font-size:10.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. K=
+ennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal=
+" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" =
+style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" st=
+yle><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" styl=
+e><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&q=
+uot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-=
+size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=
+=A9s Morales (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:am=
+orales@cccchile.cl</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 21 de enero =
+de 2015 12:03<br><b>Para:</b> German Angellotti<br><b>Asunto:</b> Re: Cante=
+rbury pasos a seguir</span></p><p class=3D"MsoNormal" style>=C2=A0</p><div>=
+<p class=3D"MsoNormal" style>OK,</p><div><p class=3D"MsoNormal" style>Con e=
+sa predistribuci=C3=B3n nosotros armamos la entrega.</p></div><div><p class=
+=3D"MsoNormal" style>Cuando nos juntamos hab=C3=ADamos habaldo de estar en:=
+</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=
+=3D"MsoNormal" style><b>SANTIAGO:</b></p></div><div><p class=3D"MsoNormal" =
+style>Mall Sport</p></div><div><p class=3D"MsoNormal" style>Alto</p></div><=
+div><p class=3D"MsoNormal" style>Costantera</p></div><div><p class=3D"MsoNo=
+rmal" style>La dehesa (Te parece cambiarlo por temuco?)</p></div><div><p cl=
+ass=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style><=
+b>CONCEPCION:</b></p></div><div><p class=3D"MsoNormal" style>Trebol</p></di=
+v><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNor=
+mal" style><b>VI=C3=91A:</b></p></div><div><p class=3D"MsoNormal" style>Mar=
+ina</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p clas=
+s=3D"MsoNormal" style><b>TEMUCO:</b></p></div><div><p class=3D"MsoNormal" s=
+tyle>Portal Temuco</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></d=
+iv><div><p class=3D"MsoNormal" style>Si consideras otra tienda, creo que pu=
+ede ser alguno no oriente en stgo, por ejempplo Ahumada, Florida center, Oe=
+ste o vespucio.....(el rugby esta creciendo mucho hacia otros serctores)</p=
+></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"M=
+soNormal" style>sls.</p></div></div><div><p class=3D"MsoNormal" style>=C2=
+=A0</p><div><p class=3D"MsoNormal" style>El 21 de enero de 2015, 9:49, Germ=
+an Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.com">german.=
+angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"Mso=
+Normal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;">Andres;</span></p><p class=3D"MsoNormal" style><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;">-</span><span style=3D"font-si=
+ze:7.0pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;">Yo te mando 2 archivos: Uno PDF donde viene la OC y otro Excel do=
+nde viene la pre-distribuci=C3=B3n, asique no te preocupes por eso.</span><=
+/p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">-</span><span style=3D"font-size:7.0pt">=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Cu=C3=A1l ser=
+=C3=ADa el display que ofreces para protectores bucales? Me lo puedes descr=
+ibir o mandar alguna foto con un montaje?</span></p><p><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">-</span=
+><span style=3D"font-size:7.0pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0 </span><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;">Si, ojala me puedas mandar fotos de los pr=
+oductos.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span><=
+/p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;">Voy a empezar a trabajar en la=
+ OC.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><=
+p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p class=3D"MsoN=
+ormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNor=
+mal" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angello=
+tti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=
+=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=3D"tel:%2B5=
+6228287751" target=3D"_blank">+56228287751</a> </span></p><p class=3D"MsoNo=
+rmal" style><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacu=
+ra, Santiago</span></p><p class=3D"MsoNormal" style><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d=
+">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"ES" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"=
+>De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a=
+ href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>] <br>=
+<b>Enviado el:</b> martes, 20 de enero de 2015 19:45</span></p><div><div><p=
+ class=3D"MsoNormal" style><br><b>Para:</b> German Angellotti<br><b>Asunto:=
+</b> Re: Canterbury pasos a seguir</p></div></div><div><div><p class=3D"Mso=
+Normal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>ok,=C2=A0</p><div=
+><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" s=
+tyle>Te adjunto EAN para la creaci=C3=B3n,</p></div><div><p class=3D"MsoNor=
+mal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Algunas dudas:=
+</p></div><div><p class=3D"MsoNormal" style>-Necesitas que nosotros hagamos=
+ la predistribuci=C3=B3n? o prefieres centralizado?</p></div><div><p class=
+=3D"MsoNormal" style>-En el primer caso, necesito que me confirmes las tien=
+das.</p></div><div><p class=3D"MsoNormal" style>-Para el caso de los protec=
+tores bucales, vamos a poder generar agun display especial? puedo hacer uno=
+ especial para cada tienda si quieres.</p></div><div><p class=3D"MsoNormal"=
+ style>-Necesitas impagenes de los productos?</p></div><div><p class=3D"Mso=
+Normal" style>-Te env=C3=ADo aparte los EAN de los protectores bucales.</p>=
+</div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"Ms=
+oNormal" style>Quedo atento a la OC.</p></div><div><p class=3D"MsoNormal" s=
+tyle>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Sls.</p></div><div><=
+p class=3D"MsoNormal" style>=C2=A0</p></div></div><div><p class=3D"MsoNorma=
+l" style>=C2=A0</p><div><p class=3D"MsoNormal" style>El 20 de enero de 2015=
+, 18:14, German Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr=
+.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p=
+ class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Tienes raz=C3=B3n And=
+r=C3=A9s, lo acabo de verificar.</span></p><p class=3D"MsoNormal" style><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:#1f497d">El tema de los d=C3=ADas de plazo tengo el ok para 60=
+ d=C3=ADas, asique podemos proceder.</span></p><p class=3D"MsoNormal" style=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Saludos</span></p><p class=3D"MsoNormal" style><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><=
+span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&=
+quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:1=
+0.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s M=
+orales (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales=
+@cccchile.cl</a>] <br><b>Enviado el:</b> martes, 20 de enero de 2015 18:10<=
+/span></p><div><div><p class=3D"MsoNormal" style><br><b>Para:</b> German An=
+gellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir</p></div></div><di=
+v><div><p class=3D"MsoNormal" style>=C2=A0</p><div><p class=3D"MsoNormal" s=
+tyle>Hola German,</p><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div=
+><p class=3D"MsoNormal" style>te cuento que nosotros ya estamos creados com=
+o proveedores.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><=
+div><p class=3D"MsoNormal" style>Te paso el rut para que lo puedes confirma=
+r..</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p clas=
+s=3D"MsoNormal" style><span style=3D"font-size:10.0pt">1.</span><span style=
+=3D"font-size:7.0pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0</span><stro=
+ng><span style=3D"font-size:10.0pt">Raz=C3=B3n Social:<span style=3D"color:=
+#1f497d">=C2=A0Confecciones de vestuario spin ltda.</span></span></strong><=
+/p></div><div><ol start=3D"2" type=3D"1"><li class=3D"MsoNormal" style><b><=
+span style=3D"font-size:10.0pt">Rut de la Empresa:=C2=A0<span style=3D"colo=
+r:#1f497d">=C2=A078.556.430-8</span></span></b></li></ol></div></div><div><=
+p class=3D"MsoNormal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>El =
+19 de enero de 2015, 18:32, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"=
+mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</p=
+><p class=3D"MsoNormal" style>Hola German,</p><div><p class=3D"MsoNormal" s=
+tyle>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Hoy.o ma=C3=B1ana de=
+ntro de la ma=C3=B1ana te estoy.mandando los EAN.</p></div><div><p class=3D=
+"MsoNormal" style>Me confirmas el plazo de pago?</p></div><div><p class=3D"=
+MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Sls<br><=
+br>El viernes, 16 de enero de 2015, German Angellotti &lt;<a href=3D"mailto=
+:german.angellotti@equitybr.com">german.angellotti@equitybr.com</a>&gt; esc=
+ribi=C3=B3:</p><div><div><blockquote style=3D"border:none;border-left:solid=
+ #cccccc 1.0pt;padding:0cm 0cm 0cm 6.0pt;margin-left:4.8pt;margin-top:5.0pt=
+;margin-right:0cm;margin-bottom:5.0pt"><p class=3D"MsoNormal" style>=C2=A0<=
+/p><div><div><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Andr=C3=A9s;</span><=
+/p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"M=
+soNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;">Estoy OK con la =C3=BAltima planilla que me ma=
+ndaste (cantidades y estilos), asique procedamos a generar la orden. Te pid=
+o por favor que me mandes los c=C3=B3digos de barra y que llenes el formula=
+rio que te adjunto para poder crearte como proveedor en SAP. Tambi=C3=A9n t=
+e adjunto el procedimiento de despacho para nuestra bodega e informaci=C3=
+=B3n =C3=BAtil relativa.</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">La forma de pa=
+go es a 90 d=C3=ADas.</span></p><p class=3D"MsoNormal" style><span style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=
+=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Quedo atento a q=
+ue me env=C3=ADes la informaci=C3=B3n solicitada.</span></p><p class=3D"Mso=
+Normal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;">Saludos</span></p><p class=3D"MsoNormal" style><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"EN=
+-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity=
+ Brands &amp; Retail<br>F: <a href=3D"tel:%2B56228287751" target=3D"_blank"=
+>+56228287751</a> </span></p><p class=3D"MsoNormal" style><span style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p cla=
+ss=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D=
+"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a href=3D"mailto:amorales@ccc=
+chile.cl">mailto:amorales@cccchile.cl</a>] <br><b>Enviado el:</b> lunes, 12=
+ de enero de 2015 18:41<br><b>Para:</b> German Angellotti<br><b>Asunto:</b>=
+ Re: Canterbury pasos a seguir</span></p><p class=3D"MsoNormal" style>=C2=
+=A0</p><div><p class=3D"MsoNormal" style>Hola German,</p><div><p class=3D"M=
+soNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Te adjunt=
+o versi=C3=B3n final. Tiene unos peque=C3=B1os ajustes, por ejemplo:</p></d=
+iv><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNo=
+rmal" style>-Short: estan ok. inlcuimos talla 30</p></div><div><p class=3D"=
+MsoNormal" style>-Poleras Entrenamiento: Para poder cumplir la curva que so=
+licitas, vamos a tener que incorporar otro estilo. Por cantidad no tengo m=
+=C3=A1s.</p></div><div><p class=3D"MsoNormal" style>-Cascos y protecciones =
+ok</p></div><div><p class=3D"MsoNormal" style>-zapatos: ok 1 unidad mas de =
+cada modelo para que queden cuadrados a la curva de 5 o 10.</p></div><div><=
+p class=3D"MsoNormal" style>-Pelotas: Disminu=C3=AD las de 21.990 porque me=
+ pidieron de urgencia para el seven de re=C3=B1aca de =C3=A9ste fin de sema=
+na. Mil disculpas. Pero te aumente las de 16.990.</p></div><div><p class=3D=
+"MsoNormal" style>-Replica Inglaterra: OK, ajust=C3=A9 levemente la curva a=
+ la disponibilidad final.</p></div><div><p class=3D"MsoNormal" style>-Prote=
+ctores ok.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div>=
+<p class=3D"MsoNormal" style>Ma=C3=B1ana martes te estoy mandando los EAN.<=
+/p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D=
+"MsoNormal" style>Conf=C3=ADrmame criterio o protocolo de recepci=C3=B3n de=
+ tus bodegas para poder rotular o etiquetar seg=C3=BAn corresponda, de ser =
+necesario.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div>=
+<p class=3D"MsoNormal" style>Abrazo.</p></div><div><p class=3D"MsoNormal" s=
+tyle>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Andr=C3=A9s</p></div=
+><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNorm=
+al" style>=C2=A0</p></div></div><div><p class=3D"MsoNormal" style>=C2=A0</p=
+><div><p class=3D"MsoNormal" style>El 9 de enero de 2015, 17:35, German Ang=
+ellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.com">german.angell=
+otti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"MsoNormal=
+" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;">Ok Andr=C3=A9s, est=C3=A1 bien, es s=C3=B3lo ese produ=
+cto, voy a tomarlo.</span></p><p class=3D"MsoNormal" style><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Te mando la planill=
+a definitiva. Tom=C3=A9 algunas de las sugerencias que me dijiste (Short Az=
+ul + talla 30, Casco de Ni=C3=B1o) pero tuve que declinar otras. Tuve que a=
+justar tambi=C3=A9n el n=C3=BAmero final para estar bien con PPTO, pero si =
+esto que metemos anda bien podr=C3=ADamos hacer una nueva carga.</span></p>=
+<p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p=
+ class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p class=3D"MsoNo=
+rmal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNorm=
+al" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellot=
+ti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=
+=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=3D"tel:%2B5=
+6228287751" target=3D"_blank">+56228287751</a> </span></p><p class=3D"MsoNo=
+rmal" style><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacu=
+ra, Santiago</span></p><p class=3D"MsoNormal" style><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d=
+">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"ES" style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"=
+>De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quo=
+t;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a=
+ href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>] <br>=
+<b>Enviado el:</b> viernes, 09 de enero de 2015 17:08</span></p><div><div><=
+p class=3D"MsoNormal" style><br><b>Para:</b> German Angellotti<br><b>Asunto=
+:</b> Re: Canterbury pasos a seguir</p></div></div><div><div><p class=3D"Ms=
+oNormal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>Hola German,</p>=
+<div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNorma=
+l" style>Puedo incrmentar el margen un 2% s=C3=B3lo en ese producto como oc=
+asi=C3=B3n especial.</p></div><div><p class=3D"MsoNormal" style>Si bien la =
+nueva esta en el mercado (Europa), en chile no ha llegado y es la =C3=BAnic=
+a Replica de Inglaterra que hay disponible en el pais.</p></div><div><p cla=
+ss=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Co=
+nfirmame.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><=
+p class=3D"MsoNormal" style>sls.</p></div><div><p class=3D"MsoNormal" style=
+>=C2=A0</p></div></div><div><p class=3D"MsoNormal" style>=C2=A0</p><div><p =
+class=3D"MsoNormal" style>El 9 de enero de 2015, 13:55, German Angellotti &=
+lt;<a href=3D"mailto:german.angellotti@equitybr.com">german.angellotti@equi=
+tybr.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"MsoNormal" style><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;">El dcto lo definen uds. Solo hice notar que siempre que algo no=
+ es de la temporada actual (a menos que sea producto Carry-Over como pelota=
+s, guantes, shorts, etc) como en este caso esta camiseta, se toma con dcto =
+adicional ya que la nueva camiseta ya est=C3=A1 en el mercado.</span></p><p=
+ class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNor=
+mal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;">Saludos</span></p><p class=3D"MsoNormal" style><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><sp=
+an lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.=
+0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Mor=
+ales (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@c=
+ccchile.cl</a>] <br><b>Enviado el:</b> viernes, 09 de enero de 2015 13:50</=
+span></p><div><div><p class=3D"MsoNormal" style><br><b>Para:</b> German Ang=
+ellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir</p></div></div><div=
+><div><p class=3D"MsoNormal" style>=C2=A0</p><div><div><p class=3D"MsoNorma=
+l" style>cuanto adiconal?</p></div><div><p class=3D"MsoNormal" style>=C2=A0=
+</p></div><div><p class=3D"MsoNormal" style>lo veo dificil.</p></div><div><=
+p class=3D"MsoNormal" style>=C2=A0</p></div></div><div><p class=3D"MsoNorma=
+l" style>=C2=A0</p><div><p class=3D"MsoNormal" style>El 9 de enero de 2015,=
+ 13:14, German Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.=
+com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p =
+class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">Cuando te llegar=C3=ADa la nueva?</s=
+pan></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">Entonces por no ser la actual deber=C3=AD=
+a poder compr=C3=A1rsela a uds con alg=C3=BAn tipo de descuento adicional, =
+ya que no es de temporada. En general cuando las camisetas o colecciones no=
+ son de temporada se aplica esto, con el resto de los proveedores funciona =
+as=C3=AD.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span>=
+</p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">Atento a tus comentarios.</sp=
+an></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p class=3D"MsoNormal" =
+style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" st=
+yle><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br>=
+</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/=
+Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=3D"tel:%2B562282877=
+51" target=3D"_blank">+56228287751</a> </span></p><p class=3D"MsoNormal" st=
+yle><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;s=
+ans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Sant=
+iago</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"ES" style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</=
+span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Taho=
+ma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a href=
+=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>] <br><b>En=
+viado el:</b> viernes, 09 de enero de 2015 12:29</span></p><div><div><p cla=
+ss=3D"MsoNormal" style><br><b>Para:</b> German Angellotti<br><b>Asunto:</b>=
+ Re: Canterbury pasos a seguir</p></div></div><div><div><p class=3D"MsoNorm=
+al" style>=C2=A0</p><div><p class=3D"MsoNormal" style>La polera que tengo e=
+s la 2013-2014, la que sacaron hace poco (2015-2016) me esta llegando mas a=
+delnate junto con la de irlanda (que son las del mundial)</p><div><p class=
+=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>=C2=
+=A0</p></div></div><div><p class=3D"MsoNormal" style>=C2=A0</p><div><p clas=
+s=3D"MsoNormal" style>El 9 de enero de 2015, 11:53, German Angellotti &lt;<=
+a href=3D"mailto:german.angellotti@equitybr.com">german.angellotti@equitybr=
+.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"MsoNormal" style><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">Andres;</span></p><p class=3D"MsoNormal" style><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0<=
+/span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Ya tengo listo el pedid=
+o definitivo. Tengo 2 preguntas:</span></p><p class=3D"MsoNormal" style><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;">-</span><span style=3D"font-size=
+:7.0pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><span=
+ style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;">La camiseta de Inglaterra que estamos tomando es la =C3=BAltima? Po=
+rque me met=C3=AD a una p=C3=A1gina de Rugby donde salen cat=C3=A1logos com=
+pletos y sale una diferente de Inglaterra</span></p><p class=3D"MsoNormal" =
+style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;"><a href=3D"http://www.lovellrugby.es/Rugby-Camisetas/Canterbury/Inglater=
+ra-2014-o-15-Home-Pro-M-o-C---Camiseta-de-Rugby-Blanco-Brillante" target=3D=
+"_blank"><span style=3D"color:windowtext">http://www.lovellrugby.es/Rugby-C=
+amisetas/Canterbury/Inglaterra-2014-o-15-Home-Pro-M-o-C---Camiseta-de-Rugby=
+-Blanco-Brillante</span></a></span></p><p class=3D"MsoNormal" style><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,&quot;sans-serif&quot;">-</span><span style=3D"font-size:7.0=
+pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;">Hab=C3=ADamos agregado la camiseta de Irlanda para incorporarla ahora, =
+pero me fije que sale Julio. Te llega en Julio efectivamente o la podemos m=
+eter ahora?</span></p><p class=3D"MsoNormal" style><span style=3D"font-size=
+:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</spa=
+n></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-fam=
+ily:&quot;Calibri&quot;,&quot;sans-serif&quot;">Apenas me aclares estas dud=
+as te mando la planilla.</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span>=
+</p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></=
+p><p class=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D"font-size:1=
+0.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"=
+>Germ=C3=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=3D"font-si=
+ze:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f4=
+97d">Comprador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: =
+<a href=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</a> </span></=
+p><p class=3D"MsoNormal" style><span style=3D"font-size:10.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454,=
+ of. 1103<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal" style><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span st=
+yle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">=C2=A0</span></p><div><div style=3D"border:none;border-t=
+op:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p class=3D"MsoNormal" st=
+yle><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma=
+&quot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"fon=
+t-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Germa=
+n Angellotti [<a href=3D"mailto:german.angellotti@equitybr.com">mailto:germ=
+an.angellotti@equitybr.com</a>] <br><b>Enviado el:</b> jueves, 08 de enero =
+de 2015 18:28<br><b>Para:</b> &#39;Andr=C3=A9s Morales (CCC-CHILE)&#39;<br>=
+<b>Asunto:</b> RE: Canterbury pasos a seguir</span></p></div></div><p class=
+=3D"MsoNormal" style>=C2=A0</p><p class=3D"MsoNormal" style><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">An=
+dr=C3=A9s;</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span=
+></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;">D=C3=A9jame revisar bien tod=
+o junto con tus sugerencia y te confirmo cantidades y colecci=C3=B3n defini=
+tiva.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p>=
+<p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;">Los c=C3=B3digos de barra y c=C3=
+=B3digos de estilo por favor env=C3=ADamelos para poder crear los productos=
+.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">La OC la empezaremos =
+a trabajar la pr=C3=B3xima semana, de aqu=C3=AD a una semana yo creo que la=
+ emitimos.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span=
+></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=
+=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Com=
+prador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=
+=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</a> </span></p><p cl=
+ass=3D"MsoNormal" style><span style=3D"font-size:10.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 11=
+03<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (C=
+CC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile=
+.cl</a>] <br><b>Enviado el:</b> jueves, 08 de enero de 2015 0:36</span></p>=
+<div><div><p class=3D"MsoNormal" style><b>Para:</b> German Angellotti<br><b=
+>Asunto:</b> Re: Canterbury pasos a seguir</p></div></div><div><div><p clas=
+s=3D"MsoNormal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>Hola Germ=
+=C3=A1n,</p><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=
+=3D"MsoNormal" style>Te adjunto confirmaci=C3=B3n de unidades y algunos com=
+entarios sobre los productos que estoy con algo menos de disponibilidad, pe=
+ro en general creo que estamos ok.</p></div><div><p class=3D"MsoNormal" sty=
+le>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Si estas ok, necesitam=
+os definir:</p></div><div><p class=3D"MsoNormal" style>- C=C3=B3digos de ba=
+rra, Te env=C3=ADo un listado de =C3=A9stos estilo/colo/talla para que los =
+puedan crear.</p></div><div><p class=3D"MsoNormal" style>- Requisitos para =
+entrega, lugar y si necesitas algun etiquetado especial o rotulado.</p></di=
+v><div><p class=3D"MsoNormal" style>- Confirmame cu=C3=A1ndo emitir=C3=ADas=
+ la OC.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p =
+class=3D"MsoNormal" style>Te pido =C3=A9sto, ya que para entregarte en febr=
+ero, debo dejar todo coordinado ya que gente del equipo sale de vacaciones.=
+</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=
+=3D"MsoNormal" style>Desde ya, nosotros nos ponemos a trabajar en potenciar=
+ la comunicaci=C3=B3n de nuestros productos en tus tiendas,</p></div><div><=
+p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" sty=
+le>Hablemos si tienes cualquier duda o quieres modificar algo.</p></div><di=
+v><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" =
+style>Sls.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div>=
+<p class=3D"MsoNormal" style>Andr=C3=A9s.=C2=A0</p></div><div><p class=3D"M=
+soNormal" style>CCC</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></=
+div><div><p class=3D"MsoNormal" style>=C2=A0</p></div></div><div><p class=
+=3D"MsoNormal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>El 5 de en=
+ero de 2015, 15:44, German Angellotti &lt;<a href=3D"mailto:german.angellot=
+ti@equitybr.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><=
+div><div><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Andr=C3=A9s;</span></p><=
+p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&qu=
+ot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNo=
+rmal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;">Tal como hablamos te hago env=C3=ADo de la planill=
+a de reserva para que la puedas revisar y me confirmes las cantidades y los=
+ estilos.</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span>=
+</p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p class=3D=
+"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"M=
+soNormal" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n An=
+gellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador =
+F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=3D"tel:=
+%2B56228287751" target=3D"_blank">+56228287751</a> </span></p><p class=3D"M=
+soNormal" style><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vi=
+tacura, Santiago</span></p><p class=3D"MsoNormal" style><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#=
+1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f=
+497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"ES" styl=
+e=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;=
+">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&qu=
+ot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<=
+a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>] <br=
+><b>Enviado el:</b> lunes, 05 de enero de 2015 10:42</span></p><div><div><p=
+ class=3D"MsoNormal" style><br><b>Para:</b> German Angellotti<br><b>Asunto:=
+</b> Re: Canterbury pasos a seguir</p></div></div><div><div><p class=3D"Mso=
+Normal" style>=C2=A0</p><p class=3D"MsoNormal" style>Hola German,=C2=A0</p>=
+<div><p class=3D"MsoNormal" style>Ok, nos vemos.<br><br>El lunes, 5 de ener=
+o de 2015, German Angellotti &lt;<a href=3D"mailto:german.angellotti@equity=
+br.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div>=
+<p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;">Hola Andr=C3=A9s, te parece que n=
+os juntemos a las 3 PM aqu=C3=AD?</span></p><p class=3D"MsoNormal" style><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Salud=
+os</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0=
+</span></p><p class=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=
+=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Re=
+tail<br>F: <a href=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</a=
+> </span></p><p class=3D"MsoNormal" style><span style=3D"font-size:10.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. Ke=
+nnedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal"=
+ style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" s=
+tyle><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" sty=
+le><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sa=
+ns-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style=
+><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&qu=
+ot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=
+=A9s Morales (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:am=
+orales@cccchile.cl</a>] <br><b>Enviado el:</b> viernes, 02 de enero de 2015=
+ 12:06<br><b>Para:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury p=
+asos a seguir</span></p><p class=3D"MsoNormal" style>=C2=A0</p><p class=3D"=
+MsoNormal" style>Hola German, me confirmas si puedes el lunes en la tarde?<=
+/p><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNo=
+rmal" style>Mil gracias.<br><br>El mi=C3=A9rcoles, 24 de diciembre de 2014,=
+ Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl=
+">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</p><p class=3D"MsoNormal" sty=
+le>Hola German,</p><div><p class=3D"MsoNormal" style>Puedes el lunes?, o es=
+te viernes, nose si trabajas..</p></div><div><p class=3D"MsoNormal" style>C=
+onfirmame para coordinarme,</p></div><div><p class=3D"MsoNormal" style>Abra=
+zo.<br><br>El martes, 23 de diciembre de 2014, Andr=C3=A9s Morales (CCC-CHI=
+LE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt=
+; escribi=C3=B3:</p><div><p class=3D"MsoNormal" style>Hola Germ=C3=A1n,</p>=
+<div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNorma=
+l" style>Te adjunto lista de productos con los costos corregidos.</p></div>=
+<div><p class=3D"MsoNormal" style>Como te coment=C3=A9 hay algunos producto=
+s que necesito confirmar, principalmente los de Julio.</p></div><div><p cla=
+ss=3D"MsoNormal" style>Con respecto a los protectores bucales, demoran 1,5 =
+mes aprox desde que los pedimos, por lo que ser=C3=ADa ideal saber que cant=
+idad y que modelos para tenerlos ac=C3=A1 a fines del verano. Por otro lado=
+, definir c=C3=B3mo crees que sea mejor exhibirlos.</p></div><div><p class=
+=3D"MsoNormal" style>Para los productos de febrero, confirmame c=C3=B3mo an=
+das de tiempo y nos juntamos a revisar las cantidades que te interesan e ir=
+ confirmandote disponibilidades.</p></div><div><p class=3D"MsoNormal" style=
+>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Te parece pr=C3=B3ximo l=
+unes?</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p cl=
+ass=3D"MsoNormal" style>Abrazo.</p></div><div><p class=3D"MsoNormal" style>=
+=C2=A0</p></div><div><p class=3D"MsoNormal" style>Andr=C3=A9s.</p></div><di=
+v><p class=3D"MsoNormal" style>=C2=A0</p></div></div><div><p class=3D"MsoNo=
+rmal" style>=C2=A0</p><div><p class=3D"MsoNormal" style>El 18 de diciembre =
+de 2014, 11:47, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amora=
+les@cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</p><p class=3D=
+"MsoNormal" style>Hola German,</p><div><p class=3D"MsoNormal" style>=C2=A0<=
+/p></div><div><p class=3D"MsoNormal" style>Me dieron ok con lo que hablamos=
+ ayer.</p></div><div><p class=3D"MsoNormal" style>Margen 45%.</p></div><div=
+><p class=3D"MsoNormal" style>Confirmame si estas ok.</p></div><div><p clas=
+s=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Sls=
+</p></div><div><p class=3D"MsoNormal" style><br>El mi=C3=A9rcoles, 17 de di=
+ciembre de 2014, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amor=
+ales@cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</p><div><div>=
+<blockquote style=3D"border:none;border-left:solid #cccccc 1.0pt;padding:0c=
+m 0cm 0cm 6.0pt;margin-left:4.8pt;margin-top:5.0pt;margin-right:0cm;margin-=
+bottom:5.0pt"><p class=3D"MsoNormal" style>=C2=A0</p><p class=3D"MsoNormal"=
+ style>German,</p><div><p class=3D"MsoNormal" style>Entiendo pero ese fue e=
+l margen que habiamos habladob ese dia. Confirmame si tu entendimiento fue =
+otro.</p></div><div><p class=3D"MsoNormal" style>Confirmame que margen te p=
+arece para confirmarte ma=C3=B1ana si es <a href=3D"http://posible.o.no" ta=
+rget=3D"_blank">posible.o.no</a> en mi llamada con inglaterra de ma=C3=B1an=
+a. O bajo que esquema te parece trabajar la marca.</p></div><div><p class=
+=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Salu=
+dos<br><br>El mi=C3=A9rcoles, 17 de diciembre de 2014, German Angellotti &l=
+t;<a href=3D"mailto:german.angellotti@equitybr.com">german.angellotti@equit=
+ybr.com</a>&gt; escribi=C3=B3:</p><div><div><p class=3D"MsoNormal" style><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;">Hola Andr=C3=A9s;</span></p><p class=3D"MsoNormal" style><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Muchas gra=
+cias por la planilla y la respuesta. Lamentablemente con un margen de 40% s=
+e me hace imposible introducir la marca, ya que adem=C3=A1s de ser el prove=
+edor con margen m=C3=A1s bajo que tendr=C3=ADa actualmente, para el pr=C3=
+=B3ximo a=C3=B1o tengo exigencias de margen mayores a los presentes para la=
+ categor=C3=ADa.</span></p><p class=3D"MsoNormal" style><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0=
+</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Gracias por el contact=
+o y tu tiempo.</span></p><p class=3D"MsoNormal" style><span style=3D"font-s=
+ize:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</=
+span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-=
+family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></p><p cla=
+ss=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=
+=3D"MsoNormal" style><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=
+=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Com=
+prador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: <a href=
+=3D"tel:%2B56228287751" target=3D"_blank">+56228287751</a> </span></p><p cl=
+ass=3D"MsoNormal" style><span style=3D"font-size:10.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 11=
+03<br>Vitacura, Santiago</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (C=
+CC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile=
+.cl</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 17 de diciembre de 2014 16:=
+01<br><b>Para:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos=
+ a seguir</span></p><p class=3D"MsoNormal" style>=C2=A0</p><div><p class=3D=
+"MsoNormal" style>Hola German,</p><div><p class=3D"MsoNormal" style>=C2=A0<=
+/p></div><div><p class=3D"MsoNormal" style>C=C3=B3mo estas?</p></div><div><=
+p class=3D"MsoNormal" style>Pudiste ver el archivo?</p></div><div><p class=
+=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Segu=
+ro que estas a full con navidad.</p></div><div><p class=3D"MsoNormal" style=
+>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Cuentame..</p></div><div=
+><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" s=
+tyle>un abrazo.</p></div></div><div><p class=3D"MsoNormal" style>=C2=A0</p>=
+<div><p class=3D"MsoNormal" style>El 15 de diciembre de 2014, 22:48, Andr=
+=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amo=
+rales@cccchile.cl</a>&gt; escribi=C3=B3:</p><div><p class=3D"MsoNormal" sty=
+le>Hola German,</p><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><=
+p class=3D"MsoNormal" style>Disculpa mi demora, te adjunto listado completo=
+ de productos y fecha de disponibilidad.</p></div><div><p class=3D"MsoNorma=
+l" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Seg=C3=BAn lo qu=
+e conversamos, te confirmo costo de 40% de margen sobre precios sugeridos. =
+Confirmame plazos de pagos.</p></div><div><p class=3D"MsoNormal" style>=C2=
+=A0</p></div><div><p class=3D"MsoNormal" style>Como te coment=C3=A9, creo q=
+ue podemos incorporar los productos en 3-4 tiendas en un principio dado el =
+stock que puedo confirmarte. Para que as=C3=AD ccompletemos las restantes e=
+n Julio. (dadas las compras por semestre).</p></div><div><p class=3D"MsoNor=
+mal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Tu intenci=C3=
+=B3n son las siguiente 6:</p></div><div><p class=3D"MsoNormal" style>1) Mal=
+l Sport</p></div><div><p class=3D"MsoNormal" style>2) Alto Las Condes</p></=
+div><div><p class=3D"MsoNormal" style>3) La Dehesa</p></div><div><p class=
+=3D"MsoNormal" style>4) Marina Arauco</p></div><div><p class=3D"MsoNormal" =
+style>5) Concepci=C3=B3n Trebol</p></div><div><p class=3D"MsoNormal" style>=
+6) Antofagasta / La Serena</p></div><div><p class=3D"MsoNormal" style>=C2=
+=A0</p></div><div><p class=3D"MsoNormal" style>C=C3=B3mo ser=C3=ADa el orde=
+n tu de preferencia seg=C3=BAn tus ventas?</p></div><div><p class=3D"MsoNor=
+mal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Por =C3=BAltim=
+o, c=C3=B3mo te acomoda mpas que hagamos seguimiento? nos juntamos cada sem=
+ana? 15 d=C3=ADas? ideal para nosotros si es que pueden compartir las venta=
+s sku/local por semana.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</=
+p></div><div><p class=3D"MsoNormal" style>Miles de gracias y quedo atento a=
+ tus comentarios.</p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></di=
+v><div><p class=3D"MsoNormal" style>Abrazo,</p></div><div><p class=3D"MsoNo=
+rmal" style>=C2=A0</p></div><div><p class=3D"MsoNormal" style>Andr=C3=A9s.<=
+/p></div><div><p class=3D"MsoNormal" style>=C2=A0</p></div><div><p class=3D=
+"MsoNormal" style>=C2=A0</p></div></div></div></div></div></div></div></blo=
+ckquote></div></div></div></div><p class=3D"MsoNormal" style>=C2=A0</p></di=
+v></div></div></div></div></div></div></div></div></div></div><p class=3D"M=
+soNormal" style>=C2=A0</p></div></div></div></div></div></div><p class=3D"M=
+soNormal" style>=C2=A0</p></div></div></div></div></div></div><p class=3D"M=
+soNormal" style>=C2=A0</p></div></div></div></div></div></div><p class=3D"M=
+soNormal" style>=C2=A0</p></div></div></div></div></div></div><p class=3D"M=
+soNormal" style>=C2=A0</p></div></div></div></blockquote></div></div></div>=
+</div><p class=3D"MsoNormal" style>=C2=A0</p></div></div></div></div></div>=
+</div><p class=3D"MsoNormal" style>=C2=A0</p></div></div></div></div></div>=
+</div><p class=3D"MsoNormal" style>=C2=A0</p></div></div></div></div></div>=
+</div></div></div></div></div><p class=3D"MsoNormal">=C2=A0</p></div></div>=
+</body></html>
+
+--001a11c32cf4a674b2050d52b9b1--

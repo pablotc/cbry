@@ -1,0 +1,498 @@
+Return-path: <bounces@clickexperts.net>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Mon, 02 Feb 2015 10:03:53 -0600
+Received: from mail2.clickexperts.net ([200.43.15.179]:51079)
+	by gator3101.hostgator.com with smtp (Exim 4.82)
+	(envelope-from <bounces@clickexperts.net>)
+	id 1YIJTb-0004NO-V6
+	for admin@cccchile.cl; Mon, 02 Feb 2015 10:03:52 -0600
+To: admin@cccchile.cl
+Subject: Share your experience and you could win a Tablet!
+From: PayU Latam <comunicados@payulatam.com>
+Reply-To: PayU Latam <comunicados@payulatam.com>
+MIME-Version: 1.0
+Date: Mon, 02 Feb 2015 13:03:29 -0300
+X-Mailer: ELM [version 2.4 PL23]"
+X-Mailid: 1440_2005_32252578
+Message-ID: 20053225257854cf9fd1d2fdb
+Content-Type: multipart/alternative;
+	boundary="=_855d548533249e9f144e00923f5bcc09"
+
+
+--=_855d548533249e9f144e00923f5bcc09
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+--=_855d548533249e9f144e00923f5bcc09
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+ <head>
+=20
+=20
+ <!-- Facebook sharing information tags -->
+ <meta property=3D"og:title" content=3D"*|MC:SUBJECT|*">
+=20
+ <title>*|MC:SUBJECT|*</title>
+
+<style type=3D"text/css">
+#outlook a{
+padding:0;
+}
+body{
+width:100% !important;
+}
+.ReadMsgBody{
+width:100%;
+}
+.ExternalClass{
+width:100%;
+}
+body{
+-webkit-text-size-adjust:none;
+}
+body{
+margin:0;
+padding:0;
+}
+img{
+border:0;
+height:auto;
+line-height:100%;
+outline:none;
+text-decoration:none;
+}
+table td{
+border-collapse:collapse;
+}
+#backgroundTable{
+height:100% !important;
+margin:0;
+padding:0;
+width:100% !important;
+}
+/*
+@tab Page
+@section background color
+@tip Set the background color for your email. You may want to choose one that matches your company's branding.
+@theme page
+*/
+body,#backgroundTable{
+/*@editable*/background-color:#FAFAFA;
+}
+/*
+@tab Page
+@section email border
+@tip Set the border for your email.
+*/
+#templateContainer{
+/*@editable*/border:1px solid #DDDDDD;
+}
+/*
+@tab Page
+@section heading 1
+@tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+@style heading 1
+*/
+h1,.h1{
+/*@editable*/color:#202020;
+display:block;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:34px;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:100%;
+margin-top:0;
+margin-right:0;
+margin-bottom:10px;
+margin-left:0;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section heading 2
+@tip Set the styling for all second-level headings in your emails.
+@style heading 2
+*/
+h2,.h2{
+/*@editable*/color:#202020;
+display:block;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:30px;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:100%;
+margin-top:0;
+margin-right:0;
+margin-bottom:10px;
+margin-left:0;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section heading 3
+@tip Set the styling for all third-level headings in your emails.
+@style heading 3
+*/
+h3,.h3{
+/*@editable*/color:#202020;
+display:block;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:26px;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:100%;
+margin-top:0;
+margin-right:0;
+margin-bottom:10px;
+margin-left:0;
+/*@editable*/text-align:left;
+}
+/*
+@tab Page
+@section heading 4
+@tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+@style heading 4
+*/
+h4,.h4{
+/*@editable*/color:#202020;
+display:block;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:22px;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:100%;
+margin-top:0;
+margin-right:0;
+margin-bottom:10px;
+margin-left:0;
+/*@editable*/text-align:left;
+}
+/*
+@tab Header
+@section preheader style
+@tip Set the background color for your email's preheader area.
+@theme page
+*/
+#templatePreheader{
+/*@editable*/background-color:#FAFAFA;
+}
+/*
+@tab Header
+@section preheader text
+@tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+*/
+.preheaderContent div{
+/*@editable*/color:#505050;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:10px;
+/*@editable*/line-height:100%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Header
+@section preheader link
+@tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+*/
+.preheaderContent div a:link,.preheaderContent div a:visited,.preheaderContent div a .yshortcuts{
+/*@editable*/color:#336699;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+/*
+@tab Header
+@section header style
+@tip Set the background color and border for your email's header area.
+@theme header
+*/
+#templateHeader{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/border-bottom:0;
+}
+/*
+@tab Header
+@section header text
+@tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+*/
+.headerContent{
+/*@editable*/color:#202020;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:34px;
+/*@editable*/font-weight:bold;
+/*@editable*/line-height:100%;
+/*@editable*/padding:0;
+/*@editable*/text-align:center;
+/*@editable*/vertical-align:middle;
+}
+/*
+@tab Header
+@section header link
+@tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+*/
+.headerContent a:link,.headerContent a:visited,.headerContent a .yshortcuts{
+/*@editable*/color:#336699;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+#headerImage{
+height:auto;
+max-width:600px;
+}
+/*
+@tab Body
+@section body style
+@tip Set the background color for your email's body area.
+*/
+#templateContainer,.bodyContent{
+/*@editable*/background-color:#FFFFFF;
+}
+/*
+@tab Body
+@section body text
+@tip Set the styling for your email's main content text. Choose a size and color that is easy to read.
+@theme main
+*/
+.bodyContent div{
+/*@editable*/color:#505050;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:14px;
+/*@editable*/line-height:150%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Body
+@section body link
+@tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
+*/
+.bodyContent div a:link,.bodyContent div a:visited,.bodyContent div a .yshortcuts{
+/*@editable*/color:#336699;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+.bodyContent img{
+display:inline;
+height:auto;
+}
+/*
+@tab Footer
+@section footer style
+@tip Set the background color and top border for your email's footer area.
+@theme footer
+*/
+#templateFooter{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/border-top:0;
+}
+/*
+@tab Footer
+@section footer text
+@tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+@theme footer
+*/
+.footerContent div{
+/*@editable*/color:#707070;
+/*@editable*/font-family:Arial;
+/*@editable*/font-size:12px;
+/*@editable*/line-height:125%;
+/*@editable*/text-align:left;
+}
+/*
+@tab Footer
+@section footer link
+@tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+*/
+.footerContent div a:link,.footerContent div a:visited,.footerContent div a .yshortcuts{
+/*@editable*/color:#336699;
+/*@editable*/font-weight:normal;
+/*@editable*/text-decoration:underline;
+}
+.footerContent img{
+display:inline;
+}
+/*
+@tab Footer
+@section social bar style
+@tip Set the background color and border for your email's footer social bar.
+@theme footer
+*/
+#social{
+/*@editable*/background-color:#FAFAFA;
+/*@editable*/border:0;
+}
+/*
+@tab Footer
+@section social bar style
+@tip Set the background color and border for your email's footer social bar.
+*/
+#social div{
+/*@editable*/text-align:center;
+}
+/*
+@tab Footer
+@section utility bar style
+@tip Set the background color and border for your email's footer utility bar.
+@theme footer
+*/
+#utility{
+/*@editable*/background-color:#FFFFFF;
+/*@editable*/border:0;
+}
+/*
+@tab Footer
+@section utility bar style
+@tip Set the background color and border for your email's footer utility bar.
+*/
+#utility div{
+/*@editable*/text-align:center;
+}
+#monkeyRewards img{
+max-width:190px;
+}
+</style></head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0">
+ <center>
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" id=3D"backgroundTable">
+ <tr>
+ <td align=3D"center" valign=3D"top">
+ <!-- // Begin Template Preheader \ -->
+ <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"600" id=3D"templatePreheader">
+ <tr>
+ <td valign=3D"top" class=3D"preheaderContent">
+=20
+ <!-- // Begin Module: Standard Preheader -->
+ <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"100%">
+<tr>
+ <td height=3D"18" align=3D"center" valign=3D"top" style=3D"text-align:center;color:#999; font-family:'Trebuchet MS', Arial, Helvetica, sans-serif; font-size:12px; border-bottom:1px dotted #ccc">Can`t see this e-mail?,=20
+
+
+<a href=3D"http://db.mailtrackpro.com/mailtrack3/server/redirect.php?user=3D32252578&email=3D2005&cid=3Daa4ffc3cb8a8849mail&url=3Dhttp%3A%2F%2Fasp3.mailtrackpro.com%2Fmailtrack3%2Fview%2F32252578%2F2005%2F1440
+" target=3D"_blank" style=3D"color:#158">click here;</a></td>
+ </tr>=20
+</table>
+<!-- // End Module: Standard Preheader -->
+=20
+ </td>
+ </tr>
+ </table>
+ <!-- // End Template Preheader \ -->
+ <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ <tr>
+ <td><img src=3D"http://www.payulatam.com/nps_2015/header_1.png" alt=3D"Pagosonline by PayU" width=3D"600" height=3D"197" style=3D"width: 600px; height: 197px; display:block;" align=3D"none">
+ </td>
+ </tr>
+</table>
+ <table align=3D"center" width=3D"600" cellpadding=3D"0" cellspacing=3D"0" style=3D"border:solid 1px #CACACA;font-familiy:arial;">
+ <tr>
+ <td bgcolor=3D"#ffffff"><table width=3D"597" border=3D"0" cellspacing=3D"1" cellpadding=3D"1">
+ <tr>
+ <td bgcolor=3D"#ffffff" style=3D"border-bottom:1px solid #CACACA"><table width=3D"596" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+=20
+=20
+ <tr>
+ <td><table width=3D"560" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+ <tr>
+ <td height=3D"15"></td>
+ </tr>
+ <tr>
+ <td align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#1c3a85" size=3D"4">Dear Customer,,</font></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr>
+ <td align=3D"justify"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#1c3a85" size=3D"3">In PayU, we are constantly improving the service that we offer to our customers. For this reason, we ask you to share your experience and give us your opinion through a short survey.</font></td>
+ </tr>
+ <tr>
+ <td height=3D"30"></td>
+ </tr>
+ <tr>
+ <td align=3D"center">
+
+
+<a href=3D"http://db.mailtrackpro.com/mailtrack3/server/redirect.php?user=3D32252578&email=3D2005&cid=3Daa4ffc3cb8a8849mail&url=3Dhttp%3A%2F%2Fwww.payulatam.com%2Fcolombia%2Fint_payu" target=3D"_blank"><img src=3D"http://www.payulatam.com/nps_2015/bt_opinion.png" alt=3D"Danos tu opini=C3=B3n haciendo click aqu=C3=AD" width=3D"390" height=3D"43" style=3D"width: 390px; height: 43px;" align=3D"none"></a></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+=20
+ <tr><td align=3D"justify"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#707070" size=3D"3">
+
+<br>
+ Answer the survey in the next 24 hours and you could win a Samsung Galaxy Tab 4 of 7=E2=80=9D! The winner will be selected randomly.
+ </font>
+ </br>
+ </td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr><td align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#707070" size=3D"3">
+
+<center><img src=3D"http://www.payulatam.com/nps_2015/hero_large.png"></center>
+ </td>
+ </tr>
+=20
+ <tr><td align=3D"justify"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#707070" size=3D"3">
+
+<br>
+ In addition, we inform you that you have until February 22 to answer this survey. For more information about the terms and conditions,=20
+
+
+<a href=3D"http://db.mailtrackpro.com/mailtrack3/server/redirect.php?user=3D32252578&email=3D2005&cid=3Daa4ffc3cb8a8849mail&url=3Dhttp%3A%2F%2Fwww.payulatam.com%2Fnps_terminos_condiciones.html" target=3D"_blank">click here</a>
+
+
+ </font>
+ </br>
+ </td>
+ </tr>
+=20
+ <tr>
+ <td>&nbsp;</td>
+ </tr> <tr>
+ <td>&nbsp;</td>
+ </tr>
+ <tr><td align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#707070" size=3D"3">
+
+<br>
+ We greatly appreciate your participation,
+ </font>
+ </br>
+ </td>
+ </tr>
+ <tr>
+ </tr>
+ <tr>
+ <td align=3D"left"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#707070" size=3D"3">PayU.</font></td>
+ </tr>
+ <tr>
+ <td align=3D"left"><img src=3D"http://www.payulatam.com/nps_2015/separador.2.jpg" alt=3D"Pagosonline by PayU Latam" width=3D"186" height=3D"5" style=3D"width: 100%; height: 5px;" align=3D"none"></td>
+ </tr>
+
+=20
+ <tr>
+ <td align=3D"left"><img src=3D"http://www.payulatam.com/nps_2015/payuint_logo.png" alt=3D"Pagosonline by PayU Latam" width=3D"157" height=3D"68" style=3D"width: 157px; height: 68px;" align=3D"none"></td>
+ </tr>
+
+
+ </table>
+</td>
+</tr>=20
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+
+
+
+</td>
+ </tr>
+
+ </tr>
+</table>
+
+
+</td></tr></table></center>
+<img src=3D"http://db.mailtrackpro.com/mailtrack3/server/pix_serv_mail2.php?cid=3Daa4ffc3cb8a8849mail&user=3D32252578&email=3D2005&usertype=3D1&js=3D0&tag=3D2&v=3D0" width=3D"1" height=3D"1" border=3D"0" alt=3D"">
+</body>
+</html>
+
+--=_855d548533249e9f144e00923f5bcc09--

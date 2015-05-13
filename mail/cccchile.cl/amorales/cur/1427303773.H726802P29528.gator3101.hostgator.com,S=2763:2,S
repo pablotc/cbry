@@ -1,0 +1,64 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 25 Mar 2015 12:16:13 -0500
+Received: from mail-oi0-f51.google.com ([209.85.218.51]:35906)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1Yaoub-0007cK-F1
+	for amorales@cccchile.cl; Wed, 25 Mar 2015 12:16:13 -0500
+Received: by oicf142 with SMTP id f142so18159912oic.3
+        for <amorales@cccchile.cl>; Wed, 25 Mar 2015 10:16:11 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=o0/YD6d0WTyERBCS+yh94vOIxOtYkWrrdrajC1Z87Zk=;
+        b=Ie4WKAAVkwBJGeZJRd3UVerY2YbKR71ycBFqo1X9sQtQ+LAy11QkIbrOZ3dL2bEYPX
+         Yv/H9LlSWRxmZMWFknmScGx5ON2xpOaZ9az92rLxu39hZNW08jtZ7x7EzGCyT0mIzwvj
+         JljNGLrSqLf8nIisdGpg3nxrrZt/L7BAKDe09+vnHaL4YsYEF8Wpbq1+TuKF4/hZrn8Z
+         qWZLJ/JInVu14BwvOjlNVcYNVzsp4t48FNX3T609c4kcOsGb0pl2aZ7L9iHRxz08+f/k
+         klbnZ+SAVywQLvEkfemc7vJH0OtYlWySzRO54GhxB+hK++SFUEbydBmD/JqfbCsfy3hM
+         294A==
+X-Gm-Message-State: ALoCoQnSyJOgfDic7hSpKchk6px8Oy85KDq2Bj8JEopwHx7v687YI4BPSSu+l4oeP+UTC/VvVfiZ
+MIME-Version: 1.0
+X-Received: by 10.182.28.39 with SMTP id y7mr8265729obg.11.1427303770995; Wed,
+ 25 Mar 2015 10:16:10 -0700 (PDT)
+Received: by 10.182.116.166 with HTTP; Wed, 25 Mar 2015 10:16:10 -0700 (PDT)
+X-Originating-IP: [201.220.242.129]
+Date: Wed, 25 Mar 2015 13:16:10 -0400
+Message-ID: <CAJbDu1niiJqYnJoycqOkkJdkwndWktxkCUu6KbYem89hShswkg@mail.gmail.com>
+Subject: MUESTRARIO CCC SHORT RUGBY
+From: Victor Irigoyen <virigoyen@viaglobal.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>, 
+	Guillermo Morales M <gmorales@spindeportes.cl>
+Content-Type: multipart/alternative; boundary=089e015380d041d48e0512200ee3
+
+--089e015380d041d48e0512200ee3
+Content-Type: text/plain; charset=UTF-8
+
+Hola Andres.
+
+le vamos a facturar a OLD LOCK, para eso necesito el muestrario short para
+sacar las tallas.
+
+me lo puedes tener para el finde (les estamos estampando las camisetas), le
+paso todo al tiro.
+
+quedo atento.
+gracias
+
+VI
+
+--089e015380d041d48e0512200ee3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hola Andres.=C2=A0<div><br></div><div>le vamos a facturar =
+a OLD LOCK, para eso necesito el muestrario short para sacar las tallas.=C2=
+=A0</div><div><br></div><div>me lo puedes tener para el finde (les estamos =
+estampando las camisetas), le paso todo al tiro.=C2=A0</div><div><br></div>=
+<div>quedo atento.=C2=A0</div><div>gracias</div><div><br></div><div>VI</div=
+></div>
+
+--089e015380d041d48e0512200ee3--

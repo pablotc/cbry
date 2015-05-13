@@ -1,0 +1,332 @@
+Return-path: <ofuentea@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 03 Mar 2015 10:26:25 -0600
+Received: from mail-qa0-f41.google.com ([209.85.216.41]:57682)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <ofuentea@gmail.com>)
+	id 1YSpeL-0008Nr-C9
+	for amorales@cccchile.cl; Tue, 03 Mar 2015 10:26:25 -0600
+Received: by mail-qa0-f41.google.com with SMTP id i13so609469qae.0
+        for <amorales@cccchile.cl>; Tue, 03 Mar 2015 08:26:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=l4pIpqP/ubWeKsjt6rdxNqs23zWNfy7YZ2B44yl7iDE=;
+        b=YL1ts7AWNSBsVO2UiGKdbAasaRn/kt9J4/zu+D9pxcR+WooiKiWU5n+uhIvcLRuF3s
+         7GO5VNHPy7ID1wKL57jGqaTT2E42jIvUnSCd9OWff7ZDXI+kQ0yOolNOx9XEvebWKQFl
+         MNFwgMTpi0zWM6HCu9dzUOvfKjUWOBrGN5hU5DfG3VvAufBI00OdJpD0oT44/OYvwDYZ
+         Ak1x5HRuoYB3Akq28kqCVEhSiDjdLJ58QrgaX3b79jbETxpCsXDgoKamDZr7XdHsdV2j
+         i3DoWL6k7zKKQkbLHqb/8JTGWKAObD5L0PYPGbw9VMrsm48CmdRItVmCHopSPyZrKX63
+         JlZw==
+X-Received: by 10.140.29.138 with SMTP id b10mr57921627qgb.78.1425399982018;
+        Tue, 03 Mar 2015 08:26:22 -0800 (PST)
+Received: from ISITSEC (181-162-97-145.baf.movistar.cl. [181.162.97.145])
+        by mx.google.com with ESMTPSA id z143sm661727qhd.40.2015.03.03.08.26.20
+        for <amorales@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 03 Mar 2015 08:26:21 -0800 (PST)
+From: "Oscar Fuentealba - Gmail" <ofuentea@gmail.com>
+To: =?UTF-8?Q?'Andr=C3=A9s_Morales_=28CCC-CHILE=29'?= <amorales@cccchile.cl>
+References: <001401d054e4$5ccbc840$166358c0$@isitsec.cl>	<CAKggD2QOpTS8=Db6+-5hcL_HuKsYDvYahDyKh5gDE=fKytZykA@mail.gmail.com>	<002801d054e7$42f70d50$c8e527f0$@gmail.com>	<CAKggD2R1rBJn3mviRFhH+RceGBCQFaJTfJM+kfNXRBUwNg6uOA@mail.gmail.com>	<006701d054f6$f7a666b0$e6f33410$@gmail.com> <CAKggD2TeN0Uyw8jzAJ=gYNPNtsESrb=qK8TAmLQCvjZxL6CKxA@mail.gmail.com>
+In-Reply-To: <CAKggD2TeN0Uyw8jzAJ=gYNPNtsESrb=qK8TAmLQCvjZxL6CKxA@mail.gmail.com>
+Subject: RE: Toma Inventario Canterberry
+Date: Tue, 3 Mar 2015 13:17:19 -0300
+Message-ID: <014301d055cd$87874430$9695cc90$@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0144_01D055B4.623B92D0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQHsKBUuc2b3u4Cqs4MBVW1hyEfQYwJmgIBmAXGbn3EB2CYh9gHTklw4Ao3e7zmcgrz5gA==
+Content-Language: es-cl
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0144_01D055B4.623B92D0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+YA termino el inventario ayer a las 15:00 hrs aprox, se dejaron 3 cajas =
+identificadas con productos sin c=C3=B3digos, estas fueron informadas al =
+encargado del canterberry.
+
+Bajare la data y te la env=C3=ADo.
+
+Slds.
+
+OF
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: martes, 03 de marzo de 2015 9:25
+Para: Oscar Fuentealba - Gmail
+Asunto: Re: Toma Inventario Canterberry
+
+=20
+
+Buenisimo!
+
+=20
+
+nos vemos el jueves entonces.
+
+=20
+
+ala.
+
+=20
+
+El 2 de marzo de 2015, 11:41, Oscar Fuentealba - Gmail =
+<ofuentea@gmail.com> escribi=C3=B3:
+
+Ya poh dale enviar y recibir a tu correo, este tipo ya est=C3=A1 =
+terminando=E2=80=A6. Te envi=C3=A9 hace rato el correo que hab=C3=ADa =
+iniciado=E2=80=A6.
+
+Slds.
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: lunes, 02 de marzo de 2015 11:49
+Para: Oscar Fuentealba - Gmail
+Asunto: Re: Toma Inventario Canterberry
+
+=20
+
+A que hora llega?
+
+El lunes, 2 de marzo de 2015, Oscar Fuentealba - Gmail =
+<ofuentea@gmail.com> escribi=C3=B3:
+
+Deber=C3=ADa estar en =C2=BD hora o m=C3=A1ximo =C2=BE hr.
+
+Slds.
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: lunes, 02 de marzo de 2015 9:56
+Para: Oscar Fuentealba G - ISITSEC
+CC: Contabilidad Spin Ltda
+Asunto: Re: Toma Inventario Canterberry
+
+=20
+
+Oscar, a que hora va a ir?
+
+El lunes, 2 de marzo de 2015, Oscar Fuentealba G - ISITSEC =
+<oscar.fuentealba@isitsec.cl> escribi=C3=B3:
+
+Ana Maria,=20
+
+Diego G=C3=A1lvez ira a tomar inventario a la Bodega de Canterburry, =
+favor dar los accesos necesarios para realizar el trabajo en la bodega =
+del frente.
+
+Saludos cordiales.
+
+=20
+
+Atte.,
+
+Oscar Fuentealba G.
+
+ISISTEC Automatizaci=C3=B3n de Procesos
+
+(+569) 6 431 28 48 - (+569) 6 779 35 66 - 6 158 45 93  / Nextel =
+*56*22*23455
+
+=20
+
+=20
+
+
+------=_NextPart_000_0144_01D055B4.623B92D0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EstiloCorreo17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:ES-CL;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DES-CL link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>YA termino el inventario ayer a las 15:00 hrs aprox, se dejaron 3 =
+cajas identificadas con productos sin c=C3=B3digos, estas fueron =
+informadas al encargado del canterberry.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Bajare la data y te la env=C3=ADo.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Slds.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>OF<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl] =
+<br><b>Enviado el:</b> martes, 03 de marzo de 2015 9:25<br><b>Para:</b> =
+Oscar Fuentealba - Gmail<br><b>Asunto:</b> Re: Toma Inventario =
+Canterberry<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal>Buenisimo!<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>nos vemos el jueves =
+entonces.<o:p></o:p></p></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><div><p =
+class=3DMsoNormal>ala.<o:p></o:p></p></div></div><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>El 2 de =
+marzo de 2015, 11:41, Oscar Fuentealba - Gmail &lt;<a =
+href=3D"mailto:ofuentea@gmail.com" =
+target=3D"_blank">ofuentea@gmail.com</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Ya poh dale enviar y recibir a tu correo, este tipo ya est=C3=A1 =
+terminando=E2=80=A6. Te envi=C3=A9 hace rato el correo que hab=C3=ADa =
+iniciado=E2=80=A6.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Slds.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [mailto:<a =
+href=3D"mailto:amorales@cccchile.cl" =
+target=3D"_blank">amorales@cccchile.cl</a>] <br><b>Enviado el:</b> =
+lunes, 02 de marzo de 2015 11:49<br><b>Para:</b> Oscar Fuentealba - =
+Gmail<br><b>Asunto:</b> Re: Toma Inventario =
+Canterberry</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>A que hora =
+llega?<br><br>El lunes, 2 de marzo de 2015, Oscar Fuentealba - Gmail =
+&lt;<a href=3D"mailto:ofuentea@gmail.com" =
+target=3D"_blank">ofuentea@gmail.com</a>&gt; =
+escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Deber=C3=ADa estar en =C2=BD hora o m=C3=A1ximo =C2=BE =
+hr.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Slds.</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s Morales (CCC-CHILE) [<a =
+href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>] =
+<br><b>Enviado el:</b> lunes, 02 de marzo de 2015 9:56<br><b>Para:</b> =
+Oscar Fuentealba G - ISITSEC<br><b>CC:</b> Contabilidad Spin =
+Ltda<br><b>Asunto:</b> Re: Toma Inventario =
+Canterberry</span><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Oscar, a =
+que hora va a ir?<br><br>El lunes, 2 de marzo de 2015, Oscar Fuentealba =
+G - ISITSEC &lt;<a =
+href=3D"mailto:oscar.fuentealba@isitsec.cl">oscar.fuentealba@isitsec.cl</=
+a>&gt; escribi=C3=B3:<o:p></o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Ana Maria, =
+<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Diego =
+G=C3=A1lvez ira a tomar inventario a la Bodega de Canterburry, favor dar =
+los accesos necesarios para realizar el trabajo en la bodega del =
+frente.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Saludos =
+cordiales.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#17365D'>Atte.,</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#17365D'>Oscar Fuentealba G.</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#17365D'>ISISTEC Automatizaci=C3=B3n de =
+Procesos</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span =
+style=3D'color:#17365D'>(+569) 6 431 28 48 - (+569) 6 779 35 66 - 6 158 =
+45 93&nbsp; / Nextel *56*22*23455</span></b><o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p></div></div></div></div></div></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></div></body></html>
+------=_NextPart_000_0144_01D055B4.623B92D0--
+

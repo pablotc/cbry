@@ -1,5 +1,4 @@
 passwd:$1$2RQoi7QE$l/F8spWRh8WvpEyTd02jb/
 quota:524288000
-homedir:
-strength:88
+homedir:/home2/amorales/mail/cccchile.cl/ventas
 lastchanged:16308

@@ -1,5 +1,4 @@
-passwd:$1$Od3sU7SH$jTp40jyqJIFu7AWqUdLUT1
-quota:0
-homedir:
-strength:54
+passwd:$1$htu0ZdUL$X/bgwwMsoq8J/pbVzbIvI1
+quota:1048576000
+homedir:/home2/amorales/mail/cccchile.cl/amorales
 lastchanged:16167

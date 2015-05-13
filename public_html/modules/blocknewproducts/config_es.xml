@@ -2,7 +2,7 @@
 <module>
 	<name>blocknewproducts</name>
 	<displayName><![CDATA[Bloque de novedades]]></displayName>
-	<version><![CDATA[1.9.1]]></version>
+	<version><![CDATA[1.9.2]]></version>
 	<description><![CDATA[Mostrar el bloque con los nuevos productos a&ntilde;adidos]]></description>
 	<author><![CDATA[PrestaShop]]></author>
 	<tab><![CDATA[front_office_features]]></tab>

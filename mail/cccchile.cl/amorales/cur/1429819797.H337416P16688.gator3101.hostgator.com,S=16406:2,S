@@ -1,0 +1,405 @@
+Return-path: <josefa.m@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 23 Apr 2015 15:09:57 -0500
+Received: from mail-wg0-f43.google.com ([74.125.82.43]:36044)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <josefa.m@gmail.com>)
+	id 1YlNRc-0004IE-Th
+	for amorales@cccchile.cl; Thu, 23 Apr 2015 15:09:57 -0500
+Received: by wgen6 with SMTP id n6so30008845wge.3
+        for <amorales@cccchile.cl>; Thu, 23 Apr 2015 13:09:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=KOF4LYco+mnQLFRuKSgRw4D9uRphfOF/uECx1jRRSO0=;
+        b=YM5xl3mztFnEI7/sMdePZhpSZkv4rZO8jzkPq52Y/VCANJ195DJ8MC1Mczb3cPROWq
+         xCdYnsEDI7GyTJFoG6j8FZVNy+bAGZHgMaMRR/EmG8a3QtGltyiEPW9TzuiRsQmuMrLe
+         q67J1mPeEq4zgPacAe3EGdiB/gADYwqo3eR8ABef+b49b4R+MeMsjefqAgpfcF9ZBGaq
+         EyD3wS2kJVJz6Vc9bZS3bp7lQ6l8dytkJZfjhOjKf/jJJH/rajxnukB70Fo78i6AVRLa
+         q4SHCBfnBKsNbMOtTV6G/8yjt5EXHpVlM8Y67JNdzOWos03gFjkHC0CLt5VYbl360sSI
+         KZRw==
+MIME-Version: 1.0
+X-Received: by 10.194.203.74 with SMTP id ko10mr5896084wjc.96.1429819794084;
+ Thu, 23 Apr 2015 13:09:54 -0700 (PDT)
+Received: by 10.28.4.149 with HTTP; Thu, 23 Apr 2015 13:09:53 -0700 (PDT)
+In-Reply-To: <50A0FA980D0CA64EBE525618E1A7B5A0AF8263@CLSTGEXCP00N1.Itauchile.cl>
+References: <CAOxT3aiBbzSrCuS40A+97UNEYnmBBWPd21iiZDT0p8LE7VqF4g@mail.gmail.com>
+	<1160578775.3678409.1429811745613.JavaMail.yahoo@mail.yahoo.com>
+	<50A0FA980D0CA64EBE525618E1A7B5A0AF8263@CLSTGEXCP00N1.Itauchile.cl>
+Date: Thu, 23 Apr 2015 17:09:53 -0300
+Message-ID: <CAOxT3ah1Rxrx5Yn7ayjvRQ3tWmGRNyjiFCYfrW6FmAEv_F-xYw@mail.gmail.com>
+Subject: Re: Avances obras
+From: josefa morales <josefa.m@gmail.com>
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+Cc: Gabriel Chomali <gabrielchomali@yahoo.com>, Max Correa Malschafsky <maxcorream@gmail.com>, 
+	=?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=047d7b6dc980eb5a85051469dce8
+
+--047d7b6dc980eb5a85051469dce8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Rodrigo, si te lo envi=C3=A9 pero me rebot=C3=B3, parece que por el tama=C3=
+=B1o del mail.
+no tienes otro mail?
+
+
+El 23 de abril de 2015, 16:53, Rios Prado, Rodrigo <Rodrigo.Rios@itau.cl>
+escribi=C3=B3:
+
+>  Por alg=C3=BAn extra=C3=B1o motivo no me llegan los mails de la fefa
+>
+> No vi las fotos
+>
+> *Rodrigo R=C3=ADos Prado*
+> *Agente, Sucursal Pedro de Valdivia*
+> Banco Ita=C3=BA Chile
+> Pedro de Valdivia N=C2=B03558
+> =C3=91u=C3=B1oa, Santiago
+> *Rodrigo.Rios@itau.cl <Rodrigo.Rios@itau.cl>*
+> Fono :+5626854681
+>
+> BackUp:
+> *Andres.Rivera@itau.cl <rodrigo.paredes@itau.cl>*
+>
+> Fono :+5626854688
+>
+>
+>
+> *De:* Gabriel Chomali [mailto:gabrielchomali@yahoo.com]
+> *Enviado el:* jueves, 23 de abril de 2015 14:56
+> *Para:* josefa morales; Rios Prado, Rodrigo
+> *CC:* Max Correa Malschafsky; Andr=C3=A9s Morales (CCC-CHILE)
+> *Asunto:* Re: Avances obras
+>
+>
+>
+> Excelenet... todo se ve muy bien.
+>
+> Gracias por la informaci=C3=B3n.
+>
+> Gabriel
+>
+>
+>    ------------------------------
+>
+> *From:* josefa morales <josefa.m@gmail.com>
+> *To:* "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>; Trinidad Chomali <
+> gabrielchomali@yahoo.com>
+> *Cc:* Max Correa Malschafsky <maxcorream@gmail.com>; Andr=C3=A9s Morales
+> (CCC-CHILE) <amorales@cccchile.cl>
+> *Sent:* Thursday, April 23, 2015 11:42 AM
+> *Subject:* Avances obras
+>
+>
+>
+> Rodrigo y Gabriel, como est=C3=A1n?
+>
+>
+>
+> Les escribo para contarles como van las obras. Est=C3=A1 quedando muy bie=
+n!
+>
+> La parte m=C3=A1s gruesa ya est=C3=A1 lista, se sac=C3=B3 todo, se arregl=
+aron y pintaron
+> los muros, se puli=C3=B3 el piso, entre varias cosas m=C3=A1s. Les adjunt=
+o fotos.
+>
+>
+>
+> Esta semana se continuar=C3=A1 con la obras de pintura, mejoramiento de l=
+a
+> escalera, y la pr=C3=B3xima ser=C3=A1 la instalaci=C3=B3n de los tableros=
+ de madera en los
+> muros, para terminar con la =C3=BAltima mano de vitrificado en el piso. E=
+n
+> paralelo, los otros muebles ya se mandaron a hacer.
+>
+>
+>
+> La primera semana de mayo estar=C3=ADa listo el piso de abajo, y el piso =
+de
+> arriba tambi=C3=A9n quedar=C3=ADa habilitado (con muros pintados y piso n=
+uevo pero
+> quedar=C3=ADa por hacer las repisas, escritorio).
+>
+>
+>
+> Sobre la inquietud de cuando se podr=C3=ADa guardar productos arriba, cre=
+emos
+> que puede ser a partir de mayo, pero los maestros seguir=C3=ADan trabajan=
+do
+> instalando las repisas arriba.
+>
+> Durante la pr=C3=B3xima semana les contar=C3=A9 c=C3=B3mo vamos, porque t=
+endr=C3=ADamos otro
+> gran avance.
+>
+>
+>
+> (ya tenemos copias de las llaves!)
+>
+>
+>
+> Un abrazo,
+>
+> Josefa.
+>
+>
+>    Para asegurar la adecuada lectura en todo tipo de correos
+> electronicos, se han omitido intencionalmente los signos y acentos
+> diacriticos del idioma castellano. la informacion contenida en este mensa=
+je
+> y cualquier archivo adjunto es confidencial y no puede ser usada por mas
+> personas que sus destinatarios. El uso no autorizado de esta informacion
+> puede ser sancionado de conformidad con el Codigo Penal chileno. Si ha
+> recibido este correo por error, por favor notifique al remitente
+> respondiendo este mismo mensaje y elimine el mensaje y todos los archivos
+> adjuntos. Internet no puede garantizar la integridad de este mensaje, por
+> lo que el Banco no se hace responsable si el contenido del mismo ha sido
+> alterado
+>
+
+--047d7b6dc980eb5a85051469dce8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Rodrigo, si te lo envi=C3=A9 pero me rebot=C3=B3, parece q=
+ue por el tama=C3=B1o del mail.=C2=A0<div>no tienes otro mail?=C2=A0</div><=
+div><br></div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quot=
+e">El 23 de abril de 2015, 16:53, Rios Prado, Rodrigo <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank">Rodrigo.Rios@ita=
+u.cl</a>&gt;</span> escribi=C3=B3:<br><blockquote class=3D"gmail_quote" sty=
+le=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+
+
+
+
+<div lang=3D"ES-CL" link=3D"blue" vlink=3D"purple">
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Por alg=C3=BAn extra=C3=
+=B1o motivo no me llegan los mails de la fefa
+<u></u><u></u></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">No vi las fotos
+<u></u><u></u></span></p>
+<div>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:11.0pt;font-family:&quot=
+;Arial&quot;,&quot;sans-serif&quot;;color:#e96b10">Rodrigo R=C3=ADos Prado<=
+/span></b><span style=3D"font-size:11.0pt;font-family:&quot;Arial&quot;,&qu=
+ot;sans-serif&quot;;color:#7f7f7f"><br>
+<b>Agente, Sucursal Pedro de Valdivia</b><br>
+Banco Ita=C3=BA Chile<br>
+Pedro de Valdivia N=C2=B03558<br>
+=C3=91u=C3=B1oa, Santiago<br>
+</span><b><u><span style=3D"font-size:11.0pt;font-family:&quot;Arial&quot;,=
+&quot;sans-serif&quot;;color:#e36c0a"><a href=3D"mailto:Rodrigo.Rios@itau.c=
+l" target=3D"_blank">Rodrigo.Rios@itau.cl</a></span></u></b><span style=3D"=
+font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color=
+:#7f7f7f"><br>
+Fono :+5626854681 <br>
+<br>
+</span><span style=3D"font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;=
+sans-serif&quot;;color:#7f7f7f">BackUp:
+<br>
+<u>Andres.Rivera<a href=3D"mailto:rodrigo.paredes@itau.cl" target=3D"_blank=
+"><span style=3D"color:#7f7f7f">@itau.cl</span></a><u></u><u></u></u></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ar=
+ial&quot;,&quot;sans-serif&quot;;color:#7f7f7f">Fono :+5626854688</span><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#7f7f7f"><u></u><u></u></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-=
+family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;"> Gabriel Chomali [mailto:<a href=3D"mailto:gabrielchomali@yah=
+oo.com" target=3D"_blank">gabrielchomali@yahoo.com</a>]
+<br>
+<b>Enviado el:</b> jueves, 23 de abril de 2015 14:56<br>
+<b>Para:</b> josefa morales; Rios Prado, Rodrigo<br>
+<b>CC:</b> Max Correa Malschafsky; Andr=C3=A9s Morales (CCC-CHILE)<br>
+<b>Asunto:</b> Re: Avances obras<u></u><u></u></span></p>
+</div>
+</div><div><div class=3D"h5">
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black">Excelenet... todo=
+ se ve muy bien.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black">Gracias por la in=
+formaci=C3=B3n.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black">Gabriel<u></u><u>=
+</u></span></p>
+</div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u><=
+/u></span></p>
+<div>
+<div>
+<div>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;backgr=
+ound:white">
+<span style=3D"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;col=
+or:black">
+<hr size=3D"1" width=3D"100%" align=3D"center">
+</span></div>
+<p class=3D"MsoNormal" style=3D"background:white"><b><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"=
+>From:</span></b><span style=3D"font-size:10.0pt;font-family:&quot;Arial&qu=
+ot;,&quot;sans-serif&quot;;color:black"> josefa morales &lt;<a href=3D"mail=
+to:josefa.m@gmail.com" target=3D"_blank">josefa.m@gmail.com</a>&gt;<br>
+<b>To:</b> &quot;Rios Prado, Rodrigo&quot; &lt;<a href=3D"mailto:Rodrigo.Ri=
+os@itau.cl" target=3D"_blank">Rodrigo.Rios@itau.cl</a>&gt;; Trinidad Chomal=
+i &lt;<a href=3D"mailto:gabrielchomali@yahoo.com" target=3D"_blank">gabriel=
+chomali@yahoo.com</a>&gt;
+<br>
+<b>Cc:</b> Max Correa Malschafsky &lt;<a href=3D"mailto:maxcorream@gmail.co=
+m" target=3D"_blank">maxcorream@gmail.com</a>&gt;; Andr=C3=A9s Morales (CCC=
+-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl" target=3D"_blank">amora=
+les@cccchile.cl</a>&gt;
+<br>
+<b>Sent:</b> Thursday, April 23, 2015 11:42 AM<br>
+<b>Subject:</b> Avances obras</span><span style=3D"font-family:&quot;Helvet=
+ica&quot;,&quot;sans-serif&quot;;color:black"><u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+<div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Rodrigo y Gabri=
+el, como est=C3=A1n?=C2=A0<u></u><u></u></span></p>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Les escribo par=
+a contarles como van las obras. Est=C3=A1 quedando muy bien!=C2=A0<u></u><u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">La parte m=C3=
+=A1s gruesa ya est=C3=A1 lista, se sac=C3=B3 todo, se arreglaron y pintaron=
+ los muros, se puli=C3=B3 el piso, entre varias cosas m=C3=A1s. Les adjunto=
+ fotos.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">=C2=A0<u></u><u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Esta semana se =
+continuar=C3=A1 con la obras de pintura, mejoramiento de la escalera, y la =
+pr=C3=B3xima ser=C3=A1 la instalaci=C3=B3n de los tableros de madera en los=
+ muros,
+ para terminar con la =C3=BAltima mano de vitrificado en el piso. En parale=
+lo, los otros muebles ya se mandaron a hacer. =C2=A0=C2=A0<u></u><u></u></s=
+pan></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">La primera sema=
+na de mayo estar=C3=ADa listo el piso de abajo, y el piso de arriba tambi=
+=C3=A9n quedar=C3=ADa habilitado (con muros pintados y piso nuevo pero qued=
+ar=C3=ADa
+ por hacer las repisas, escritorio).=C2=A0<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Sobre la inquie=
+tud de cuando se podr=C3=ADa guardar productos arriba, creemos que puede se=
+r a partir de mayo, pero los maestros seguir=C3=ADan trabajando instalando
+ las repisas arriba.<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Durante la pr=
+=C3=B3xima semana les contar=C3=A9 c=C3=B3mo vamos, porque tendr=C3=ADamos =
+otro gran avance.=C2=A0<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">(ya tenemos cop=
+ias de las llaves!)=C2=A0<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black"><u></u>=C2=A0<u=
+></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Un abrazo,=C2=
+=A0<u></u><u></u></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-famil=
+y:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">Josefa.=C2=A0<u=
+></u><u></u></span></p>
+</div>
+</div>
+</div>
+</div>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt;background:white"><spa=
+n style=3D"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:b=
+lack"><u></u>=C2=A0<u></u></span></p>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+Para asegurar la adecuada lectura en todo tipo de correos electronicos, se =
+han omitido intencionalmente los signos y acentos diacriticos del idioma ca=
+stellano. la informacion contenida en este mensaje y cualquier archivo adju=
+nto es confidencial y no puede ser usada por mas personas que sus destinata=
+rios. El uso no autorizado de esta informacion puede ser sancionado de conf=
+ormidad con el Codigo Penal chileno. Si ha recibido este correo por error, =
+por favor notifique al remitente respondiendo este mismo mensaje y elimine =
+el mensaje y todos los archivos adjuntos.
+Internet no puede garantizar la integridad de este mensaje, por lo que el B=
+anco no se hace responsable si el contenido del mismo ha sido alterado
+</div>
+
+</blockquote></div><br></div>
+
+--047d7b6dc980eb5a85051469dce8--

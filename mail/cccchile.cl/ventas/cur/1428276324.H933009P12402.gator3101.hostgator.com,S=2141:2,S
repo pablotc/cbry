@@ -1,0 +1,53 @@
+Return-path: <fernando.eiffler@gmail.com>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Sun, 05 Apr 2015 18:25:24 -0500
+Received: from mail-qk0-f182.google.com ([209.85.220.182]:36860)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <fernando.eiffler@gmail.com>)
+	id 1Yetuu-0003Be-Hl
+	for ventas@cccchile.cl; Sun, 05 Apr 2015 18:25:24 -0500
+Received: by qku63 with SMTP id 63so13242327qku.3
+        for <ventas@cccchile.cl>; Sun, 05 Apr 2015 16:25:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:from:content-type:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=H6PNVjSE+0GV9WB6hXraQQxayr187+AbE5r6eh5M5Uc=;
+        b=abiIm/h7xSn35takb7ef+BuGRA+wrb+vdBD/XJChvyrRnW2Ls8tGxLzzxS6woSj4vs
+         p6LZnvcgMXc06H4BiI4NDATQTcVPKWMQtgFl36M5P2aDLlEDSOwLySnHrSsRmD2uNbm+
+         fUz+B05aI29WiTHn947lUUNhLY6Gzi8TihWJEhuM7OQWOef+s4kiUwOTP3vQWGEj0Lga
+         c2BO4/E3RqVpnexlE/nE7E4GB8D90dZ99XHZ/anLazze2PGT1BQTc1nH4GbL+qPl7R52
+         wDITl+epzungH/Qqs9I2qUlY3rB8eIgljD4EevlYQwP6mYgLM0sKvbBO8Danbb+K77Ui
+         5AKA==
+X-Received: by 10.229.226.71 with SMTP id iv7mr14842116qcb.13.1428276322424;
+        Sun, 05 Apr 2015 16:25:22 -0700 (PDT)
+Received: from [192.168.1.103] ([190.8.91.13])
+        by mx.google.com with ESMTPSA id y18sm2040897qgd.24.2015.04.05.16.25.21
+        for <ventas@cccchile.cl>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 05 Apr 2015 16:25:21 -0700 (PDT)
+Subject: =?utf-8?Q?Ropa_rugby_ni=C3=B1os_e_infantiles?=
+From: Fernando Eiffler <fernando.eiffler@gmail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPad Mail (12B440)
+Message-Id: <5B285A2A-8962-4342-8664-E82935A64C7E@gmail.com>
+Date: Sun, 5 Apr 2015 20:25:10 -0300
+To: "ventas@cccchile.cl" <ventas@cccchile.cl>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Estimados,
+
+Podrian por favor enviarme informacion de la ropa para ni=C3=B1os que tengan=
+ disponible? Edades 10 y 12 a=C3=B1os.
+
+
+Muchas gracias
+
+
+
+Fernando Eiffler.
+
+Sent from my iPad=

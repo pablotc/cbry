@@ -1,0 +1,264 @@
+Return-path: <serviciodetransferencias@bancochile.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 16 Mar 2015 09:02:39 -0500
+Received: from wse18.bancochile.cl ([200.14.133.77]:27950)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <serviciodetransferencias@bancochile.cl>)
+	id 1YXVbL-0008Cg-GR
+	for amorales@cccchile.cl; Mon, 16 Mar 2015 09:02:39 -0500
+X-IronPort-AV: E=Sophos;i="5.11,409,1422932400"; 
+   d="scan'208,217";a="186764271"
+Received: from unknown (HELO BCHEX15.bch.bancodechile.cl) ([152.139.2.253])
+  by wse17-20.bancochile.cl with ESMTP; 16 Mar 2015 10:49:07 -0300
+Received: from EL01CN13 ([152.139.83.77]) by BCHEX15.bch.bancodechile.cl with Microsoft SMTPSVC(6.0.3790.4675);
+	 Mon, 16 Mar 2015 11:02:35 -0300
+From: serviciodetransferencias@bancochile.cl
+To: amorales@cccchile.cl
+Message-ID: <880739065.12923.1426514555749.JavaMail.weblogic@EL01CN13>
+Subject: camise senior 2015
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+CorID: 22E4B35EC0A8010D2273A9F30004C9EA,1:0,0,0,EL01CN13|WebLogic|AgenteBusCDLV_17|OSB|BusinessServices|UT_Correo/BS000135_CorreoInterno/BusinessService/BS000135_CorreoInterno,6,AgAAAXFIQgAAAAFGAAAAAQAAABFqYXZhLnV0aWwuSGFzaE1hcAAAAAZIQgAAAAJGAAAAAgAAABBqYXZhLmxhbmcuU3RyaW5nAA9DYWxsZXJUaW1lc3RhbXBIQgAAAANFAAAAAgANMTQyNjUxNDU1NTc0MkhCAAAABEUAAAACABBwcmV2X2tUeG5UcmFjZUlkSEIAAAAFRQAAAAIAIDIyRTRCMzU4QzBBODAxMEQyMjczQTlGM0NBNERGMjZESEIAAAAGRQAAAAIAC05CVGhyZWFkVHhuSEIAAAAHRQAAAAIABWZhbHNlSEIAAAAIRQAAAAIAClR4blRyYWNlSWRIQgAAAAlFAAAAAgAgMjJFNEIzNUVDMEE4MDEwRDIyNzNBOUYzRUEyMEIxM0VIQgAAAApFAAAAAgAXcHJldl9rVHhuVHJhY2VTdGFydFRpbWVIQ0hCAAAAC0UAAAACAAhCU19zZXFJZEhCAAAADEUAAAACAAMxOjE=
+X-OriginalArrivalTime: 16 Mar 2015 14:02:35.0738 (UTC) FILETIME=[DADC6BA0:01D05FF1]
+Date: 16 Mar 2015 11:02:35 -0300
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="es">
+<!-- AyerViernes S.A. -->
+
+<!-- www.ayerviernes.cl  -->
+
+<!-- Todos los Derechos Reservados -->
+
+<head>
+<title>Banco de Chile - TEF</title>
+<style type="text/css">
+*{
+	margin: 0;
+	padding: 0;
+}
+html, body{
+	width: 100%;
+	height: 100%;
+	background: #E2EAF5;
+}
+body{
+	font: normal normal .95em/120% Verdana, Arial, Helvetica, sans-serif;
+	z-index: -2;
+}
+table{
+	border-collapse: collapse;
+	empty-cells: show;
+	border-spacing: 0px;
+}
+td{
+	padding:0;
+}
+/*-------- Header --------*/
+#header{
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 4.5em;
+	background: url(http://www.bancochile.cl/images/tefTerceros/bch/backHeadComp.jpg) repeat-x top left;
+}
+#header h1{
+	position: absolute;
+	margin: .5em 0 0 1em;
+	padding: .1em 0 .3em 185px;
+	font: bold 1.6em/120% arial;
+	color: #FFF;
+	background: url(http://www.bancochile.cl/images/tefTerceros/bch/logoBancChileComp.jpg) no-repeat 0 0;
+}
+#header h1 span{
+	display: none;
+}
+/*-------- Cont --------*/
+#main{
+	display: block;
+	padding: .5em 2em;
+	background: #FFF;
+}
+#cont{
+	clear: both;
+	width: 60%;
+	min-width: 600px;
+	padding-bottom: 2em;
+}
+#cont .text h2{
+	margin: .5em 0 .4em 0;
+	font: bold 1.4em/100% arial;
+	color: #6689CC;
+}
+#cont .text p{
+	margin: .2em 0 .6em 0;
+	font: normal .8em/130% verdana;
+}
+h2.tituForm{
+	clear: both;
+	float: left;
+	width: auto;
+	margin: .8em 0 0 -1px;
+	padding: .6em .8em;
+	font: bold .85em/120% arial;
+	color: #006;
+	background: #C6D5EC;
+}
+table{
+	width: 100%;
+	clear: both;
+	border: 1px solid #C6D5EC;
+}
+table tr{
+	border: 0;
+}
+table tr th{
+	padding: .3em .5em .4em .8em;
+	font: bold .95em/105% arial;
+	text-align: left;
+	color: #006;
+	background-color: #E2EAF5;
+	border: 1px solid #C6D5EC;
+}
+table tr td{
+	width: 50%;
+	padding: .6em .2em;
+	font: normal .7em/120% verdana;
+	color: #333;
+	border: none;
+	vertical-align: top;
+}
+table .right{
+	text-align: right;
+	margin: 0;
+	float: none;
+}
+img.sello{
+	margin: .3em;
+	float: right;
+}
+/*--------- -----------*/
+#footer{
+	clear: both;
+	margin-top: 1em;
+	padding: .5em 2em;
+	background: #E2EAF5;
+}
+#footer address{
+	float: left;
+	width: 75%;
+	height: 5em;
+	padding: .5em 0 0 1.2em;
+	font: normal .65em/120% verdana;
+	letter-spacing: -.02em;
+	text-align: left;
+	border-left: 1px solid #E8EAE9;
+	color: #757D8A;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+	margin: .5em 0 0 .8em;
+}
+.colo{
+	background: #F5F5F5;
+}
+.cent{
+	text-align: center;
+}
+img.oculto{
+	display: none;
+}
+.cf:after{
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+/* Hides from IE-mac \*/
+* html .cf{height: 1%;}
+/* End hide from IE-mac */
+
+</style>
+</head>
+<body id="home">
+		<img src="http://www.bancochile.cl/images/tefTerceros/bch/mdp.jpg"/>
+	<div id="main">
+		<div id="cont">
+			<div class="text">
+				<h2>Comprobante de transferencia electr&oacute;nica de fondos</h2>
+				<p>Estimado(a) <strong>sociedad comercial reinalter,</strong><br />Le informamos que nuestro(a) cliente <strong>MICHAEL ARIEL MONDACA CASTRO</strong> ha efectuado una transferencia de fondos a su cuenta con el siguiente detalle.</p>
+			</div>			<h2 class="tituForm">Transferencia realizada</h2>
+			<table summary="Cartola de Transferencias" class="tablResu">
+				<tr>
+					<th class="100" colspan="2">Datos de cuenta</th>
+				</tr>
+				<tr>
+					<td class="right">Fecha:</td>
+					<td><strong>16/03/2015</strong><br /></td>
+				</tr>
+				<tr class="colo">
+					<td class="right">Asunto:</td>
+					<td><strong>camise senior 2015<br /></strong></td>
+				</tr>
+				<tr>
+					<th class="100" colspan="2">Datos de destinatario</th>
+				</tr>
+				
+				<tr>
+					<td class="right">Nombre y Apellido:</td>
+					<td><strong>sociedad comercial reinalter</strong></td>
+				</tr>
+				<tr class="colo">
+					<td class="right">RUT:</td>
+					<td><strong>79840460-1</strong></td>
+				</tr>
+				<tr>
+					<td class="right">Email:</td>
+					<td><strong>amorales@cccchile.cl</strong></td>
+				</tr>
+				<tr class="colo">
+					<td class="right">Banco:</td>
+					<td><strong>Banco Chile</strong></td>
+				</tr>
+				<tr>
+					<td class="right">Cuenta de destino:</td>
+					<td><strong>Cuenta Corriente 00161977518</strong></td>
+				</tr>
+				<tr class="colo">
+					<th class="100" colspan="2">Datos transferencia</th>
+				</tr>
+				<tr class="colo">
+					<td class="right">Monto:</td>
+					<td><strong>707.250</strong></td>
+				<tr>
+					<td class="right">N&uacute;mero de Comprobante:</td>
+					<td><strong>2015031601845973710</strong></td>
+				</tr>
+				<tr>
+					<td class="right">Mensaje:</td>
+					<td><strong style="word-wrap:break-word;word-break: break-all;">Deposito Perros RC 
+25 camisetas y short</strong></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="http://www.bancochile.cl/images/tefTerceros/bch/timbre-comprobante.gif" alt="Timbre Comprobante de Transferencia Electr&oacute;nica" class="sello" /></td>
+				</tr>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div id="footer" class="cf">
+		<div>
+			<address> 
+				Inf&oacute;rmese sobre la garant&iacute;a estatal de los dep&oacute;sitos en su banco o en <a href="http://www.sbif.cl/" class="out"><acronym>SBIF</acronym></a><br />
+				&copy; 2007, Banco de Chile. Todos los Derechos Reservados.
+			</address>
+		</div>
+	</div>
+</body>
+</html>

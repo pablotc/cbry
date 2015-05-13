@@ -1,0 +1,148 @@
+Return-path: <transferencias@bbva.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Thu, 19 Mar 2015 20:00:32 -0500
+Received: from smtp4.bbva.cl ([200.9.111.221]:43667)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <transferencias@bbva.cl>)
+	id 1YYlId-0006bP-H4
+	for ventas@cccchile.cl; Thu, 19 Mar 2015 20:00:32 -0500
+Received: from smtp4.bbva.cl (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 245B9490037
+	for <ventas@cccchile.cl>; Thu, 19 Mar 2015 22:00:27 -0300 (ART)
+Received: from localhost (unknown [127.0.0.1])
+	by IMSVA (Postfix) with SMTP id 12645490010
+	for <ventas@cccchile.cl>; Thu, 19 Mar 2015 22:00:27 -0300 (ART)
+X-IMSS-HAND-OFF-DIRECTIVE: 127.0.0.1:10026
+Received: from pionner.windows.bbva.cl (unknown [93.16.240.65])
+	by smtp4.bbva.cl (Postfix) with ESMTP id 322DF490003
+	for <ventas@cccchile.cl>; Thu, 19 Mar 2015 22:00:24 -0300 (ART)
+Received: from relaysmtp01.windows.bbva.cl ([93.16.240.248]) by pionner.windows.bbva.cl with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 19 Mar 2015 22:00:23 -0300
+Received: from BNET12 ([93.16.244.245]) by relaysmtp01.windows.bbva.cl with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 19 Mar 2015 22:00:23 -0300
+From: Transferencias <transferencias@bbva.cl>
+To: ventas@cccchile.cl
+Message-ID: <802959324.17591426813258346.JavaMail.root@BNET12>
+Subject: Comprobante de Transferencia
+Mime-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Language: es_cl
+X-OriginalArrivalTime: 20 Mar 2015 01:00:23.0731 (UTC) FILETIME=[3EDB7830:01D062A9]
+Date: 19 Mar 2015 22:00:23 -0300
+X-TM-AS-MML: disable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml">  <head>    <title>BBVA Comprobante TEF    </title>    <sty=
+le type=3D"text/css">      <!--      .text-12 {=09font-family: Arial, Helve=
+tica, sans-serif;=09font-size: 12px;=09font-weight: normal;=09color: #00000=
+0;}      .td-titulo {=09font-family: Arial, Helvetica, sans-serif;=09font-s=
+ize: 13px;=09font-weight: bold;=09color: #FFFFFF;=09background-color: #9999=
+99;=09height: 22px;=09padding-left: 6px;=09padding-top: 1px;}      .text-az=
+ul {=09font-family: Arial, Helvetica, sans-serif;=09font-size: 13px;=09font=
+-weight: bold;=09color: #014B96;}      .legales {=09font-family: Arial, Hel=
+vetica, sans-serif;=09font-size: 11px;=09font-weight: normal;=09color: #666=
+666;}      .td-datos {=09font-family: Arial, Helvetica, sans-serif;=09font-=
+size: 12px;=09font-weight: normal;=09color: #000000;=09height: 20px;=09padd=
+ing-top: 3px;=09padding-left: 10px;=09padding-right: 10px;}      .td-total =
+{=09font-family: Arial, Helvetica, sans-serif;=09font-size: 12px;=09font-we=
+ight: bold;=09color: #000000;=09background-color: #CCCCCC;=09height: 20px;=
+=09padding-top: 3px;=09padding-left: 10px;=09padding-right: 10px;}      .td=
+-datos1 {=09font-family: Arial, Helvetica, sans-serif;=09font-size: 12px;=
+=09font-weight: normal;=09color: #000000;=09height: 20px;=09padding-top: 3p=
+x;=09padding-left: 10px;=09padding-right: 10px;}      .text-azul1 {=09font-=
+family: Tahoma, Verdana, Arial;=09font-size: 12px;=09font-weight: bold;=09c=
+olor: #014B96;=09line-height: 17px;}      -->    </style>  </head>  <body> =
+   <table width=3D"500" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0">      <tr>    <td>          <img src=3D"https://www.bbvanet.=
+cl/imagenes/imgMailing/top.gif" width=3D"500" height=3D"61" /></td>      </=
+tr>      <tr>        <td height=3D"88">          <table width=3D"96%" borde=
+r=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">            <t=
+r>              <td class=3D"text-12">                <p align=3D"justify">=
+Estimado(a): Sociedad Comercial Reinalter                </p>              =
+  <p align=3D"justify">Le informamos que nuestro(a) cliente JOVANKA CLAUDIA=
+ SAPUNAR GAETE ha efectuado una transferencia de fondos a su cuenta con el =
+siguiente detalle.                </p></td>            </tr>          </tab=
+le></td>      </tr>      <tr>        <td height=3D"343" background=3D"https=
+://www.bbvanet.cl/imagenes/imgMailing/timbre.gif">          <table width=3D=
+"85%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"2">   =
+         <tr>              <td colspan=3D"2" class=3D"td-titulo">Datos de T=
+ransferencia </td>            </tr>            <tr>              <td width=
+=3D"45%" align=3D"left" valign=3D"top">                <table width=3D"100%=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  <tr>  =
+                  <td width=3D"91%" class=3D"td-datos1">Fecha de Operaci&oa=
+cute;n </td>                    <td width=3D"9%" align=3D"right" class=3D"t=
+d-datos1">:</td>                  </tr>                </table></td>       =
+       <td width=3D"55%" align=3D"left" valign=3D"top" class=3D"td-datos1">=
+ 19/03/2015 </td>            </tr>            <tr>              <td align=
+=3D"left" valign=3D"top">                <table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0">                  <tr>                =
+    <td width=3D"91%" class=3D"td-datos1">Hora de Operaci&oacute;n </td>   =
+                 <td width=3D"9%" align=3D"right" class=3D"td-datos1">:</td=
+>                  </tr>                </table></td>              <td alig=
+n=3D"left" valign=3D"top" class=3D"td-datos1"> 22:00:56 </td>            </=
+tr>            <tr>              <td align=3D"left" valign=3D"top">        =
+        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">                  <tr>                    <td width=3D"91%" class=3D"td=
+-datos1">Asunto</td>                    <td width=3D"9%" align=3D"right" cl=
+ass=3D"td-datos1">:</td>                  </tr>                </table></td=
+>              <td align=3D"left" valign=3D"top" class=3D"td-datos1"> Pago =
+pedido numero ZJBSKCBXF </td>            </tr>            <tr>             =
+ <td align=3D"left" valign=3D"top">                <table width=3D"100%" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  <tr>      =
+              <td width=3D"91%" class=3D"td-datos1">N&uacute;mero de Transa=
+cci&oacute;n </td>                    <td width=3D"9%" align=3D"right" clas=
+s=3D"td-datos1">:</td>                  </tr>                </table></td> =
+             <td align=3D"left" valign=3D"top" class=3D"td-datos1"> 018428 =
+</td>            </tr>          </table>      <br />          <table width=
+=3D"85%" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"2">=
+            <tr>              <td colspan=3D"2" class=3D"td-titulo">Datos d=
+e Destinatario </td>            </tr>            <tr>              <td widt=
+h=3D"45%" align=3D"left" valign=3D"top">                <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  <tr> =
+                   <td width=3D"91%" class=3D"td-datos1">Nombre</td>       =
+             <td width=3D"9%" align=3D"right" class=3D"td-datos1">:</td>   =
+               </tr>                </table></td>              <td align=3D=
+"left" valign=3D"top" class=3D"td-datos1"> Sociedad Comercial Reinalter </t=
+d>            </tr>            <tr>              <td align=3D"left" valign=
+=3D"top">                <table width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">                  <tr>                    <td width=3D=
+"91%" class=3D"td-datos1">RUT</td>                    <td width=3D"9%" alig=
+n=3D"right" class=3D"td-datos1">:</td>                  </tr>              =
+  </table></td>              <td align=3D"left" valign=3D"top" class=3D"td-=
+datos1"> 79.840.460-1 </td>            </tr>            <tr>              <=
+td align=3D"left" valign=3D"top">                <table width=3D"100%" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0">                  <tr>        =
+            <td width=3D"91%" class=3D"td-datos1">Cuenta</td>              =
+      <td width=3D"9%" align=3D"right" class=3D"td-datos1">:</td>          =
+        </tr>                </table></td>              <td align=3D"left" =
+valign=3D"top" class=3D"td-datos1"> 0161977518 </td>            </tr>      =
+      <tr>              <td align=3D"left" valign=3D"top">                <=
+table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">     =
+             <tr>                    <td width=3D"91%" class=3D"td-datos1">=
+Banco</td>                    <td width=3D"9%" align=3D"right" class=3D"td-=
+datos1">:</td>                  </tr>                </table></td>         =
+     <td align=3D"left" valign=3D"top" class=3D"td-datos1"> BANCO DE CHILE =
+</td>            </tr>            <tr>              <td width=3D"40%" align=
+=3D"left" valign=3D"top">                <table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0">                  <tr>                =
+    <td width=3D"91%" class=3D"td-datos1">Email</td>                    <td=
+ width=3D"9%" align=3D"right" class=3D"td-datos1">:</td>                  <=
+/tr>                </table></td>              <td width=3D"60%" align=3D"l=
+eft" valign=3D"top" class=3D"td-datos1"> ventas@cccchile.cl </td>          =
+  </tr>            <tr>              <td align=3D"left" valign=3D"top">    =
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">                  <tr>                    <td width=3D"91%" class=
+=3D"td-datos1">Monto Transacci&oacute;n </td>                    <td width=
+=3D"9%" align=3D"right" class=3D"td-datos1">:</td>                  </tr>  =
+              </table></td>              <td align=3D"left" valign=3D"top" =
+class=3D"td-datos1"><strong>$ 47.990 </strong></td>            </tr>       =
+   </table></td>      </tr>      <tr>        <td><img src=3D"https://www.bb=
+vanet.cl/imagenes/correo/STRIPES-BBVA-01.jpg" border=3D"0" width=3D"500"/><=
+/td>      </tr>      <tr>        <td height=3D"108" align=3D"center" backgr=
+ound=3D"https://www.bbvanet.cl/imagenes/imgMailing/gradient.jpg" class=3D"l=
+egales"><br />      <br />      <br />      <br />      <br />    Inf&oacut=
+e;rmese sobre la garant&iacute;a estatal de los dep&oacute;sitos en su banc=
+o o en          www.sbif.cl</td>      </tr>    </table>  </body></html>

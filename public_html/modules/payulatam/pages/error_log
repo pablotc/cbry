@@ -43,3 +43,702 @@ Stack trace:
 #0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(60, 0, 32990, 'PayU Latam', NULL, Array, 1, false, '6481feed5e5e037...')
 #1 {main}
   thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[26-Feb-2015 03:00:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 0, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[26-Feb-2015 03:00:22 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 0, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[26-Feb-2015 03:00:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 0, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[04-Mar-2015 23:00:53 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[04-Mar-2015 23:00:55 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[04-Mar-2015 23:00:57 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[09-Mar-2015 22:20:11 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 19990, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-Mar-2015 22:20:13 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 19990, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-Mar-2015 22:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(116, 0, 19990, 'PayU Latam', NULL, Array, 1, false, '178f991f13ad21a...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[23-Mar-2015 18:40:09 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[23-Mar-2015 18:40:09 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[23-Mar-2015 18:40:13 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[23-Mar-2015 18:40:13 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[23-Mar-2015 18:40:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[23-Mar-2015 18:40:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[24-Mar-2015 21:20:12 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[24-Mar-2015 21:20:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[24-Mar-2015 21:20:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[29-Mar-2015 22:40:12 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(189, 0, 22990, 'PayU Latam', NULL, Array, 1, false, 'bf93e555e0ba107...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[29-Mar-2015 22:40:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(189, 0, 22990, 'PayU Latam', NULL, Array, 1, false, 'bf93e555e0ba107...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[29-Mar-2015 22:40:22 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(189, 0, 22990, 'PayU Latam', NULL, Array, 1, false, 'bf93e555e0ba107...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:22 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[31-Mar-2015 22:20:26 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(191, 0, 92980.66, 'PayU Latam', NULL, Array, 1, false, 'c31aa06b965ebaa...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[06-Apr-2015 01:20:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:26 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:28 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:28 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:30 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:31 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:31 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[06-Apr-2015 01:20:33 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[08-Apr-2015 16:40:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(204, 0, 27990, 'PayU Latam', NULL, Array, 1, false, 'ba1969300c7e009...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[08-Apr-2015 16:40:20 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(204, 0, 27990, 'PayU Latam', NULL, Array, 1, false, 'ba1969300c7e009...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[08-Apr-2015 16:40:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(204, 0, 27990, 'PayU Latam', NULL, Array, 1, false, 'ba1969300c7e009...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[20-Apr-2015 00:20:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(270, 0, 65970.11, 'PayU Latam', NULL, Array, 1, false, 'd608d8ab9e9b4a9...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[20-Apr-2015 00:20:20 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(270, 0, 65970.11, 'PayU Latam', NULL, Array, 1, false, 'd608d8ab9e9b4a9...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[20-Apr-2015 00:20:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(270, 0, 65970.11, 'PayU Latam', NULL, Array, 1, false, 'd608d8ab9e9b4a9...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 00:00:11 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 00:00:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 00:00:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 07:46:50 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 07:46:54 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 07:46:57 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:00:05 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:00:09 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:00:13 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:15:04 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:15:08 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 09:15:11 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 23:00:07 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(295, 0, 87980.28, 'PayU Latam', NULL, Array, 1, false, '381fb4ca49dccc0...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 23:00:10 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(295, 0, 87980.28, 'PayU Latam', NULL, Array, 1, false, '381fb4ca49dccc0...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[25-Apr-2015 23:00:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(295, 0, 87980.28, 'PayU Latam', NULL, Array, 1, false, '381fb4ca49dccc0...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[27-Apr-2015 11:40:33 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[27-Apr-2015 11:40:37 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[27-Apr-2015 11:40:40 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[02-May-2015 00:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(87, 0, 0, 'PayU Latam', NULL, Array, 1, false, '51dcb13a6889db3...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 00:20:22 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(87, 0, 0, 'PayU Latam', NULL, Array, 1, false, '51dcb13a6889db3...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 00:20:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(87, 0, 0, 'PayU Latam', NULL, Array, 1, false, '51dcb13a6889db3...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 14:00:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 14:00:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 14:00:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:45:23 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:45:26 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:45:30 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:50:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:50:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:50:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(269, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:56:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:56:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 19:56:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 20:35:29 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 20:35:33 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 20:35:36 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(312, 0, 25990, 'PayU Latam', NULL, Array, 1, false, 'a9ae7e188606e92...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[02-May-2015 21:00:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[02-May-2015 21:00:24 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[02-May-2015 21:00:28 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[05-May-2015 13:04:01 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:05 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:09 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:12 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:12 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:16 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:19 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[05-May-2015 13:04:20 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Can't load Order status' in /home2/amorales/public_html/classes/PaymentModule.php:167
+Stack trace:
+#0 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(131): PaymentModuleCore->validateOrder(322, 0, 47990.33, 'PayU Latam', NULL, Array, 1, false, 'f41e99eb006ff9d...')
+#1 {main}
+  thrown in /home2/amorales/public_html/classes/PaymentModule.php on line 167
+[09-May-2015 22:40:25 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[09-May-2015 22:40:29 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[09-May-2015 22:40:32 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:14 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:15 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:17 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:18 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:21 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846
+[12-May-2015 14:20:22 America/Santiago] PHP Fatal error:  Uncaught exception 'PrestaShopException' with message 'Property OrderHistory->id_order_state is empty' in /home2/amorales/public_html/classes/ObjectModel.php:846
+Stack trace:
+#0 /home2/amorales/public_html/classes/ObjectModel.php(260): ObjectModelCore->validateFields()
+#1 /home2/amorales/public_html/classes/ObjectModel.php(464): ObjectModelCore->getFields()
+#2 /home2/amorales/public_html/classes/order/OrderHistory.php(435): ObjectModelCore->add(true)
+#3 /home2/amorales/public_html/classes/order/OrderHistory.php(374): OrderHistoryCore->add(true)
+#4 /home2/amorales/public_html/modules/payulatam/pages/confirmation.php(121): OrderHistoryCore->addWithemail(true)
+#5 {main}
+  thrown in /home2/amorales/public_html/classes/ObjectModel.php on line 846

@@ -1,0 +1,210 @@
+Return-path: <info@santander.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Thu, 09 Apr 2015 12:12:32 -0500
+Received: from illapel.santander.cl ([170.18.183.161]:49891 helo=santandersantiago.cl)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@santander.cl>)
+	id 1YgG0F-0003My-OJ
+	for ventas@cccchile.cl; Thu, 09 Apr 2015 12:12:32 -0500
+Received: from ([180.122.252.223])
+	by bsa-ironmail-01.santandersantiago.cl with SMTP  id 5202882.426961032;
+	Thu, 09 Apr 2015 14:05:30 -0300
+From: "BANCO SANTANDER CHILE" <info@santander.cl>
+To: ventas@cccchile.cl
+Subject: Aviso de Transferencia de Fondos Nro. 20150409140047063191
+Date: Thu, 09 Apr 2015 14:14:42 -0300
+Message-ID: <20150409-14144277-aa8@pwebob03>
+MIME-Version: 1.0
+Content-Type: text/html
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html     >
+<head>
+
+<title>Banco Santander Office Banking</title>
+<style type="text/css">
+<!--
+body {
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+}
+#caja {
+ border: 1px solid #C7C7C7;
+ width: 600px;
+}
+#cajatrans {
+ border: 1px dashed #C0C0C0;
+ height: 25px;
+ padding-top: 7px;
+ padding-right: 5px;
+ padding-bottom: 0px;
+ padding-left: 5px;
+ font-size: 12px;
+}
+#marcas {
+ font-size: 14px;
+ font-weight: normal;
+ background-color: #FBFBFB;
+ height: 35px;
+ color: #666666;
+}
+#numeros {
+ height: 50px;
+ text-align: center;
+ border-top-width: 1px;
+ border-right-width: 1px;
+ border-bottom-width: 1px;
+ border-left-width: 1px;
+ border-top-style: solid;
+ border-top-color: #CCCCCC;
+ padding: 8px;
+}
+#tit {
+ background-color: #F8F8F8;
+ height: 20px;
+ border-top-width: 1px;
+ border-bottom-width: 1px;
+ border-top-style: solid;
+ border-bottom-style: solid;
+ border-top-color: #EFEFEF;
+ border-bottom-color: #EFEFEF;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ font-weight: normal;
+ padding-top: 4px;
+ width: 100%;
+}
+-->
+</style>
+</head>
+
+<body >
+<center>
+<div id="caja">
+ <table width="650" border="0" align="center" cellpadding="0" cellspacing="0">
+ <tbody>
+ <tr>
+ <td align="center" valign="top" bgcolor="white"><div id="marcas"><table width="98%" border="0" cellpadding="2" cellspacing="2">
+  <tr>
+  <td height="27" align="left">Banco Santander</td>
+  <td align="right">Office Banking</td>
+  </tr>
+ </table></div><div id="tit">Aviso de Transferencia de Fondos</div>
+
+
+  
+  <div align="center">
+  <table cellspacing="0" cellpadding="0" width="99%" border="0">
+  <tbody>
+   <tr height="15">
+   <td height="15" align="center"><table cellspacing="2" cellpadding="2" width="98%" border="0">
+   <tbody>
+    
+    <tr>
+    <td width="75%" height="20" align="right">Fecha: 09/04/2015</td>
+   </tr>
+   </tbody>
+   </table></td>
+   </tr>
+   <tr>
+   <td height="45" align="center"><table cellspacing="2" cellpadding="2" width="98%" border="0">
+   <tbody>
+   <tr>
+    <td width="75%" height="20" align="left"><p>Estimado :<strong>Sociedad Comercial Reinalter</strong><br />
+    <br />
+    De acuerdo con lo instruido por nuestro cliente <strong>DISTRIBUIDORA Y COMERCIAL COMALI LIMITAD,<br />
+    </strong> le informamos que con <strong>Fecha: 09/04/2015</strong> se ha realizado una transferencia de fondos hacia su cuenta del banco<strong> Banco De Chile                           nro. 000-000001-6197751-8</strong>.<br />
+    <br />
+    </p></td>
+   </tr>
+   </tbody>
+   </table></td>
+   </tr>
+   <tr>
+   <td><div align="center">
+   <table cellspacing="0" cellpadding="0" width="100%" border="0">
+    <tbody>
+    <tr>
+    <td><div align="center">
+     <table cellspacing="2" cellpadding="2" width="100%" border="0">
+     <tbody>
+     
+     <tr height="17">
+     <td height="17" colspan="3" align="left" bgcolor="#f7f7f7"><strong>DETALLE DE LA OPERACION</strong></td>
+     </tr>
+     <tr>
+     <td width="30%" align="left">Monto transferido</td>
+     <td width="2%">:</td>
+     <td width="68%" align="left"><strong>$ 62.981.- </strong></td>
+     </tr>
+     <tr>
+     <td align="left">Titular de la cuenta de origen</td>
+     <td>:</td>
+     <td align="left"><strong>DISTRIBUIDORA Y COMERCIAL COMALI LIMITAD</strong></td>
+     </tr>
+     <tr>
+     <td align="left">Banco de Origen</td>
+     <td>:</td>
+     <td align="left"><strong>BANCO SANTANDER</strong></td>
+     </tr>
+     <tr>
+     <td align="left">Comentario para el destinatario</td>
+     <td>:</td>
+     <td align="left"><strong>Envio transferencia por 2 polerones a nombre de Paulo Iob, pedido PVTBCPHIM</strong></td>
+     </tr>
+     <tr>
+     <td align="left">Numero de la operacion</td>
+     <td>:</td>
+     <td align="left"> <strong>20150409140047063191</strong></td>
+     </tr>     
+     </tbody>
+     </table>
+    </div></td>
+    </tr>
+    </tbody>
+   </table>
+   </div>
+   
+   <div align="center"></div></td>
+   </tr>
+   <tr height="55">
+   <td height="55" align="center"><div id="numeros">
+   <table cellspacing="2" cellpadding="2" width="100%" border="0">
+   <tbody>
+    <tr>
+    <td align="left"><br />
+    Atte,<br />
+    <strong>Banco Santander</strong><br />
+    <br />
+    </td>
+    </tr>
+   </tbody>
+   </table>
+   </div></td>
+   </tr>
+  </tbody>
+  </table>
+  </div>
+ 
+  <table cellspacing="2" cellpadding="2" width="98%" border="0">
+ <tbody>
+  <tr>
+   <td align="left">Nota: Este e-mail es generado de manera automatica, por favor no responda a este mensaje. Asimismo, se han omitido acentos para evitar problemas de compatibilidad.</td>
+  </tr>
+  <tr>
+   <td></td>
+  </tr>
+  </tbody>
+  </table></td>
+ </tr>
+ </tbody>
+ </table>
+</div>
+<div>
+ <p align="center">Informese sobre la garantia estatal de los depositos en su banco o en <a href="http://www.sbif.cl/" target="_blank"    >www.sbif.cl</a>
+ </p>
+</div>
+</body>
+</html>

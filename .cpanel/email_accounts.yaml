@@ -12,9 +12,9 @@ cccchile.cl:
       diskquota: 524288000
       diskused: 0
     amorales: 
-      disk_mtime: '1396908887'
-      diskquota: 0
-      diskused: 0
+      disk_mtime: '1430851120'
+      diskquota: '1048576000'
+      diskused: 528696325
     contacto: 
       disk_mtime: '1409095631'
       diskquota: 524288000
@@ -43,5 +43,5 @@ cccchile.cl:
       disk_mtime: '1409095575'
       diskquota: 524288000
       diskused: 0
-  passwd_mtime: '1412881350'
-  quota_mtime: '1412881350'
+  passwd_mtime: '1430851120'
+  quota_mtime: '1430851120'

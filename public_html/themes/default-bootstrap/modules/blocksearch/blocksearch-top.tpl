@@ -24,9 +24,10 @@
 *}
 
 <!-- Block search module TOP -->
+<!--cambiado a blockcontact/nav.tpl-->
+
 <div id="search_block_top" class="col-sm-4 clearfix" style="float:left">
-{* cambiado a blockcontact/nav.tpl
-	<form id="searchbox" method="get" action="{$link->getPageLink('search')|escape:'html':'UTF-8'}" >
+{*	<form id="searchbox" method="get" action="{$link->getPageLink('search')|escape:'html':'UTF-8'}" >
 		<input type="hidden" name="controller" value="search" />
 		<input type="hidden" name="orderby" value="position" />
 		<input type="hidden" name="orderway" value="desc" />
@@ -38,6 +39,7 @@
 *}
 </div>
 <!-- /Block search module TOP -->
+
 <!-- AÑADIDO NUEVO-->
 <div id="header_logo" style="">
 	<a href="{$base_dir}" title="{$shop_name|escape:'html':'UTF-8'}">

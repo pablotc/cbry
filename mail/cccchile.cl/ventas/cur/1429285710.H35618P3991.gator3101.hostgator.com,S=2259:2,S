@@ -1,0 +1,53 @@
+Return-path: <ptapia@artool.cl>
+Envelope-to: ventas@cccchile.cl
+Delivery-date: Fri, 17 Apr 2015 10:48:30 -0500
+Received: from mail-wg0-f43.google.com ([74.125.82.43]:35402)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <ptapia@artool.cl>)
+	id 1Yj8VJ-0000z6-Je
+	for ventas@cccchile.cl; Fri, 17 Apr 2015 10:48:29 -0500
+Received: by wgyo15 with SMTP id o15so117642789wgy.2
+        for <ventas@cccchile.cl>; Fri, 17 Apr 2015 08:48:26 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-type;
+        bh=XGaNJC93t6mHBy6Zozl2xQ2Ti8zDO99eHdDwvbRT0TI=;
+        b=b0RzD78pnuQ8BEN6X7mOJ9jMwW8isneWqafGktocVALo05QE7wZU8hJEsQ2yvtSaRg
+         IXlXW8+unIPNDVKnucp3VCtYqgVLDRx8VTUcMp4x3rXUyvBiQ5wTfIWJX7bEGkYwMSMi
+         m2idKe2w3hroxMn+FpyxgxWkZ5qyGweVIV3bOkbFbEIh9cnHSGAqvvbcqFELPXrZ/UAH
+         Rj+ciw+TsT/VGzt1i8upxzvIRos6LJMEnr6x6wJtls+9svzymaepecW1Do2+jtvhUovI
+         aomOL1YOYltg8VEhNZrWKoXyt3HR65lqdFtPxr6VWlhjNRzzSbCxfqSqClWmmoKHuZNf
+         UlSw==
+X-Gm-Message-State: ALoCoQm/AajvTxGwgbYV+nwP3uBZizD7/dTTkvNJUF/JKKtn05LBUJ21HVFX2STaVYb7BOEqTm2a
+X-Received: by 10.194.23.197 with SMTP id o5mr7340055wjf.75.1429285706131;
+ Fri, 17 Apr 2015 08:48:26 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.194.30.10 with HTTP; Fri, 17 Apr 2015 08:48:05 -0700 (PDT)
+From: Pablo Tapia <ptapia@artool.cl>
+Date: Fri, 17 Apr 2015 12:48:05 -0300
+Message-ID: <CAH0D3h0eGE50hVqce6YWbFzE+-W4gj4RvnauQLiaD-isKs8=5w@mail.gmail.com>
+Subject: hola
+To: ventas@cccchile.cl
+Content-Type: multipart/alternative; boundary=047d7b5d986bcbfa410513ed8223
+
+--047d7b5d986bcbfa410513ed8223
+Content-Type: text/plain; charset=UTF-8
+
+hola
+Pablo Tapia C.
+Artool S.A
+Av. Kennedy 5454, Vitacura
+Santiago, Chile
+
+--047d7b5d986bcbfa410513ed8223
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">hola<br clear=3D"all"><div><div class=3D"gmail_signature">=
+<div dir=3D"ltr"><div>Pablo Tapia C.</div><div>Artool S.A</div><div>Av. Ken=
+nedy 5454, Vitacura</div><div>Santiago, Chile=C2=A0</div></div></div></div>
+</div>
+
+--047d7b5d986bcbfa410513ed8223--

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 14:25:03
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-05 09:36:48
          compiled from "/home2/amorales/public_html/modules/payulatam/views/templates/hook/payulatam_payment.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:467335502548b24ef154160-29998529%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:2610562635548c7708a7383-83720658%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '467335502548b24ef154160-29998529',
+  'nocache_hash' => '2610562635548c7708a7383-83720658',
   'function' => 
   array (
   ),
@@ -22,9 +22,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548b24ef1a12d6_06839339',
+  'unifunc' => 'content_5548c770911e29_39970104',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548b24ef1a12d6_06839339')) {function content_548b24ef1a12d6_06839339($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5548c770911e29_39970104')) {function content_5548c770911e29_39970104($_smarty_tpl) {?>
 <link href="<?php echo mb_convert_encoding(htmlspecialchars($_smarty_tpl->tpl_vars['css']->value, ENT_QUOTES, 'UTF-8', true), "HTML-ENTITIES", 'UTF-8');?>
 payu.css" rel="stylesheet" type="text/css">
 <div class="row">

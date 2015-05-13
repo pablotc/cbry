@@ -1,0 +1,422 @@
+Return-path: <newsletter@mailing-payu.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Fri, 08 May 2015 09:15:17 -0500
+Received: from smtpauth138.icommarketing.com ([108.168.135.123]:42371)
+	by gator3101.hostgator.com with esmtp (Exim 4.82)
+	(envelope-from <newsletter@mailing-payu.com>)
+	id 1Yqj3c-00056g-QP
+	for admin@cccchile.cl; Fri, 08 May 2015 09:15:16 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=selector1; d=mailing-payu.com;
+ h=MIME-Version:Date:From:Reply-To:Content-Type:Subject:To:List-Unsubscribe:Message-ID; i=newsletter@mailing-payu.com;
+ bh=af4L69WSx522Ou2SUJUwwqYUrS8=;
+ b=WoRDzuJwDMGlRqFd+sNbPjuaS/rMTqRZdPt8M4q+1I9natQj8Pv3DnZcvZbEkMJ65OYi69vJSeZ/
+   FumtgjUFlnyrH5PF5oPlFCIG28DFL4Zz0MzIvY8bthDAXDSzIbv9PO/oN3rHaL7cJOz3RU7ZwUYN
+   5rD8K8F5zU0CA4MuUWk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=selector1; d=mailing-payu.com;
+ b=OyWiOVxJfI6kqntF7Y9WyzrX1YZ2+ZMO/FVCqhZD/9saUqkDpRx+AJGBPcCanLLWk8Yjxyo/6aLo
+   IpPT5/yDGDC1KGfKbD2EkRHBkRc+6weiY5K8m9eUKk0Xp7eZeEbsPSxHbas8/Lo9V3BqBZcXEG3Y
+   LnsHXBCU8dOJQE1gqHc=;
+Received: by smtpauth138.icommarketing.com id h9j2f81mo5so for <admin@cccchile.cl>; Fri, 8 May 2015 11:15:13 -0300 (envelope-from <newsletter@mailing-payu.com>)
+MIME-Version: 1.0
+Date: Fri, 08 May 2015 11:14:00 -0300
+X-Priority: 3 (Normal)
+From: "PayU" <newsletter@mailing-payu.com>
+Reply-To: newsletter-reply@mailing-payu.com
+SMTP: 494
+Fecha-Envio: 08/05/2015 11:14:01
+Feedback-ID: 553:553_205731:553_3370_146650:iComMkt
+X-Mailer: Payu - Colombia
+Content-Type: multipart/alternative;
+	 boundary="------------020507020709090902020506"
+Subject: =?utf-8?B?VSBuZXR3b3JrOiBlbCBudWV2byBib2xldMOtbiBkZSBQYXlV?=
+To: admin@cccchile.cl
+List-Unsubscribe: <http://www.mailing-payu.com/sp_removido.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTE0NjY1MCZjb25maWc9TWpBMU56TXgmbWFpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NjA3ODImY29kRW1haWw9MjgwNiZub21icmVQcm92PU90aGVycw%3d%3d>
+X-CorpRelay: 553|3370|146650|205731|admin@cccchile.cl|0|2806|Others
+Message-ID: <0.0.B.30E.1D0899966ADDD4B.0@smtpauth138.icommarketing.com>
+
+--------------020507020709090902020506
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"; format=flowed
+
+Mayo
+Editorial
+Por: Shelley Pursell, Marketing Director
+Por a=C3=B1os hemos sido parte de la evoluci=C3=B3n del comercio electr=C3=
+=B3nico, llevando los pagos en l=C3=ADnea a peque=C3=B1os, medianos y grand=
+es comercios en =C3=81frica, Europa, Asia y Am=C3=A9rica Latina.=C2=A0Nuest=
+ra imagen, sin embargo, no estaba alineada con los objetivos de una empresa=
+ como nosotros, de e-commerce y tecnolog=C3=ADa. Hoy nos complace =C2=A0 pr=
+esentarles=C2=A0la identidad que nos representa en la regi=C3=B3n
+y el mundo;una marca audaz con reconocimiento y alcance global, pero=C2=A0q=
+ue se dedica a la comunidad local: ustedes. Seguimos siendo la forma segura=
+ y sencilla de recibir pagos en l=C3=ADnea. Visita la p=C3=A1gina nueva y n=
+o olvides actualizar el logo PayU.
+Colombia celebra  su primer HotSale
+El mi=C3=A9rcoles 29 y jueves 30 de abril, se llev=C3=B3 a cabo el primer H=
+otSale en Colombia, una jornada de descuentos para compras en l=C3=ADnea or=
+ganizada por la C=C3=A1mara Colombiana de Comercio Electr=C3=B3nico y patro=
+cinada por PayU. Durante el evento, procesamos alrededor de 30.000 transacc=
+iones exitosas de nuestros clientes participantes, que representaron ventas=
+ cercanas a los $8.000 millones de pesos colombianos, con compras promedio =
+de $280.000.
+Desarrolladores con sitio renovadoLa nueva p=C3=A1gina de desarrolladores e=
+st=C3=A1 dise=C3=B1ada como un canal para mantener a nuestra comunidad info=
+rmada sobre los aspectos t=C3=A9cnicos de la plataforma y productos PayU. E=
+ncuentra desde ideas, herramientas y documentaci=C3=B3n, hasta videos sobre=
+ el funcionamiento y caracter=C3=ADsticas de nuestras soluciones.
+Vis=C3=ADtanos
+Novedades de nuestro productos
+Medio de pago Boleto D+0, Brasil:
+Con Boleto banc=C3=A1rio D+0, ahora tus pagos son procesados el mismo d=C3=
+=ADa y podr=C3=A1s disponer de tus fondos en el mismo momento. Este product=
+o solo est=C3=A1 disponible en Brasil con la red Itau (banca en l=C3=ADnea,=
+ cajeros, agencia bancaria). Las compras que no sean realizadas con la red =
+Itau tomar=C3=A1n dos d=C3=ADas para ser procesadas.
+C=C3=B3mo disminuir el fraude y manejar contracargos en ventas online
+Leer post
+PayU en los medios
+PaymentMedia
+Leer art=C3=ADculo
+La Rep=C3=BAblica
+R=C3=A1pido, simple, seguro
+Twitter
+Facebook
+Vimeo
+Blog
+El contenido de este mensaje puede ser informaci=C3=B3n privilegiada y conf=
+idencial. Si usted no es el destinatario real del mismo, por favor informe =
+de ello a quien lo env=C3=ADa y destr=C3=BAyalo en forma inmediata. Est=C3=
+=A1 prohibida su retenci=C3=B3n, grabaci=C3=B3n, utilizaci=C3=B3n o divulga=
+ci=C3=B3n con cualquier prop=C3=B3sito. Este mensaje ha sido verificado con=
+ software antivirus, en consecuencia, el remitente de este no se hace respo=
+nsable por la presencia en =C3=A9l o en sus anexos de alg=C3=BAn virus que =
+pueda generar da=C3=B1os en los equipos o programas del destinatario.
+
+--------------020507020709090902020506
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:v=3D"urn:schemas-microsoft-co=
+m:vml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charse=
+t=3DUTF-8"><meta name=3D"viewport" content=3D"target-densitydpi=3Ddevice-dp=
+i"><meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D=
+1.0, maximum-scale=3D1.0" /></head><body style=3D"text-align: center;"><div=
+ itemscope itemtype=3D"http://schema.org/Offer"><link itemprop=3D"image" hr=
+ef=3D"http://images.mailing-payu.com/clientes/553/3370/146650/icmThumbnail_=
+Home.jpg"/></div><div align=3D"center" style=3D"text-align:center;margin-le=
+ft:auto;margin-right:auto;"><table cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0" align=3D"center" width=3D"600px" style=3D"margin-left:auto;margin-=
+right:auto;width:600px;"><tr><td width=3D"600" style=3D"width:600px;" valig=
+n=3D"top" align=3D"left"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td width=3D"12px" valign=3D"top" style=3D"width:12px"></td><td =
+width=3D"577px" valign=3D"top" style=3D"width:577px;text-align:center;" ali=
+gn=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><=
+td height=3D"11px" width=3D"577px" style=3D"width:577px; height:11px; line-=
+height:11px;" valign=3D"top"></td></tr></table><table cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0" align=3D"center" style=3D"text-align:center;mar=
+gin-left:auto;margin-right:auto;"><tr><td width=3D"577px" style=3D"width:57=
+7px; text-align:center;" valign=3D"top" align=3D"center"><font style=3D"fon=
+t-family:Tahoma; font-size:11px; color:#ADB3B5;"><a href=3D"http://www.mail=
+ing-payu.com/verEmail2.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTE0NjY=
+1MCZjb25maWc9MjA1NzMxJm1haWw9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZmlsPTYwNzgyJmNvZE=
+VtYWlsPTI4MDYmZW52aW9ucm89MjgwNiZub21icmVQcm92PU90aGVycyZzdWJqZWN0PTIxODUwO=
+Q%3d%3d" style=3D"text-decoration:none;font-family:Tahoma; font-size:11px; =
+color:#ADB3B5;" target=3D"_blank">Versi=C3=B3n Online</a></font></td></tr><=
+/table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td heig=
+ht=3D"5px" width=3D"577px" style=3D"width:577px; height:5px; line-height:5p=
+x;" valign=3D"top"></td></tr></table></td><td width=3D"11px" valign=3D"top"=
+ style=3D"width:11px"></td></tr></table></td></tr><tr><td height=3D"10" sty=
+le=3D"height: 10px;"></td></tr></table></div><div align=3D"center" style=3D=
+"margin-left:auto;margin-right:auto;">=0A			=0A<table id=3D"Table_01" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A	<tr>=0A		<td>=0A			<table w=
+idth=3D'602' border=3D'0' cellspacing=3D'0' cellpadding=3D'0' align=3D'cent=
+er'><tr><td width=3D'602'><table width=3D'600' border=3D'0' cellspacing=3D'=
+0' cellpadding=3D'0'><tr><td><img src=3D'http://www.payulatam.com/imagenes-=
+correos/Unetwork/network.png' width=3D'382' height=3D'181' style=3D'display=
+: block;'></td><td><img src=3D'http://www.payulatam.com/imagenes-correos/Un=
+etwork/image_header.png' width=3D'221' height=3D'181' alt=3D' ' style=3D'di=
+splay: block;'></td></tr><tr><td bgcolor=3D'#00b6be' style=3D'padding-left:=
+ 40px; padding-top: 5px; padding-bottom: 5px;'><span style=3D'font-family: =
+arial; color: #ffffff; font-size: 28px; font-weight: bold;'>Mayo</span></td=
+><td bgcolor=3D'#00b6be' style=3D'padding-right: 30px; padding-top: 5px; pa=
+dding-bottom: 5px;' align=3D'right'></td></tr></table></td></tr><tr><td bgc=
+olor=3D'' style=3D'border: solid 1px #d3d3d3; padding-top: 20px;'><table wi=
+dth=3D'600' border=3D'0' cellspacing=3D'0' cellpadding=3D'0'><tr><td><table=
+ width=3D'530' cellpading=3D'0' cellspacing=3D'0' align=3D'center'><tr><td>=
+<img src=3D'http://www.payulatam.com/imagenes-correos/Unetwork/editorial.pn=
+g' width=3D'120' height=3D'23' alt=3D'Editorial'></td></tr><tr><td style=3D=
+'padding-top: 10px; padding-bottom: 10px;'><span style=3D'font-family: Aria=
+l; color: #878991; font-size: 12px; font-style: italic;'>Por: Shelley Purse=
+ll, Marketing Director</span></td></tr></table></td></tr><tr><td><table wid=
+th=3D'530' cellpading=3D'0' cellspacing=3D'0' align=3D'center' style=3D'wid=
+th: 530px;' cellpadding=3D'3'><tr><td valign=3D'top'><img src=3D'http://www=
+=2Epayulatam.com/imagenes-correos/Unetwork/foto.png' width=3D'123' height=
+=3D'110' alt=3D' '></td><td valign=3D'top'></td><td valign=3D'top'><span st=
+yle=3D'font-family: arial; font-size: 14px; color: #5d5c5c;'>Por a=C3=B1os =
+hemos sido parte de la evoluci=C3=B3n del comercio electr=C3=B3nico, llevan=
+do los pagos en l=C3=ADnea a peque=C3=B1os, medianos y grandes comercios en=
+ =C3=81frica, Europa, Asia y Am=C3=A9rica Latina.=C2=A0Nuestra imagen, sin =
+embargo, no estaba alineada con los objetivos de una empresa como nosotros,=
+ de e-commerce y tecnolog=C3=ADa. Hoy nos complace =C2=A0 presentarles=C2=
+=A0la identidad que nos representa en la regi=C3=B3n</span></td></tr></tabl=
+e></td></tr><tr><td><table width=3D'530' align=3D'center' cellpadding=3D'0'=
+ cellspacing=3D'0'><tr><td style=3D'padding-bottom: 25px;'><span style=3D'f=
+ont-family: arial; font-size: 14px; color: #5d5c5c;'><span><span> y el mund=
+o; </span>una marca audaz con reconocimiento y alcance global, pero=C2=A0</=
+span>que se dedica a la comunidad local: ustedes. Seguimos siendo la forma =
+segura y sencilla de recibir pagos en l=C3=ADnea. Visita la p=C3=A1gina nue=
+va y no olvides actualizar el <a href=3D"http://www.mailing-payu.com/click2=
+=2Easpx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_c=
+ontent=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRo=
+bHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg2NQ%3d%3d&config=3D=
+MjA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2=
+NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.p=
+ayulatam.com/logos/" id=3D"boton1" style=3D'color: #a6c307; font-weight: bo=
+ld; font-family: arial;'>logo PayU</a>.</span></td></tr></table></td></tr><=
+tr><td><table cellspacing=3D'20' cellpadding=3D'0' width=3D'560' align=3D'c=
+enter'><tr><td style=3D'border: solid 1px #d3d3d3;' width=3D'50%' valign=3D=
+'top'><table cellpadding=3D'0' cellspacing=3D'0'><tr><td width=3D'246' bgco=
+lor=3D'#3c9339' style=3D'padding: 13px;' valign=3D'top'><span style=3D'colo=
+r: #ffffff; font-family: arial; font-weight: bold;'>Colombia celebra <br> <=
+span style=3D'font-size: 20px;'>su primer HotSale</span> </span></td></tr><=
+tr><td style=3D'padding: 15px;'><span style=3D'font-family: arial; color: #=
+5d5c5c; font-size: 13px;'>El mi=C3=A9rcoles 29 y jueves 30 de abril, se lle=
+v=C3=B3 a cabo el primer <a href=3D"http://www.mailing-payu.com/click2.aspx=
+?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=
+=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTm=
+V3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg2Ng%3d%3d&config=3DMjA1Nz=
+Mx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hp=
+bGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.hotsale=
+=2Ecom.co/" id=3D"boton2" style=3D'color: #a6c307; font-weight: bold; font-=
+family: arial; font-size: 13px;' target=3D'_blank'>HotSale</a> en Colombia,=
+ una jornada de descuentos para compras en l=C3=ADnea organizada por la C=
+=C3=A1mara Colombiana de Comercio Electr=C3=B3nico y patrocinada por PayU. =
+<br><br>Durante el evento, procesamos alrededor de 30.000 transacciones exi=
+tosas de nuestros clientes participantes, que representaron ventas cercanas=
+ a los $8.000 millones de pesos colombianos, con compras promedio de $280.0=
+00.<br></span><a style=3D'color: #a6c307; font-weight: bold; font-family: a=
+rial; font-size: 14px;'><br></a></td></tr></table></td><td style=3D'border:=
+ solid 1px #d3d3d3;' width=3D'50%' valign=3D'top'><table cellpadding=3D'0' =
+cellspacing=3D'0'><tr><td><img src=3D'http://www.payulatam.com/imagenes-cor=
+reos/Unetwork/photo_article_developers.png' width=3D'251' height=3D'129' al=
+t=3D' ' style=3D'display: block;'></td></tr><tr><td style=3D'padding: 15px;=
+'><span style=3D'font-family: arial; color: #5d5c5c; font-size: 13px;'><spa=
+n style=3D'color: #54bbab;'><span style=3D'font-weight: bold;'>Desarrollado=
+res con sitio renovado</span></span><br>La nueva p=C3=A1gina de desarrollad=
+ores est=C3=A1 dise=C3=B1ada como un canal para mantener a nuestra comunida=
+d informada sobre los aspectos t=C3=A9cnicos de la plataforma y productos P=
+ayU. Encuentra desde ideas, herramientas y documentaci=C3=B3n, hasta videos=
+ sobre el funcionamiento y caracter=C3=ADsticas de nuestras soluciones. </s=
+pan><br><br> <a style=3D'color: #a6c307; font-weight: bold; font-family: ar=
+ial; font-size: 14px;' href=3D"http://www.mailing-payu.com/click2.aspx?utm_=
+source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF=
+5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xl=
+dHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg2Nw%3d%3d&config=3DMjA1NzMx&env=
+ionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2=
+w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://developers.payula=
+tam.com/es/index.html" id=3D"boton3" target=3D'_blank'>Vis=C3=ADtanos</a></=
+td></tr></table></td></tr></table></td></tr><tr><td style=3D'padding-left: =
+35px; padding-top: 15px;'><img src=3D'http://www.payulatam.com/imagenes-cor=
+reos/novedades_headline.png' width=3D'452' height=3D'26' alt=3D'Novedades d=
+e nuestro productos'></td></tr><tr><td style=3D'padding-top: 10px; padding-=
+bottom: 30px;'><table width=3D'530' align=3D'center'><tr><td style=3D'paddi=
+ng-top: 15px; padding-right: 10px;' valign=3D'top'><img src=3D'http://www.p=
+ayulatam.com/imagenes-correos/Unetwork/icon_novedad.png' width=3D'77' heigh=
+t=3D'77' alt=3D' '></td><td><span style=3D'color: #262626; font-family: ari=
+al; font-weight: bold; font-size: 20px;'>Medio de pago Boleto D+0, Brasil:<=
+/span><br> <span style=3D'font-family: arial; color: #5d5c5c; font-size: 13=
+px; padding-top: 10px; display: block;'>Con Boleto banc=C3=A1rio D+0, ahora=
+ tus pagos son procesados el mismo d=C3=ADa y podr=C3=A1s disponer de tus f=
+ondos en el mismo momento. Este producto solo est=C3=A1 disponible en Brasi=
+l con la red Itau (banca en l=C3=ADnea, cajeros, agencia bancaria). Las com=
+pras que no sean realizadas con la red Itau tomar=C3=A1n dos d=C3=ADas para=
+ ser procesadas.</span></td></tr></table></td></tr><tr><td><table width=3D'=
+' 530=3D'' align=3D'center' style=3D'border: solid 1px #d3d3d3;' cellpaddin=
+g=3D'0' cellspacing=3D'0'><tr><td width=3D'123' align=3D'center'><img src=
+=3D'http://www.payulatam.com/imagenes-correos/Unetwork/blog-payu.png' width=
+=3D'103' height=3D'117' style=3D'display: block;'></td><td width=3D'374' st=
+yle=3D'padding-left: 20px;' bgcolor=3D'#4cc0ad'><span style=3D'color: #ffff=
+ff; font-family: arial; font-weight: bold; font-size: 15px;'>C=C3=B3mo dism=
+inuir el fraude y manejar<br> <span style=3D'font-size: 20px;'>contracargos=
+ en ventas online</span></span><br> <a style=3D'color: #ffffff; font-weight=
+: bold; font-family: arial; font-size: 15px;' href=3D"http://www.mailing-pa=
+yu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1ha=
+Ww%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZ=
+yAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg2OA%3d%3=
+d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=
+=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=
+=3Dhttp://www.payulatam.com/blog/consejos-para-disminuir-el-fraude-y-maneja=
+r-los-contracargos-en-tus-ventas-por-internet/" id=3D"boton4" target=3D'_bl=
+ank'>Leer post</a></td></tr></table></td></tr><tr><td style=3D'padding-top:=
+ 30px;'><table width=3D'530' align=3D'center' cellpadding=3D'0' cellspacing=
+=3D'0'></table></td></tr><tr><td style=3D'padding-top: 20px;'><img src=3D'h=
+ttp://www.payulatam.com/imagenes-correos/Unetwork/border_division.png' widt=
+h=3D'598' height=3D'3' alt=3D' '></td></tr><tr><td bgcolor=3D'#f4f6f7' styl=
+e=3D'padding-top: 20px; padding-bottom: 20px;'><table width=3D'550' border=
+=3D'0' cellspacing=3D'0' cellpadding=3D'0' align=3D'center'><tr><td width=
+=3D'309'><img src=3D'http://www.payulatam.com/imagenes-correos/Unetwork/pay=
+u_medios.png' width=3D'230' height=3D'38' alt=3D'PayU en los medios'></td><=
+td width=3D'241'></td></tr><tr><td style=3D'padding-top: 10px;'><table widt=
+h=3D'99%'><tr><td width=3D'50%' align=3D'center' valign=3D'middle'><a href=
+=3D"http://www.mailing-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw=
+%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&utm_cam=
+paign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3J=
+r&boton=3DMjQ2ODg2OQ%3d%3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&codEma=
+il=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombr=
+eProv=3DT3RoZXJz&link=3Dhttp://www.payulatam.com/PaymentsMedia-PayU-2015.pd=
+f" id=3D"boton5" target=3D'_blank'><img src=3D'http://www.payulatam.com/ima=
+genes-correos/logo-paymentmedia.png' width=3D'177' height=3D'33' alt=3D'Pay=
+mentMedia'><br></a></td></tr><tr><td width=3D'50%' align=3D'center' valign=
+=3D'middle'><a style=3D'color: #a6c307; font-weight: bold; font-family: ari=
+al; font-size: 14px;' http:=3D'' www=3D'' payulatam=3D'' com=3D'' paymentsm=
+edia-payu-2015=3D'' pdf=3D'' target=3D'_blank' href=3D"http://www.mailing-p=
+ayu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1h=
+aWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGlu=
+ZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg3MA%3d%=
+3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=
+=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=
+=3Dhttp://www.payulatam.com/PaymentsMedia-PayU-2015.pdf" id=3D"boton6">Leer=
+ art=C3=ADculo</a></td></tr></table></td><td><table width=3D'98%'><tr><td w=
+idth=3D'62%' style=3D'border-left: 1px solid #a99f9c;' align=3D'center' val=
+ign=3D'middle'><a href=3D"http://www.mailing-payu.com/click2.aspx?utm_sourc=
+e=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF5b19V=
+IG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlc=
+iAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg3MQ%3d%3d&config=3DMjA1NzMx&envionro=
+=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&=
+viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.payulatam.com/LaRe=
+p=C3=BAblica_30abr2015.jpg" id=3D"boton7" target=3D'_blank'><img src=3D'htt=
+p://www.payulatam.com/imagenes-correos/logo-LR.png' width=3D'32' height=3D'=
+40' alt=3D'La Rep=C3=BAblica'><br></a></td></tr><tr><td width=3D'62%' style=
+=3D'border-left: 1px solid #a99f9c;' align=3D'center' valign=3D'middle'><a =
+style=3D'color: #a6c307; font-weight: bold; font-family: arial; font-size: =
+14px;' http:=3D'' www=3D'' payulatam=3D'' com=3D'' larep=3D'' uacute=3D'' b=
+lica_30abr2015=3D'' jpg=3D'' target=3D'_blank' href=3D"http://www.mailing-p=
+ayu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1h=
+aWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGlu=
+ZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg3Mg%3d%=
+3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=
+=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=
+=3Dhttp://www.payulatam.com/LaRep%C3%BAblica_30abr2015.jpg" id=3D"boton8">L=
+eer art=C3=ADculo</a></td></tr></table></td></tr></table></td></tr><tr><td =
+bgcolor=3D'#f5fae7' style=3D'border-top: 5px solid #a6c307; padding-bottom:=
+ 10px; padding-top: 10px;'><table width=3D'530' align=3D'center'><tr><td><a=
+ href=3D"http://www.mailing-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtld=
+GluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&ut=
+m_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZX=
+R3b3Jr&boton=3DMjQ2ODg3Mw%3d%3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&c=
+odEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&=
+nombreProv=3DT3RoZXJz&link=3Dhttp://www.payu.com.co" id=3D"boton9" target=
+=3D'_blank'><img src=3D'http://www.payulatam.com/imagenes-correos/Unetwork/=
+PayU-footer.png' width=3D'141' height=3D'70' alt=3D'PayU'></a></td><td></td=
+></tr><tr><td style=3D'padding-top: 10px;'><img src=3D'http://www.payulatam=
+=2Ecom/imagenes-correos/Unetwork/slogan-footer.png' width=3D'152' height=3D=
+'15' alt=3D'R=C3=A1pido, simple, seguro'></td><td align=3D'right'><table></=
+table><table cellpadding=3D'0' cellspacing=3D'5'><tr><td><a href=3D"http://=
+www.mailing-payu.com/click2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_=
+medium=3DRW1haWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWN=
+vbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DM=
+jQ2ODg3NA%3d%3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg=
+%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3R=
+oZXJz&link=3Dhttps://twitter.com/PayULatam" id=3D"boton10" target=3D'_blank=
+'><img src=3D'http://www.payulatam.com/imagenes-correos/Unetwork/icon-twitt=
+er.png' width=3D'20' height=3D'25' alt=3D'Twitter' style=3D'display: block;=
+'></a></td><td><a href=3D"http://www.mailing-payu.com/click2.aspx?utm_sourc=
+e=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF5b19V=
+IG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlc=
+iAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg3NQ%3d%3d&config=3DMjA1NzMx&envionro=
+=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&=
+viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttps://www.facebook.com/Payu=
+Latam%7b33%7dref%7b22%7dbr_rs" id=3D"boton11" target=3D'_blank'><img src=3D=
+'http://www.payulatam.com/imagenes-correos/Unetwork/icon-facebook.png' widt=
+h=3D'15' height=3D'25' alt=3D'Facebook' style=3D'display: block;'></a></td>=
+<td><a href=3D"http://www.mailing-payu.com/click2.aspx?utm_source=3DSWNvbW1=
+hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_content=3DTWF5b19VIG5ldHdvcms=
+%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRobHkgTmV3c2xldHRlciAtIE1heW9f=
+VSBuZXR3b3Jr&boton=3DMjQ2ODg3Ng%3d%3d&config=3DMjA1NzMx&envionro=3DMjgwNg%3=
+d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2NjY2hpbGUuY2w%3d&viral=3DMA%=
+3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttps://vimeo.com/payulatam" id=3D"boton=
+12" target=3D'_blank'><img src=3D'http://www.payulatam.com/imagenes-correos=
+/Unetwork/icon-vimeo.png' width=3D'28' height=3D'25' alt=3D'Vimeo' style=3D=
+'display: block;'></a></td><td><a href=3D"http://www.mailing-payu.com/click=
+2.aspx?utm_source=3DSWNvbW1hcmtldGluZw%3d%3d&utm_medium=3DRW1haWw%3d&utm_co=
+ntent=3DTWF5b19VIG5ldHdvcms%3d&utm_campaign=3DSWNvbW1hcmtldGluZyAtIE1vbnRob=
+HkgTmV3c2xldHRlciAtIE1heW9fVSBuZXR3b3Jr&boton=3DMjQ2ODg3Nw%3d%3d&config=3DM=
+jA1NzMx&envionro=3DMjgwNg%3d%3d&codEmail=3DMjgwNg%3d%3d&email=3DYWRtaW5AY2N=
+jY2hpbGUuY2w%3d&viral=3DMA%3d%3d&nombreProv=3DT3RoZXJz&link=3Dhttp://www.pa=
+yulatam.com/blog/" id=3D"boton13" target=3D'_blank'><img src=3D'http://www.=
+payulatam.com/imagenes-correos/Unetwork/icon-blog.png' width=3D'25' height=
+=3D'25' alt=3D'Blog' style=3D'display: block;'></a></td></tr></table></td><=
+/tr></table></td></tr></table></td></tr></table><table width=3D'600' align=
+=3D'center'><tr><td><span style=3D'color: #a99f9c; font-family: arial; font=
+-size: 10px;'>El contenido de este mensaje puede ser informaci=C3=B3n privi=
+legiada y confidencial. Si usted no es el destinatario real del mismo, por =
+favor informe de ello a quien lo env=C3=ADa y destr=C3=BAyalo en forma inme=
+diata. Est=C3=A1 prohibida su retenci=C3=B3n, grabaci=C3=B3n, utilizaci=C3=
+=B3n o divulgaci=C3=B3n con cualquier prop=C3=B3sito. Este mensaje ha sido =
+verificado con software antivirus, en consecuencia, el remitente de este no=
+ se hace responsable por la presencia en =C3=A9l o en sus anexos de alg=C3=
+=BAn virus que pueda generar da=C3=B1os en los equipos o programas del dest=
+inatario. </span></td></tr></table>=0A		</td>=0A	</tr>=0A</table>=0A=0A		</=
+div><div align=3D"center" style=3D"text-align:center;margin-left:auto;margi=
+n-right:auto"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" width=3D"600px" style=3D"margin-left:auto;margin-right:auto;wid=
+th:600px;"><tr><td width=3D"600px" style=3D"width:600px;" valign=3D"top" al=
+ign=3D"left"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d width=3D"12px" valign=3D"top" style=3D"width:12px"></td><td width=3D"577p=
+x" valign=3D"top" style=3D"width:577px"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tr><td height=3D"13px" width=3D"577px" style=3D"width=
+:577px; height:13px; line-height:13px;" valign=3D"top"></td></tr></table><t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"577p=
+x" style=3D"width:577px; text-align:center;" valign=3D"top" align=3D"center=
+"><font style=3D"font-family:Tahoma; font-size:11px; color:#ADB3B5;">Este e=
+mail fue enviado a: <span style=3D"color:#6C6D6F;">admin@cccchile.cl</span>=
+ | Este email fue enviado por: <span style=3D"color:#6C6D6F;">PayU </span><=
+/font></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0"><tr><td height=3D"5px" width=3D"577px" style=3D"width:577px; height:=
+5px; line-height:5px;" valign=3D"top"></td></tr></table><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:1px;" va=
+lign=3D"top"><img src=3D"http://images.mailing-payu.com/clientes/images/Sep=
+aradorFoot.gif" alt=3D"SeparadorFoot" width=3D"577" height=3D"5"  /></td></=
+tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D=
+"center"><tr><td width=3D"577px" style=3D"width:577px; text-align:center;" =
+valign=3D"top"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>=
+<td style=3D"line-height:5px;height:5px;" height=3D"5px" valign=3D"top" ali=
+gn=3D"center">&nbsp;</td></tr></table><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td height=3D"13px" width=3D"577px" style=3D"width:=
+577px; height:13px; line-height:13px;" valign=3D"top" align=3D"center"><fon=
+t style=3D"font-family:Tahoma; font-size:11px; color:#ADB3B5;"><a href=3D"h=
+ttp://www.mailing-payu.com/sp_removido.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzc=
+wJnBpZXphPTE0NjY1MCZjb25maWc9MjA1NzMxJm1haWw9YWRtaW5AY2NjY2hpbGUuY2wmcGVyZm=
+lsPTYwNzgyJmNvZEVtYWlsPTI4MDYmbm9tYnJlUHJvdj1PdGhlcnM%3d" style=3D"text-dec=
+oration:none; font-family:Tahoma; font-size:11px; color:#ADB3B5;" target=3D=
+"_blank">Remover suscripci=C3=B3n</a> . <a href=3D"http://www.mailing-payu.=
+com/termycond.aspx" style=3D"text-decoration:none;font-family:Tahoma; font-=
+size:11px; color:#ADB3B5;"  target=3D"_blank">T=C3=A9rminos y Condiciones</=
+a></font></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0"><tr><td style=3D"line-height:5px;height:5px;" height=3D"5px" valign=
+=3D"top" align=3D"center">&nbsp;</td></tr></table></td></tr></table><table =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-heig=
+ht:1px;" valign=3D"top"><img src=3D"http://images.mailing-payu.com/clientes=
+/images/SeparadorFoot.gif" alt=3D"SeparadorFoot" width=3D"577" height=3D"5"=
+  /></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0"><tr><td style=3D"line-height:5px;height:5px;" height=3D"5px" valign=3D"t=
+op" align=3D"center">&nbsp;</td></tr><tr><td style=3D"line-height:14px;heig=
+ht:14px;width:567px;" height=3D"14px" width=3D"577px;" valign=3D"top" align=
+=3D"right"><a href=3D"www.mailing-payu.com/PoweredBy.aspx?alianza=3D891&e1=
+=3DYWRtaW5AY2NjY2hpbGUuY2w=3D&e2=3DUGF5dSAtIENvbG9tYmlh&e3=3DTWF5b19VIG5ldH=
+dvcms=3D&e4=3DTWF5b19VIG5ldHdvcms=3D&utm_source=3DiComMkt&utm_medium=3DEmai=
+l&utm_content=3DPayu - Colombia-Mayo_U network-Mayo_U network&utm_campaign=
+=3DiComMkt%2BVerified%2BBy" style=3D"text-decoration:none;"><font style=3D"=
+font-family:Tahoma; font-size:11px;"><font style=3D"color:#f77a2f;">Verifie=
+d</font>&nbsp;<font style=3D"color:#a5ac12;">By</font>&nbsp;<font style=3D"=
+color:#358cbe;">iComMkt</font></font></a></td></tr></table><table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"line-height:10px;h=
+eight:10px;" height=3D"10px" valign=3D"top" align=3D"center">&nbsp;</td></t=
+r></table></td></tr></table></div><img src=3D"http://www.mailing-payu.com/P=
+ixel.aspx?Y2xpZW50ZT01NTMmY2FtcGFuYT0zMzcwJnBpZXphPTE0NjY1MCZjb25maWc9MjA1N=
+zMxJmVudmlvbnJvPTI4MDYmbWFpbD1hZG1pbkBjY2NjaGlsZS5jbCZwZXJmaWw9NjA3ODImdmly=
+YWw9MCZjb2RFbWFpbD0yODA2Jm5vbWJyZVByb3Y9T3RoZXJzJnN1YmplY3Q9MjE4NTA5" width=
+=3D"0" height=3D"0" border=3D"0"></body></html>
+--------------020507020709090902020506--
+

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2014-12-12 07:10:27
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:16:08
          compiled from "/home2/amorales/public_html/modules/zopimfree/header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1986516423548abf135a4ba2-07776211%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:187959396355477f2879ebb0-93502616%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1986516423548abf135a4ba2-07776211',
+  'nocache_hash' => '187959396355477f2879ebb0-93502616',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf13617ca4_93056923',
+  'unifunc' => 'content_55477f289553b9_13717891',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548abf13617ca4_93056923')) {function content_548abf13617ca4_93056923($_smarty_tpl) {?><?php if (!isset($_GET['content_only'])){?>
+<?php if ($_valid && !is_callable('content_55477f289553b9_13717891')) {function content_55477f289553b9_13717891($_smarty_tpl) {?><?php if (!isset($_GET['content_only'])){?>
 <!--Start of Zopim Live Chat Script-->
 
 <script type="text/javascript">

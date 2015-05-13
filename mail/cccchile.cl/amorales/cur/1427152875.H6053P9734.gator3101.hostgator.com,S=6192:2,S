@@ -1,0 +1,155 @@
+Return-path: <unreamlo@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 23 Mar 2015 18:21:15 -0500
+Received: from mail-qg0-f42.google.com ([209.85.192.42]:32941)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <unreamlo@gmail.com>)
+	id 1YaBek-0002Uu-PD
+	for amorales@cccchile.cl; Mon, 23 Mar 2015 18:21:14 -0500
+Received: by qgfa8 with SMTP id a8so170878025qgf.0
+        for <amorales@cccchile.cl>; Mon, 23 Mar 2015 16:21:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=jWVye2Fkg52FTyZvmJHdjdEKtMswXusWDvY+/Y5Z9H4=;
+        b=Z8nKQeWkzBFscY+cIHp266Dxy4FgOrT/J1t2h7yzZ9FoL2PVFHXQr5L3AmGfDOFeky
+         DQS1TXUtIHz6offkPkzH/V/jpSARH17dPQIeVzeLw4H1s0Y65lExRTbulrgqt2CgC7Ad
+         iQCQTVQDCi3a0yQ+Zz6VLtJVdjXrTCf1Dh5E3NR+RlPNOFwakoGaW/yxL3McKyQWxnu+
+         u0B++jwRypCPUO9r987DRHe6pwNHnOjFK/aivW5RTvdnwrWMYchH/AwuziRpy0K11Ajz
+         gOPRhMbB+7bYYy4USKRoBnLTsAPi2F/edt90WMqrrB5+gmYveN0BCOon/Yp0PMsC+o/g
+         bTlA==
+MIME-Version: 1.0
+X-Received: by 10.55.23.6 with SMTP id i6mr3264886qkh.39.1427152872628; Mon,
+ 23 Mar 2015 16:21:12 -0700 (PDT)
+Received: by 10.140.102.210 with HTTP; Mon, 23 Mar 2015 16:21:12 -0700 (PDT)
+In-Reply-To: <CAKggD2TH=V7o=HrP1iWwCFr+h+AnLChT2p899fZFvDTb06x6tw@mail.gmail.com>
+References: <1463091740.333794.1427146861842.JavaMail.root@468718-payuapp01.pagosonline.net>
+	<CAKggD2TH=V7o=HrP1iWwCFr+h+AnLChT2p899fZFvDTb06x6tw@mail.gmail.com>
+Date: Mon, 23 Mar 2015 20:21:12 -0300
+Message-ID: <CANcV_6M-t6_ji8bdvZ36xsN+He1-J59r8G-w3QaBG7EYh5MwAw@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_=2D=2DError_al_enviar_pagina_de_confirmaci=C3=B3n=2D=2D?=
+From: Pablo Tapia <unreamlo@gmail.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Cc: =?UTF-8?Q?Joaquin_Nicol=C3=A1s_Jadue?= <joakuster@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11471234036abf0511fcec25
+
+--001a11471234036abf0511fcec25
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Eso es cuando se arrepienten de pagar.
+
+Em segunda-feira, 23 de mar=C3=A7o de 2015, Andr=C3=A9s Morales (CCC-CHILE)=
+ <
+amorales@cccchile.cl> escreveu:
+
+> pueden revisarlo???
+>
+> nose si me pagaron los zapatos...
+> ---------- Mensaje reenviado ----------
+> De: <no-responder@pagosonline.net
+> <javascript:_e(%7B%7D,'cvml','no-responder@pagosonline.net');>>
+> Fecha: 23 de marzo de 2015, 17:41
+> Asunto: --Error al enviar pagina de confirmaci=C3=B3n--
+> Para: admin@cccchile.cl
+> <javascript:_e(%7B%7D,'cvml','admin@cccchile.cl');>
+> Cc: test.tech.001@gmail.com
+> <javascript:_e(%7B%7D,'cvml','test.tech.001@gmail.com');>
+>
+>
+>   Apreciado(a): Pablo Tapia C,
+>  El sistema realiz=C3=B3 varios intentos para reportar a la p=C3=A1gina d=
+e
+> confirmaci=C3=B3n sin embargo un error impidi=C3=B3 que este proceso se e=
+jecutara de
+> forma exitosa.
+>  La URL de la p=C3=A1gina es :
+> http://cccchile.cl/modules/payulatam/pages/confirmation.php  El c=C3=B3di=
+go de
+> la =C3=B3rden es : 84840935  El c=C3=B3digo de la transacci=C3=B3n es :
+> 99715f74-59df-4094-87ea-602897ec91b8  El c=C3=B3digo HTTP es : 500  El me=
+nsaje
+> del error es:
+>  Si usted no desea utiizar la p=C3=A1gina de confirmaci=C3=B3n comuniques=
+e con
+> Asesor=C3=ADa en l=C3=ADnea en www.pagosonline.net
+>
+>
+
+--001a11471234036abf0511fcec25
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Eso es cuando se arrepienten de pagar.=C2=A0<span></span><br><br>Em segunda=
+-feira, 23 de mar=C3=A7o de 2015, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a hr=
+ef=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; escreveu:<b=
+r><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:=
+1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">pueden revisarlo???<div><=
+br></div><div>nose si me pagaron los zapatos...<br><div class=3D"gmail_quot=
+e">---------- Mensaje reenviado ----------<br>De: <b class=3D"gmail_sendern=
+ame"></b> <span dir=3D"ltr">&lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#=
+39;,&#39;no-responder@pagosonline.net&#39;);" target=3D"_blank">no-responde=
+r@pagosonline.net</a>&gt;</span><br>Fecha: 23 de marzo de 2015, 17:41<br>As=
+unto: --Error al enviar pagina de confirmaci=C3=B3n--<br>Para: <a href=3D"j=
+avascript:_e(%7B%7D,&#39;cvml&#39;,&#39;admin@cccchile.cl&#39;);" target=3D=
+"_blank">admin@cccchile.cl</a><br>Cc: <a href=3D"javascript:_e(%7B%7D,&#39;=
+cvml&#39;,&#39;test.tech.001@gmail.com&#39;);" target=3D"_blank">test.tech.=
+001@gmail.com</a><br><br><br>
+<u></u>
+
+
+
+
+
+
+<div><span>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">Apreciado(a): Pablo Tapia C,</td>
+  </tr>
+</tbody></table>
+<br>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">El sistema realiz=C3=B3 varios intentos para repo=
+rtar a la p=C3=A1gina de confirmaci=C3=B3n sin embargo un error impidi=C3=
+=B3 que este proceso se ejecutara de forma exitosa.</td>
+  </tr>
+</tbody></table>
+<br>
+</span><table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">La URL de la p=C3=A1gina es : <a href=3D"http://c=
+ccchile.cl/modules/payulatam/pages/confirmation.php" target=3D"_blank">http=
+://cccchile.cl/modules/payulatam/pages/confirmation.php</a></td>
+   </tr>
+	<tr>
+	<td align=3D"justify">El c=C3=B3digo de la =C3=B3rden es : 84840935</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El c=C3=B3digo de la transacci=C3=B3n es : 99715f74-=
+59df-4094-87ea-602897ec91b8</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El c=C3=B3digo HTTP es : 500</td>
+  </tr>
+   <tr>
+	<td align=3D"justify">El mensaje del error es: </td>
+  </tr>
+</tbody></table><span>
+<br>
+<table width=3D"100%" border=3D"0">
+  <tbody><tr>
+    <td align=3D"justify">Si usted no desea utiizar la p=C3=A1gina de confi=
+rmaci=C3=B3n comuniquese con Asesor=C3=ADa en l=C3=ADnea en <a href=3D"http=
+://www.pagosonline.net" target=3D"_blank">www.pagosonline.net</a></td>
+  </tr>
+</tbody></table>
+</span></div>
+
+</div><br></div></div>
+</blockquote>
+
+--001a11471234036abf0511fcec25--

@@ -1,0 +1,667 @@
+Return-path: <>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 07 Apr 2015 09:38:43 -0500
+Received: from gateway21.websitewelcome.com ([192.185.45.2]:41006)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	id 1YfUeJ-0001HG-4U
+	for amorales@cccchile.cl; Tue, 07 Apr 2015 09:38:43 -0500
+Received: by gateway21.websitewelcome.com (Postfix)
+	id C08BEBE2729F9; Tue,  7 Apr 2015 09:38:36 -0500 (CDT)
+Date: Tue,  7 Apr 2015 09:38:36 -0500 (CDT)
+From: MAILER-DAEMON@gateway21.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amorales@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="062C0BDD1115C.1428417516/gateway21.websitewelcome.com"
+Message-Id: <20150407143836.C08BEBE2729F9@gateway21.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--062C0BDD1115C.1428417516/gateway21.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway21.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<lulu_cov@yahoo.com>: delivery temporarily suspended: lost connection with
+    mta7.am0.yahoodns.net[66.196.118.36] while sending RCPT TO
+
+--062C0BDD1115C.1428417516/gateway21.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway21.websitewelcome.com
+X-Postfix-Queue-ID: 062C0BDD1115C
+X-Postfix-Sender: rfc822; amorales@cccchile.cl
+Arrival-Date: Tue,  7 Apr 2015 07:29:58 -0500 (CDT)
+
+Final-Recipient: rfc822; lulu_cov@yahoo.com
+Original-Recipient: rfc822;lulu_cov@yahoo.com
+Action: failed
+Status: 4.4.2
+Diagnostic-Code: X-Postfix; delivery temporarily suspended: lost connection
+    with mta7.am0.yahoodns.net[66.196.118.36] while sending RCPT TO
+
+--062C0BDD1115C.1428417516/gateway21.websitewelcome.com
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <amorales@cccchile.cl>
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway22.websitewelcome.com (Postfix) with ESMTP id 062C0BDD1115C
+	for <lulu_cov@yahoo.com>; Tue,  7 Apr 2015 07:29:58 -0500 (CDT)
+Received: from [209.85.212.177] (port=35841 helo=mail-wi0-f177.google.com)
+	by gator3101.hostgator.com with esmtpsa (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <amorales@cccchile.cl>)
+	id 1YfSdh-0001y8-7r
+	for lulu_cov@yahoo.com; Tue, 07 Apr 2015 07:29:57 -0500
+Received: by wizk4 with SMTP id k4so15416242wiz.1
+        for <lulu_cov@yahoo.com>; Tue, 07 Apr 2015 05:29:56 -0700 (PDT)
+MIME-Version: 1.0
+X-Received: by 10.180.23.106 with SMTP id l10mr4322177wif.54.1428409796231;
+ Tue, 07 Apr 2015 05:29:56 -0700 (PDT)
+Received: by 10.194.87.200 with HTTP; Tue, 7 Apr 2015 05:29:56 -0700 (PDT)
+In-Reply-To: <CAKggD2R+q6aiV+JkrHzhhCj2575+0GNufSbbE5qyPOko6yw65g@mail.gmail.com>
+References: <CAPOKp7cLeTaApkd0NOG4P3AoAxttoD5fCT0dNbCizkWUNwTHJQ@mail.gmail.com>
+	<CAPOKp7fGo=4u616d8PVDe+_ne04KfAMGL0dc=S_32FnMM3ZMpw@mail.gmail.com>
+	<CAKggD2SBvXAv26W4AA4_hzNOjBZh7mH-mw8JuY-6_bSGQ6c0MQ@mail.gmail.com>
+	<CAPOKp7frf0jt-iWsbhTX6_FNyMnZAZTY+6XDsPYLFZCyqEj=Tw@mail.gmail.com>
+	<CAKggD2R+q6aiV+JkrHzhhCj2575+0GNufSbbE5qyPOko6yw65g@mail.gmail.com>
+Date: Tue, 7 Apr 2015 08:29:56 -0400
+Message-ID: <CAKggD2Sw8RwiGEbRC6MLw+tWrSnvzFWJOA-yhVpaqAg1JRmz4g@mail.gmail.com>
+Subject: Re: Ideas de telas, van los link
+From: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+To: Trinidad Correa <trinidadcorreab@gmail.com>
+Cc: =?UTF-8?B?4oCO4oCOTWFyaWEgQ292YXJydWJpYXPigI7igI4=?= <lulu_cov@yahoo.com>
+Content-Type: multipart/alternative; boundary=001a1130ceae7f87b5051321928e
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 209.85.212.177
+X-Exim-ID: 1YfSdh-0001y8-7r
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-wi0-f177.google.com) [209.85.212.177]:35841
+X-Source-Auth: amorales@cccchile.cl
+X-Email-Count: 3
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+--001a1130ceae7f87b5051321928e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola trini,
+
+Esta confirmada la reu de hoy?
+Avisame.
+
+El jueves, 2 de abril de 2015, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+> Hola Trini,
+>
+> Pr=C3=B3xima semana, te parece martes en la tarde?
+> ideal tipo 4:30pm, la direcci=C3=B3n es Til Til 1911, =C3=B1u=C3=B1oa.
+>
+> importante que ojal=C3=A1 traigas una muestra real de las telas que quier=
+es
+> lograr y (aparte puede ser) un dibujo (s) de los dise=C3=B1os que quieres
+> agregar. Algo donde podamos tener una referencia real.
+>
+> Un abrazo...
+>
+>
+> 2015-04-01 11:33 GMT-04:00 Trinidad Correa <trinidadcorreab@gmail.com
+> <javascript:_e(%7B%7D,'cvml','trinidadcorreab@gmail.com');>>:
+>
+>> Hola!
+>>
+>> Cuando podemos juntarnos?
+>> La cantidad de telas depende del costo
+>> Obviamente mientrasas alternativas tengamos mejor.
+>>
+>> En el caso de las telas para sabanas, cubreplumon,... tiene ser 100%
+>> algodon y de 200 y 300 hilos
+>> En linos, es mezcla con poli=C3=A9ster o algod=C3=B3n (ejemplo 30% lino =
+70
+>> poli=C3=A9ster)
+>> En los hule, tenemos muestra del espesor.
+>>
+>> Necesitamos aterrizar estas ideas en cuanto a precios para saber que
+>> haremos finalmente
+>>
+>> Fijemos reuni=C3=B3n luego....
+>>
+>> Gracias!
+>> El mar 31, 2015 12:01 PM, "Andr=C3=A9s Morales (CCC-CHILE)" <
+>> amorales@cccchile.cl
+>> <javascript:_e(%7B%7D,'cvml','amorales@cccchile.cl');>> escribi=C3=B3:
+>>
+>>> Hola...si lo vimos.
+>>> Hay varias dudas, pero podr=C3=ADamos hacer una reu.
+>>> Ahora un pregunta, por ejemplo de cualqueira de esas telas o dise=C3=B1=
+os,
+>>> cu=C3=A1nto piensas ocupar?
+>>> Te pregunto porque si es que se llega a lo que quieres hay que estimar
+>>> las impresiones y tintas..etc...
+>>> lo otro, tiene que ser 100% algodon? tambien te pregunto, porque en
+>>> chile es muy dificil encontrar 100%, hay muy cercanos pero en general l=
+o
+>>> que son realmente 100% son importados.
+>>> Si piensas ofrecer otro tipo de tela creo que se ampl=C3=A1i mucho mas =
+las
+>>> posibilidades...
+>>>
+>>> Te voy comentando...
+>>>
+>>>
+>>> 2015-03-31 9:09 GMT-04:00 Trinidad Correa <trinidadcorreab@gmail.com
+>>> <javascript:_e(%7B%7D,'cvml','trinidadcorreab@gmail.com');>>:
+>>>
+>>>> Hola Andr=C3=A9s, c=C3=B3mo est=C3=A1s?
+>>>> Pudieron ver este tema con tu pap=C3=A1?
+>>>> Si prefieres lo veo directamente con el, me interesa much=C3=ADsimo
+>>>> avanzar....
+>>>> Quedo atenta a tus comentarios
+>>>>
+>>>> Saludos!
+>>>>
+>>>> Trini
+>>>> El mar 26, 2015 4:59 PM, "Trinidad Correa" <trinidadcorreab@gmail.com
+>>>> <javascript:_e(%7B%7D,'cvml','trinidadcorreab@gmail.com');>> escribi=
+=C3=B3:
+>>>>
+>>>>> Hola Andr=C3=A9s,
+>>>>>
+>>>>> Estas son las ideas que tenemos, estilos...son miles!!!
+>>>>>
+>>>>> Ve con tu pap=C3=A1 si lograr=C3=ADan algo as=C3=AD, feliz que nos re=
+comiendes que
+>>>>> calidad de tela es necesaria si se logra copiar. Si necesitas muestra=
+s
+>>>>> reales podemos encargarlas.
+>>>>>
+>>>>> No queremos que el dise=C3=B1o se mate por la calidad de la tela. Y t=
+ampoco
+>>>>> vender tan caro el metro. Que sea proporcionado...
+>>>>>
+>>>>> Queremos trabajar en:
+>>>>> - Linos
+>>>>> - Algod=C3=B3n
+>>>>> - Hule (grueso no ese rasca como con otra tela por abajo)
+>>>>>
+>>>>> Me faltan ideas de linos para tapiz, te los mando en otro mail
+>>>>>
+>>>>>
+>>>>>
+>>>>>    1. Fabric Cotton Quilt bundle Tessuti Tissus Telas Graphic Stars
+>>>>>    Stripe Grey
+>>>>>    <https://www.etsy.com/listing/192505634/fabric-cotton-quilt-bundle=
+-tessuti>
+>>>>>    2. Half Yard - 1/2 Yard of Fairisle Hearts Greige - RECOLLECTION
+>>>>>    by Katarina Roccella - AGF
+>>>>>    <https://www.etsy.com/listing/214842032/half-yard-12-yard-of-fairi=
+sle-hearts>
+>>>>>    3. Half Yard - 1/2 yard - Paper Sail in Red - AHOY MATEY- Windham
+>>>>>    Fabrics
+>>>>>    <https://www.etsy.com/listing/215279719/half-yard-12-yard-paper-sa=
+il-in-red-ahoy>
+>>>>>    4. One Yard - 1 Yard of Matte Zirconia - PRISMA ELEMENTS by AGF
+>>>>>    Studio - Art Gallery
+>>>>>    <https://www.etsy.com/listing/216072632/one-yard-1-yard-of-matte-z=
+irconia-prisma>
+>>>>>    5. Half Yard - 1/2 Yard - Denyse Schmidt - FRANKLIN- Big Dot -
+>>>>>    Glade
+>>>>>    <https://www.etsy.com/listing/222128540/half-yard-12-yard-denyse-s=
+chmidt>
+>>>>>    6. Half Yard - 1/2 Yard of Leaflet Dawn - Hello, Bear by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222422987/half-yard-12-yard-of-leafl=
+et-dawn-hello>
+>>>>>    7. One Yard - 1 Yard - Enchant - Little Folk in White- Riley Blake
+>>>>>    Designs
+>>>>>    <https://www.etsy.com/listing/165153609/one-yard-1-yard-enchant-li=
+ttle-folk-in>
+>>>>>    8. Half Yard - 1/2 Yard of Dreamlandia Irradiated - Utopia by
+>>>>>    Frances Newcombe for Art Gallery
+>>>>>    <https://www.etsy.com/listing/207322034/half-yard-12-yard-of-dream=
+landia>
+>>>>>    9. Half Yard - 1/2 Yard of Aves Chatter Dim - Winged by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/198531555/half-yard-12-yard-of-aves-=
+chatter-dim>
+>>>>>    10. Half Yard - 1/2 Yard of Firefly Whisper - Hello, Bear by
+>>>>>    Bonnie Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222423261/half-yard-12-yard-of-firef=
+ly-whisper>
+>>>>>    11. One Yard - 1 Yard of Follow Me Moonlight - Hello, Bear by
+>>>>>    Bonnie Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222397175/one-yard-1-yard-of-follow-=
+me-moonlight>
+>>>>>    12. Half Yard - 1/2 Yard of Plumage Apricot - Winged by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/198521612/half-yard-12-yard-of-pluma=
+ge-apricot>
+>>>>>    13. Half Yard - 1/2 Yard of Nesting Blooms Warm - Winged by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/198521200/half-yard-12-yard-of-nesti=
+ng-blooms-warm>
+>>>>>    14. Half Yard - 1/2 Yard - Finn in Pink - Catnap by Lizzy House
+>>>>>    for Andover
+>>>>>    <https://www.etsy.com/listing/181121307/half-yard-12-yard-finn-in-=
+pink-catnap-by>
+>>>>>    15. One Yard - 1 Yard of Summit Dawn - Hello, Bear by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222392846/one-yard-1-yard-of-summit-=
+dawn-hello>
+>>>>>    16. Half Yard - 1/2 Yard of Bon Voyage Lumiere - Cherie by Frances
+>>>>>    Newcombe for Art Gallery
+>>>>>    <https://www.etsy.com/listing/199708558/half-yard-12-yard-of-bon-v=
+oyage-lumiere>
+>>>>>    17. Half Yard - 1/2 Yard of Gust of Leaves Silver - WANDERER by
+>>>>>    April Rhodes for Art Gallery
+>>>>>    <https://www.etsy.com/listing/225192645/half-yard-12-yard-of-gust-=
+of-leaves>
+>>>>>    18. Half Yard - 1/2 Yard of Harajuku Aqua - TOKYO TRAIN RIDE by
+>>>>>    Sarah Watts - Cotton & Steel
+>>>>>    <https://www.etsy.com/listing/218951610/half-yard-12-yard-of-haraj=
+uku-aqua-tokyo>
+>>>>>    19. One Yard - 1 Yard of Dreamscape in Moon - Rapture by Pat Bravo
+>>>>>    for Art Gallery
+>>>>>    <https://www.etsy.com/listing/170440990/one-yard-1-yard-of-dreamsc=
+ape-in-moon>
+>>>>>    20. Half Yard - 1/2 Yard of Leaflet Eucalyptus - Hello, Bear by
+>>>>>    Bonnie Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222423053/half-yard-12-yard-of-leafl=
+et-eucalyptus>
+>>>>>    21. One Yard - 1 Yard of Buck Forest Night - Hello, Bear by Bonnie
+>>>>>    Christine for Art Gallery
+>>>>>    <https://www.etsy.com/listing/222391902/one-yard-1-yard-of-buck-fo=
+rest-night>
+>>>>>    22. One Yard - 1 Yard of Meadowlark in Tangerine - UP PARASOL by
+>>>>>    Heather Bailey for Free Spirit Fabrics
+>>>>>    <https://www.etsy.com/listing/191903415/one-yard-1-yard-of-meadowl=
+ark-in>
+>>>>>    23. Half yard - 1/2 yard - Anna Maria Horner - DOWRY - Flourish in
+>>>>>    Cherry
+>>>>>    <https://www.etsy.com/listing/168964370/half-yard-12-yard-anna-mar=
+ia-horner>
+>>>>>    24. One Yard - 1 Yard - Cranes in Gray - Sakura - Makower UK for
+>>>>>    Andover Fabrics
+>>>>>    <https://www.etsy.com/listing/208855977/one-yard-1-yard-cranes-in-=
+gray-sakura>
+>>>>>    25. Half Yard - 1/2 Yard - Mojave Aloe - MORNING WALK by Leah
+>>>>>    Duncan
+>>>>>    <https://www.etsy.com/listing/226829844/half-yard-12-yard-mojave-a=
+loe-morning>
+>>>>>    26. Half Yard - 1/2 Yard - Cacti Field Festival - MORNING WALK by
+>>>>>    Leah Duncan
+>>>>>    <https://www.etsy.com/listing/226830228/half-yard-12-yard-cacti-fi=
+eld-festival>
+>>>>>    27. One Yard - 1 Yard of Birdsong in White - CHINOISERIE CHIC by
+>>>>>    Dena Fishbein for Free Spirit Fabrics
+>>>>>    <https://www.etsy.com/listing/213990898/one-yard-1-yard-of-birdson=
+g-in-white>
+>>>>>    28. One Yard - 1 Yard - Cacti Field Fun- MORNING WALK by Leah
+>>>>>    Duncan
+>>>>>    <https://www.etsy.com/listing/226826424/one-yard-1-yard-cacti-fiel=
+d-fun-morning>
+>>>>>    29. Nani Iro Japanese Fabric Kokka Pierre Pocho laminated canvas -
+>>>>>    B
+>>>>>    <https://www.etsy.com/listing/207805668/nani-iro-japanese-fabric-k=
+okka-pierre>
+>>>>>    30. Japanese Fabric Nani Iro Free Way double gauze - mezame
+>>>>>    <https://www.etsy.com/listing/221921078/japanese-fabric-nani-iro-f=
+ree-way-double>
+>>>>>    31. Japanese Fabric Kobayashi - Penguins canvas - grey - fat
+>>>>>    quarter
+>>>>>    <https://www.etsy.com/listing/222235863/japanese-fabric-kobayashi-=
+penguins>
+>>>>>    32. Cotton + Steel Moonlit - Tangrams indigo
+>>>>>    <https://www.etsy.com/listing/194925621/cotton-steel-moonlit-tangr=
+ams-indigo>
+>>>>>    33. Japanese Fabric - yarn dyed stripe canvas - grey, beige
+>>>>>    <https://www.etsy.com/listing/215481446/japanese-fabric-yarn-dyed-=
+stripe-canvas>
+>>>>>    34. Japanese Fabric Bear panel
+>>>>>    <https://www.etsy.com/listing/227014058/japanese-fabric-bear-panel=
+>
+>>>>>    35. Japanese Fabric Sketch Birds - green
+>>>>>    <https://www.etsy.com/listing/223219738/japanese-fabric-sketch-bir=
+ds-green>
+>>>>>    36. Cotton + Steel Mustang - Arrow canvas mint and metallic gold
+>>>>>    <https://www.etsy.com/listing/194922315/cotton-steel-mustang-arrow=
+-canvas-mint>
+>>>>>    37. Japanese Fabric Kokka Echino - deer glasses - pink, grey
+>>>>>    <https://www.etsy.com/listing/221296154/japanese-fabric-kokka-echi=
+no-deer>
+>>>>>    38. Cotton + Steel Black + White - Ghost Bunny - PRE-ORDER
+>>>>>    <https://www.etsy.com/listing/224733970/cotton-steel-black-white-g=
+host-bunny-pre>
+>>>>>    39. Cotton + Steel Hatbox - Tiger Stripes blue - fat quarter
+>>>>>    <https://www.etsy.com/listing/194685583/cotton-steel-hatbox-tiger-=
+stripes-blue>
+>>>>>    40. Japanese Fabric - Little Fox - blue on natural
+>>>>>    <https://www.etsy.com/listing/198821982/japanese-fabric-little-fox=
+-blue-on>
+>>>>>    41. Japanese Fabric - Yuwa Cotorienne Sheeeeep double gauze -
+>>>>>    mustard yellow
+>>>>>    <https://www.etsy.com/listing/195314556/japanese-fabric-yuwa-cotor=
+ienne-sheeeeep>
+>>>>>    42. Japanese Fabric Kokka Ellen Baker - Charms - Half Round -
+>>>>>    charcoal
+>>>>>    <https://www.etsy.com/listing/221294985/japanese-fabric-kokka-elle=
+n-baker-charms>
+>>>>>    43. Japanese Fabric Kokka Boston Terrier - yellow, grey
+>>>>>    <https://www.etsy.com/listing/224626212/japanese-fabric-kokka-bost=
+on-terrier>
+>>>>>    44. Japanese Fabric - Geometric Lines - neon orange
+>>>>>    <https://www.etsy.com/listing/219252822/japanese-fabric-geometric-=
+lines-neon>
+>>>>>    45. Japanese Fabric Kokka metallic speech bubbles - blue
+>>>>>    <https://www.etsy.com/listing/221956693/japanese-fabric-kokka-meta=
+llic-speech>
+>>>>>    46. Fabric flowers coral, yellow and green, design by Pat Bravo
+>>>>>    <https://www.etsy.com/listing/209440080/fabric-flowers-coral-yello=
+w-and-green>
+>>>>>    47. Very romantic fabric. Print beautiful peacocks with flowers
+>>>>>    and butterflies of Eastern air.
+>>>>>    <https://www.etsy.com/listing/216040691/very-romantic-fabric-print=
+-beautiful>
+>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>> ...............................
+>>>>>
+>>>>> *Trinidad Correa B. *
+>>>>> Dise=C3=B1adora
+>>>>> 7.499 14 96
+>>>>>
+>>>>
+>>>
+>
+
+--001a1130ceae7f87b5051321928e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola trini,<div><br></div><div>Esta confirmada la reu de hoy?</div><div>Avi=
+same.<br><br>El jueves, 2 de abril de 2015, Andr=C3=A9s Morales (CCC-CHILE)=
+ &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl</a>&gt; e=
+scribi=C3=B3:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8=
+ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Trini=
+,<div><br></div><div>Pr=C3=B3xima semana, te parece martes en la tarde?</di=
+v><div>ideal tipo 4:30pm, la direcci=C3=B3n es Til Til 1911, =C3=B1u=C3=B1o=
+a.</div><div><br></div><div>importante que ojal=C3=A1 traigas una muestra r=
+eal de las telas que quieres lograr y (aparte puede ser) un dibujo (s) de l=
+os dise=C3=B1os que quieres agregar. Algo donde podamos tener una referenci=
+a real.</div><div><br></div><div>Un abrazo...</div><div><br></div></div><di=
+v class=3D"gmail_extra"><br><div class=3D"gmail_quote">2015-04-01 11:33 GMT=
+-04:00 Trinidad Correa <span dir=3D"ltr">&lt;<a href=3D"javascript:_e(%7B%7=
+D,&#39;cvml&#39;,&#39;trinidadcorreab@gmail.com&#39;);" target=3D"_blank">t=
+rinidadcorreab@gmail.com</a>&gt;</span>:<br><blockquote class=3D"gmail_quot=
+e" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">=
+<p dir=3D"ltr">Hola!</p>
+<p dir=3D"ltr">Cuando podemos juntarnos?<br>
+La cantidad de telas depende del costo<br>
+Obviamente mientrasas alternativas tengamos mejor.</p>
+<p dir=3D"ltr">En el caso de las telas para sabanas, cubreplumon,... tiene =
+ser 100% algodon y de 200 y 300 hilos<br>
+En linos, es mezcla con poli=C3=A9ster o algod=C3=B3n (ejemplo 30% lino 70 =
+poli=C3=A9ster)<br>
+En los hule, tenemos muestra del espesor.</p>
+<p dir=3D"ltr">Necesitamos aterrizar estas ideas en cuanto a precios para s=
+aber que haremos finalmente</p>
+<p dir=3D"ltr">Fijemos reuni=C3=B3n luego....</p>
+<p dir=3D"ltr">Gracias!</p><div><div>
+<div class=3D"gmail_quote">El mar 31, 2015 12:01 PM, &quot;Andr=C3=A9s Mora=
+les (CCC-CHILE)&quot; &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#=
+39;amorales@cccchile.cl&#39;);" target=3D"_blank">amorales@cccchile.cl</a>&=
+gt; escribi=C3=B3:<br type=3D"attribution"><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><=
+div dir=3D"ltr">Hola...si lo vimos.<div>Hay varias dudas, pero podr=C3=ADam=
+os hacer una reu.</div><div>Ahora un pregunta, por ejemplo de cualqueira de=
+ esas telas o dise=C3=B1os, cu=C3=A1nto piensas ocupar?</div><div>Te pregun=
+to porque si es que se llega a lo que quieres hay que estimar las impresion=
+es y tintas..etc...</div><div>lo otro, tiene que ser 100% algodon? tambien =
+te pregunto, porque en chile es muy dificil encontrar 100%, hay muy cercano=
+s pero en general lo que son realmente 100% son importados.</div><div>Si pi=
+ensas ofrecer otro tipo de tela creo que se ampl=C3=A1i mucho mas las posib=
+ilidades...</div><div><br></div><div>Te voy comentando...</div><div><br></d=
+iv></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">2015-03-=
+31 9:09 GMT-04:00 Trinidad Correa <span dir=3D"ltr">&lt;<a href=3D"javascri=
+pt:_e(%7B%7D,&#39;cvml&#39;,&#39;trinidadcorreab@gmail.com&#39;);" target=
+=3D"_blank">trinidadcorreab@gmail.com</a>&gt;</span>:<br><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex"><p dir=3D"ltr">Hola Andr=C3=A9s, c=C3=B3mo est=C3=A1s?<br>
+Pudieron ver este tema con tu pap=C3=A1?<br>
+Si prefieres lo veo directamente con el, me interesa much=C3=ADsimo avanzar=
+....<br>
+Quedo atenta a tus comentarios</p>
+<p dir=3D"ltr">Saludos!</p>
+<p dir=3D"ltr">Trini</p><div><div>
+<div class=3D"gmail_quote">El mar 26, 2015 4:59 PM, &quot;Trinidad Correa&q=
+uot; &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;trinidadcorrea=
+b@gmail.com&#39;);" target=3D"_blank">trinidadcorreab@gmail.com</a>&gt; esc=
+ribi=C3=B3:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div dir=
+=3D"ltr"><h3 style=3D"margin:0px 0px 4px;padding:0px;color:rgb(51,51,51);fo=
+nt-weight:normal;font-size:14px;line-height:18px;word-wrap:break-word;font-=
+family:Arial,Helvetica,sans-serif">Hola Andr=C3=A9s,</h3><div><br></div><di=
+v>Estas son las ideas que tenemos, estilos...son miles!!!=C2=A0</div><div><=
+br></div><div>Ve con tu pap=C3=A1 si lograr=C3=ADan algo as=C3=AD, feliz qu=
+e nos recomiendes que calidad de tela es necesaria si se logra copiar. Si n=
+ecesitas muestras reales podemos encargarlas.</div><div><br></div><div>No q=
+ueremos que el dise=C3=B1o se mate por la calidad de la tela. Y tampoco ven=
+der tan caro el metro. Que sea proporcionado...</div><div><br></div><div>Qu=
+eremos trabajar en:</div><div>- Linos</div><div>- Algod=C3=B3n</div><div>- =
+Hule (grueso no ese rasca como con otra tela por abajo)</div><div><br></div=
+><div>Me faltan ideas de linos para tapiz, te los mando en otro mail</div><=
+h3 style=3D"margin:0px 0px 4px;padding:0px;color:rgb(51,51,51);font-weight:=
+normal;font-size:14px;line-height:18px;word-wrap:break-word;font-family:Ari=
+al,Helvetica,sans-serif"><br></h3><h3 style=3D"margin:0px 0px 4px;padding:0=
+px;color:rgb(51,51,51);font-weight:normal;font-size:14px;line-height:18px;w=
+ord-wrap:break-word;font-family:Arial,Helvetica,sans-serif"><br></h3><h3 st=
+yle=3D"margin:0px 0px 4px;padding:0px;color:rgb(51,51,51);font-weight:norma=
+l;font-size:14px;line-height:18px;word-wrap:break-word;font-family:Arial,He=
+lvetica,sans-serif"><ol><li><a href=3D"https://www.etsy.com/listing/1925056=
+34/fabric-cotton-quilt-bundle-tessuti" style=3D"margin:0px;padding:0px;colo=
+r:rgb(1,146,181);text-decoration:none" target=3D"_blank">Fabric Cotton Quil=
+t bundle Tessuti Tissus Telas Graphic Stars Stripe Grey</a><br></li><li><a =
+href=3D"https://www.etsy.com/listing/214842032/half-yard-12-yard-of-fairisl=
+e-hearts" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decorat=
+ion:none" target=3D"_blank">Half Yard - 1/2 Yard of Fairisle Hearts Greige =
+- RECOLLECTION by Katarina Roccella - AGF</a><br></li><li><a href=3D"https:=
+//www.etsy.com/listing/215279719/half-yard-12-yard-paper-sail-in-red-ahoy" =
+style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" =
+target=3D"_blank">Half Yard - 1/2 yard - Paper Sail in Red - AHOY MATEY- Wi=
+ndham Fabrics</a><br></li><li><a href=3D"https://www.etsy.com/listing/21607=
+2632/one-yard-1-yard-of-matte-zirconia-prisma" style=3D"margin:0px;padding:=
+0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">One Yard -=
+ 1 Yard of Matte Zirconia - PRISMA ELEMENTS by AGF Studio - Art Gallery</a>=
+<br></li><li><a href=3D"https://www.etsy.com/listing/222128540/half-yard-12=
+-yard-denyse-schmidt" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);=
+text-decoration:none" target=3D"_blank">Half Yard - 1/2 Yard - Denyse Schmi=
+dt - FRANKLIN- Big Dot - Glade</a><br></li><li><a href=3D"https://www.etsy.=
+com/listing/222422987/half-yard-12-yard-of-leaflet-dawn-hello" style=3D"mar=
+gin:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_b=
+lank">Half Yard - 1/2 Yard of Leaflet Dawn - Hello, Bear by Bonnie Christin=
+e for Art Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listing/1=
+65153609/one-yard-1-yard-enchant-little-folk-in" style=3D"margin:0px;paddin=
+g:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">One Yard=
+ - 1 Yard - Enchant - Little Folk in White- Riley Blake Designs</a><br></li=
+><li><a href=3D"https://www.etsy.com/listing/207322034/half-yard-12-yard-of=
+-dreamlandia" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-dec=
+oration:none" target=3D"_blank">Half Yard - 1/2 Yard of Dreamlandia Irradia=
+ted - Utopia by Frances Newcombe for Art Gallery</a><br></li><li><a href=3D=
+"https://www.etsy.com/listing/198531555/half-yard-12-yard-of-aves-chatter-d=
+im" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration:no=
+ne" target=3D"_blank">Half Yard - 1/2 Yard of Aves Chatter Dim - Winged by =
+Bonnie Christine for Art Gallery</a><br></li><li><a href=3D"https://www.ets=
+y.com/listing/222423261/half-yard-12-yard-of-firefly-whisper" style=3D"marg=
+in:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_bl=
+ank">Half Yard - 1/2 Yard of Firefly Whisper - Hello, Bear by Bonnie Christ=
+ine for Art Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listing=
+/222397175/one-yard-1-yard-of-follow-me-moonlight" style=3D"margin:0px;padd=
+ing:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">One Ya=
+rd - 1 Yard of Follow Me Moonlight - Hello, Bear by Bonnie Christine for Ar=
+t Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listing/198521612=
+/half-yard-12-yard-of-plumage-apricot" style=3D"margin:0px;padding:0px;colo=
+r:rgb(1,146,181);text-decoration:none" target=3D"_blank">Half Yard - 1/2 Ya=
+rd of Plumage Apricot - Winged by Bonnie Christine for Art Gallery</a><br><=
+/li><li><a href=3D"https://www.etsy.com/listing/198521200/half-yard-12-yard=
+-of-nesting-blooms-warm" style=3D"margin:0px;padding:0px;color:rgb(1,146,18=
+1);text-decoration:none" target=3D"_blank">Half Yard - 1/2 Yard of Nesting =
+Blooms Warm - Winged by Bonnie Christine for Art Gallery</a><br></li><li><a=
+ href=3D"https://www.etsy.com/listing/181121307/half-yard-12-yard-finn-in-p=
+ink-catnap-by" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-de=
+coration:none" target=3D"_blank">Half Yard - 1/2 Yard - Finn in Pink - Catn=
+ap by Lizzy House for Andover</a><br></li><li><a href=3D"https://www.etsy.c=
+om/listing/222392846/one-yard-1-yard-of-summit-dawn-hello" style=3D"margin:=
+0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank=
+">One Yard - 1 Yard of Summit Dawn - Hello, Bear by Bonnie Christine for Ar=
+t Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listing/199708558=
+/half-yard-12-yard-of-bon-voyage-lumiere" style=3D"margin:0px;padding:0px;c=
+olor:rgb(1,146,181);text-decoration:none" target=3D"_blank">Half Yard - 1/2=
+ Yard of Bon Voyage Lumiere - Cherie by Frances Newcombe for Art Gallery</a=
+><br></li><li><a href=3D"https://www.etsy.com/listing/225192645/half-yard-1=
+2-yard-of-gust-of-leaves" style=3D"margin:0px;padding:0px;color:rgb(1,146,1=
+81);text-decoration:none" target=3D"_blank">Half Yard - 1/2 Yard of Gust of=
+ Leaves Silver - WANDERER by April Rhodes for Art Gallery</a><br></li><li><=
+a href=3D"https://www.etsy.com/listing/218951610/half-yard-12-yard-of-haraj=
+uku-aqua-tokyo" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-d=
+ecoration:none" target=3D"_blank">Half Yard - 1/2 Yard of Harajuku Aqua - T=
+OKYO TRAIN RIDE by Sarah Watts - Cotton &amp; Steel</a><br></li><li><a href=
+=3D"https://www.etsy.com/listing/170440990/one-yard-1-yard-of-dreamscape-in=
+-moon" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration=
+:none" target=3D"_blank">One Yard - 1 Yard of Dreamscape in Moon - Rapture =
+by Pat Bravo for Art Gallery</a><br></li><li><a href=3D"https://www.etsy.co=
+m/listing/222423053/half-yard-12-yard-of-leaflet-eucalyptus" style=3D"margi=
+n:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_bla=
+nk">Half Yard - 1/2 Yard of Leaflet Eucalyptus - Hello, Bear by Bonnie Chri=
+stine for Art Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listi=
+ng/222391902/one-yard-1-yard-of-buck-forest-night" style=3D"margin:0px;padd=
+ing:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">One Ya=
+rd - 1 Yard of Buck Forest Night - Hello, Bear by Bonnie Christine for Art =
+Gallery</a><br></li><li><a href=3D"https://www.etsy.com/listing/191903415/o=
+ne-yard-1-yard-of-meadowlark-in" style=3D"margin:0px;padding:0px;color:rgb(=
+1,146,181);text-decoration:none" target=3D"_blank">One Yard - 1 Yard of Mea=
+dowlark in Tangerine - UP PARASOL by Heather Bailey for Free Spirit Fabrics=
+</a><br></li><li><a href=3D"https://www.etsy.com/listing/168964370/half-yar=
+d-12-yard-anna-maria-horner" style=3D"margin:0px;padding:0px;color:rgb(1,14=
+6,181);text-decoration:none" target=3D"_blank">Half yard - 1/2 yard - Anna =
+Maria Horner - DOWRY - Flourish in Cherry</a><br></li><li><a href=3D"https:=
+//www.etsy.com/listing/208855977/one-yard-1-yard-cranes-in-gray-sakura" sty=
+le=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" tar=
+get=3D"_blank">One Yard - 1 Yard - Cranes in Gray - Sakura - Makower UK for=
+ Andover Fabrics</a><br></li><li><a href=3D"https://www.etsy.com/listing/22=
+6829844/half-yard-12-yard-mojave-aloe-morning" style=3D"margin:0px;padding:=
+0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">Half Yard =
+- 1/2 Yard - Mojave Aloe - MORNING WALK by Leah Duncan</a><br></li><li><a h=
+ref=3D"https://www.etsy.com/listing/226830228/half-yard-12-yard-cacti-field=
+-festival" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decora=
+tion:none" target=3D"_blank">Half Yard - 1/2 Yard - Cacti Field Festival - =
+MORNING WALK by Leah Duncan</a><br></li><li><a href=3D"https://www.etsy.com=
+/listing/213990898/one-yard-1-yard-of-birdsong-in-white" style=3D"margin:0p=
+x;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">=
+One Yard - 1 Yard of Birdsong in White - CHINOISERIE CHIC by Dena Fishbein =
+for Free Spirit Fabrics</a><br></li><li><a href=3D"https://www.etsy.com/lis=
+ting/226826424/one-yard-1-yard-cacti-field-fun-morning" style=3D"margin:0px=
+;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">O=
+ne Yard - 1 Yard - Cacti Field Fun- MORNING WALK by Leah Duncan</a><br></li=
+><li><a href=3D"https://www.etsy.com/listing/207805668/nani-iro-japanese-fa=
+bric-kokka-pierre" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);tex=
+t-decoration:none" target=3D"_blank">Nani Iro Japanese Fabric Kokka Pierre =
+Pocho laminated canvas - B</a><br></li><li><a href=3D"https://www.etsy.com/=
+listing/221921078/japanese-fabric-nani-iro-free-way-double" style=3D"margin=
+:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blan=
+k">Japanese Fabric Nani Iro Free Way double gauze - mezame</a><br></li><li>=
+<a href=3D"https://www.etsy.com/listing/222235863/japanese-fabric-kobayashi=
+-penguins" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decora=
+tion:none" target=3D"_blank">Japanese Fabric Kobayashi - Penguins canvas - =
+grey - fat quarter</a><br></li><li><a href=3D"https://www.etsy.com/listing/=
+194925621/cotton-steel-moonlit-tangrams-indigo" style=3D"margin:0px;padding=
+:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">Cotton + =
+Steel Moonlit - Tangrams indigo</a><br></li><li><a href=3D"https://www.etsy=
+.com/listing/215481446/japanese-fabric-yarn-dyed-stripe-canvas" style=3D"ma=
+rgin:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_=
+blank">Japanese Fabric - yarn dyed stripe canvas - grey, beige</a><br></li>=
+<li><a href=3D"https://www.etsy.com/listing/227014058/japanese-fabric-bear-=
+panel" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration=
+:none" target=3D"_blank">Japanese Fabric Bear panel</a><br></li><li><a href=
+=3D"https://www.etsy.com/listing/223219738/japanese-fabric-sketch-birds-gre=
+en" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration:no=
+ne" target=3D"_blank">Japanese Fabric Sketch Birds - green</a><br></li><li>=
+<a href=3D"https://www.etsy.com/listing/194922315/cotton-steel-mustang-arro=
+w-canvas-mint" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-de=
+coration:none" target=3D"_blank">Cotton + Steel Mustang - Arrow canvas mint=
+ and metallic gold</a><br></li><li><a href=3D"https://www.etsy.com/listing/=
+221296154/japanese-fabric-kokka-echino-deer" style=3D"margin:0px;padding:0p=
+x;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">Japanese Fab=
+ric Kokka Echino - deer glasses - pink, grey</a><br></li><li><a href=3D"htt=
+ps://www.etsy.com/listing/224733970/cotton-steel-black-white-ghost-bunny-pr=
+e" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration:non=
+e" target=3D"_blank">Cotton + Steel Black + White - Ghost Bunny - PRE-ORDER=
+</a><br></li><li><a href=3D"https://www.etsy.com/listing/194685583/cotton-s=
+teel-hatbox-tiger-stripes-blue" style=3D"margin:0px;padding:0px;color:rgb(1=
+,146,181);text-decoration:none" target=3D"_blank">Cotton + Steel Hatbox - T=
+iger Stripes blue - fat quarter</a><br></li><li><a href=3D"https://www.etsy=
+.com/listing/198821982/japanese-fabric-little-fox-blue-on" style=3D"margin:=
+0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank=
+">Japanese Fabric - Little Fox - blue on natural</a><br></li><li><a href=3D=
+"https://www.etsy.com/listing/195314556/japanese-fabric-yuwa-cotorienne-she=
+eeeep" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-decoration=
+:none" target=3D"_blank">Japanese Fabric - Yuwa Cotorienne Sheeeeep double =
+gauze - mustard yellow</a><br></li><li><a href=3D"https://www.etsy.com/list=
+ing/221294985/japanese-fabric-kokka-ellen-baker-charms" style=3D"margin:0px=
+;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">J=
+apanese Fabric Kokka Ellen Baker - Charms - Half Round - charcoal</a><br></=
+li><li><a href=3D"https://www.etsy.com/listing/224626212/japanese-fabric-ko=
+kka-boston-terrier" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);te=
+xt-decoration:none" target=3D"_blank">Japanese Fabric Kokka Boston Terrier =
+- yellow, grey</a><br></li><li><a href=3D"https://www.etsy.com/listing/2192=
+52822/japanese-fabric-geometric-lines-neon" style=3D"margin:0px;padding:0px=
+;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">Japanese Fabr=
+ic - Geometric Lines - neon orange</a><br></li><li><a href=3D"https://www.e=
+tsy.com/listing/221956693/japanese-fabric-kokka-metallic-speech" style=3D"m=
+argin:0px;padding:0px;color:rgb(1,146,181);text-decoration:none" target=3D"=
+_blank">Japanese Fabric Kokka metallic speech bubbles - blue</a><br></li><l=
+i><a href=3D"https://www.etsy.com/listing/209440080/fabric-flowers-coral-ye=
+llow-and-green" style=3D"margin:0px;padding:0px;color:rgb(1,146,181);text-d=
+ecoration:none" target=3D"_blank">Fabric flowers coral, yellow and green, d=
+esign by Pat Bravo</a><br></li><li><a href=3D"https://www.etsy.com/listing/=
+216040691/very-romantic-fabric-print-beautiful" style=3D"margin:0px;padding=
+:0px;color:rgb(1,146,181);text-decoration:none" target=3D"_blank">Very roma=
+ntic fabric. Print beautiful peacocks with flowers and butterflies of Easte=
+rn air.</a><br></li></ol></h3><div><br></div><div><br></div>-- <br><div>...=
+............................<div><br><b>Trinidad Correa B.=C2=A0</b></div><=
+div>Dise=C3=B1adora</div><div>7.499 14 96</div></div>
+</div>
+</blockquote></div>
+</div></div></blockquote></div><br></div>
+</blockquote></div>
+</div></div></blockquote></div><br></div>
+</blockquote></div>
+
+--001a1130ceae7f87b5051321928e--
+
+--062C0BDD1115C.1428417516/gateway21.websitewelcome.com--

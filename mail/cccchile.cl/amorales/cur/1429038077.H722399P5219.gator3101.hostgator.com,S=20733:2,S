@@ -1,0 +1,654 @@
+Return-path: <hbrandt@brandtservicios.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 14 Apr 2015 14:01:17 -0500
+Received: from gsf-05-lon-cp1.gestinfo.cl ([190.113.1.9]:42259 helo=gsf-05-lon-cp1.tecnoera.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <hbrandt@brandtservicios.cl>)
+	id 1Yi65F-0001EV-6L
+	for amorales@cccchile.cl; Tue, 14 Apr 2015 14:01:17 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=brandtservicios.cl; s=default;
+	h=Content-Type:MIME-Version:Message-ID:Date:Subject:In-Reply-To:References:To:From; bh=QG54BL8Lnf3Dy2tyKVZKzKysvlOWCUfpAzEHgPdmODs=;
+	b=RhZdJUqvYpGwIj+FnRmisFXNbjFVJ1uqAfiwhDRLHHcZW8y2F2/UfvS4Inp8qwEuHkgOhfBfZs4Z2h0xqrXouc1q8/EtlQ+Kxr+uCQIkzL6r5Xh3prCmCd2aPA9u2H/w;
+Received: from [181.73.13.226] (port=53261 helo=HBRANDT)
+	by gsf-05-lon-cp1.tecnoera.com with esmtpa (Exim 4.85)
+	(envelope-from <hbrandt@brandtservicios.cl>)
+	id 1Yi659-0005up-7G
+	for amorales@cccchile.cl; Tue, 14 Apr 2015 16:01:11 -0300
+From: "Hans Brandt" <hbrandt@brandtservicios.cl>
+To: =?utf-8?Q?'Andr=C3=A9s_Morales_=28CCC-CHILE=29'?= <amorales@cccchile.cl>
+References: <04fd01d073c2$1a242350$4e6c69f0$@cl> <CAKggD2Sc+mJeE5W-5thhj9hH8twZ0nk+rkrD9STh=+MyWh-RBg@mail.gmail.com>
+In-Reply-To: <CAKggD2Sc+mJeE5W-5thhj9hH8twZ0nk+rkrD9STh=+MyWh-RBg@mail.gmail.com>
+Subject: RE: RV: Aviso de Transferencia de Fondos.
+Date: Tue, 14 Apr 2015 16:02:22 -0400
+Message-ID: <06ec01d076ed$ec4bed30$c4e3c790$@cl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_06ED_01D076CC.653A4D30"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdB25HkYF37vKHuFSOOqtC75cOJiFgACV9Ag
+Content-Language: es-cl
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gsf-05-lon-cp1.tecnoera.com
+X-AntiAbuse: Original Domain - cccchile.cl
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - brandtservicios.cl
+X-Get-Message-Sender-Via: gsf-05-lon-cp1.tecnoera.com: authenticated_id: hbrandt@brandtservicios.cl
+
+Este es un mensaje con varias partes en formato MIME.
+
+------=_NextPart_000_06ED_01D076CC.653A4D30
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hola Andres:
+
+Le doy tu tel=C3=A9fono para que coordine el retiro ma=C3=B1ana a esa =
+hora
+
+=20
+
+Saludos
+
+=20
+
+De: Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]=20
+Enviado el: martes, 14 de abril de 2015 14:55
+Para: Hans Brandt
+Asunto: Re: RV: Aviso de Transferencia de Fondos.
+
+=20
+
+Hans, cuanfo pasara tu transporte?
+
+Me confirmas, necesito saber antes de que pase.
+
+Le puedo asignar hora a partir de ma=C3=B1ana a las 4pm
+
+
+El viernes, 10 de abril de 2015, Hans Brandt =
+<hbrandt@brandtservicios.cl> escribi=C3=B3:
+
+Andres:
+
+Te adjunto comprobante de transferencia por orden de compra.
+
+=20
+
+Saludos
+
+=20
+
+Hans
+
+=20
+
+De: transferencias@bci.cl =
+<javascript:_e(%7B%7D,'cvml','transferencias@bci.cl');>  =
+[mailto:transferencias@bci.cl =
+<javascript:_e(%7B%7D,'cvml','transferencias@bci.cl');> ]=20
+Enviado el: viernes, 10 de abril de 2015 11:39
+Para: hbrandt@brandtservicios.cl =
+<javascript:_e(%7B%7D,'cvml','hbrandt@brandtservicios.cl');>=20
+Asunto: Aviso de Transferencia de Fondos.
+
+=20
+
+
+Comprobante de Transferencia de Fondos
+
+
+ESTIMADO(A) HANS CRISTIAN BRANDT NAVARRO:=20
+
+Le informamos que con fecha 10/04/2015  se ha realizado una =
+transferencia de fondos desde su cuenta nro. #71107941.=20
+
+El detalle de esta operacion es el siguiente:
+
+
+Monto transferido:
+
+$2,503,787
+
+
+Nombre del Destinatario:
+
+SOCIEDA COMERCIAL REINALTER SA
+
+
+E-mail del destinatario:=20
+
+=09
+
+Banco de destino:=20
+
+BANCO DE CHILE-EDWARDS
+
+
+Cuenta de destino:=20
+
+0161977518
+
+
+Fecha de abono:=20
+
+10/04/2015
+
+
+Comentario de transferencia:=20
+
+=09
+
+Numero de la operacion:=20
+
+115028867
+
+=20
+
+
+  =
+<http://www.bci.cl/medios/2012/personas/serviciosWeb/promo_bci_multicredi=
+to.jpg>=20
+
+
+Atentamente,
+Bci - Somos Diferentes=20
+
+ logo_bci <http://www.bci.cl/medios/2012/personas/images/logo_bci.jpg>=20
+
+
+Importante:=20
+=E2=80=A2 Este mail es generado de manera automatica, por favor no =
+responda a este mensaje.
+=E2=80=A2 Ante cualquier duda, contactese al 600 824 24 24.=20
+=E2=80=A2 Los comentarios aqui ingresados son exclusiva responsabilidad =
+de nuestro cliente y no involucran en absoluto al BCI.
+=E2=80=A2 Informese sobre la garantia estatal de los depositos en su =
+banco o en www . sbif . cl.
+
+=20
+
+
+------=_NextPart_000_06ED_01D076CC.653A4D30
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EstiloCorreo19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DES-CL link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Hola Andres:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Le doy tu tel=C3=A9fono para que coordine el retiro =
+ma=C3=B1ana a esa hora<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Saludos<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0cm 0cm 0cm'>
+
+<p class=3DMsoNormal><b><span lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span
+lang=3DES style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Andr=C3=A9s
+Morales (CCC-CHILE) [mailto:amorales@cccchile.cl] <br>
+<b>Enviado el:</b> martes, 14 de abril de 2015 14:55<br>
+<b>Para:</b> Hans Brandt<br>
+<b>Asunto:</b> Re: RV: Aviso de Transferencia de =
+Fondos.<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:10.5pt;color:#222222'>Hans, cuanfo
+pasara tu transporte?</span><o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal style=3D'line-height:16.6pt'><span =
+style=3D'font-size:10.5pt;
+color:#222222'>Me confirmas, necesito saber antes de que =
+pase.<o:p></o:p></span></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal style=3D'line-height:16.6pt'><span =
+style=3D'font-size:10.5pt;
+color:#222222'>Le puedo asignar hora a partir de ma=C3=B1ana a las =
+4pm<o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><br>
+El viernes, 10 de abril de 2015, Hans Brandt &lt;<a
+href=3D"mailto:hbrandt@brandtservicios.cl">hbrandt@brandtservicios.cl</a>=
+&gt;
+escribi=C3=B3:<o:p></o:p></p>
+
+<div>
+
+<div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Andres:</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Te
+adjunto comprobante de transferencia por orden de =
+compra.</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Saludos</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hans</span><o:p></o:p></p>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><o:p></o:p></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0cm 0cm 0cm'>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><b><span
+lang=3DES =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span
+lang=3DES style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+<a
+href=3D"javascript:_e(%7B%7D,'cvml','transferencias@bci.cl');" =
+target=3D"_blank">transferencias@bci.cl</a>
+[mailto:<a =
+href=3D"javascript:_e(%7B%7D,'cvml','transferencias@bci.cl');"
+target=3D"_blank">transferencias@bci.cl</a>] <br>
+<b>Enviado el:</b> viernes, 10 de abril de 2015 11:39<br>
+<b>Para:</b> <a
+href=3D"javascript:_e(%7B%7D,'cvml','hbrandt@brandtservicios.cl');"
+target=3D"_blank">hbrandt@brandtservicios.cl</a><br>
+<b>Asunto:</b> Aviso de Transferencia de Fondos.</span><o:p></o:p></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+<table class=3DMsoNormalTable border=3D1 cellspacing=3D0 cellpadding=3D0 =
+width=3D500
+ style=3D'width:375.0pt;border:solid #CCCCCC 1.0pt'>
+ <tr>
+  <td style=3D'border:none;background:#009900;padding:7.5pt 7.5pt 7.5pt =
+7.5pt'>
+  <p class=3DMsoNormal align=3Dcenter =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+  auto;text-align:center'><strong><span =
+style=3D'font-size:13.5pt;font-family:
+  "Arial","sans-serif";color:white'>Comprobante de Transferencia de =
+Fondos</span></strong><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td valign=3Dtop style=3D'border:none;padding:7.5pt 7.5pt 7.5pt =
+7.5pt'>
+  <p><strong><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif"'>ESTIMADO(A)&nb=
+sp;HANS
+  CRISTIAN BRANDT NAVARRO</span></strong><span style=3D'font-size:9.0pt;
+  font-family:"Arial","sans-serif"'>: </span><o:p></o:p></p>
+  <p><span style=3D'font-size:9.0pt;font-family:"Arial","sans-serif"'>Le
+  informamos que con fecha&nbsp;10/04/2015&nbsp; se ha realizado una
+  transferencia de fondos desde su cuenta nro. #71107941. =
+</span><o:p></o:p></p>
+  <p><span style=3D'font-size:9.0pt;font-family:"Arial","sans-serif"'>El =
+detalle
+  de esta operacion es el siguiente:</span><o:p></o:p></p>
+  <table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D490
+   style=3D'width:367.5pt'>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#FFFA9D;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><strong><span =
+style=3D'font-size:9.0pt;font-family:
+    "Arial","sans-serif";color:#333333'>Monto =
+transferido:</span></strong><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#FFFA9D;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><strong><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>$2,503,787</span></strong><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><strong><span =
+style=3D'font-size:9.0pt;font-family:
+    "Arial","sans-serif";color:#333333'>Nombre del =
+Destinatario:</span></strong><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><strong><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>SOCIEDA COMERCIAL REINALTER =
+SA</span></strong><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>E-mail del destinatario: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'></td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>Banco de destino: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>BANCO DE CHILE-EDWARDS</span><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>Cuenta de destino: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>0161977518</span><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>Fecha de abono: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>10/04/2015</span><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>Comentario de transferencia: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#E5E5E5;padding:1.5pt 3.0pt 1.5pt 3.0pt'></td>
+   </tr>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal align=3Dright =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:right'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>Numero de la operacion: </span><o:p></o:p></p>
+    </td>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;border:solid =
+white 1.0pt;
+    background:#F9F9F9;padding:1.5pt 3.0pt 1.5pt 3.0pt'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif";
+    color:#333333'>115028867</span><o:p></o:p></p>
+    </td>
+   </tr>
+  </table>
+  <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+  =
+style=3D'font-size:9.0pt;font-family:"Arial","sans-serif"'>&nbsp;</span><=
+o:p></o:p></p>
+  <table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0 width=3D490
+   style=3D'width:367.5pt'>
+   <tr>
+    <td width=3D"50%" valign=3Dtop style=3D'width:50.0%;padding:7.5pt =
+0cm 0cm 0cm'>
+    <p class=3DMsoNormal align=3Dcenter =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto;text-align:center'><span style=3D'font-size:9.0pt'><img =
+border=3D0
+    width=3D468 height=3D60 id=3D"_x0000_i1025"
+    =
+src=3D"http://www.bci.cl/medios/2012/personas/serviciosWeb/promo_bci_mult=
+icredito.jpg"></span><o:p></o:p></p>
+    </td>
+   </tr>
+   <tr>
+    <td valign=3Dtop style=3D'padding:7.5pt 0cm 0cm 0cm'>
+    <p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:
+    auto'><span style=3D'font-size:9.0pt'>Atentamente,<br>
+    <strong><span style=3D'color:#999999'>Bci - Somos =
+Diferentes</span></strong> <br>
+    <br>
+    <img border=3D0 width=3D99 height=3D49 id=3D"_x0000_i1026"
+    src=3D"http://www.bci.cl/medios/2012/personas/images/logo_bci.jpg"
+    alt=3D"logo_bci"></span><o:p></o:p></p>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+ <tr>
+  <td style=3D'border:none;background:#F6F9FC;padding:7.5pt 7.5pt 7.5pt =
+7.5pt'>
+  <div>
+  <p><strong><span =
+style=3D'font-size:8.5pt;font-family:"Arial","sans-serif"'>Importante:</s=
+pan></strong><span
+  style=3D'font-size:8.5pt;font-family:"Arial","sans-serif"'> <br>
+  =E2=80=A2 Este mail es generado de manera automatica, por favor no =
+responda a este
+  mensaje.<br>
+  =E2=80=A2 Ante cualquier duda, contactese al&nbsp;<strong><span =
+style=3D'font-family:
+  "Arial","sans-serif";color:red'>600 824 24 24.</span></strong> <br>
+  =E2=80=A2 Los comentarios aqui ingresados son exclusiva =
+responsabilidad de nuestro
+  cliente y no involucran en absoluto al BCI.<br>
+  =E2=80=A2 Informese sobre la garantia estatal de los depositos en su =
+banco o en www .
+  sbif . cl.</span><o:p></o:p></p>
+  </div>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p><=
+/o:p></p>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_06ED_01D076CC.653A4D30--
+

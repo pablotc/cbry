@@ -1,0 +1,552 @@
+Return-path: <gabrielchomali@yahoo.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 23 Feb 2015 05:46:42 -0600
+Received: from nm9-vm0.bullet.mail.bf1.yahoo.com ([98.139.213.154]:47010)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <gabrielchomali@yahoo.com>)
+	id 1YPrTG-0002KJ-99
+	for amorales@cccchile.cl; Mon, 23 Feb 2015 05:46:42 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1424692000; bh=V6NMY4iPvO0cdLNxJckJSIk2iC3xcvtRZpLckQ+hxcg=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject; b=t9eoo4ysSDR+9g4vj2Rqdu/XdiDNB/vmYqqjX2bA5Rt1CIC/ezn5PcQL6NNHRIGdi2N5T5ahz93fn+iQ+yyucJjFz9sTC/qQrvTtDFYUNi3ca8GbrJAkq8kphaFD2D9BpEWPtdGfSwc01MaX2UnD4MVZJWCO3ZWlYOQNizSnF9oOTkJ+WayCCdaPI/kAIp0kiKAmiSoquP+JVoTpHpBKqghuLLIDZ6KDT0n/0MJARwYSGlX+TJ0NZA15gAAtGJnq/AS+mABrGptipoWNE1oIM3M2bFgOF5pfrVBmW4oRm0h5iVMIe6YZeix4Ngnr7I+IDXg6fAxwv3vX67AKoDNtuA==
+Received: from [98.139.215.142] by nm9.bullet.mail.bf1.yahoo.com with NNFMP; 23 Feb 2015 11:46:40 -0000
+Received: from [98.139.212.246] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 23 Feb 2015 11:46:40 -0000
+Received: from [127.0.0.1] by omp1055.mail.bf1.yahoo.com with NNFMP; 23 Feb 2015 11:46:40 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 501694.41155.bm@omp1055.mail.bf1.yahoo.com
+X-YMail-OSG: OUZQ6qwVM1nVymQh2sFgcav8fOAIokwjuP8JTHWW0pA1h0SzYqcN2ZYZeWLGQr4
+ R4Oo5vqMZO79KAEQmyIB9TM900WagqGkIrC3JlycGQ0buS6XtIS0uEbQByJMCfMR7eQ4LboIPm1O
+ 1r55l0d9qdL57kObp3aEfU61flxcFpLwI9U9Q9ZCmhOpudOvO.Awt8ZNiFPSK7qoIREYyG.wp6hQ
+ P4MtASK.o2akR2TR5RXTNcjG0ZkXAO7dkvf_ua.1D5u4e3zqvDL2I5r28zljRMnW6lYn6XUx5xDY
+ GJOznLH35DadnIW6529YgSPSgrbp__6CFVcF8FSZZfSwue324oTSv_lTaqIFgOJwAT49Njd8v8pM
+ _DZUC5E7Aj8Ki3Gd2KQrnxu2g2Ako40gFoj.02fMbZu40RsrS0iiy9VDwo5d13IiBwpY2JN6n5CD
+ Hm_WP1x4QcRsFdBme7A6peADchQOL3wruYpUXmHBAFd7LTB1mgaUdy5PVl2fjeEgWeiR3ga_OkCr
+ A2PHDiOMDB.A7ZZLZ3kB3iXxQm9lwc540tLXr2oCnRZ6dO5GAAFowU83pTN8-
+Received: by 76.13.27.134; Mon, 23 Feb 2015 11:46:39 +0000 
+Date: Mon, 23 Feb 2015 11:46:38 +0000 (UTC)
+From: Gabriel Chomali <gabrielchomali@yahoo.com>
+Reply-To: Gabriel Chomali <gabrielchomali@yahoo.com>
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>, 
+	josefa morales <josefa.m@gmail.com>, 
+	=?UTF-8?Q?Andr=C3=A9s_Morales_=28CCC-CHILE=29?= <amorales@cccchile.cl>
+Cc: "mcorrea@miparque.cl" <mcorrea@miparque.cl>
+Message-ID: <1882607269.3714915.1424691998655.JavaMail.yahoo@mail.yahoo.com>
+In-Reply-To: <50A0FA980D0CA64EBE525618E1A7B5A0ADAC09@CLSTGEXCP00N1.Itauchile.cl>
+References: <50A0FA980D0CA64EBE525618E1A7B5A0ADAC09@CLSTGEXCP00N1.Itauchile.cl>
+Subject: Re: Tienda TinoSport
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3714914_795991573.1424691998634"
+Content-Length: 24980
+
+------=_Part_3714914_795991573.1424691998634
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si.... nos vemos a las 19:00
+
+      From: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+ To: josefa morales <josefa.m@gmail.com>; Andr=C3=A9s Morales (CCC-CHILE) <=
+amorales@cccchile.cl>=20
+Cc: Gabriel Chomali <gabrielchomali@yahoo.com>; "mcorrea@miparque.cl" <mcor=
+rea@miparque.cl>=20
+ Sent: Monday, February 23, 2015 8:43 AM
+ Subject: RE: Tienda TinoSport
+  =20
+#yiv5382622411 #yiv5382622411 -- _filtered #yiv5382622411 {panose-1:2 4 5 3=
+ 5 4 6 3 2 4;} _filtered #yiv5382622411 {font-family:Calibri;panose-1:2 15 =
+5 2 2 2 4 3 2 4;} _filtered #yiv5382622411 {font-family:Tahoma;panose-1:2 1=
+1 6 4 3 5 4 4 2 4;}#yiv5382622411 #yiv5382622411 p.yiv5382622411MsoNormal, =
+#yiv5382622411 li.yiv5382622411MsoNormal, #yiv5382622411 div.yiv5382622411M=
+soNormal {margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;}#yiv5382622411=
+ a:link, #yiv5382622411 span.yiv5382622411MsoHyperlink {color:blue;text-dec=
+oration:underline;}#yiv5382622411 a:visited, #yiv5382622411 span.yiv5382622=
+411MsoHyperlinkFollowed {color:purple;text-decoration:underline;}#yiv538262=
+2411 p.yiv5382622411MsoAcetate, #yiv5382622411 li.yiv5382622411MsoAcetate, =
+#yiv5382622411 div.yiv5382622411MsoAcetate {margin:0cm;margin-bottom:.0001p=
+t;font-size:8.0pt;}#yiv5382622411 span.yiv5382622411TextodegloboCar {}#yiv5=
+382622411 span.yiv5382622411EstiloCorreo19 {color:#1F497D;}#yiv5382622411 .=
+yiv5382622411MsoChpDefault {} _filtered #yiv5382622411 {margin:70.85pt 3.0c=
+m 70.85pt 3.0cm;}#yiv5382622411 div.yiv5382622411WordSection1 {}#yiv5382622=
+411 Les parece que nos juntemos en el local hoy a las 19.00 hrs , para pode=
+r decir todos los requerimientos Gabriel tu tienes la llave =C2=BF?  =C2=A0=
+ Rodrigo R=C3=ADos Prado
+Agente, Sucursal Pedro de Valdivia
+Banco Ita=C3=BA Chile
+Pedro de Valdivia N=C2=B03558
+=C3=91u=C3=B1oa, Santiago
+Rodrigo.Rios@itau.cl
+Fono :+5626854681=20
+
+BackUp:
+Andres.Rivera@itau.cl Fono :+5626854688  =C2=A0=20
+
+De: josefa morales [mailto:josefa.m@gmail.com]
+Enviado el: viernes, 20 de febrero de 2015 11:08
+Para: Andr=C3=A9s Morales (CCC-CHILE)
+CC: Rios Prado, Rodrigo; Gabriel Chomali; mcorrea@miparque.cl
+Asunto: Re: Tienda TinoSport  =C2=A0 Puede ser en el Le Fournil del Pasaje =
+el Ma=C3=B1=C3=ADo. Les parece?=C2=A0 Por si tenemos que ir a ver el lugar.=
+=C2=A0  =C2=A0  =C2=A0 El 18 de febrero de 2015, 15:20, Andr=C3=A9s Morales=
+ (CCC-CHILE) <amorales@cccchile.cl> escribi=C3=B3: Ok, por mi. Donde?
+
+El mi=C3=A9rcoles, 18 de febrero de 2015, Rios Prado, Rodrigo <Rodrigo.Rios=
+@itau.cl> escribi=C3=B3:=20
+ =C2=A0 Me parece =C2=A0Lunes 23 =C2=A0=C2=A0=C2=A0=C2=A019.00 hrs El matri=
+monio es una empresa compleja =C2=A0 =C2=A0 Rodrigo R=C3=ADos Prado
+Agente, Sucursal Pedro de Valdivia
+Banco Ita=C3=BA Chile
+Pedro de Valdivia N=C2=B03558
+=C3=91u=C3=B1oa, Santiago
+Rodrigo.Rios@itau.cl
+Fono :+5626854681=20
+
+BackUp:=20
+Andres.Rivera@itau.cl Fono :+5626854688 =C2=A0 De: josefa morales [mailto:j=
+osefa.m@gmail.com]=20
+Enviado el: mi=C3=A9rcoles, 18 de febrero de 2015 12:05
+Para: Rios Prado, Rodrigo; Andr=C3=A9s Morales (CCC-CHILE); Gabriel Chomali
+CC: mcorrea@miparque.cl
+Asunto: Re: Tienda TinoSport =C2=A0 Estimados,=C2=A0 Perd=C3=B3n la demora,=
+ he estado full en la Fundaci=C3=B3n de vuelta de mis vacaciones.=C2=A0 Seg=
+=C3=BAn lo que le coment=C3=A9 a Andr=C3=A9s, nos gustar=C3=ADa juntarnos c=
+on ustedes para saber bien qu=C3=A9 es lo que quieren para habilitar la tie=
+nda: ideas, est=C3=A1ndar e imagen, pero tambi=C3=A9n plazos y presupuestos=
+.=C2=A0 (Dejo copiado a Max, con quien hice el showroom inicial de CCC) La =
+verdad que con esto m=C3=A1s claro podemos hacerles una propuesta inicial =
+=C2=A0y con eso ustedes pueden evaluar si calzamos con lo que necesitan. Le=
+s parece?=C2=A0 Podr=C3=ADamos durante la pr=C3=B3xima semana a partir de l=
+as 19:00hrs. Les propongo el lunes 23. =C2=A0 Y si!, nos casamos con el Luc=
+ho! incre=C3=ADble la sorpresa, gran notici=C3=B3n. Estamos muy felices y t=
+ranquilos.=C2=A0 =C2=A0 Quedo atenta a sus comentarios.=C2=A0 Un abrazo,=C2=
+=A0 =C2=A0 El 13 de febrero de 2015, 10:27, Rios Prado, Rodrigo <Rodrigo.Ri=
+os@itau.cl> escribi=C3=B3: Fefa=C2=A0 te casas =C2=BF??????????????????????=
+???????????????????? =C2=A0 Rodrigo R=C3=ADos Prado
+Agente, Sucursal Pedro de Valdivia
+Banco Ita=C3=BA Chile
+Pedro de Valdivia N=C2=B03558
+=C3=91u=C3=B1oa, Santiago
+Rodrigo.Rios@itau.cl
+Fono :+5626854681=20
+
+BackUp:=20
+Andres.Rivera@itau.cl Fono :+5626854688 =C2=A0 De: Andr=C3=A9s Morales (CCC=
+-CHILE) [mailto:amorales@cccchile.cl]
+Enviado el: viernes, 13 de febrero de 2015 10:26
+Para: josefa morales
+CC: Rios Prado, Rodrigo; Gabriel Chomali
+Asunto: Tienda TinoSport =C2=A0 Hola Fefa!! =C2=A0 Como hablamos, nos gusta=
+ria que nos pudieras hacer una propuesta de remodelacion del local que fuis=
+te a ver. La idea es comenzar a trabajar y vender lo antes posible all=C3=
+=A1, para que planifiquemos buen los tiempos. =C2=A0 Ya conoces a Rodrigo y=
+ te e-presento a Gabriel, socio en este proyecto. Te parece que hagamos una=
+ reuni=C3=B3n con alguna idea b=C3=A1sica en base a lo que ya viste y as=C3=
+=AD comenzamos hablando sobre algo mas concreto?=C2=A0 =C2=A0 Un beso a la.=
+nueva novia! =C2=A0 =C2=A0 =C2=A0 Para asegurar la adecuada lectura en todo=
+ tipo de correos electronicos, se han omitido intencionalmente los signos y=
+ acentos diacriticos del idioma castellano. La informacion contenida en est=
+e mensaje y cualquier archivo adjunto es confidencial y no puede ser usada =
+por mas personas que sus destinatarios. El uso no autorizado de esta inform=
+acion puede ser sancionado de conformidad con el Codigo Penal chileno. Si h=
+a recibido este correo por error, por favor notifique al remitente respondi=
+endo este mismo mensaje y elimine el mensaje y todos los archivos adjuntos.=
+ Internet no puede garantizar la integridad de este mensaje, por lo que el =
+Banco no se hace responsable si el contenido del mismo ha sido alterado.  =
+=C2=A0 Para asegurar la adecuada lectura en todo tipo de correos electronic=
+os, se han omitido intencionalmente los signos y acentos diacriticos del id=
+ioma castellano. La informacion contenida en este mensaje y cualquier archi=
+vo adjunto es confidencial y no puede ser usada por mas personas que sus de=
+stinatarios. El uso no autorizado de esta informacion puede ser sancionado =
+de conformidad con el Codigo Penal chileno. Si ha recibido este correo por =
+error, por favor notifique al remitente respondiendo este mismo mensaje y e=
+limine el mensaje y todos los archivos adjuntos. Internet no puede garantiz=
+ar la integridad de este mensaje, por lo que el Banco no se hace responsabl=
+e si el contenido del mismo ha sido alterado.=20
+ =C2=A0 Para asegurar la adecuada lectura en todo tipo de correos electroni=
+cos, se han omitido intencionalmente los signos y acentos diacriticos del i=
+dioma castellano. La informacion contenida en este mensaje y cualquier arch=
+ivo adjunto es confidencial y no puede ser usada por mas personas que sus d=
+estinatarios. El uso no autorizado de esta informacion puede ser sancionado=
+ de conformidad con el Codigo Penal chileno. Si ha recibido este correo por=
+ error, por favor notifique al remitente respondiendo este mismo mensaje y =
+elimine el mensaje y todos los archivos adjuntos.Internet no puede garantiz=
+ar la integridad de este mensaje, por lo que el Banco no se hace responsabl=
+e si el contenido del mismo ha sido alterado.
+
+  
+------=_Part_3714914_795991573.1424691998634
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ve=
+rdana, helvetica, sans-serif;font-size:16px">Si.... nos vemos a las 19:00<b=
+r><div><span></span></div><br>  <div id=3D"yui_3_16_0_1_1423951090864_32771=
+0" style=3D"font-family: verdana, helvetica, sans-serif; font-size: 16px;">=
+ <div id=3D"yui_3_16_0_1_1423951090864_327709" style=3D"font-family: Helvet=
+icaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif; font-=
+size: 16px;"> <div dir=3D"ltr"> <hr size=3D"1">  <font size=3D"2" face=3D"A=
+rial"> <b><span style=3D"font-weight:bold;">From:</span></b> "Rios Prado, R=
+odrigo" &lt;Rodrigo.Rios@itau.cl&gt;<br> <b><span style=3D"font-weight: bol=
+d;">To:</span></b> josefa morales &lt;josefa.m@gmail.com&gt;; Andr=C3=A9s M=
+orales (CCC-CHILE) &lt;amorales@cccchile.cl&gt; <br><b><span style=3D"font-=
+weight: bold;">Cc:</span></b> Gabriel Chomali &lt;gabrielchomali@yahoo.com&=
+gt;; "mcorrea@miparque.cl" &lt;mcorrea@miparque.cl&gt; <br> <b><span style=
+=3D"font-weight: bold;">Sent:</span></b> Monday, February 23, 2015 8:43 AM<=
+br> <b><span style=3D"font-weight: bold;">Subject:</span></b> RE: Tienda Ti=
+noSport<br> </font> </div> <div id=3D"yui_3_16_0_1_1423951090864_327708" cl=
+ass=3D"y_msg_container"><br><div id=3D"yiv5382622411"><style>#yiv5382622411=
+ #yiv5382622411 --
+=20
+ _filtered #yiv5382622411 {panose-1:2 4 5 3 5 4 6 3 2 4;}
+ _filtered #yiv5382622411 {font-family:Calibri;panose-1:2 15 5 2 2 2 4 3 2 =
+4;}
+ _filtered #yiv5382622411 {font-family:Tahoma;panose-1:2 11 6 4 3 5 4 4 2 4=
+;}
+#yiv5382622411 =20
+#yiv5382622411 p.yiv5382622411MsoNormal, #yiv5382622411 li.yiv5382622411Mso=
+Normal, #yiv5382622411 div.yiv5382622411MsoNormal
+=09{margin:0cm;margin-bottom:.0001pt;font-size:12.0pt;}
+#yiv5382622411 a:link, #yiv5382622411 span.yiv5382622411MsoHyperlink
+=09{color:blue;text-decoration:underline;}
+#yiv5382622411 a:visited, #yiv5382622411 span.yiv5382622411MsoHyperlinkFoll=
+owed
+=09{color:purple;text-decoration:underline;}
+#yiv5382622411 p.yiv5382622411MsoAcetate, #yiv5382622411 li.yiv5382622411Ms=
+oAcetate, #yiv5382622411 div.yiv5382622411MsoAcetate
+=09{margin:0cm;margin-bottom:.0001pt;font-size:8.0pt;}
+#yiv5382622411 span.yiv5382622411TextodegloboCar
+=09{}
+#yiv5382622411 span.yiv5382622411EstiloCorreo19
+=09{color:#1F497D;}
+#yiv5382622411 .yiv5382622411MsoChpDefault
+=09{}
+ _filtered #yiv5382622411 {margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+#yiv5382622411 div.yiv5382622411WordSection1
+=09{}
+#yiv5382622411 </style><div id=3D"yui_3_16_0_1_1423951090864_327707">
+<div id=3D"yui_3_16_0_1_1423951090864_327706" class=3D"yiv5382622411WordSec=
+tion1">
+<div class=3D"yiv5382622411MsoNormal"><span style=3D"font-size:11.0pt;">Les=
+ parece que nos juntemos en el local hoy a las 19.00 hrs , para poder decir=
+ todos los requerimientos
+</span></div>=20
+<div class=3D"yiv5382622411MsoNormal"><span style=3D"font-size:11.0pt;">Gab=
+riel tu tienes la llave =C2=BF?
+</span></div>=20
+<div class=3D"yiv5382622411MsoNormal"><span style=3D"font-size:11.0pt;"> &n=
+bsp;</span></div>=20
+<div id=3D"yui_3_16_0_1_1423951090864_327705" class=3D"yiv5382622411MsoNorm=
+al"><b><span style=3D"font-size:11.0pt;">Rodrigo R=C3=ADos Prado</span></b>=
+<span style=3D"font-size:11.0pt;"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+</span><b><u><span style=3D"font-size:11.0pt;">Rodrigo.Rios@itau.cl</span><=
+/u></b><span style=3D"font-size:11.0pt;"><br clear=3D"none">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+</span><span style=3D"font-size:11.0pt;">BackUp:
+<br clear=3D"none">
+<u>Andres.Rivera<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:rodrig=
+o.paredes@itau.cl" target=3D"_blank" href=3D"mailto:rodrigo.paredes@itau.cl=
+"><span style=3D"color:#7F7F7F;">@itau.cl</span></a></u></span></div>=20
+<div id=3D"yui_3_16_0_1_1423951090864_327780" class=3D"yiv5382622411MsoNorm=
+al"><span style=3D"font-size:11.0pt;">Fono :+5626854688</span><span style=
+=3D"font-size:11.0pt;"></span></div>=20
+<div class=3D"yiv5382622411MsoNormal"><span style=3D"font-size:11.0pt;"> &n=
+bsp;</span></div>=20
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm;">
+<div class=3D"qtdSeparateBR"><br><br></div><div class=3D"yiv5382622411yqt06=
+03407525" id=3D"yiv5382622411yqtfd16446"><div class=3D"yiv5382622411MsoNorm=
+al"><b><span style=3D"font-size:10.0pt;" lang=3D"ES">De:</span></b><span st=
+yle=3D"font-size:10.0pt;" lang=3D"ES"> josefa morales [mailto:josefa.m@gmai=
+l.com]
+<br clear=3D"none">
+<b>Enviado el:</b> viernes, 20 de febrero de 2015 11:08<br clear=3D"none">
+<b>Para:</b> Andr=C3=A9s Morales (CCC-CHILE)<br clear=3D"none">
+<b>CC:</b> Rios Prado, Rodrigo; Gabriel Chomali; mcorrea@miparque.cl<br cle=
+ar=3D"none">
+<b>Asunto:</b> Re: Tienda TinoSport</span></div>=20
+</div></div><div class=3D"yiv5382622411yqt0603407525" id=3D"yiv5382622411yq=
+tfd25722">
+<div class=3D"yiv5382622411MsoNormal"> &nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal">Puede ser en el Le Fournil del Pasaje=
+ el Ma=C3=B1=C3=ADo. Les parece?&nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal">Por si tenemos que ir a ver el lugar.=
+&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal"> &nbsp;</div>=20
+</div>
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal"> &nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal">El 18 de febrero de 2015, 15:20, Andr=
+=C3=A9s Morales (CCC-CHILE) &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=
+=3D"mailto:amorales@cccchile.cl" target=3D"_blank" href=3D"mailto:amorales@=
+cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</div>=20
+<div class=3D"yiv5382622411MsoNormal">Ok, por mi. Donde?<br clear=3D"none">
+<br clear=3D"none">
+El mi=C3=A9rcoles, 18 de febrero de 2015, Rios Prado, Rodrigo &lt;<a rel=3D=
+"nofollow" shape=3D"rect" ymailto=3D"mailto:Rodrigo.Rios@itau.cl" target=3D=
+"_blank" href=3D"mailto:Rodrigo.Rios@itau.cl">Rodrigo.Rios@itau.cl</a>&gt; =
+escribi=C3=B3:</div>=20
+<div>
+<div>
+<blockquote style=3D"border:none;border-left:solid #CCCCCC 1.0pt;padding:0c=
+m 0cm 0cm 6.0pt;margin-left:4.8pt;margin-right:0cm;">
+<div class=3D"yiv5382622411MsoNormal"> &nbsp;</div>=20
+<div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">Me parece &nbsp;Lunes 23 &nbsp;&nbsp;&nbsp;&nbsp;19.00 hrs
+</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">El matrimonio es una empresa compleja
+</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">&nbsp;</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">&nbsp;</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><b><span style=3D"font-siz=
+e:11.0pt;">Rodrigo R=C3=ADos Prado</span></b><span style=3D"font-size:11.0p=
+t;"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+</span><b><u><span style=3D"font-size:11.0pt;"><a rel=3D"nofollow" shape=3D=
+"rect" ymailto=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank" href=3D"ma=
+ilto:Rodrigo.Rios@itau.cl">Rodrigo.Rios@itau.cl</a></span></u></b><span sty=
+le=3D"font-size:11.0pt;"><br clear=3D"none">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+BackUp: <br clear=3D"none">
+<u><a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:Andres.Rivera@itau.=
+cl" target=3D"_blank" href=3D"mailto:Andres.Rivera@itau.cl">Andres.Rivera@i=
+tau.cl</a></u></span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">Fono :+5626854688</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">&nbsp;</span></div>=20
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm;">
+<div class=3D"yiv5382622411MsoNormal" style=3D""><b><span style=3D"font-siz=
+e:10.0pt;" lang=3D"ES">De:</span></b><span style=3D"font-size:10.0pt;" lang=
+=3D"ES"> josefa morales
+ [<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:josefa.m@gmail.com" =
+target=3D"_blank" href=3D"mailto:josefa.m@gmail.com">mailto:josefa.m@gmail.=
+com</a>] <br clear=3D"none">
+<b>Enviado el:</b> mi=C3=A9rcoles, 18 de febrero de 2015 12:05<br clear=3D"=
+none">
+<b>Para:</b> Rios Prado, Rodrigo; Andr=C3=A9s Morales (CCC-CHILE); Gabriel =
+Chomali<br clear=3D"none">
+<b>CC:</b> <a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:mcorrea@mip=
+arque.cl" target=3D"_blank" href=3D"mailto:mcorrea@miparque.cl">mcorrea@mip=
+arque.cl</a><br clear=3D"none">
+<b>Asunto:</b> Re: Tienda TinoSport</span></div>=20
+</div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Estimados,&nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Perd=C3=B3n la demora, he =
+estado full en la Fundaci=C3=B3n de vuelta de mis vacaciones.&nbsp;</div>=
+=20
+<div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Seg=C3=BAn lo que le comen=
+t=C3=A9 a Andr=C3=A9s, nos gustar=C3=ADa juntarnos con ustedes para saber b=
+ien qu=C3=A9 es lo que quieren para habilitar la tienda: ideas, est=C3=A1nd=
+ar e imagen, pero tambi=C3=A9n plazos
+ y presupuestos.&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">(Dejo copiado a Max, con q=
+uien hice el showroom inicial de CCC)</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">La verdad que con esto m=
+=C3=A1s claro podemos hacerles una propuesta inicial &nbsp;y con eso ustede=
+s pueden evaluar si calzamos con lo que necesitan. Les parece?&nbsp;</div>=
+=20
+</div>
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Podr=C3=ADamos durante la =
+pr=C3=B3xima semana a partir de las 19:00hrs. Les propongo el lunes 23.</di=
+v>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Y si!, nos casamos con el =
+Lucho! incre=C3=ADble la sorpresa, gran notici=C3=B3n. Estamos muy felices =
+y tranquilos.&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Quedo atenta a sus comenta=
+rios.&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Un abrazo,&nbsp;</div>=20
+</div>
+</div>
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">El 13 de febrero de 2015, =
+10:27, Rios Prado, Rodrigo &lt;<a rel=3D"nofollow" shape=3D"rect" ymailto=
+=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank" href=3D"mailto:Rodrigo.R=
+ios@itau.cl">Rodrigo.Rios@itau.cl</a>&gt; escribi=C3=B3:</div>=20
+<div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">Fefa&nbsp; te casas =C2=BF?????????????????????????????????????????=
+?</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">&nbsp;</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><b><span style=3D"font-siz=
+e:11.0pt;">Rodrigo R=C3=ADos Prado</span></b><span style=3D"font-size:11.0p=
+t;"><br clear=3D"none">
+<b>Agente, Sucursal Pedro de Valdivia</b><br clear=3D"none">
+Banco Ita=C3=BA Chile<br clear=3D"none">
+Pedro de Valdivia N=C2=B03558<br clear=3D"none">
+=C3=91u=C3=B1oa, Santiago<br clear=3D"none">
+</span><b><u><span style=3D"font-size:11.0pt;"><a rel=3D"nofollow" shape=3D=
+"rect" ymailto=3D"mailto:Rodrigo.Rios@itau.cl" target=3D"_blank" href=3D"ma=
+ilto:Rodrigo.Rios@itau.cl">Rodrigo.Rios@itau.cl</a></span></u></b><span sty=
+le=3D"font-size:11.0pt;"><br clear=3D"none">
+Fono :+5626854681 <br clear=3D"none">
+<br clear=3D"none">
+BackUp: <br clear=3D"none">
+<u><a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:Andres.Rivera@itau.=
+cl" target=3D"_blank" href=3D"mailto:Andres.Rivera@itau.cl">Andres.Rivera@i=
+tau.cl</a></u></span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">Fono :+5626854688</span></div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D""><span style=3D"font-size:1=
+1.0pt;">&nbsp;</span></div>=20
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm;">
+<div class=3D"yiv5382622411MsoNormal" style=3D""><b><span style=3D"font-siz=
+e:10.0pt;" lang=3D"ES">De:</span></b><span style=3D"font-size:10.0pt;" lang=
+=3D"ES"> Andr=C3=A9s Morales
+ (CCC-CHILE) [<a rel=3D"nofollow" shape=3D"rect" ymailto=3D"mailto:amorales=
+@cccchile.cl" target=3D"_blank" href=3D"mailto:amorales@cccchile.cl">mailto=
+:amorales@cccchile.cl</a>]
+<br clear=3D"none">
+<b>Enviado el:</b> viernes, 13 de febrero de 2015 10:26<br clear=3D"none">
+<b>Para:</b> josefa morales<br clear=3D"none">
+<b>CC:</b> Rios Prado, Rodrigo; Gabriel Chomali<br clear=3D"none">
+<b>Asunto:</b> Tienda TinoSport</span></div>=20
+</div>
+<div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Hola Fefa!!</div>=20
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Como hablamos, nos gustari=
+a que nos pudieras hacer una propuesta de remodelacion del local que fuiste=
+ a ver.</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">La idea es comenzar a trab=
+ajar y vender lo antes posible all=C3=A1, para que planifiquemos buen los t=
+iempos.</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Ya conoces a Rodrigo y te =
+e-presento a Gabriel, socio en este proyecto.</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Te parece que hagamos una =
+reuni=C3=B3n con alguna idea b=C3=A1sica en base a lo que ya viste y as=C3=
+=AD comenzamos hablando sobre algo mas concreto?&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Un beso a la.nueva novia!<=
+/div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+<div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+</div>
+</div>
+</div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">Para asegurar la adecuada =
+lectura en todo tipo de correos electronicos, se han omitido intencionalmen=
+te los signos y acentos diacriticos del idioma castellano. La informacion c=
+ontenida
+ en este mensaje y cualquier archivo adjunto es confidencial y no puede ser=
+ usada por mas personas que sus destinatarios. El uso no autorizado de esta=
+ informacion puede ser sancionado de conformidad con el Codigo Penal chilen=
+o. Si ha recibido este correo por
+ error, por favor notifique al remitente respondiendo este mismo mensaje y =
+elimine el mensaje y todos los archivos adjuntos. Internet no puede garanti=
+zar la integridad de este mensaje, por lo que el Banco no se hace responsab=
+le si el contenido del mismo ha
+ sido alterado. </div>=20
+</div>
+</div>
+<div class=3D"yiv5382622411MsoNormal" style=3D"">&nbsp;</div>=20
+</div>
+</div>
+<div class=3D"yiv5382622411MsoNormal">Para asegurar la adecuada lectura en =
+todo tipo de correos electronicos, se han omitido intencionalmente los sign=
+os y acentos diacriticos del idioma castellano. La informacion contenida en=
+ este mensaje y cualquier archivo adjunto es confidencial
+ y no puede ser usada por mas personas que sus destinatarios. El uso no aut=
+orizado de esta informacion puede ser sancionado de conformidad con el Codi=
+go Penal chileno. Si ha recibido este correo por error, por favor notifique=
+ al remitente respondiendo este
+ mismo mensaje y elimine el mensaje y todos los archivos adjuntos. Internet=
+ no puede garantizar la integridad de este mensaje, por lo que el Banco no =
+se hace responsable si el contenido del mismo ha sido alterado.
+</div>=20
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+<div class=3D"yiv5382622411MsoNormal"> &nbsp;</div>=20
+</div>
+</div></div><div class=3D"yiv5382622411yqt0603407525" id=3D"yiv5382622411yq=
+tfd73747">
+Para asegurar la adecuada lectura en todo tipo de correos electronicos, se =
+han omitido intencionalmente los signos y acentos diacriticos del idioma ca=
+stellano.=20
+La informacion contenida en este mensaje y cualquier archivo adjunto es con=
+fidencial y no puede ser usada por mas personas que sus destinatarios. El u=
+so no autorizado de esta informacion puede ser sancionado de conformidad co=
+n el Codigo Penal chileno. Si ha recibido este correo por error, por favor =
+notifique al remitente respondiendo este mismo mensaje y elimine el mensaje=
+ y todos los archivos adjuntos.
+Internet no puede garantizar la integridad de este mensaje, por lo que el B=
+anco no se hace responsable si el contenido del mismo ha sido alterado.
+</div></div></div><br><br></div> </div> </div>  </div></body></html>
+------=_Part_3714914_795991573.1424691998634--

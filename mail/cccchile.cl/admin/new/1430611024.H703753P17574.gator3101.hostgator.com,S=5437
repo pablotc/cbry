@@ -1,0 +1,128 @@
+Return-path: <bounce-md_30525226.5545644f.v1-3e885c22508f4b3c9efd0f2cc8777895@mandrillapp.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Sat, 02 May 2015 18:57:04 -0500
+Received: from mail36.us4.mandrillapp.com ([205.201.136.36]:40077)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <bounce-md_30525226.5545644f.v1-3e885c22508f4b3c9efd0f2cc8777895@mandrillapp.com>)
+	id 1YohHM-0004YH-Ft
+	for admin@cccchile.cl; Sat, 02 May 2015 18:57:04 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=payulatam.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=info@payulatam.com;
+ bh=32OtX39WLdV6zXvHQtSPDSeHSPQ=;
+ b=J/J/Tj830YQKCZ2qoRR2bVDGIiy66/8bbcFkdn7A721O8Y3tNSpzToOQ8leabRQN+y6310F5JxLy
+   yCvDFGeDRmoF0tnunCApe/a54pehGad0ukYDSfa01Aphgb/EYr7Tj4elOePq7vPEwer0Kd7XuIEq
+   aLJHR/EzZAUtO0WmyKA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=payulatam.com;
+ b=X+pBSK26jIuche/MB+5hw/z1FLEmkUd6uMKN0MrK7E1gdTTlJSx8YKnF//e1a4XfjcKc3E1VDlj6
+   U19fQt5purxKJX5zG00rUmjr/OrMjk4X7BnypGdfJ8xWhnopuYXHbqYrWVx9w2nyHuvPleWUcrpu
+   ccgu4VBmMfsWYHH12yM=;
+Received: from pmta03.dal05.mailchimp.com (127.0.0.1) by mail36.us4.mandrillapp.com id h8li50174nom for <admin@cccchile.cl>; Sat, 2 May 2015 23:57:03 +0000 (envelope-from <bounce-md_30525226.5545644f.v1-3e885c22508f4b3c9efd0f2cc8777895@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1430611023; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=PeVFBs5grPw72NxY2A/4BtPx+onG+6tB2N9VvzO2G1M=; 
+ b=kjIauaQBSYP1BkP0KgOy+FE4VNPSnPKEzJ2S5Ni64yaql52yDEdJQb8ZpwUdWhxQV/OcdE
+ yxhtRpprn7sM94U6CfZ69XvYKCwkBmUqlr4BxKmH4IreZsvhOabdJ2EDoGMYldHOHgMViT1R
+ J8U6bA6wP51aVe2lxKUSpMMmeImFo=
+From: PayU <info@payulatam.com>
+Subject: =?utf-8?Q?--Error=20al=20enviar=20pagina=20de=20confirmaci=C3=B3n--?=
+Received: from [50.56.9.171] by mandrillapp.com id 3e885c22508f4b3c9efd0f2cc8777895; Sat, 02 May 2015 23:57:03 +0000
+To: <admin@cccchile.cl>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30525226.3e885c22508f4b3c9efd0f2cc8777895
+X-Mandrill-User: md_30525226
+Message-Id: <30525226.20150502235703.5545644f3a3757.68178605@mail36.us4.mandrillapp.com>
+Date: Sat, 02 May 2015 23:57:03 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-buGlo_rcZDcplA4NXunn3A"
+
+--_av-buGlo_rcZDcplA4NXunn3A
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+   Untitled Document       Apreciado(a): Pablo Tapia C,   
+   El sistema realiz=C3=B3 varios intentos para reportar a la p=C3=A1gina d=
+e
+confirmaci=C3=B3n sin embargo un error impidi=C3=B3 que este proceso se eje=
+cutara
+de forma exitosa.   
+   La URL de la p=C3=A1gina es :
+http://cccchile.cl/modules/payulatam/pages/confirmation.php   El c=C3=B3dig=
+o de
+la =C3=B3rden es : 88083720   El c=C3=B3digo de la transacci=C3=B3n es :
+4319ffe5-1398-4cf2-8a20-00a5b457d9be   El c=C3=B3digo HTTP es : 500   El
+mensaje del error es:    
+   Si usted no desea utiizar la p=C3=A1gina de confirmaci=C3=B3n comuniques=
+e con
+Asesor=C3=ADa en l=C3=ADnea en www.pagosonline.net
+
+--_av-buGlo_rcZDcplA4NXunn3A
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html  charset=3DUTF-8">
+<style type=3D"text/css">
+<!--
+table {
+=09font-family: Arial, Helvetica, sans-serif font-size :    10px
+}
+-->
+</style>
+</head>
+<body>
+=09<table width=3D"100%" border=3D"0">
+=09=09<tr>
+=09=09=09<td align=3D"justify">Apreciado(a): Pablo Tapia C,</td>
+=09=09</tr>
+=09</table>
+=09<br>
+=09<table width=3D"100%" border=3D"0">
+=09=09<tr>
+=09=09=09<td align=3D"justify">El sistema realiz=C3=B3 varios intentos para
+=09=09=09=09reportar a la p=C3=A1gina de confirmaci=C3=B3n sin embargo un e=
+rror impidi=C3=B3
+=09=09=09=09que este proceso se ejecutara de forma exitosa.</td>
+=09=09</tr>
+=09</table>
+=09<br>
+=09<table width=3D"100%" border=3D"0">
+=09=09<tr>
+=09=09=09<td align=3D"justify">La URL de la p=C3=A1gina es : http://cccchil=
+e.cl/modules/payulatam/pages/confirmation.php</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"justify">El c=C3=B3digo de la =C3=B3rden es : 8808372=
+0</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"justify">El c=C3=B3digo de la transacci=C3=B3n es :
+=09=09=09=094319ffe5-1398-4cf2-8a20-00a5b457d9be</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"justify">El c=C3=B3digo HTTP es : 500</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"justify">El mensaje del error es: </td>
+=09=09</tr>
+=09</table>
+=09<br>
+=09<table width=3D"100%" border=3D"0">
+=09=09<tr>
+=09=09=09<td align=3D"justify">Si usted no desea utiizar la p=C3=A1gina de
+=09=09=09=09confirmaci=C3=B3n comuniquese con Asesor=C3=ADa en l=C3=ADnea e=
+n <a href=3D"www.pagosonline.net">www.pagosonline.net</a>
+=09=09=09</td>
+=09=09</tr>
+=09</table>
+<img src=3D"http://mandrillapp.com/track/open.php?u=3D30525226&id=3D3e885c2=
+2508f4b3c9efd0f2cc8777895" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-buGlo_rcZDcplA4NXunn3A--
+

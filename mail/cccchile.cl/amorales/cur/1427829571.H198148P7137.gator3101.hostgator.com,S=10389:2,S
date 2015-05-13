@@ -1,0 +1,204 @@
+Return-path: <claudio.diaz@dafiti.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 31 Mar 2015 14:19:31 -0500
+Received: from mail-qc0-f181.google.com ([209.85.216.181]:35729)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <claudio.diaz@dafiti.cl>)
+	id 1Yd1hD-0001pH-1M
+	for amorales@cccchile.cl; Tue, 31 Mar 2015 14:19:31 -0500
+Received: by qcfy6 with SMTP id y6so22626380qcf.2
+        for <amorales@cccchile.cl>; Tue, 31 Mar 2015 12:19:29 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc:content-type;
+        bh=FiZIuvULocnItGzS7AHHfbaQKAfDmr7Rf8pHfHeO26w=;
+        b=dO75XDouoxgen0oYZBPmqJpEWN4lHyrmmR7V40Y0EjsP6bndj/9Zo7dWW3Uz2TihhD
+         8aZL/EQm5SKLyI1+OAmzGoPwiD5nA72ri5XmFwAO+q656IzJNRmvdamtiSNotdzof5Em
+         34MSfMNzq8RQtGWvsnCR+xZwvL/nvUpGrgL0Cond8JFOgQHIvnC4DKIGmdZcNmCeAp9B
+         jGTdwETKl4uy+mAPS2i5Gm9MX8uMURr2CtgmGK/0OYzuirSfsXnu8oLQYXTPsXo2Ek01
+         n0225HsrZDBiHLwIyBNlZeSi8iB5jMV+zmOkf8vKFDEruSGorEnxMZPVojezUx9UKeWu
+         BqyQ==
+X-Gm-Message-State: ALoCoQn8jhAQDP+vNjxDhZKC/vCbc4Jmi8n9FqoX8htbB/0zFw1K4LHXlzPEBS46vvrXv8Rh4nUt
+MIME-Version: 1.0
+X-Received: by 10.140.35.227 with SMTP id n90mr48728790qgn.17.1427829569329;
+ Tue, 31 Mar 2015 12:19:29 -0700 (PDT)
+Received: by 10.140.92.3 with HTTP; Tue, 31 Mar 2015 12:19:29 -0700 (PDT)
+In-Reply-To: <CAKggD2QawBJ7dz73bM3UJUysBUZrmP79dZY+tMuKA0SyubZE9g@mail.gmail.com>
+References: <CAKggD2SvpWwb7+veNL8J4eaxDBzSHNcYN_az6TLKjrhNwYgMOw@mail.gmail.com>
+	<CAGRc2NVBfnyZNV2JyDsrg7CP_3WVFm7M5CTmYC_yM3b-tNygmw@mail.gmail.com>
+	<CAKggD2QawBJ7dz73bM3UJUysBUZrmP79dZY+tMuKA0SyubZE9g@mail.gmail.com>
+Date: Tue, 31 Mar 2015 15:19:29 -0400
+Message-ID: <CAGRc2NUjFd5FGi1stAXtamrm=RB4tRZ1Z7oBdY6d_LxKV5oPHA@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Solicitud_hora_de_recepci=C3=B3n?=
+From: Claudio Diaz <claudio.diaz@dafiti.cl>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Cc: "recepcion@dafiti.cl" <recepcion@dafiti.cl>, 
+	Purisima Bustamante <purisima.bustamante@dafiti.cl>, 
+	Francisco Larrain <francisco.larrain@dafiti.cl>
+Content-Type: multipart/alternative; boundary=001a11c006b047b5be05129a7a7b
+
+--001a11c006b047b5be05129a7a7b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andres,
+
+La direcci=C3=B3n es La martina #455, comuna Pudahuel, Bodegas K2, K4.
+
+Respetar el horario indicado
+Cada master box ordenado y sellado
+El sello no le doy uso, ya que cuento unidad por unidad la carga
+
+Slds
+
+
+=E2=80=8B
+<http://www.dafiti.cl/>*CLAUDIO DIAZ*
+ENCARGADO DE RECEPCION
+skype: claudio.diaz14
+
+
+
+El 31 de marzo de 2015, 15:12, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+> ok perfecto.
+> Como es primera vez que entregamos a ustedes, me puede confirmar la
+> direcci=C3=B3n y si es que hay alg=C3=BAn protocolo de por medio?, por ej=
+emplo sello
+> de seguridad etc?
+> Muchas gracias.
+>
+> El 31 de marzo de 2015, 14:55, Claudio Diaz <claudio.diaz@dafiti.cl>
+> escribi=C3=B3:
+>
+>> Andres,
+>>
+>> Agendo hora para el Lunes 06, a las 10 am
+>>
+>> Slds
+>>
+>> =E2=80=8B
+>> <http://www.dafiti.cl/>*CLAUDIO DIAZ*
+>> ENCARGADO DE RECEPCION
+>> skype: claudio.diaz14
+>>
+>>
+>>
+>> El 30 de marzo de 2015, 17:24, Andr=C3=A9s Morales (CCC-CHILE) <
+>> amorales@cccchile.cl> escribi=C3=B3:
+>>
+>>> Hola Claudio,
+>>>
+>>> Necesito favor nos agende hora de entrega para el sigueinte detalle. Si
+>>> pudiera lo antes posible se lo agradecer=C3=ADa miles!!
+>>>
+>>> Marca: Canterbury
+>>> # Bultos: 8
+>>> OC: 5420
+>>> OC: 5419
+>>>
+>>> Mil gracias!
+>>> Quedo atento.
+>>>
+>>> Andr=C3=A9s.
+>>>
+>>
+>>
+>
+
+--001a11c006b047b5be05129a7a7b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Andres,<div><br></div><div>La direcci=C3=B3n es La martina=
+ #455, comuna Pudahuel, Bodegas K2, K4.</div><div><br></div><div>Respetar e=
+l horario indicado</div><div>Cada master box ordenado y sellado</div><div>E=
+l sello no le doy uso, ya que cuento unidad por unidad la carga</div><div><=
+br></div><div>Slds</div><div><br></div></div><div class=3D"gmail_extra"><br=
+ clear=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"><table =
+width=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);font-family:&#39;Times=
+ New Roman&#39;;font-size:medium"><tbody><tr><td width=3D"161" height=3D"13=
+1"><div style=3D"font-family:arial,helvetica,sans-serif;display:inline">=E2=
+=80=8B</div><table width=3D"161" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"><tbody><tr><td colspan=3D"6"><a href=3D"http://www.dafiti.cl/" style=
+=3D"color:rgb(17,85,204)" target=3D"_blank"><img src=3D"http://static.dafit=
+i.cl/cms/Firma/imagen_firma_mailv4.jpg" alt=3D"" width=3D"364" height=3D"10=
+3" usemap=3D"#SafeHtmlFilter_145fc95762b3cc70_Map" border=3D"0"></a></td></=
+tr></tbody></table></td><td width=3D"205"><table width=3D"198" height=3D"10=
+7" border=3D"0"><tbody><tr><td width=3D"192" height=3D"103" align=3D"left">=
+<span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-seri=
+f;font-size:12px;font-weight:bold"><strong>CLAUDIO DIAZ</strong>=C2=A0<br><=
+/span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,san=
+s-serif;font-size:13px">ENCARGADO DE RECEPCION =C2=A0</span><span style=3D"=
+font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:13p=
+x"><br>skype: claudio.diaz14</span></td></tr></tbody></table></td></tr></tb=
+ody></table><table width=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);fon=
+t-family:&#39;Times New Roman&#39;;font-size:medium"><tbody><tr><td width=
+=3D"205"><table width=3D"198" height=3D"107" border=3D"0"><tbody><tr><td wi=
+dth=3D"192" height=3D"103" align=3D"left"><span style=3D"font-family:&#39;T=
+rebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:12px;font-weight:bold=
+"><strong>=C2=A0</strong></span><span style=3D"font-family:&#39;Trebuchet M=
+S&#39;,Arial,Helvetica,sans-serif;font-size:13px"><br></span></td></tr></tb=
+ody></table></td></tr></tbody></table><p><b><span style=3D"font-family:Taho=
+ma,sans-serif">=C2=A0</span></b></p></div></div></div>
+<br><div class=3D"gmail_quote">El 31 de marzo de 2015, 15:12, Andr=C3=A9s M=
+orales (CCC-CHILE) <span dir=3D"ltr">&lt;<a href=3D"mailto:amorales@cccchil=
+e.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<=
+br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">ok perfecto.=C2=A0<div>C=
+omo es primera vez que entregamos a ustedes, me puede confirmar la direcci=
+=C3=B3n y si es que hay alg=C3=BAn protocolo de por medio?, por ejemplo sel=
+lo de seguridad etc?</div><div>Muchas gracias.</div><div class=3D"gmail_ext=
+ra"><br><div class=3D"gmail_quote"><span class=3D"">El 31 de marzo de 2015,=
+ 14:55, Claudio Diaz <span dir=3D"ltr">&lt;<a href=3D"mailto:claudio.diaz@d=
+afiti.cl" target=3D"_blank">claudio.diaz@dafiti.cl</a>&gt;</span> escribi=
+=C3=B3:<br></span><div><div class=3D"h5"><blockquote class=3D"gmail_quote" =
+style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><di=
+v dir=3D"ltr">Andres,<div><br></div><div>Agendo hora para el Lunes 06, a la=
+s 10 am</div><div><br></div><div>Slds</div></div><div class=3D"gmail_extra"=
+><br clear=3D"all"><div><div><div dir=3D"ltr"><span><font color=3D"#888888"=
+></font></span><table width=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);=
+font-family:&#39;Times New Roman&#39;;font-size:medium"><tbody><tr><td widt=
+h=3D"161" height=3D"131"><div style=3D"font-family:arial,helvetica,sans-ser=
+if;display:inline">=E2=80=8B</div><table width=3D"161" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0"><tbody><tr><td colspan=3D"6"><a href=3D"http:/=
+/www.dafiti.cl/" style=3D"color:rgb(17,85,204)" target=3D"_blank"><img src=
+=3D"http://static.dafiti.cl/cms/Firma/imagen_firma_mailv4.jpg" alt=3D"" wid=
+th=3D"364" height=3D"103" usemap=3D"#14c713f9973c01b2_14c71304092753ca_Safe=
+HtmlFilter_145fc95762b3cc70_Map" border=3D"0"></a></td></tr></tbody></table=
+></td><td width=3D"205"><table width=3D"198" height=3D"107" border=3D"0"><t=
+body><tr><td width=3D"192" height=3D"103" align=3D"left"><span style=3D"fon=
+t-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:12px;f=
+ont-weight:bold"><strong>CLAUDIO DIAZ</strong>=C2=A0<br></span><span style=
+=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size=
+:13px">ENCARGADO DE RECEPCION =C2=A0</span><span style=3D"font-family:&#39;=
+Trebuchet MS&#39;,Arial,Helvetica,sans-serif;font-size:13px"><br>skype: cla=
+udio.diaz14</span></td></tr></tbody></table></td></tr></tbody></table><tabl=
+e width=3D"500" border=3D"0" style=3D"color:rgb(0,0,0);font-family:&#39;Tim=
+es New Roman&#39;;font-size:medium"><tbody><tr><td width=3D"205"><table wid=
+th=3D"198" height=3D"107" border=3D"0"><tbody><tr><td width=3D"192" height=
+=3D"103" align=3D"left"><span style=3D"font-family:&#39;Trebuchet MS&#39;,A=
+rial,Helvetica,sans-serif;font-size:12px;font-weight:bold"><strong>=C2=A0</=
+strong></span><span style=3D"font-family:&#39;Trebuchet MS&#39;,Arial,Helve=
+tica,sans-serif;font-size:13px"><br></span></td></tr></tbody></table></td><=
+/tr></tbody></table><p><b><span style=3D"font-family:Tahoma,sans-serif">=C2=
+=A0</span></b></p></div></div></div><div><div>
+<br><div class=3D"gmail_quote">El 30 de marzo de 2015, 17:24, Andr=C3=A9s M=
+orales (CCC-CHILE) <span dir=3D"ltr">&lt;<a href=3D"mailto:amorales@cccchil=
+e.cl" target=3D"_blank">amorales@cccchile.cl</a>&gt;</span> escribi=C3=B3:<=
+br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">Hola Claudio,<div><br></=
+div><div>Necesito favor nos agende hora de entrega para el sigueinte detall=
+e. Si pudiera lo antes posible se lo agradecer=C3=ADa miles!!</div><div><br=
+></div><div>Marca: Canterbury</div><div># Bultos: 8</div><div>OC: 5420</div=
+><div>OC: 5419</div><div><br></div><div>Mil gracias!</div><div>Quedo atento=
+.</div><span><font color=3D"#888888"><div><br></div><div>Andr=C3=A9s.</div>=
+</font></span></div>
+</blockquote></div><br></div></div></div>
+</blockquote></div></div></div><br></div></div>
+</blockquote></div><br></div>
+
+--001a11c006b047b5be05129a7a7b--

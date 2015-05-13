@@ -1,0 +1,401 @@
+Return-path: <bounce-md_30525226.5548f827.v1-dab7714bdf1f43fface97715a5626d2a@mandrillapp.com>
+Envelope-to: admin@cccchile.cl
+Delivery-date: Tue, 05 May 2015 12:04:40 -0500
+Received: from mandrill.payulatam.com ([198.2.135.222]:38001)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <bounce-md_30525226.5548f827.v1-dab7714bdf1f43fface97715a5626d2a@mandrillapp.com>)
+	id 1YpgGu-0002l5-KO
+	for admin@cccchile.cl; Tue, 05 May 2015 12:04:40 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=payulatam.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=info@payulatam.com;
+ bh=OwyQAnZJ/X1oRfQfwtVl/u6gAv0=;
+ b=I+mzs/ULS3QNtJ4Gjzzh5qpa05Al7tVnOWIFuIrSEvUBvCaerYbbR+Y8uHGXvV8JKJsE4nwmaNlq
+   uHi8OvOZyCA2vHjYhh2Z4GOQ/o+DXIn52jtzlvkNNZpV9JQWhntx/12mtSOOWuh2rq8Hw5+SMmES
+   mjKZHFSohpE+TI3HFnA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=payulatam.com;
+ b=j7KB52/xR0iSUU10RckEibcWGXu/xCcN7WVT7cIlM0XPnIwbt6wAG3Ypi2Lv+iqAcJj4/l5LhN8L
+   Ss6qI4CKWdeVBL1Kc3bFUvIfJEZv19pQjatC9s3fB+ALUQJqNxpagE/zziV38N5HCvFNEmh/F19o
+   kUBgPIulb0KSVsZDpzA=;
+Received: from pmta03.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mandrill.payulatam.com id h93s2g1sau8k for <admin@cccchile.cl>; Tue, 5 May 2015 17:04:39 +0000 (envelope-from <bounce-md_30525226.5548f827.v1-dab7714bdf1f43fface97715a5626d2a@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1430845479; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=42NlhafZ/9wKzvU+nLG2Qey2c5i5IsrJverrEVwEuGM=; 
+ b=CgrGzIJLDP15oZQYZS7PdEWS0MqiJu6KGGqDw3sRF1e4oJtlMKE88tFpoOppd8Iqjbkthv
+ h1FEZBt7IBTLR8wcrZCxNP9sZdX5AGBtQ0Gyct4WPBr93Hs4aaZuAl6rrYVpr6CjH2W4wPmD
+ 5yV8rmv9gVRZHj//VCGz4OUG++E/g=
+From: PayU <info@payulatam.com>
+Subject: =?utf-8?Q?--=20Transacci=C3=B3n=20Rechazada:=20[6de851cb-56d9-47a8-952e-202270b4bf32]=20=2C=20Referencia:=20[322]=20--?=
+Received: from [50.56.9.171] by mandrillapp.com id dab7714bdf1f43fface97715a5626d2a; Tue, 05 May 2015 17:04:39 +0000
+To: <admin@cccchile.cl>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30525226.dab7714bdf1f43fface97715a5626d2a
+X-Mandrill-User: md_30525226
+Message-Id: <30525226.20150505170439.5548f827113a92.42753992@mandrill.payulatam.com>
+Date: Tue, 05 May 2015 17:04:39 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-OtFXCnNV9EEr4j4KP3ChTg"
+
+--_av-OtFXCnNV9EEr4j4KP3ChTg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+    PayU                     Pago rechazado                *Hola
+CONFECCIONES DE VESTUARIO REINALTER LTDA,*       Lamentamos informarte que
+se ha rechazado un pago.       Datos de la transacci=C3=B3n:               =
+    
+  ID de transacci=C3=B3n         6de851cb-56d9-47a8-952e-202270b4bf32      =
+    
+  Estado         RECHAZADA             Descripci=C3=B3n         CANTERBURY
+STAMPEDE ELITE 8 STUD MEN'S RUGBY             Referencia         322       
+     Valor         47990.33             Moneda         CLP            Fecha
+      2015-05-05 12:04:06           Medio de Pago/Franquicia      
+TRANSBANK           E-mail del comprador       harry.marples@gmail.com     
+                =E2=9E=A4 Si tienes alguna duda o inquietud, consulta en tu
+*M=C3=B3dulo administrativo* <https://secure.payulatam.com/login.zul>.     =
+    
+                 Cordialmente,      *www.payu.com* <http://www.payu.com/>  
+  El contenido de este mensaje puede ser informaci&oacuten privilegiada y
+confidencial. Si usted no es el destinatario real del mismo, por favor
+informe de ello a quien lo env&iacutea y destr&uacuteyalo en forma
+inmediata. Est&aacute prohibida su retenci&oacuten, grabaci&oacuten,
+utilizaci&oacuten o divulgaci&oacuten con cualquier prop&oacutesito. Este
+mensaje ha sido verificado con software antivirus, en consecuencia, el
+remitente de este no se hace responsable por la presencia en &eacutel o en
+sus anexos de alg&uacuten virus que pueda generar da&ntildeos en los
+equipos o programas del destinatario.
+
+--_av-OtFXCnNV9EEr4j4KP3ChTg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>PayU</title>
+  </head>
+  <body style="font-family: Arial, sans-serif;">
+      
+    <table width="595" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody>
+        <tr>
+          <td><img src="http://www.payulatam.com/img-correos-2015/header_rechazada_4.png" width="606" height="141" alt="" style=" display:block"></td>
+        </tr>
+        <tr>
+          <td bgcolor="#DEDEDE">
+            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="1">
+              <tbody>
+                <tr>
+                  <td bgcolor="#FFFFFF">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody>
+                        <tr>
+                          <td height="39" bgcolor="#ed0000">
+                            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td style="font-family: Arial, sans-serif; font-size:20px"><font face="Arial" color="#FFFFFF">Pago rechazado</font></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="#FFFFFF">
+                            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, sans-serif; font-size:16px"><font face="Arial" color="#262626">
+                                    <strong>Hola CONFECCIONES DE VESTUARIO REINALTER LTDA,</strong></font>                      
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="8"></td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, sans-serif; font-size:16px"><font face="Arial" color="#262626">Lamentamos informarte que se ha rechazado un pago.</font></td>
+                                </tr>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: Arial, sans-serif; font-size:16px; color:#262626">Datos de la transacci&#243;n:</td>
+                                </tr>
+                                <tr>
+                                  <td height="6"></td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                      <tbody>
+                                        <tr>
+                                          <td>
+                                            <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td width="39%" height="25" bgcolor="#AFAFAF">
+                                                    <table width="45" border="0" align="left" cellpadding="0" cellspacing="0">
+                                                    </table>
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">ID de transacci&#243;n</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td width="61%" bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">6de851cb-56d9-47a8-952e-202270b4bf32</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF">
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">Estado</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">RECHAZADA</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF">
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">Descripci&#243;n</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">CANTERBURY STAMPEDE ELITE 8 STUD MEN'S RUGBY</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF">
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">Referencia</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">322</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF">
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">Valor</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">47990.33</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF">
+                                                    <table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td width="15">&nbsp;</td>
+                                                          <td width="150"><font face="Arial" size="2" color="#FFFFFF">Moneda</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                  <td bgcolor="#f5f7f8">
+                                                    <table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td><font face="arial" size="2" color="#94969B">CLP</font></td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF"><table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td width="15">&nbsp;</td>
+                                                        <td width="150"><font face="Arial" size="2" color="#FFFFFF">Fecha</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                  <td bgcolor="#f5f7f8"><table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td><font face="arial" size="2" color="#94969B">2015-05-05 12:04:06</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF"><table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td width="15">&nbsp;</td>
+                                                        <td width="150"><font face="Arial" size="2" color="#FFFFFF">Medio de Pago/Franquicia</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                  <td bgcolor="#f5f7f8"><table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td><font face="arial" size="2" color="#94969B">TRANSBANK</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                </tr>
+                                                <tr>
+                                                  <td height="25" bgcolor="#AFAFAF"><table width="89%" border="0" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td width="15">&nbsp;</td>
+                                                        <td width="150"><font face="Arial" size="2" color="#FFFFFF">E-mail del comprador</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                  <td bgcolor="#f5f7f8"><table width="92%" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                      <tr>
+                                                        <td><font face="arial" size="2" color="#94969B">harry.marples@gmail.com</font></td>
+                                                      </tr>
+                                                    </tbody>
+                                                  </table></td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        
+                                        <tr>
+                                          <td>
+                                            
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>&nbsp;</td>
+                                        </tr>
+                                        
+                                        <tr>
+                                          <td>
+                                            <table width="100%" border="0" cellspacing="1" cellpadding="0">
+                                              <tbody>
+                                                <tr>
+                                                  <td width="4%" valign="top"><font color="#666666">&#10148;</font></td>
+                                                  <td width="96%"><font face="Arial" size="2" color="#AFAFAF">Si tienes alguna duda o inquietud, consulta en tu <a href="http://mandrillapp.com/track/click/30525226/secure.payulatam.com?p=eyJzIjoiU1hWMklxM2l1dy11aFp2V25YR3FDMTUyYWhnIiwidiI6MSwicCI6IntcInVcIjozMDUyNTIyNixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3NlY3VyZS5wYXl1bGF0YW0uY29tXFxcL2xvZ2luLnp1bFwiLFwiaWRcIjpcImRhYjc3MTRiZGYxZjQzZmZhY2U5NzcxNWE1NjI2ZDJhXCIsXCJ1cmxfaWRzXCI6W1wiMTNkMzdkYmU3YzlhZTM4OTRlNDQ4NzcxOTZiZjNmNWE1ZWRkNzJjOVwiXX0ifQ" target="_blank" style="text-decoration: none"><b><font color="#A6C307">M&#243;dulo administrativo</font></b></a>.</font></td>
+                                                </tr>
+                                              </tbody>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>&nbsp;</td>
+                                        </tr>
+                                        
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>
+                            <table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td height="28"><font face="Arial" color="#AFAEAF" size="2">Cordialmente,</font></td>
+                                </tr>
+                                <tr>
+                                  <td align="left"><img src="http://www.payulatam.com/img-correos-2015/logo-footer.png" width="130" height="66" alt=""></td>
+                                </tr>
+                                <tr>
+                                  <td height="30"><a href="http://mandrillapp.com/track/click/30525226/www.payu.com?p=eyJzIjoiV2FSS2gzcnZKMFptMWhpd2I4UG0zekVyVnNnIiwidiI6MSwicCI6IntcInVcIjozMDUyNTIyNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnBheXUuY29tXFxcL1wiLFwiaWRcIjpcImRhYjc3MTRiZGYxZjQzZmZhY2U5NzcxNWE1NjI2ZDJhXCIsXCJ1cmxfaWRzXCI6W1wiZTA4ODBiMjFlMWE0Mjg0YzAwMDkyOGJkMGE3YmE3MzFlN2FkOGRlY1wiXX0ifQ" target="_blank" style="text-decoration: none"><font face="arial" size="2" color="#A6C307"><b>www.payu.com</b></font></a></td>
+                                </tr>
+                                <tr>
+                                  <td>
+                                    <p style="font-family: arial; font-size: 10px; color: #a9a9a9; padding-right: 10px;">
+                                      El contenido de este mensaje puede ser informaci&oacuten privilegiada y confidencial. Si usted no es el destinatario real del mismo, por favor informe de ello a quien lo env&iacutea y destr&uacuteyalo en forma inmediata. Est&aacute prohibida su retenci&oacuten, grabaci&oacuten, utilizaci&oacuten o divulgaci&oacuten con cualquier prop&oacutesito. Este mensaje ha sido verificado con software antivirus, en consecuencia, el remitente de este no se hace responsable por la presencia en &eacutel o en sus anexos de alg&uacuten virus que pueda generar da&ntildeos en los equipos o programas del destinatario.
+                                    </p>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td height="25">&nbsp;</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  <img src="http://mandrillapp.com/track/open.php?u=30525226&id=dab7714bdf1f43fface97715a5626d2a" height="1" width="1"></body>
+</html>
+--_av-OtFXCnNV9EEr4j4KP3ChTg--
+

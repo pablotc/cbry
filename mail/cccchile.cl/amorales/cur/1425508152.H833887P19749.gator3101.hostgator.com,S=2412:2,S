@@ -1,0 +1,52 @@
+Return-path: <andres.moralesg@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Wed, 04 Mar 2015 16:29:12 -0600
+Received: from mail-we0-f173.google.com ([74.125.82.173]:39222)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <andres.moralesg@gmail.com>)
+	id 1YTHmy-00056G-Jw
+	for amorales@cccchile.cl; Wed, 04 Mar 2015 16:29:12 -0600
+Received: by wesu56 with SMTP id u56so5873746wes.6
+        for <amorales@cccchile.cl>; Wed, 04 Mar 2015 14:29:09 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=JyVKX75qdKpWeYjROauzVjGjtUe33SaaT8U/n8QHWV8=;
+        b=VtQPMuuuHOMumksHpPZNkE0O1xOXj5iNKck/xQ+2cBhKG1bP3jNd3X2EH9E8hW5pU9
+         52yA856o1gNAB9elAYQ08FKLAQ2ddUUgjbuI8yZ/6C98SKNpBNPdDO57DYI7kT7r0LpX
+         fy40nKVOehXf/HDXASeGu72X4Qq6IoFST2FRFkf3B4WZJQ3zecDAQ1ELWiqn9BKzAO1A
+         2OyecSLeEQdJDjufX8X/x7WimYjc84W+gtEhATAW4DgQfqWlQ0UPo7v3ku684xgPkqHo
+         PmWvuistmJb5X7bcDheseVATvNBlsZWiEQwwXBzMSV+LpaP284LUR2wTGtQTDfwixRql
+         ghVA==
+MIME-Version: 1.0
+X-Received: by 10.180.87.33 with SMTP id u1mr16751629wiz.20.1425508149703;
+ Wed, 04 Mar 2015 14:29:09 -0800 (PST)
+Received: by 10.194.246.195 with HTTP; Wed, 4 Mar 2015 14:29:09 -0800 (PST)
+Date: Wed, 4 Mar 2015 19:29:09 -0300
+Message-ID: <CAKggD2TE+=khX7GoJUpC8Aqyo-_CP977tZoq07C6pEq7mv2XeQ@mail.gmail.com>
+Subject: pendientes pagina web.
+From: =?UTF-8?Q?Andr=C3=A9s_Morales?= <andres.moralesg@gmail.com>
+To: =?UTF-8?Q?Andr=C3=A9s_Morales?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=f46d044402b0e33d0005107dfa50
+
+--f46d044402b0e33d0005107dfa50
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+redefinir categorias.
+bajar videos y fotos para pagina web.
+Ca=C3=B1endario con las campa=C3=B1as , eventos o productos a potenciar. pa=
+rtidos o
+fechas improtantes en el rugby.
+
+--f46d044402b0e33d0005107dfa50
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">redefinir categorias.<div>bajar videos y fotos para pagina=
+ web.</div><div>Ca=C3=B1endario con las campa=C3=B1as , eventos o productos=
+ a potenciar. partidos o fechas improtantes en el rugby.</div><div><br></di=
+v><div><br><div><br></div></div></div>
+
+--f46d044402b0e33d0005107dfa50--

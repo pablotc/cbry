@@ -1,0 +1,197 @@
+Return-path: <roccotto@gmail.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 24 Mar 2015 17:48:37 -0500
+Received: from mail-ig0-f175.google.com ([209.85.213.175]:32970)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <roccotto@gmail.com>)
+	id 1YaXcj-0008HQ-Je
+	for amorales@cccchile.cl; Tue, 24 Mar 2015 17:48:37 -0500
+Received: by ignm3 with SMTP id m3so60713653ign.0
+        for <amorales@cccchile.cl>; Tue, 24 Mar 2015 15:48:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=48+nZ2R6+VnKY+YseAsvw6Itgnc1QvoXrLyPjJzpVtw=;
+        b=C4c6Nt0b/vEpcWrgtJhJKIcvtmUeotOdWmatRNdkUTlAglfV40Xe4wb9jRfq1Jf8nb
+         ellNcmpd0+idgwMk/z08FMN1KRZWRVMGzAvJge9WAf76v4ixZtxSEWG40A/+22jgqdGd
+         AESell/fDG5Xz3VxwX0Hop2L1HiIICYN4emDy1ZTXV4OTMF6tl8vmnw+1nEsxJLNRtLI
+         a1G9s/0/6jqA2WVHzAQgR6iiA6CNqRUMhILoqrS6IF5fdlarvLRvpBe0HQmodlauZohW
+         SPZ8kwngzHblN2fZ0FGmU9moCXxPUM+Op2csZSDX2PVgAWyfxmv0hzdTj/4B3l1xLEDM
+         bk3g==
+MIME-Version: 1.0
+X-Received: by 10.50.122.5 with SMTP id lo5mr25636466igb.37.1427237315627;
+ Tue, 24 Mar 2015 15:48:35 -0700 (PDT)
+Received: by 10.107.178.141 with HTTP; Tue, 24 Mar 2015 15:48:35 -0700 (PDT)
+In-Reply-To: <20152203.133455.fd6b760c@bancoestado.cl>
+References: <20152203.133455.fd6b760c@bancoestado.cl>
+Date: Tue, 24 Mar 2015 18:48:35 -0400
+Message-ID: <CAKHz+1oeuWTqVBhoc0Dmztf-GmamTx1P8Zn-XU4oT7khWEmOxw@mail.gmail.com>
+Subject: Fwd: Aviso de Transferencia de Fondos.
+From: Rodolfo Contreras <roccotto@gmail.com>
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/alternative; boundary=089e015388b63552620512109538
+
+--089e015388b63552620512109538
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+adjunto transferencia.----
+
+Atte.-
+
+
+RCT
+
+---------- Mensaje reenviado ----------
+De: BancoEstado <sendmail@bancoestado.cl>
+Fecha: 22 de marzo de 2015, 9:34
+Asunto: Aviso de Transferencia de Fondos.
+Para: RODOLFO ANDRES CONTRERAS TORRES <roccotto@gmail.com>
+
+
+ Domingo 22 de Marzo de 2015
+Comprobante de Transferencia Electronica de Fondos (TEF)
+------------------------------
+
+*Estimado(a) RODOLFO ANDRES CONTRERAS TORRES:*
+
+Acabas de realizar una Transferencia Electronica, con los siguientes datos:
+Monto Transferido: $47990
+ *Desde*   *Producto*
+*:*
+Cuenta Corriente *N=C2=BA de Cuenta*
+*:*
+630-0-000708-2 *N=C2=BA de TEF*
+*:*
+7085643 *Fecha y Hora de TEF*
+*:*
+22-03-2015 10:33:40     *Hacia*   *Nombre*
+*:*
+Soc Comercial Reinalter *RUT*
+*:*
+79.840.460-1 *Banco*
+*:*
+BANCO DE CHILE *N=C2=BA de cuenta*
+*:*
+161977518 *Producto*
+*:*
+Cuenta Corriente *Email*
+*:*
+ventas@cccchile.cl *Comentario*
+*:*
+zpnddiipz
+
+
+------------------------------
+*=C2=A9 BancoEstado 2015*
+
+--089e015388b63552620512109538
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"color:rgb(102,102,10=
+2);font-family:verdana,sans-serif;font-size:small">adjunto transferencia.--=
+--</div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><br></div=
+>Atte.-<div><br></div><div><br></div><div>RCT</div></div></div></div>
+<br><div class=3D"gmail_quote">---------- Mensaje reenviado ----------<br>D=
+e: <b class=3D"gmail_sendername">BancoEstado</b> <span dir=3D"ltr">&lt;<a h=
+ref=3D"mailto:sendmail@bancoestado.cl">sendmail@bancoestado.cl</a>&gt;</spa=
+n><br>Fecha: 22 de marzo de 2015, 9:34<br>Asunto: Aviso de Transferencia de=
+ Fondos.<br>Para: RODOLFO ANDRES           CONTRERAS                 TORRES=
+ &lt;<a href=3D"mailto:roccotto@gmail.com">roccotto@gmail.com</a>&gt;<br><b=
+r><br><div><u></u><div><table width=3D"500" align=3D"center" style=3D"color=
+:rgb(102,102,102);font-family:Arial,Helvetica,sans-serif;font-size:12px" bo=
+rder=3D"0"><tbody><tr><td><img width=3D"500" height=3D"67" src=3D"http://ww=
+w.bancoestado.cl/bancoestado/ImagesPersonas/ctef_header.gif"></td></tr>
+<tr><td height=3D"25" valign=3D"top"><div align=3D"right"><span style=3D"co=
+lor:rgb(102,102,102);padding-right:10px;font-family:Verdana,Arial,Helvetica=
+,sans-serif;font-size:11px"> Domingo 22 de Marzo de 2015 </span></div></td>=
+</tr><tr><td><h2 align=3D"center" style=3D"color:rgb(241,128,26);font-famil=
+y:Arial,Helvetica,sans-serif;font-size:16px">Comprobante de Transferencia E=
+lectronica de Fondos (TEF)</h2><hr style=3D"border:1px solid rgb(234,234,23=
+4)"></td></tr><tr><td><table width=3D"460" align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0"><tbody><tr>
+<td colspan=3D"3"><p style=3D"color:rgb(102,102,102);font-family:Arial,Helv=
+etica,sans-serif;font-size:12px"><strong>Estimado(a) RODOLFO ANDRES        =
+   CONTRERAS                 TORRES:</strong></p><p style=3D"color:rgb(102,=
+102,102);font-family:Arial,Helvetica,sans-serif;font-size:12px">Acabas de r=
+ealizar una Transferencia Electronica, con los siguientes datos:</p></td></=
+tr><tr><td height=3D"30" bgcolor=3D"#ff9900" colspan=3D"3"><div align=3D"ce=
+nter"><span style=3D"color:rgb(255,255,255);font-family:Arial,Helvetica,san=
+s-serif;font-size:14px">Monto Transferido: $47990</span></div></td></tr>
+<tr><td width=3D"159" height=3D"25"><img src=3D"http://www.bancoestado.cl/b=
+ancoestado/ImagesPersonas/ctef_bullet.gif"> <strong>Desde</strong></td><td =
+width=3D"21">=C2=A0</td><td width=3D"266">=C2=A0</td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>Producto</strong></td><td height=3D"30" style=3D"font-siz=
+e:11px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong></div><=
+/td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> Cuenta =
+Corriente </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f8f8f4"><strong>N=C2=BA de Cuenta</strong></td><td height=3D"30" style=3D=
+"font-size:11px" bgcolor=3D"#f8f8f4"><div align=3D"center"><strong>:</stron=
+g></div></td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f8f8f4"=
+> 630-0-000708-2 </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>N=C2=BA de TEF</strong></td><td height=3D"30" style=3D"fo=
+nt-size:11px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong><=
+/div></td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> 7=
+085643 </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f8f8f4"><strong>Fecha y Hora de TEF</strong></td><td height=3D"30" style=
+=3D"font-size:11px" bgcolor=3D"#f8f8f4"><div align=3D"center"><strong>:</st=
+rong></div></td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f8f8=
+f4"> 22-03-2015 10:33:40 </td></tr>
+<tr><td>=C2=A0</td><td>=C2=A0</td><td>=C2=A0</td></tr><tr><td height=3D"25"=
+><img src=3D"http://www.bancoestado.cl/bancoestado/ImagesPersonas/ctef_bull=
+et.gif"> <strong>Hacia</strong></td><td>=C2=A0</td><td>=C2=A0</td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>Nombre</strong></td><td height=3D"30" style=3D"font-size:=
+11px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong></div></t=
+d><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> Soc Comer=
+cial Reinalter </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f8f8f4"><strong>RUT</strong></td><td height=3D"30" style=3D"font-size:11p=
+x" bgcolor=3D"#f8f8f4"><div align=3D"center"><strong>:</strong></div></td><=
+td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f8f8f4"> 79.840.460-1=
+ </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>Banco</strong></td><td height=3D"30" style=3D"font-size:1=
+1px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong></div></td=
+><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> BANCO DE C=
+HILE </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f8f8f4"><strong>N=C2=BA de cuenta</strong></td><td height=3D"30" style=3D=
+"font-size:11px" bgcolor=3D"#f8f8f4"><div align=3D"center"><strong>:</stron=
+g></div></td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f8f8f4"=
+> 161977518 </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>Producto</strong></td><td height=3D"30" style=3D"font-siz=
+e:11px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong></div><=
+/td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> Cuenta =
+Corriente </td></tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f8f8f4"><strong>Email</strong></td><td height=3D"30" style=3D"font-size:1=
+1px" bgcolor=3D"#f8f8f4"><div align=3D"center"><strong>:</strong></div></td=
+><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f8f8f4"> <a href=3D=
+"mailto:ventas@cccchile.cl" target=3D"_blank">ventas@cccchile.cl</a> </td><=
+/tr>
+<tr><td height=3D"30" style=3D"padding-left:10px;font-size:11px" bgcolor=3D=
+"#f2f2f5"><strong>Comentario</strong></td><td height=3D"30" style=3D"font-s=
+ize:11px" bgcolor=3D"#f2f2f5"><div align=3D"center"><strong>:</strong></div=
+></td><td height=3D"30" style=3D"font-size:11px" bgcolor=3D"#f2f2f5"> zpndd=
+iipz </td></tr>
+<tr><td>=C2=A0</td><td>=C2=A0</td><td>=C2=A0</td></tr><tr><td>=C2=A0</td><t=
+d>=C2=A0</td><td><div align=3D"right"><img src=3D"http://www.bancoestado.cl=
+/bancoestado/Imagesempresas/sello_operacion_realizada.gif"></div></td></tr>=
+</tbody></table></td></tr><tr><td colspan=3D"3"><img src=3D"http://www.banc=
+oestado.cl/imagenes/comun2008/disclaimer_tef_2012.jpg"></td></tr><tr><td>=
+=C2=A0</td></tr></tbody></table></div><br><hr width=3D"100%" size=3D"1" col=
+or=3D"#cccccc"><font color=3D"#000099" face=3D"Verdana" size=3D"1"><b>=C2=
+=A9 BancoEstado 2015</b></font></div>
+
+</div><br></div>
+
+--089e015388b63552620512109538--

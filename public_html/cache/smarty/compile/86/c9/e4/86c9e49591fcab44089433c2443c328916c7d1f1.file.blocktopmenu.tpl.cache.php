@@ -1,23 +1,20 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2015-01-21 14:48:15
+<?php /* Smarty version Smarty-3.1.14, created on 2015-05-04 10:16:11
          compiled from "/home2/amorales/public_html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:561316131548abf144f5755-89459173%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:158425482455477f2b0ae1e7-65455480%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '86c9e49591fcab44089433c2443c328916c7d1f1' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blocktopmenu/blocktopmenu.tpl',
-      1 => 1421861899,
+      1 => 1422020794,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '561316131548abf144f5755-89459173',
+  'nocache_hash' => '158425482455477f2b0ae1e7-65455480',
   'function' => 
   array (
   ),
-  'cache_lifetime' => 31536000,
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_548abf1454f923_59375045',
   'variables' => 
   array (
     'MENU' => 0,
@@ -25,12 +22,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'link' => 0,
   ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_55477f2b1923e0_79794813',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_548abf1454f923_59375045')) {function content_548abf1454f923_59375045($_smarty_tpl) {?><?php if ($_smarty_tpl->tpl_vars['MENU']->value!=''){?>
+<?php if ($_valid && !is_callable('content_55477f2b1923e0_79794813')) {function content_55477f2b1923e0_79794813($_smarty_tpl) {?><?php if ($_smarty_tpl->tpl_vars['MENU']->value!=''){?>
 	<!-- Menu -->
 	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
 		
-		<div class="cat-title" onClick="javascript();"><?php echo smartyTranslate(array('s'=>"Categories",'mod'=>"blocktopmenu"),$_smarty_tpl);?>
+		<div class="cat-title" ><?php echo smartyTranslate(array('s'=>"Categories",'mod'=>"blocktopmenu"),$_smarty_tpl);?>
 </div>
 		<ul class="sf-menu clearfix menu-content" id="menupablo">
 			<?php echo $_smarty_tpl->tpl_vars['MENU']->value;?>

@@ -1,0 +1,2074 @@
+Return-path: <german.angellotti@equitybr.com>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 05 Feb 2015 13:45:55 -0600
+Received: from mail-ig0-f182.google.com ([209.85.213.182]:58197)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <german.angellotti@equitybr.com>)
+	id 1YJSN8-0005Uw-PS
+	for amorales@cccchile.cl; Thu, 05 Feb 2015 13:45:55 -0600
+Received: by mail-ig0-f182.google.com with SMTP id h15so264168igd.3
+        for <amorales@cccchile.cl>; Thu, 05 Feb 2015 11:45:52 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:content-type;
+        bh=vekIIY0EVd3O96UQvp+TCGZ3j0h9xWIaFJHrWgszFcY=;
+        b=WTnVTQZ+nKmGx4mHx2EjUi6G34CIsn6zVT2n+1GSoaRhTDP2uu82ruoWjlIk1Az34Z
+         dZcYuQXzpu0lshjm+Nq8mGG/OE19Aq33JynY4RnA1GavkIyBHTdHq4UYbDC6cDuN/ebo
+         GBITBafcpW7BI0a8/Kstfm6K5Yiyb8xcNQlUs+cDCn8JtkMI3HlNNryuwgJjyQ1xKfw6
+         Wrc2sJpNUj+FNin5Z1vx5WMNZhluV5yZl68aoK4c9SterOI+neTxcMEUPZ5Gnx4+BWfB
+         WHOt95zGsrafLZT2jXYdagM068BwsDPw6L2Iy225d/D6+U76N+uyDfWT0Gsh9kFqWeuL
+         SHAw==
+X-Gm-Message-State: ALoCoQkrt8DMLyaYFo3nDOW5BCzaF6wh+7SXbwuL5H6WNICq7Kc63xqBy4EH+72IuyKWTP0q7HfJ
+X-Received: by 10.42.95.12 with SMTP id d12mr9196697icn.12.1423165552212; Thu,
+ 05 Feb 2015 11:45:52 -0800 (PST)
+From: German Angellotti <german.angellotti@equitybr.com>
+References: <CAKggD2SQfrrjR87M6EAm36+QPS5mFzGj6d9U79FdmKwOF4e=wQ@mail.gmail.com>
+	<CAKggD2TW7RN4eSWrYT1uMf8SgZ9TgT4-=1YxtPsWHzGNbf6euA@mail.gmail.com>
+	<331cda8a5c2b66f443292210616da16a@mail.gmail.com>	<CAKggD2TXJE0Ax_ti75qz8xKOs_V1q7VvAa_po5ncd66owspOLg@mail.gmail.com>
+	<CAKggD2RYaK2YWzWEk+sYhzOVmRntnxMOcRRoHq5DHMXfWhHO+w@mail.gmail.com>
+	<CAKggD2TD7AdVNZuCTBL35-vNSZRR1qaTA+8adLdQDZa2bfhtOw@mail.gmail.com>
+	<CAKggD2Szw0BxsuYm-Zyz9La4n2qsKTKhBQ7h+MpwbFmEdoyDPQ@mail.gmail.com>
+	<CAKggD2QxZe0CdcSQzKPrQHQzPKHZWVinOBPMz6_ExASU2cu=Mw@mail.gmail.com>
+	<96e0041ece00f208cf65e3005231404e@mail.gmail.com>	<CAKggD2RjxfVipr_Wo76b7PoEu6=S6d=qOp4BYtD8x=G28uA7Bw@mail.gmail.com>
+	<4ca4315fe240e390ee353c9ceaa5d735@mail.gmail.com>	<CAKggD2TihjcFTXh2MZVWdFru8ArTMK3p0oLq=LoO6y8StuVtqA@mail.gmail.com>
+	<5fced2c3ffc5d2241c9139518bdd42c8@mail.gmail.com>	<CAKggD2RS3HM7rDbdMykCCxkwENrXG2g2ts_fc877Fpdhzmp4Gg@mail.gmail.com>
+	<037859cb7a06b465c0a19321ddebc253@mail.gmail.com>	<8a2a966f4acb1447eec32e25bd08191e@mail.gmail.com>
+	<CAKggD2Q4 qDwjNCNGV9i4Z1omV3+-HCwa0sJvhDBz-SXXo3qEJg@mail.gmail.com>
+	<CAKggD2Q730TUO93C__2Pvp5s62KJ8zKrSOL0cJXfZzCbSGtn-w@mail.gmail.com>
+	<4337b94ed53e36fb79ef899bd9f65a02@mail.gmail.com>	<CAKggD2SVLrH8JF6esR3UT4mfGrBJfkYmeZF84vbTxSGu3P6D5w@mail.gmail.com>
+	<CAKggD2QNQFZpWd4t3eXN_Zy5Wnm5Vp-OOi8QLCC3XGPSdvKPEA@mail.gmail.com>
+	<CAKggD2RzZR=Jh3JhPE4oDhQRjzbQ6MTUp-+bCAa8A_jzVZVGKw@mail.gmail.com>
+	<900f958f7ac3554223101e876a419764@mail.gmail.com>	<CAKggD2SFee=PAuHY3DDYq3wZJw2j_DA4xe9d4fG5Qgi1F8qVXA@mail.gmail.com>
+	<80d0fc39dd0d8bdef7e5285baf380421@mail.gmail.com>	<CAKggD2RVMq44O=+zTWuHjpT+=cqtcMuY7p5V7vf_ifPdMzvH+A@mail.gmail.com>
+	<71bdde1ae093ed8f4f2e22abbf03cf64@mail.gmail.com>	<CAKggD2QtTX-ukFV6s_tumh6vijjDAHkxDoyHTPwW=qAKzvFEuw@mail.gmail.com>
+	<6241a71eea762ea6d21af33aa5f2927d@mail.gmail.com>	<CAKggD2SzBJPtG7mvaRj97mAwgWY174w=oDRBiNwfSf0zCOQDmA@mail.gmail.com>
+	<CAKggD2RuxO=Dx4Cz=20yNHfnKzWU6Kotk=BG3FLbcYifuJtF+Q@mail.gmail.com>
+	<CAKggD2TzDj=JzN-jM9HdvJSy8j2g3tNahYL7b-+xhm3Zg+GuOg@mail.gmail.com>	<
+ c4d6cb999e4d4b7d33c22eb28448d7cb@mail.gmail.com> <CAKggD2R5C3bE5SBNG7QowZ7tRuCDTDPmh-gBGYd5f5Q_vX+QJw@mail.gmail.com>
+In-Reply-To: <CAKggD2R5C3bE5SBNG7QowZ7tRuCDTDPmh-gBGYd5f5Q_vX+QJw@mail.gmail.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKmW/WS05ittnz6qvu9e8ApJU8H/gIvqONcAlamJNYAvEEtNQHn0h9DAX8R1pECaj2k0QIY3LN0AMdWgVYCcY6qDgId8UxAAfSEUUMCLUv4nwI9Y70MAY4MGUUBihBmbwICCFhVAcz4acsBcuKJ4AI4SBVWAugfIzACOvBwOQHtCAw2AtvVxdEBqQMG1gJ/HVHUAudC2+QCKfyUMgElkuaBAT8raV4CBaz94QLEtPzIAp3nx30Bvup63ZklDyfw
+Date: Thu, 5 Feb 2015 16:45:50 -0300
+Message-ID: <0ec7fce9128af07e2b128f139e00ea03@mail.gmail.com>
+Subject: RE: Canterbury pasos a seguir
+To: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+Content-Type: multipart/mixed; boundary=20cf3033485b32a8cb050e5c8d54
+
+--20cf3033485b32a8cb050e5c8d54
+Content-Type: multipart/related; boundary=20cf3033485b32a8ca050e5c8d53
+
+--20cf3033485b32a8ca050e5c8d53
+Content-Type: multipart/alternative; boundary=20cf3033485b32a8c7050e5c8d52
+
+--20cf3033485b32a8c7050e5c8d52
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Andr=C3=A9s;
+
+
+
+El error estaba en la pre-distribuci=C3=B3n, no en las =C3=B3rdenes de comp=
+ra. Hab=C3=ADa
+dejado los c=C3=B3digos como originalmente ven=C3=ADan y no hab=C3=ADa pues=
+to los nuevos
+c=C3=B3digos del casco y zapato que te hab=C3=ADa pedido para diferenciarlo=
+s.
+
+
+
+Las OC est=C3=A1n bien las que te mand=C3=A9, las revis=C3=A9, s=C3=B3lo te=
+ reenv=C3=ADo la
+pre-distribuci=C3=B3n.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+*Enviado el:* jueves, 05 de febrero de 2015 12:06
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Disculpa si, para el caso de los cascos ser=C3=ADan:
+
+
+
+Z011060 Adult.
+
+Z011063 Kids.
+
+El jueves, 5 de febrero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Andr=C3=A9s;
+
+
+
+Los c=C3=B3digos que me se=C3=B1alas vienen con 6 cifras, sin embargo la pl=
+anilla
+inicial que me mandaste para todos los estilos tra=C3=ADan 7. Por favor se=
+=C3=B1=C3=A1lame
+si son 6 o 7, ya que de ser 6 estar=C3=ADan todos los c=C3=B3digos errados.
+
+
+
+Por ejemplo ahora me dices que este estilo era:
+
+
+
+-          OC  (CLUB PLUS HEADGUARD - KIDS) Estilo *Z01160*
+
+
+
+Pero en la planilla inicial ven=C3=ADa: *Z011060*
+
+
+
+Quedo atento a tus comentarios,
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<javascript:_e(%7B%7D,'cvml','amorales@cccchile.cl');>]
+*Enviado el:* lunes, 02 de febrero de 2015 18:50
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Ok, igual te pido ayuda con la agenda para.no perder.la hora.
+
+
+
+Te encargo lo otro
+
+
+
+Sls
+
+El lunes, 2 de febrero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Si, lamentablemente es necesario volver a crear los estilos y hacer de
+nuevo la OC. Me tomar=C3=A1 un poco. Espero envi=C3=A1rtela nuevamente de a=
+qu=C3=AD al
+mi=C3=A9rcoles ya que ma=C3=B1ana voy de viaje a Concepci=C3=B3n en visita =
+a tiendas.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* lunes, 02 de febrero de 2015 18:24
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Te comento que la hora para entregar ya la pedimos el viernes pasado.
+Espero tener respuesta lo antes posible. (Ajunto detalle)
+
+
+
+Favor f=C3=ADjate que hay un peque=C3=B1o cambio.
+
+
+
+OC  (CLUB PLUS HEADGUARD - KIDS) Estilo Z01160 y debe decir Z01163
+
+OC  (STAMPEDE CLUB 8 STUD) Estilo E22289 y debe decir E22323.
+
+
+
+Cantidades
+
+CHALLENGE HOOPED RUGBY Azul/Blanco vamos a despachar 1 menos al CD (error
+de stock del sistema).
+
+CATALAST SENIOR RUGBY MATCH BALL vamos a despachar 4 menos al CD. (error de
+stock del sistema)
+
+
+
+Cuentame si es necesario corregir la OC.
+
+
+
+Te recuerdo enviarme los artes para poder armar la campa=C3=B1a-
+
+
+
+sls.
+
+
+
+
+
+
+
+El 30 de enero de 2015, 15:35, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Ok excelente, me voy a poner en contacto con el =C3=A1rea de visual e inter=
+net
+para ver si tienen material del que necesitas.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 30 de enero de 2015 15:31
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+Estamos armando una campa=C3=B1a y queros hacer el llamado hacias tus tiend=
+as.
+
+Me podras compartir material que puedas, logos imagenes de algunas tuendas
+por fuera, fotos. Lo armamos y te los presentamos para que ustedes aprueben
+
+
+
+
+
+Miles de gracias por la ayuda.
+
+
+
+Sks
+
+El mi=C3=A9rcoles, 28 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Ok Andres, te confirmo lo de la reuni=C3=B3n.
+
+
+
+Respecto a los despachos, apenas tengan listo los bultos y todo eso pidan
+lo antes posible hora con nuestra bodega, porque la agenda est=C3=A1 bien
+complicada (muchas recepciones) y est=C3=A1n dando horas para m=C3=A1s dela=
+nte de lo
+normal, hay atrasos importantes con otros proveedores en ese sentido. Los
+protectores bucales m=C3=A1ndalos cuando te lleguen nom=C3=A1s, ojal=C3=A1 =
+no sea tanta la
+demora.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* mi=C3=A9rcoles, 28 de enero de 2015 18:35
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+OK, Perfecto. Buen=C3=ADsimo.
+
+Te pido que me avises si cuando creas posible hacer la reuni=C3=B3n para
+mostrarte las ideas de exhibiciones que tenemos, seguro les van a gustar.
+
+Te parece que coordine el despacho de la colecci=C3=B3n para la pr=C3=B3xim=
+a semana?
+y los protectores para 3ra o 4ta semana? (todav=C3=ADa no me llegan todos)
+
+
+
+Conf=C3=ADrmame.
+
+
+
+Saludos,
+
+
+
+Andr=C3=A9s.
+
+
+
+El 28 de enero de 2015, 16:36, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Andr=C3=A9s;
+
+
+
+Te hago env=C3=ADo de las OC separadas en primer lugar entre toda la colecc=
+i=C3=B3n y
+los protectores bucales tal como me pediste, y en segundo lugar separadas
+por lo que va con pre-distribuci=C3=B3n a tiendas y lo que va a reposici=C3=
+=B3n en
+bodega. El archivo de pre-distribuci=C3=B3n va en formato Excel y es uno so=
+lo
+para todo.
+
+
+
+Te comento que en general la colecci=C3=B3n va a 9 tiendas (2 m=C3=A1s de l=
+as que
+hab=C3=ADamos hablado), pero hay productos como pelotas o protectores bucal=
+es
+que van a 12 tiendas; asique la marca tendr=C3=A1 buena presencia y visibil=
+idad
+en la cadena.
+
+
+
+Quedo atento a cualquier duda o comentario.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* German Angellotti [mailto:german.angellotti@equitybr.com
+<german.angellotti@equitybr.com>]
+*Enviado el:* mi=C3=A9rcoles, 28 de enero de 2015 12:03
+*Para:* 'Andr=C3=A9s Morales (CCC-CHILE)'
+*Asunto:* RE: Canterbury pasos a seguir
+
+
+
+Gracias por los c=C3=B3digos. Creo que si te puedo dejar mandado todo hoy.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* mi=C3=A9rcoles, 28 de enero de 2015 8:22
+
+
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Avisame lo de la reuni=C3=B3n, lo que te vamos a mostrar seguro va a ser
+distinto. Como se llama tu jefe nuevo? Ya no es oscar?
+
+
+
+Con lo del codigo, te los corrijo.
+
+Kid: Z011063
+
+Adult: Z011060
+
+
+
+Lo =C3=BAltimo, crees que puedas enviarme las OC hoy? Asi dejamos el pedido
+preparado para Feb. La proxima semana ya varios salen de vacaciones.
+
+
+
+Sls
+
+
+
+Andr=C3=A9s
+
+El martes, 27 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Ok, la voy a hacer separada si es que les facilita el trabajo.
+
+
+
+Respecto de la reuni=C3=B3n d=C3=A9jame primero consultar si podemos hacer =
+algo, ya
+que finalmente la gente de visual depende de si nosotros como =C3=A1rea
+comercial les damos el visto bueno, y por otra parte tengo jefe nuevo
+entonces tengo que consultarlo con =C3=A9l tambi=C3=A9n, vuelve el lunes. T=
+e aviso
+para agendar esa reuni=C3=B3n!
+
+
+
+Por otra parte tengo un problema creando los c=C3=B3digos con los cascos, y=
+a que
+el de ni=C3=B1o y adulto tienen el mismo c=C3=B3digo de estilo (Z011060) y =
+topan en
+algunas tallas (adulto es S, M, L, XL y ni=C3=B1o M y L, topar=C3=ADan esta=
+s)
+entonces quer=C3=ADa preguntarte si podemos asignar otro c=C3=B3digo al de =
+ni=C3=B1o o
+asignar tallas equivalente a ni=C3=B1o para M y L.
+
+
+
+Quedo atento.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* martes, 27 de enero de 2015 10:40
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Para nosotros seria ideal, pero si te complica sigamos asi.
+
+Lo otro, es posble que nos juntemos 30 min? Ideal.si puede estar tu
+encargado de trade.o de exhibicion, o si lo defines tu ideal. Tenemos un
+par de ideas que les queremos mostrar, confirmame cuando puede ser posible.
+
+
+
+Mil gracias!
+
+El martes, 27 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Si Andr=C3=A9s, se puede hacer aparte, pero en ese caso son 4 las OC que te
+tendr=C3=ADa que mandar, ya que hay que separar las =C3=B3rdenes en 2 entre=
+ lo que va
+pre-distribuido a tiendas y lo que va a bodega como reposici=C3=B3n.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* martes, 27 de enero de 2015 8:43
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Es posible que ma orden de los protectores la hagas aparte?
+
+
+
+Confirmame,
+
+
+
+gracias...
+
+
+
+El 26 de enero de 2015, 13:19, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Hola German,
+
+
+
+Te adjunto, detalle de los protectores (falt=C3=B3  un EAN en Junior)
+
+
+
+[image: Im=C3=A1genes integradas 1]
+
+
+
+Mil gracias y quedo atento a la OC.
+
+
+
+sls.
+
+
+
+El 23 de enero de 2015, 11:56, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+
+
+Si, ok. Te lo envio.
+
+El viernes, 23 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+
+
+Andr=C3=A9s;
+
+
+
+Gracias por los c=C3=B3digos. Se supone que del Silver adulto me vas a envi=
+ar un
+mix de varios colores? De cual tienes disponibles para crearlos? Dime las
+cantidades por color para poder ponerlos de forma correcta en la OC.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* viernes, 23 de enero de 2015 11:19
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+Hola German,
+
+
+
+Adjunto EAN.
+
+
+
+Silver
+
+black/yellow
+
+843486001365
+
+blue/yellow
+
+843486001372
+
+green/yellow
+
+843486000832
+
+red/yellow
+
+843486001402
+
+white/yellow
+
+843486001419
+
+Junior
+
+blue/orange
+
+843486001433
+
+yellow/orange
+
+843486001426
+
+
+
+El 22 de enero de 2015, 20:19, Andr=C3=A9s Morales (CCC-CHILE) <
+amorales@cccchile.cl> escribi=C3=B3:
+
+Ok, te.lo mando hoy o ma=C3=B1ana am.
+
+Sls
+
+
+
+El jueves, 22 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Gracias por la aclaraci=C3=B3n.
+
+
+
+Me puedes mandar los c=C3=B3digos de barra de los protectores bucales por f=
+avor?
+Solo me estar=C3=ADa faltando eso, tengo el resto casi listo.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+Av. Kennedy 5454, of. 1103
+Vitacura, Santiago
+
+
+
+
+
+
+
+*De:* Andr=C3=A9s Morales (CCC-CHILE) [mailto:amorales@cccchile.cl
+<amorales@cccchile.cl>]
+*Enviado el:* jueves, 22 de enero de 2015 17:27
+*Para:* German Angellotti
+*Asunto:* Re: Canterbury pasos a seguir
+
+
+
+La planilla tiene un error. Son talla M y L de ni=C3=B1o.
+
+Los EAN estan clrrectos
+
+
+
+
+
+El jueves, 22 de enero de 2015, German Angellotti <
+german.angellotti@equitybr.com> escribi=C3=B3:
+
+Hola Andr=C3=A9s, una pregunta: EN la planilla el casco de ni=C3=B1o no tra=
+e el tipo
+de talla en que podemos cargar, esas 15 unidades por talla son en S y M o
+en otro tallaje?
+
+
+
+Quedo atento
+
+
+
+Saludos!
+
+
+
+*De:* German Angellotti [mailto:german.angellotti@equitybr.com
+<german.angellotti@equitybr.com>]
+*Enviado el:* mi=C3=A9rcoles, 21 de enero de 2015 12:21
+*Para:* 'Andr=C3=A9s Morales (CCC-CHILE)'
+*Asunto:* RE: Canterbury pasos a seguir
+
+
+
+No creo que vaya a reemplazar La Dehesa, es una buena plaza. Lo de Temuco
+voy a verlo cuando haga la pre-distribuci=C3=B3n, es probable que si la
+considere. Tiendas de sur poniente de Santiago puede ser que le mandemos
+algunos art=C3=ADculos tambi=C3=A9n.
+
+
+
+Saludos
+
+
+
+
+*Germ=C3=A1n Angellotti*Comprador F=C3=BAtbol/Team Sports
+Equity Brands & Retail
+F: +56228287751
+
+--20cf3033485b32a8c7050e5c8d52
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered m=
+edium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-language:ES-CL;}
+span.EstiloCorreo20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3D"ES-CL" link=3D"blue" vlink=3D"purple"><div =
+class=3D"WordSection1"><p class=3D"MsoNormal"><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Andr=C3=A9s;</sp=
+an></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"Mso=
+Normal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;">El error estaba en la pre-distribuci=C3=B3n, no en las=
+ =C3=B3rdenes de compra. Hab=C3=ADa dejado los c=C3=B3digos como originalme=
+nte ven=C3=ADan y no hab=C3=ADa puesto los nuevos c=C3=B3digos del casco y =
+zapato que te hab=C3=ADa pedido para diferenciarlos.</span></p><p class=3D"=
+MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+">Las OC est=C3=A1n bien las que te mand=C3=A9, las revis=C3=A9, s=C3=B3lo =
+te reenv=C3=ADo la pre-distribuci=C3=B3n.</span></p><p class=3D"MsoNormal">=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-=
+serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal"><span style=3D"font-si=
+ze:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</=
+span></p><p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p=
+><p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=
+=C3=A1n Angellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+Comprador F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: +5622=
+8287751 </span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d"></span></p><p clas=
+s=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vi=
+tacura, Santiago</span><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d"></span></p><p class=3D"Ms=
+oNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal"=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;;color:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal"><b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;fon=
+t-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (C=
+CC-CHILE) [mailto:<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile=
+.cl</a>] <br><b>Enviado el:</b> jueves, 05 de febrero de 2015 12:06<br><b>P=
+ara:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir<=
+/span></p><p class=3D"MsoNormal">=C2=A0</p><p class=3D"MsoNormal">Hola Germ=
+an,</p><div><p class=3D"MsoNormal">=C2=A0</p></div><div><p class=3D"MsoNorm=
+al">Disculpa si, para el caso de los cascos ser=C3=ADan:</p></div><div><p c=
+lass=3D"MsoNormal">=C2=A0</p></div><div><p class=3D"MsoNormal">Z011060 Adul=
+t.</p></div><div><p class=3D"MsoNormal">Z011063 Kids.<br><br>El jueves, 5 d=
+e febrero de 2015, German Angellotti &lt;<a href=3D"mailto:german.angellott=
+i@equitybr.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><d=
+iv><div><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;">Andr=C3=A9s;</span></p><p=
+ class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNor=
+mal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;">Los c=C3=B3digos que me se=C3=B1alas vienen con 6 c=
+ifras, sin embargo la planilla inicial que me mandaste para todos los estil=
+os tra=C3=ADan 7. Por favor se=C3=B1=C3=A1lame si son 6 o 7, ya que de ser =
+6 estar=C3=ADan todos los c=C3=B3digos errados.</span></p><p class=3D"MsoNo=
+rmal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;=
+,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">Por ejemplo ahora me dices que este estilo era:</span></p><p class=
+=3D"MsoNormal" style><span style=3D"font-size:11.0pt;font-family:&quot;Cali=
+bri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span lang=3D"EN-US" =
+style=3D"font-size:11.0pt">-</span><span lang=3D"EN-US" style=3D"font-size:=
+7.0pt">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 </span><span =
+lang=3D"EN-US" style=3D"font-size:11.0pt">OC =C2=A0(CLUB PLUS HEADGUARD - K=
+IDS) Estilo <b>Z01160</b></span></p><p class=3D"MsoNormal" style><span lang=
+=3D"EN-US">=C2=A0</span></p><p class=3D"MsoNormal" style><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Pero =
+en la planilla inicial ven=C3=ADa: <b>Z011060</b></span></p><p class=3D"Mso=
+Normal" style><b><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;">=C2=A0</span></b></p><p class=3D"MsoNormal" s=
+tyle><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;">Quedo atento a tus comentarios,</span></p><p class=3D"Mso=
+Normal" style><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;">=C2=A0</span></p><p class=3D"MsoNormal" style><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;">Saludos</span></p><p class=3D"MsoNormal" style><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">=C2=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"EN=
+-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity=
+ Brands &amp; Retail<br>F: +56228287751 </span></p><p class=3D"MsoNormal" s=
+tyle><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, San=
+tiago</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p class=3D"MsoNormal" style><b><span lang=3D"ES" style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</=
+span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Taho=
+ma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [mailto:<=
+a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;amorales@cccchile.cl&#39=
+;);" target=3D"_blank">amorales@cccchile.cl</a>] <br><b>Enviado el:</b> lun=
+es, 02 de febrero de 2015 18:50<br><b>Para:</b> German Angellotti<br><b>Asu=
+nto:</b> Re: Canterbury pasos a seguir</span></p><p>=C2=A0</p><p>Ok, igual =
+te pido ayuda con la agenda <a href=3D"http://para.no" target=3D"_blank">pa=
+ra.no</a> <a href=3D"http://perder.la" target=3D"_blank">perder.la</a> hora=
+.</p><div><p>=C2=A0</p></div><div><p>Te encargo lo otro</p></div><div><p>=
+=C2=A0</p></div><div><p>Sls<br><br>El lunes, 2 de febrero de 2015, German A=
+ngellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.com">german.ange=
+llotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Si,=
+ lamentablemente es necesario volver a crear los estilos y hacer de nuevo l=
+a OC. Me tomar=C3=A1 un poco. Espero envi=C3=A1rtela nuevamente de aqu=C3=
+=AD al mi=C3=A9rcoles ya que ma=C3=B1ana voy de viaje a Concepci=C3=B3n en =
+visita a tiendas.</span></p><p><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+">Saludos</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><s=
+pan lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot=
+;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></=
+b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Spor=
+ts<br>Equity Brands &amp; Retail<br>F: +56228287751 </span></p><p><span sty=
+le=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></=
+p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">=C2=A0</span></p><p><b><span lang=3D"ES" style=3D"font-size:10.0pt;font=
+-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><span lang=
+=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans=
+-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a href=3D"mailto:amorales@=
+cccchile.cl">mailto:amorales@cccchile.cl</a>] <br><b>Enviado el:</b> lunes,=
+ 02 de febrero de 2015 18:24<br><b>Para:</b> German Angellotti<br><b>Asunto=
+:</b> Re: Canterbury pasos a seguir</span></p><p>=C2=A0</p><div><p>Hola Ger=
+man,</p><div><p>=C2=A0</p></div><div><p>Te comento que la hora para entrega=
+r ya la pedimos el viernes pasado. Espero tener respuesta lo antes posible.=
+ (Ajunto detalle)</p></div><div><p>=C2=A0</p></div><div><p>Favor f=C3=ADjat=
+e que hay un peque=C3=B1o cambio.</p></div><div><p>=C2=A0</p></div><div><p>=
+OC =C2=A0(CLUB PLUS HEADGUARD - KIDS) Estilo Z01160 y debe decir Z01163</p>=
+</div><div><p>OC =C2=A0(STAMPEDE CLUB 8 STUD) Estilo E22289 y debe decir E2=
+2323.</p></div><div><p>=C2=A0</p></div><div><p>Cantidades</p></div><div><p>=
+CHALLENGE HOOPED RUGBY Azul/Blanco vamos a despachar 1 menos al CD (error d=
+e stock del sistema).</p></div><div><p>CATALAST SENIOR RUGBY MATCH BALL vam=
+os a despachar 4 menos al CD. (error de stock del sistema)</p></div><div><p=
+>=C2=A0</p></div><div><p>Cuentame si es necesario corregir la OC.</p></div>=
+<div><p>=C2=A0</p></div><div><p>Te recuerdo enviarme los artes para poder a=
+rmar la campa=C3=B1a-</p></div><div><p>=C2=A0</p></div><div><p>sls.</p></di=
+v><div><p>=C2=A0</p></div><div><p>=C2=A0</p></div></div><div><p>=C2=A0</p><=
+div><p>El 30 de enero de 2015, 15:35, German Angellotti &lt;<a href=3D"mail=
+to:german.angellotti@equitybr.com">german.angellotti@equitybr.com</a>&gt; e=
+scribi=C3=B3:</p><div><div><p><span style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;">Ok excelente, me voy a poner en =
+contacto con el =C3=A1rea de visual e internet para ver si tienen material =
+del que necesitas.</span></p><p><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;">Saludos</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><=
+span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span><=
+/b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Spo=
+rts<br>Equity Brands &amp; Retail<br>F: +56228287751 </span></p><p><span st=
+yle=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&qu=
+ot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span><=
+/p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-si=
+ze:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f4=
+97d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b>=
+<span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,=
+&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:=
+10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s =
+Morales (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorale=
+s@cccchile.cl</a>] <br><b>Enviado el:</b> viernes, 30 de enero de 2015 15:3=
+1</span></p><div><div><p><br><b>Para:</b> German Angellotti<br><b>Asunto:</=
+b> Re: Canterbury pasos a seguir</p></div></div><div><div><p>=C2=A0</p><p>H=
+ola German,</p><div><p>Estamos armando una campa=C3=B1a y queros hacer el l=
+lamado hacias tus tiendas.</p></div><div><p>Me podras compartir material qu=
+e puedas, logos imagenes de algunas tuendas por fuera, fotos. Lo armamos y =
+te los presentamos para que ustedes aprueben</p></div><div><p>=C2=A0</p></d=
+iv><div><p>=C2=A0</p></div><div><p>Miles de gracias por la ayuda.</p></div>=
+<div><p>=C2=A0</p></div><div><p>Sks<br><br>El mi=C3=A9rcoles, 28 de enero d=
+e 2015, German Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.=
+com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p>=
+<span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-=
+serif&quot;">Ok Andres, te confirmo lo de la reuni=C3=B3n.</span></p><p><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&=
+quot;Calibri&quot;,&quot;sans-serif&quot;">Respecto a los despachos, apenas=
+ tengan listo los bultos y todo eso pidan lo antes posible hora con nuestra=
+ bodega, porque la agenda est=C3=A1 bien complicada (muchas recepciones) y =
+est=C3=A1n dando horas para m=C3=A1s delante de lo normal, hay atrasos impo=
+rtantes con otros proveedores en ese sentido. Los protectores bucales m=C3=
+=A1ndalos cuando te lleguen nom=C3=A1s, ojal=C3=A1 no sea tanta la demora.<=
+/span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot=
+;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span></=
+p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=3D"EN-US"=
+ style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif=
+&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=3D"EN=
+-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity Brand=
+s &amp; Retail<br>F: +56228287751 </span></p><p><span style=3D"font-size:10=
+.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span=
+></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=3D"ES"=
+ style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&=
+quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHIL=
+E) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>=
+] <br><b>Enviado el:</b> mi=C3=A9rcoles, 28 de enero de 2015 18:35<br><b>Pa=
+ra:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir</=
+span></p><p>=C2=A0</p><div><p>Hola German,</p><div><p>=C2=A0</p></div><div>=
+<p>OK, Perfecto. Buen=C3=ADsimo.</p></div><div><p>Te pido que me avises si =
+cuando creas posible hacer la reuni=C3=B3n para mostrarte las ideas de exhi=
+biciones que tenemos, seguro les van a gustar.</p></div><div><p>Te parece q=
+ue coordine el despacho de la colecci=C3=B3n para la pr=C3=B3xima semana? y=
+ los protectores para 3ra o 4ta semana? (todav=C3=ADa no me llegan todos)</=
+p></div><div><p>=C2=A0</p></div><div><p>Conf=C3=ADrmame.</p></div><div><p>=
+=C2=A0</p></div><div><p>Saludos,</p></div><div><p>=C2=A0</p></div><div><p>A=
+ndr=C3=A9s.</p></div></div><div><p>=C2=A0</p><div><p>El 28 de enero de 2015=
+, 16:36, German Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr=
+.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;">Andr=C3=A9s;</span></p><p><span style=3D"font-size:11.0pt;fon=
+t-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;">Te hago env=C3=ADo de las OC separadas en primer lugar entre tod=
+a la colecci=C3=B3n y los protectores bucales tal como me pediste, y en seg=
+undo lugar separadas por lo que va con pre-distribuci=C3=B3n a tiendas y lo=
+ que va a reposici=C3=B3n en bodega. El archivo de pre-distribuci=C3=B3n va=
+ en formato Excel y es uno solo para todo.</span></p><p><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0=
+</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;">Te comento que en general la colecci=C3=B3n va a=
+ 9 tiendas (2 m=C3=A1s de las que hab=C3=ADamos hablado), pero hay producto=
+s como pelotas o protectores bucales que van a 12 tiendas; asique la marca =
+tendr=C3=A1 buena presencia y visibilidad en la cadena.</span></p><p><span =
+style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&=
+quot;">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;">Quedo atento a cualquier duda o com=
+entario.</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=3D"font-=
+size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos=
+</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quo=
+t;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=
+=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span =
+lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Eq=
+uity Brands &amp; Retail<br>F: +56228287751 </span></p><p><span style=3D"fo=
+nt-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt=
+;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><div><div styl=
+e=3D"border:none;border-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm">=
+<p><b><span lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&=
+quot;,&quot;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font=
+-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> German=
+ Angellotti [<a href=3D"mailto:german.angellotti@equitybr.com">mailto:germa=
+n.angellotti@equitybr.com</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 28 de=
+ enero de 2015 12:03<br><b>Para:</b> &#39;Andr=C3=A9s Morales (CCC-CHILE)&#=
+39;<br><b>Asunto:</b> RE: Canterbury pasos a seguir</span></p></div></div><=
+p>=C2=A0</p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;">Gracias por los c=C3=B3digos. Creo que si te pu=
+edo dejar mandado todo hoy.</span></p><p><span style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;">Saludos</span></p><p><span style=3D"font-size:11.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></=
+p><p><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br=
+></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol=
+/Team Sports<br>Equity Brands &amp; Retail<br>F: +56228287751 </span></p><p=
+><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans=
+-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiag=
+o</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&qu=
+ot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-fa=
+mily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span=
+></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=3D"ES"=
+ style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&=
+quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHIL=
+E) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a>=
+] <br><b>Enviado el:</b> mi=C3=A9rcoles, 28 de enero de 2015 8:22</span></p=
+><div><div><p><br><b>Para:</b> German Angellotti<br><b>Asunto:</b> Re: Cant=
+erbury pasos a seguir</p></div></div><div><div><p>=C2=A0</p><p>Hola German,=
+</p><div><p>=C2=A0</p></div><div><p>Avisame lo de la reuni=C3=B3n, lo que t=
+e vamos a mostrar seguro va a ser distinto. Como se llama tu jefe nuevo? Ya=
+ no es oscar?</p></div><div><p>=C2=A0</p></div><div><p>Con lo del codigo, t=
+e los corrijo.</p></div><div><p>Kid: Z011063</p></div><div><p>Adult: Z01106=
+0</p></div><div><p>=C2=A0</p></div><div><p>Lo =C3=BAltimo, crees que puedas=
+ enviarme las OC hoy? Asi dejamos el pedido preparado para Feb. La proxima =
+semana ya varios salen de vacaciones.</p></div><div><p>=C2=A0</p></div><div=
+><p>Sls</p></div><div><p>=C2=A0</p></div><div><p>Andr=C3=A9s<br><br>El mart=
+es, 27 de enero de 2015, German Angellotti &lt;<a href=3D"mailto:german.ang=
+ellotti@equitybr.com">german.angellotti@equitybr.com</a>&gt; escribi=C3=B3:=
+</p><div><div><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;">Ok, la voy a hacer separada si es que les fac=
+ilita el trabajo.</span></p><p><span style=3D"font-size:11.0pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;=
+">Respecto de la reuni=C3=B3n d=C3=A9jame primero consultar si podemos hace=
+r algo, ya que finalmente la gente de visual depende de si nosotros como =
+=C3=A1rea comercial les damos el visto bueno, y por otra parte tengo jefe n=
+uevo entonces tengo que consultarlo con =C3=A9l tambi=C3=A9n, vuelve el lun=
+es. Te aviso para agendar esa reuni=C3=B3n!</span></p><p><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=
+=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;">Por otra parte tengo un problema creando los =
+c=C3=B3digos con los cascos, ya que el de ni=C3=B1o y adulto tienen el mism=
+o c=C3=B3digo de estilo (Z011060) y topan en algunas tallas (adulto es S, M=
+, L, XL y ni=C3=B1o M y L, topar=C3=ADan estas) entonces quer=C3=ADa pregun=
+tarte si podemos asignar otro c=C3=B3digo al de ni=C3=B1o o asignar tallas =
+equivalente a ni=C3=B1o para M y L.</span></p><p><span style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span>=
+</p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;">Quedo atento.</span></p><p><span style=3D"font-size:11.=
+0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></=
+p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;=
+sans-serif&quot;">Saludos</span></p><p><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</s=
+pan></p><p><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&q=
+uot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angello=
+tti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-famil=
+y:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=
+=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: +56228287751 </span=
+></p><p><span style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, =
+Santiago</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Cal=
+ibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><span =
+style=3D"font-size:10.0pt;color:black">=C2=A0</span></p><p><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">=C2=A0</span></p><p><b><span lang=3D"ES" style=3D"font-size:10.0=
+pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:</span></b><sp=
+an lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHILE) [<a href=3D"mailto:am=
+orales@cccchile.cl">mailto:amorales@cccchile.cl</a>] <br><b>Enviado el:</b>=
+ martes, 27 de enero de 2015 10:40<br><b>Para:</b> German Angellotti<br><b>=
+Asunto:</b> Re: Canterbury pasos a seguir</span></p><p>=C2=A0</p><p>Para no=
+sotros seria ideal, pero si te complica sigamos asi.</p><div><p>Lo otro, es=
+ posble que nos juntemos 30 min? Ideal.si puede estar tu encargado de trade=
+.o de exhibicion, o si lo defines tu ideal. Tenemos un par de ideas que les=
+ queremos mostrar, confirmame cuando puede ser posible.</p></div><div><p>=
+=C2=A0</p></div><div><p>Mil gracias!<br><br>El martes, 27 de enero de 2015,=
+ German Angellotti &lt;<a href=3D"mailto:german.angellotti@equitybr.com">ge=
+rman.angellotti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p><span s=
+tyle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&q=
+uot;">Si Andr=C3=A9s, se puede hacer aparte, pero en ese caso son 4 las OC =
+que te tendr=C3=ADa que mandar, ya que hay que separar las =C3=B3rdenes en =
+2 entre lo que va pre-distribuido a tiendas y lo que va a bodega como repos=
+ici=C3=B3n.</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;=
+Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=3D"fo=
+nt-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Salu=
+dos</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span la=
+ng=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><spa=
+n lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>=
+Equity Brands &amp; Retail<br>F: +56228287751 </span></p><p><span style=3D"=
+font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;col=
+or:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0=
+pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=
+=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calib=
+ri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span=
+ lang=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot=
+;sans-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0p=
+t;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Moral=
+es (CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@ccc=
+chile.cl</a>] <br><b>Enviado el:</b> martes, 27 de enero de 2015 8:43<br><b=
+>Para:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a segui=
+r</span></p><p>=C2=A0</p><div><p>Hola German,</p><div><p>=C2=A0</p></div><d=
+iv><p>Es posible que ma orden de los protectores la hagas aparte?</p></div>=
+<div><p>=C2=A0</p></div><div><p>Confirmame,</p></div><div><p>=C2=A0</p></di=
+v><div><p>gracias...</p></div></div><div><p>=C2=A0</p><div><p>El 26 de ener=
+o de 2015, 13:19, Andr=C3=A9s Morales (CCC-CHILE) &lt;<a href=3D"mailto:amo=
+rales@cccchile.cl">amorales@cccchile.cl</a>&gt; escribi=C3=B3:</p><div><p>H=
+ola German,</p><div><p>=C2=A0</p></div><div><p>Te adjunto, detalle de los p=
+rotectores (falt=C3=B3 =C2=A0un EAN en Junior)</p></div><div><p>=C2=A0</p><=
+/div><div><p><img border=3D"0" width=3D"297" height=3D"161" id=3D"_x0000_i1=
+025" src=3D"cid:image001.png@01D04163.32D7DE00" alt=3D"Im=C3=A1genes integr=
+adas 1"></p></div><div><p>=C2=A0</p></div><div><p>Mil gracias y quedo atent=
+o a la OC.</p></div><div><p>=C2=A0</p></div><div><p>sls.</p></div></div><di=
+v><p>=C2=A0</p><div><p>El 23 de enero de 2015, 11:56, Andr=C3=A9s Morales (=
+CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl=
+</a>&gt; escribi=C3=B3:</p><div><div><blockquote style=3D"border:none;borde=
+r-left:solid #cccccc 1.0pt;padding:0cm 0cm 0cm 6.0pt;margin-left:4.8pt;marg=
+in-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt"><p>=C2=A0</p><p>Si, ok. =
+Te lo envio.<br><br>El viernes, 23 de enero de 2015, German Angellotti &lt;=
+<a href=3D"mailto:german.angellotti@equitybr.com">german.angellotti@equityb=
+r.com</a>&gt; escribi=C3=B3:</p><div><div><blockquote style=3D"border:none;=
+border-left:solid #cccccc 1.0pt;padding:0cm 0cm 0cm 6.0pt;margin-left:4.8pt=
+;margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt"><p>=C2=A0</p><div><=
+div><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quo=
+t;sans-serif&quot;;color:#1f497d">Andr=C3=A9s;</span></p><p><span style=3D"=
+font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;col=
+or:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Gracias por los =
+c=C3=B3digos. Se supone que del Silver adulto me vas a enviar un mix de var=
+ios colores? De cual tienes disponibles para crearlos? Dime las cantidades =
+por color para poder ponerlos de forma correcta en la OC.</span></p><p><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;=
+font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Salud=
+os</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lan=
+g=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span=
+ lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&=
+quot;sans-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>E=
+quity Brands &amp; Retail<br>F: +56228287751 </span></p><p><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;colo=
+r:#1f497d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span la=
+ng=3D"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sa=
+ns-serif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;f=
+ont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales =
+(CCC-CHILE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchi=
+le.cl</a>] <br><b>Enviado el:</b> viernes, 23 de enero de 2015 11:19<br><b>=
+Para:</b> German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir=
+</span></p><p>=C2=A0</p><div><p>Hola German,</p><div><p>=C2=A0</p></div><di=
+v><p>Adjunto EAN.</p></div><div><p>=C2=A0</p></div><div><table class=3D"Mso=
+NormalTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"321"=
+ style=3D"width:241.0pt;border-collapse:collapse"><tr style=3D"height:21.0p=
+t"><td width=3D"67" style=3D"width:50.0pt;padding:0cm 0cm 0cm 0cm;height:21=
+.0pt"><p>Silver</p></td><td width=3D"144" style=3D"width:108.0pt;padding:0c=
+m 0cm 0cm 0cm;height:21.0pt"><p>black/yellow</p></td><td width=3D"111" styl=
+e=3D"width:83.0pt;padding:0cm 0cm 0cm 0cm;height:21.0pt"><p align=3D"right"=
+ style=3D"text-align:right">843486001365</p></td></tr><tr style=3D"height:2=
+1.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td><td style=
+=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p>blue/yellow</p></td><td style=
+=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p align=3D"right" style=3D"text=
+-align:right">843486001372</p></td></tr><tr style=3D"height:21.0pt"><td sty=
+le=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td><td style=3D"padding:0cm =
+0cm 0cm 0cm;height:21.0pt"><p>green/yellow</p></td><td style=3D"padding:0cm=
+ 0cm 0cm 0cm;height:21.0pt"><p align=3D"right" style=3D"text-align:right">8=
+43486000832</p></td></tr><tr style=3D"height:21.0pt"><td style=3D"padding:0=
+cm 0cm 0cm 0cm;height:21.0pt"></td><td style=3D"padding:0cm 0cm 0cm 0cm;hei=
+ght:21.0pt"><p>red/yellow</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;heig=
+ht:21.0pt"><p align=3D"right" style=3D"text-align:right">843486001402</p></=
+td></tr><tr style=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;he=
+ight:21.0pt"></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p>wh=
+ite/yellow</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p a=
+lign=3D"right" style=3D"text-align:right">843486001419</p></td></tr><tr sty=
+le=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p=
+>Junior</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p>blue=
+/orange</p></td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p alig=
+n=3D"right" style=3D"text-align:right">843486001433</p></td></tr><tr style=
+=3D"height:21.0pt"><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"></td=
+><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p>yellow/orange</p></=
+td><td style=3D"padding:0cm 0cm 0cm 0cm;height:21.0pt"><p align=3D"right" s=
+tyle=3D"text-align:right">843486001426</p></td></tr></table></div></div><di=
+v><p>=C2=A0</p><div><p>El 22 de enero de 2015, 20:19, Andr=C3=A9s Morales (=
+CCC-CHILE) &lt;<a href=3D"mailto:amorales@cccchile.cl">amorales@cccchile.cl=
+</a>&gt; escribi=C3=B3:</p><p>Ok, te.lo mando hoy o ma=C3=B1ana am.</p><div=
+><p>Sls</p><div><div><p><br><br>El jueves, 22 de enero de 2015, German Ange=
+llotti &lt;<a href=3D"mailto:german.angellotti@equitybr.com">german.angello=
+tti@equitybr.com</a>&gt; escribi=C3=B3:</p><div><div><p><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Gracia=
+s por la aclaraci=C3=B3n.</span></p><p><span style=3D"font-size:11.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-ser=
+if&quot;">Me puedes mandar los c=C3=B3digos de barra de los protectores buc=
+ales por favor? Solo me estar=C3=ADa faltando eso, tengo el resto casi list=
+o.</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;">=C2=A0</span></p><p><span style=3D"font-size:1=
+1.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">Saludos</span=
+></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=3D"EN-=
+US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Germ=C3=A1n Angellotti<br></span></b><span lang=3D=
+"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;san=
+s-serif&quot;;color:#1f497d">Comprador F=C3=BAtbol/Team Sports<br>Equity Br=
+ands &amp; Retail<br>F: +56228287751 </span></p><p><span style=3D"font-size=
+:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497=
+d">Av. Kennedy 5454, of. 1103<br>Vitacura, Santiago</span></p><p><span styl=
+e=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1f497d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-f=
+amily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</spa=
+n></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><b><span lang=3D"ES=
+" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif=
+&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Andr=C3=A9s Morales (CCC-CHI=
+LE) [<a href=3D"mailto:amorales@cccchile.cl">mailto:amorales@cccchile.cl</a=
+>] <br><b>Enviado el:</b> jueves, 22 de enero de 2015 17:27<br><b>Para:</b>=
+ German Angellotti<br><b>Asunto:</b> Re: Canterbury pasos a seguir</span></=
+p><p>=C2=A0</p><p>La planilla tiene un error. Son talla M y L de ni=C3=B1o.=
+</p><div><p>Los EAN estan clrrectos</p></div><div><p>=C2=A0</p></div><div><=
+p><br><br>El jueves, 22 de enero de 2015, German Angellotti &lt;<a href=3D"=
+mailto:german.angellotti@equitybr.com">german.angellotti@equitybr.com</a>&g=
+t; escribi=C3=B3:</p><div><div><p><span style=3D"font-size:11.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Hola Andr=C3=
+=A9s, una pregunta: EN la planilla el casco de ni=C3=B1o no trae el tipo de=
+ talla en que podemos cargar, esas 15 unidades por talla son en S y M o en =
+otro tallaje?</span></p><p><span style=3D"font-size:11.0pt;font-family:&quo=
+t;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=A0</span></p><p><=
+span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-s=
+erif&quot;;color:#1f497d">Quedo atento</span></p><p><span style=3D"font-siz=
+e:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f49=
+7d">=C2=A0</span></p><p><span style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Saludos!</span></p><p><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">=C2=A0</span></p><div><div style=3D"border:none;bo=
+rder-top:solid #b5c4df 1.0pt;padding:3.0pt 0cm 0cm 0cm"><p><b><span lang=3D=
+"ES" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;">De:</span></b><span lang=3D"ES" style=3D"font-size:10.0pt;font-f=
+amily:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> German Angellotti [<a hre=
+f=3D"mailto:german.angellotti@equitybr.com">mailto:german.angellotti@equity=
+br.com</a>] <br><b>Enviado el:</b> mi=C3=A9rcoles, 21 de enero de 2015 12:2=
+1<br><b>Para:</b> &#39;Andr=C3=A9s Morales (CCC-CHILE)&#39;<br><b>Asunto:</=
+b> RE: Canterbury pasos a seguir</span></p></div></div><p>=C2=A0</p><p><spa=
+n style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-seri=
+f&quot;">No creo que vaya a reemplazar La Dehesa, es una buena plaza. Lo de=
+ Temuco voy a verlo cuando haga la pre-distribuci=C3=B3n, es probable que s=
+i la considere. Tiendas de sur poniente de Santiago puede ser que le mandem=
+os algunos art=C3=ADculos tambi=C3=A9n.</span></p><p><span style=3D"font-si=
+ze:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">=C2=A0</s=
+pan></p><p><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,=
+&quot;sans-serif&quot;">Saludos</span></p><p><span style=3D"font-size:11.0p=
+t;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">=C2=
+=A0</span></p><p><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Germ=C3=A1n A=
+ngellotti<br></span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font=
+-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1f497d">Comprador=
+ F=C3=BAtbol/Team Sports<br>Equity Brands &amp; Retail<br>F: +56228287751 <=
+/span></p></div></div></div></div></div></div></div></div></div></div></div=
+></div></blockquote></div></div></blockquote></div></div></div></div></div>=
+</div></div></div></div></div></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div></div></div></body></html>
+
+--20cf3033485b32a8c7050e5c8d52--
+--20cf3033485b32a8ca050e5c8d53
+Content-Type: image/png; name="image001.png"
+Content-Disposition: inline; filename="image001.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image001.png@01D04163.32D7DE00>
+X-Attachment-Id: 25a3cecf7d0c8791_0.0.1
+
+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
+--20cf3033485b32a8ca050e5c8d53--
+--20cf3033485b32a8cb050e5c8d54
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet; 
+	name="=?UTF-8?B?RGlzdHJpYnVjacOzbiBUaWVuZGFzIENhbnRlcmJ1cnkgUTEnMTUgKDIzLTAxLScxNSkgKEZpbmFsKQ==?=
+	=?UTF-8?B?Lnhsc3g=?="
+Content-Disposition: attachment; 
+	filename="=?UTF-8?B?RGlzdHJpYnVjacOzbiBUaWVuZGFzIENhbnRlcmJ1cnkgUTEnMTUgKDIzLTAxLScxNSkgKEZpbmFsKQ==?=
+	=?UTF-8?B?Lnhsc3g=?="
+Content-Transfer-Encoding: base64
+X-Attachment-Id: 25a3cecf7d0c8791_0.1
+
+UEsDBBQABgAIAAAAIQB0NlqmfwEAAIQFAAATAAgCW0NvbnRlbnRfVHlwZXNdLnhtbCCiBAIooAAC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACs
+lE1uwjAQhfeVeofI24oYuqiqisCCtssWCXoAYw/EwrEtz0Dh9p2EH1WIEqGySZQ48773nPH0h5vK
+ZWtIaIMvRC/vigy8Dsb6RSG+pu+dZ5EhKW+UCx4KsQUUw8H9XX+6jYAZV3ssREkUX6REXUKlMA8R
+PK/MQ6oU8WNayKj0Ui1APna7T1IHT+CpQ7WGGPRfYa5WjrK3Db/eOZlZL7LR7rsaVQgVo7NaERuV
+a29OIJ0wn1sNJuhVxdI5xgTKYAlAlctjskxMEyDiYCjkWWYCh9dB96lyrmyMYWkjPnD0Pwj1yt+p
+9nWf/DuSNZCNVaIPVXF2uXHyO6TlLIRlflnk2q1ptiivlPUH3xf4zccom1vvxkbqfI1wiw/iHgPZ
+XP9voZFpASJtHeCN0+5E28ilSmAmxN27uLmB39otPrRyelRyi9x4E466l/h8pMcpROSpkeB6A4cj
+Wld3IgtBIgvHQ3qu2Y9EHjnXA08GEdQzzYA5w5bNDB38AAAA//8DAFBLAwQUAAYACAAAACEAtVUw
+I/UAAABMAgAACwAIAl9yZWxzLy5yZWxzIKIEAiigAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIySz07DMAzG70i8Q+T76m5ICKGlu0xIuyFU
+HsAk7h+1jaMkQPf2hAOCSmPb0fbnzz9b3u7maVQfHGIvTsO6KEGxM2J712p4rZ9WD6BiImdpFMca
+jhxhV93ebF94pJSbYtf7qLKLixq6lPwjYjQdTxQL8exypZEwUcphaNGTGahl3JTlPYa/HlAtPNXB
+aggHeweqPvo8+bK3NE1veC/mfWKXToxAnhM7y3blQ2YLqc/bqJpCy0mDFfOc0xHJ+yJjA54m2lxP
+9P+2OHEiS4nQSODzPN+Kc0Dr64Eun2ip+L3OPOKnhOFNZPhhwcUPVF8AAAD//wMAUEsDBBQABgAI
+AAAAIQCSB5TsBAEAAD8DAAAaAAgBeGwvX3JlbHMvd29ya2Jvb2sueG1sLnJlbHMgogQBKKAAAQAA
+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
+37Pv4j8V91/u3j/cP95/fOqRu5c20GqdZy9nL8nTmx8/3FENTLO/eDh/fH2RDV5lx1ly8fLNj0UL
+/fXu/Mej9/nF0+0v+fnz+f3T+QN11MWL/7u//5K/vzXBTajXyv/uTIt/tommk365v/+ncbaibH0q
+97FwYsq9ff909/v56vyZrC/HQ+ro/y1CMZ8pjJdlHP5njult0bH7hxe/3D6er+4/n+4+PH2iwCiU
+D+ePt799fvr5/o/l+e7XT0+UOqamMy346sO/5+fH99R1FEwvGZty3t9/Jqf074svd4aD1PS3/yr+
+/mF9joe96Xg8SqcTcvP49G9T5UFy8eL9b49P91+4YLiyTggtnNBfOEmmvcGon1KR7GKieqDmKDzQ
+X3hIe8l0PBi3dzGCC/oLF4NpbzzpDwcmCiV6Qouy6S9n9AtXcqbISX8556Q3GfRnQ9N2SkZqjKJI
++ssZh2WDKfloeCjy0V/ON3B15M6iRvzl/Pj09s5wQY1jBn/0l/1RXVpmNuQrojEfkH3SGyXjybRo
+coQzIlSp0qBkIH3QvbSNi+loWKt71OJiSg4cJ2tq1zYuZujAUbTGoxYX09WoHLWbVrXS1OpM3YHj
+rkfdll3HNB44PtZUqG0TMSEHjpE1HpUmSpiY5gM3UTkQNbRMwnxMGtnTslIJM8mMQ8/mY8I9Zj6U
+XiojdVPtuMuS/1SXJdxl5gM3djmWtSPSkDts+J8aA4Y8BpgPZWt1HZuG3HPD/1RrDbm1zIdnx2U6
+uRh5R/+p9hpxe5kPZVzlVNauG0fcXOZD6aRro494mDQfdC8tBTjiIdN8gMdB303UXu3aemQZjbwZ
+fOStm9r6IV7ZjnQEMwNQ2+zMppFj02DcOoyXdi1YLDznt0+3b358uP/jBW0MKILHb7dmmzF4ZWpo
+FpXJuEetZ0fdcqFZt86kBabx89OgWCaaj2v3ceM+bt3Hnfv4zn3cu48H9/Fn9zF3H2/cx6P7+Ff3
+8eQ+/s19/Lv7+A/3Mcu8z5fe5yvv89z7vPA+v/U+X3ufl97nlffZa6fMa6jMa6nMa6rMa6vMa6zM
+a63Ma67Ma6/MNthL6umyu0nyle4eTGlh2dC9mclIHCG6EEEeabfz+5vZjy9/pw3MezDgEiY0YJUm
+aWhyFTHphyZza0IaKZ2MQ4tF1WIUWrytWkxDi+uqxSS0WFYtktBiZS1IjmWkw9DiJ2thlialyUDY
+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
+bFBLAQItABQABgAIAAAAIQDdsgnLSAQAAIEMAAAUAAAAAAAAAAAAAAAAAKwKAAB4bC9zaGFyZWRT
+dHJpbmdzLnhtbFBLAQItABQABgAIAAAAIQA7bTJLwQAAAEIBAAAjAAAAAAAAAAAAAAAAACYPAAB4
+bC93b3Jrc2hlZXRzL19yZWxzL3NoZWV0MS54bWwucmVsc1BLAQItABQABgAIAAAAIQAttqa1lwYA
+AKkbAAATAAAAAAAAAAAAAAAAACgQAAB4bC90aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAh
+AJMyeLmgBwAAhDkAAA0AAAAAAAAAAAAAAAAA8BYAAHhsL3N0eWxlcy54bWxQSwECLQAUAAYACAAA
+ACEANy+yeL4nAACh4wAAGAAAAAAAAAAAAAAAAAC7HgAAeGwvd29ya3NoZWV0cy9zaGVldDEueG1s
+UEsBAi0AFAAGAAgAAAAhAIjuRkZiAQAAcAIAABEAAAAAAAAAAAAAAAAAr0YAAGRvY1Byb3BzL2Nv
+cmUueG1sUEsBAi0AFAAGAAgAAAAhAMJ5Rl2WAgAAug4AABAAAAAAAAAAAAAAAAAASEkAAHhsL2Nh
+bGNDaGFpbi54bWxQSwECLQAUAAYACAAAACEABsPj9E4FAABAIgAAJwAAAAAAAAAAAAAAAAAMTAAA
+eGwvcHJpbnRlclNldHRpbmdzL3ByaW50ZXJTZXR0aW5nczEuYmluUEsBAi0AFAAGAAgAAAAhADtm
+6jKtAQAAMwMAABAAAAAAAAAAAAAAAAAAn1EAAGRvY1Byb3BzL2FwcC54bWxQSwUGAAAAAA0ADQBk
+AwAAglQAAAAA
+--20cf3033485b32a8cb050e5c8d54--

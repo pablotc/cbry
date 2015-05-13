@@ -1,0 +1,233 @@
+Return-path: <virigoyen@viaglobal.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 27 Jan 2015 13:06:41 -0600
+Received: from mail-qc0-f173.google.com ([209.85.216.173]:41268)
+	by gator3101.hostgator.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <virigoyen@viaglobal.cl>)
+	id 1YGBTC-0005lp-N0
+	for amorales@cccchile.cl; Tue, 27 Jan 2015 13:06:38 -0600
+Received: by mail-qc0-f173.google.com with SMTP id m20so13483808qcx.4
+        for <amorales@cccchile.cl>; Tue, 27 Jan 2015 11:06:32 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:references:mime-version:in-reply-to:content-type
+         :content-transfer-encoding:message-id:cc:from:subject:date:to;
+        bh=jh4/GId178sn+Nvc69qMwlN6j54e4wtURi4mgdruD+Y=;
+        b=E4CUt8PzJNWtNHUe3xdEe5qgQumtbQ+lxse8YiqQkOEz6Oew9zOZh/iqR5bYcNX4Uc
+         I02o4lSjfQn98j/3iBm2oEKtq2gkeYUyTOkKEsxyYw9KgAESWQahgSxSOLvE+zMYGW/y
+         IJw0SmvjruRMHEavjTfNRDltOg6ImSD5pErUYVarpSxjt36hwgwVv+wTJVAQsIQmVfk1
+         YNwfO4YGpwsXbgrlLNymPmGJnBNrS/IkRRiwiZhnPu4Jjsip8ZvMwdAaz4ISx6t+twrO
+         DKso8O7dix67ys27ptBm5ailJbiCGuMepH7gDIKIgRDAkN8YHGcxw9/75BkPsbROxlJT
+         dRnw==
+X-Gm-Message-State: ALoCoQmnq+wVeZ/q6hTbRtKy5vtKp3VnpInw48gXmiX5qyjIBHIjIL/UzciSqQM62Olw2GSswE/x
+X-Received: by 10.224.223.197 with SMTP id il5mr4862987qab.5.1422385592467;
+        Tue, 27 Jan 2015 11:06:32 -0800 (PST)
+Received: from [192.168.0.4] ([190.162.163.101])
+        by mx.google.com with ESMTPSA id v15sm1871101qav.11.2015.01.27.11.06.31
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 27 Jan 2015 11:06:31 -0800 (PST)
+References: <y9tocs6unttysxblv94woip1.1416233660561@email.android.com>
+ <CAJbDu1nifmePMq7oY+6vw74p_XMxzZj5a6i+BuoVrb=d-7Htfw@mail.gmail.com>
+ <018201d00798$996a5350$cc3ef9f0$@tell.cl> <CAJbDu1kbKEFgH0ekp-cBCDSYf=1VV-KYXsSCtm+zcW_QtFNGJA@mail.gmail.com>
+ <CAJbDu1nW8A7FDUTB6UsoYGN0VBCBEzLODkahC7mnxdYReoHWNg@mail.gmail.com>
+ <011f01d00e69$fcfe3ee0$f6fabca0$@tell.cl> <CAJbDu1na-TqJ=TH9gRrS9T+LMvtp1n_=mVeafcjtHXrWWzkOwg@mail.gmail.com>
+ <CAJbDu1=pd7P9Yc9z0SifUjXenZONMNs13rRTrb4vPNvFvVFfaQ@mail.gmail.com>
+ <CAJbDu1nyOSRQmesJ_GfO0Je37JzyZoRLrnG-1Wg8rEMdDqJBGA@mail.gmail.com>
+ <001001d01ed7$701f8460$505e8d20$@tell.cl> <CAJbDu1mBftZkpGsWhOH+M5Nfd=tmHNdoXtAAzLc8dBoxQznpUQ@mail.gmail.com>
+ <012c01d01f97$b7007e50$25017af0$@tell.cl> <CAJbDu1kRZz=BhJ40LHUWUsxQn2RrOmkjtmcjYJK7zy-FtF6KfA@mail.gmail.com>
+ <CAJbDu1nH2tCdgvLMHVcq2ijGcbTsdxdGCq7cDJS=2NDwbmj2gg@mail.gmail.com>
+ <CAJbDu1=A2irwNezSD1YKtqG4kdqQHk3zfBLhYuQNGuBKZtyS2Q@mail.gmail.com>
+ <00ff01d03a55$24171cb0$6c455610$@tell.cl> <CAJbDu1k7=TCN39fE=2M+=4EV9u4e+xU3yCw3fWV
+	TOL42dDBA6Q@mail.gmail.com> <048401d03a60$791d5020$6b57f060$@spindeportes.cl>
+Mime-Version: 1.0 (1.0)
+In-Reply-To: <048401d03a60$791d5020$6b57f060$@spindeportes.cl>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-4C086470-4590-4934-82E7-A5382F328466
+Content-Transfer-Encoding: 7bit
+Message-Id: <C0230871-E9E6-4B18-A635-D4F0BA3DD167@viaglobal.cl>
+Cc: =?utf-8?Q?"Andr=C3=A9s_Morales_=28CCC-CHILE=29"?= <amorales@cccchile.cl>
+X-Mailer: iPhone Mail (12B411)
+From: =?utf-8?Q?V=C3=ADctor_Irigoyen?= <virigoyen@viaglobal.cl>
+Subject: Re: SPORTING
+Date: Tue, 27 Jan 2015 16:06:27 -0300
+To: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+
+
+--Apple-Mail-4C086470-4590-4934-82E7-A5382F328466
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ No entiendo tu comentario Guillermo.=20
+
+Te presente la ficha hace mas de 3 meses. he pedido los precios desde noviem=
+bre y estuve la ultima semana pidiendo con urgencia los precios para poder p=
+resentar la cotizaci=C3=B3n. (Muy atrasado)
+
+Estas informado de todo lo que mando.=20
+
+
+
+
+
+
+> El 27-01-2015, a las 15:38, Guillermo Morales - Spin Ltda <gmorales@spinde=
+portes.cl> escribi=C3=B3:
+>=20
+> yo tampoco vi la propuesta de sporting antes de que la enviaran.
+> Victor. Te pedir=C3=ADa que cuando se trata de clubes a los cuales los est=
+amos tratando de tomar por un periodo mas largo , lo que se vaya a proponer s=
+ea de concenso entre los 3. Para eso debes enviarla antes a mi y a Andres.
+> saludos
+> GM
+> =20
+> De: Victor Irigoyen [mailto:virigoyen@viaglobal.cl]=20
+> Enviado el: martes, 27 de enero de 2015 14:26
+> Para: Guillermo Morales M; Andr=C3=A9s Morales (CCC-CHILE)
+> Asunto: Fwd: SPORTING
+> =20
+> Le copio correo de la gente de SPORTING.=20
+> =20
+> =20
+> Hola V=C3=ADctor.
+> =20
+> Si, efectivamente recib=C3=AD tu cotizaci=C3=B3n, y pens=C3=A9 te hab=C3=AD=
+a dado respuesta. Respecto de la misma, convers=C3=A9 el tema en Directorio,=
+ y la verdad estamos muy distantes en valores, entendiendo que tu marca es e=
+spectacular, pero es imposible de financiar por el club. Por lo mismo, hemos=
+ vistos propuesta bastantes m=C3=A1s econ=C3=B3micas, y con dise=C3=B1o pers=
+onalizado. Por lo mismo, agradezco tu tiempo y gesti=C3=B3n, pero por este a=
+=C3=B1o al menos, no trabajaremos con Ustedes.
+> =20
+> Saludos,
+> =20
+> Carlos Varas Marinovic
+> Director
+> Sporting RC
+> =20
+
+--Apple-Mail-4C086470-4590-4934-82E7-A5382F328466
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div>&nbsp;No entiendo tu comentario Guille=
+rmo.&nbsp;</div><div><br></div><div>Te presente la ficha hace mas de 3 meses=
+. he pedido los precios desde noviembre y estuve la ultima semana pidiendo c=
+on urgencia los precios para poder presentar la cotizaci=C3=B3n. (Muy atrasa=
+do)</div><div><br></div><div>Estas informado de todo lo que mando.&nbsp;</di=
+v><div><br></div><div><br><br><br><div><br></div></div><div><br>El 27-01-201=
+5, a las 15:38, Guillermo Morales - Spin Ltda &lt;<a href=3D"mailto:gmorales=
+@spindeportes.cl">gmorales@spindeportes.cl</a>&gt; escribi=C3=B3:<br><br></d=
+iv><blockquote type=3D"cite"><div><meta http-equiv=3D"Content-Type" content=3D=
+"text/html; charset=3Dutf-8"><meta name=3D"Generator" content=3D"Microsoft W=
+ord 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--><div class=3D"WordSection1"><p class=3D"Ms=
+oNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&qu=
+ot;sans-serif&quot;;color:#1F497D">yo tampoco vi la propuesta de sporting an=
+tes de que la enviaran.<o:p></o:p></span></p><p class=3D"MsoNormal"><span st=
+yle=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:#1F497D">Victor. Te pedir=C3=ADa que cuando se trata de clubes a lo=
+s cuales los estamos tratando de tomar por un periodo mas largo , lo que se v=
+aya a proponer sea de concenso entre los 3. Para eso debes enviarla antes a m=
+i y a Andres.<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"fon=
+t-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#=
+1F497D">saludos<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color=
+:#1F497D">GM<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font=
+-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1=
+F497D"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><b><span style=3D"=
+font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;">De:<=
+/span></b><span style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&qu=
+ot;sans-serif&quot;"> Victor Irigoyen [<a href=3D"mailto:virigoyen@viaglobal=
+.cl">mailto:virigoyen@viaglobal.cl</a>] <br><b>Enviado el:</b> martes, 27 de=
+ enero de 2015 14:26<br><b>Para:</b> Guillermo Morales M; Andr=C3=A9s Morale=
+s (CCC-CHILE)<br><b>Asunto:</b> Fwd: SPORTING<o:p></o:p></span></p><p class=3D=
+"MsoNormal"><o:p>&nbsp;</o:p></p><div><p class=3D"MsoNormal">Le copio correo=
+ de la gente de SPORTING.&nbsp;<o:p></o:p></p><div><p class=3D"MsoNormal"><o=
+:p>&nbsp;</o:p></p><div><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><div><di=
+v><p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto"><span lang=3D"ES-CL" style=3D"font-size:11.0pt;font-family:&quot;C=
+alibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Hola V=C3=ADctor.</span><=
+span lang=3D"ES-CL"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"ms=
+o-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang=3D"ES-CL" style=
+=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;=
+color:#1F497D">&nbsp;</span><span lang=3D"ES-CL"><o:p></o:p></span></p><p cl=
+ass=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:aut=
+o"><span lang=3D"ES-CL" style=3D"font-size:11.0pt;font-family:&quot;Calibri&=
+quot;,&quot;sans-serif&quot;;color:#1F497D">Si, efectivamente recib=C3=AD tu=
+ cotizaci=C3=B3n, y pens=C3=A9 te hab=C3=ADa dado respuesta. Respecto de la m=
+isma, convers=C3=A9 el tema en Directorio, y la verdad estamos muy distantes=
+ en valores, entendiendo que tu marca es espectacular, pero es imposible de f=
+inanciar por el club. Por lo mismo, hemos vistos propuesta bastantes m=C3=A1=
+s econ=C3=B3micas, y con dise=C3=B1o personalizado. Por lo mismo, agradezco t=
+u tiempo y gesti=C3=B3n, pero por este a=C3=B1o al menos, no trabajaremos co=
+n Ustedes.</span><span lang=3D"ES-CL"><o:p></o:p></span></p><p class=3D"MsoN=
+ormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span la=
+ng=3D"ES-CL" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:#1F497D">&nbsp;</span><span lang=3D"ES-CL"><o:p></o:=
+p></span></p><p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-mar=
+gin-bottom-alt:auto"><span lang=3D"ES-CL" style=3D"font-size:11.0pt;font-fam=
+ily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Saludos,</span=
+><span lang=3D"ES-CL"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"=
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang=3D"ES-CL" sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot=
+;;color:#1F497D">&nbsp;</span><span lang=3D"ES-CL"><o:p></o:p></span></p><p c=
+lass=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:au=
+to"><span lang=3D"ES-CL" style=3D"font-size:11.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1F497D">Carlos Varas Marinovic</span><s=
+pan lang=3D"ES-CL"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"mso=
+-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span lang=3D"ES-CL" style=3D=
+"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;col=
+or:#1F497D">Director</span><span lang=3D"ES-CL"><o:p></o:p></span></p><p cla=
+ss=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto=
+"><span lang=3D"ES-CL" style=3D"font-size:11.0pt;font-family:&quot;Calibri&q=
+uot;,&quot;sans-serif&quot;;color:#1F497D">Sporting RC</span><span lang=3D"E=
+S-CL"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"mso-margin-top-a=
+lt:auto;mso-margin-bottom-alt:auto"><span lang=3D"ES-CL" style=3D"font-size:=
+11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"=
+>&nbsp;</span><span lang=3D"ES-CL"><o:p></o:p></span></p></div></div></div><=
+/div></div></div></div></blockquote></body></html>=
+
+--Apple-Mail-4C086470-4590-4934-82E7-A5382F328466--

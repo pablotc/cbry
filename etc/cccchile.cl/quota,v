@@ -1,10 +1,25 @@
-head	1.11;
+head	1.14;
 access;
 symbols;
 locks
-	amorales:1.11; strict;
+	amorales:1.14; strict;
 comment	@# @;
 
+
+1.14
+date	2015.05.05.18.38.40;	author amorales;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	2015.05.05.18.38.26;	author amorales;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	2015.04.17.15.54.51;	author amorales;	state Exp;
+branches;
+next	1.11;
 
 1.11
 date	2014.10.09.19.02.29;	author amorales;	state Exp;
@@ -66,7 +81,7 @@ desc
 @@
 
 
-1.11
+1.14
 log
 @"Modified by /usr/local/cpanel/cpanel "
 @
@@ -79,6 +94,35 @@ contacto:524288000
 jjadue:524288000
 admin:524288000
 logistics:524288000
+amorales:1048576000
+@
+
+
+1.13
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
+@
+
+
+1.12
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a8 1
+amorales:524288000
+@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d9 1
 @
 
 

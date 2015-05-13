@@ -1,0 +1,258 @@
+Return-path: <gmorales@spindeportes.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Tue, 27 Jan 2015 12:40:31 -0600
+Received: from mail-bn1bon0084.outbound.protection.outlook.com ([157.56.111.84]:40192 helo=na01-bn1-obe.outbound.protection.outlook.com)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:AES256-SHA256:256)
+	(Exim 4.82)
+	(envelope-from <gmorales@spindeportes.cl>)
+	id 1YGB2N-0002fD-N2
+	for amorales@cccchile.cl; Tue, 27 Jan 2015 12:40:31 -0600
+Received: from GmoralesPC (190.196.25.182) by
+ CY1PR0201MB0986.namprd02.prod.outlook.com (25.161.211.140) with Microsoft
+ SMTP Server (TLS) id 15.1.65.19; Tue, 27 Jan 2015 18:38:41 +0000
+From: Guillermo Morales - Spin Ltda <gmorales@spindeportes.cl>
+To: 'Victor Irigoyen' <virigoyen@viaglobal.cl>
+CC: =?UTF-8?Q?'Andr=C3=A9s_Morales_=28CCC-CHILE=29'?= <amorales@cccchile.cl>
+References: <y9tocs6unttysxblv94woip1.1416233660561@email.android.com>
+	<CAJbDu1nifmePMq7oY+6vw74p_XMxzZj5a6i+BuoVrb=d-7Htfw@mail.gmail.com>
+	<018201d00798$996a5350$cc3ef9f0$@tell.cl>
+	<CAJbDu1kbKEFgH0ekp-cBCDSYf=1VV-KYXsSCtm+zcW_QtFNGJA@mail.gmail.com>
+	<CAJbDu1nW8A7FDUTB6UsoYGN0VBCBEzLODkahC7mnxdYReoHWNg@mail.gmail.com>
+	<011f01d00e69$fcfe3ee0$f6fabca0$@tell.cl>
+	<CAJbDu1na-TqJ=TH9gRrS9T+LMvtp1n_=mVeafcjtHXrWWzkOwg@mail.gmail.com>
+	<CAJbDu1=pd7P9Yc9z0SifUjXenZONMNs13rRTrb4vPNvFvVFfaQ@mail.gmail.com>
+	<CAJbDu1nyOSRQmesJ_GfO0Je37JzyZoRLrnG-1Wg8rEMdDqJBGA@mail.gmail.com>
+	<001001d01ed7$701f8460$505e8d20$@tell.cl>
+	<CAJbDu1mBftZkpGsWhOH+M5Nfd=tmHNdoXtAAzLc8dBoxQznpUQ@mail.gmail.com>
+	<012c01d01f97$b7007e50$25017af0$@tell.cl>
+	<CAJbDu1kRZz=BhJ40LHUWUsxQn2RrOmkjtmcjYJK7zy-FtF6KfA@mail.gmail.com>
+	<CAJbDu1nH2tCdgvLMHVcq2ijGcbTsdxdGCq7cDJS=2NDwbmj2gg@mail.gmail.com>
+	<CAJbDu1=A2irwNezSD1YKtqG4kdqQHk3zfBLhYuQNGuBKZtyS2Q@mail.gmail.com>
+	<00ff01d03a55$24171cb0$6c455610$@tell.cl>
+ <CAJbDu1k7=TCN39fE=2M+=4EV9u4e+xU3yCw3fWV	TOL42dDBA6Q@mail.gmail.com>
+In-Reply-To: <CAJbDu1k7=TCN39fE=2M+=4EV9u4e+xU3yCw3fWVTOL42dDBA6Q@mail.gmail.com>
+Subject: RE: SPORTING
+Date: Tue, 27 Jan 2015 15:38:35 -0300
+Message-ID: <048401d03a60$791d5020$6b57f060$@spindeportes.cl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0485_01D03A47.53D37380"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQMQzA6ovL1U8d+Wm7cN5Wj6FPXtvQIN/cV0AWSp0TwCeYDdhQJbU9cpASRCZvcB8xc1CAEyaU6/AZZCz78Bm/VYHQLdPgmVAVJjZEECWWaMOwEQ2iA6AtrVSSoCbov4hgIbZpzzmV0XO2A=
+Content-Language: es
+X-Originating-IP: [190.196.25.182]
+X-ClientProxiedBy: BLUPR01CA058.prod.exchangelabs.com (25.160.23.48) To
+ CY1PR0201MB0986.namprd02.prod.outlook.com (25.161.211.140)
+Authentication-Results: cccchile.cl; dkim=none (message not signed)
+ header.d=none;cccchile.cl; dmarc=none action=none
+ header.from=spindeportes.cl;
+X-DmarcAction-Test: None
+X-Microsoft-Antispam: UriScan:;
+X-Microsoft-Antispam: BCL:0;PCL:0;RULEID:(3005004);SRVR:CY1PR0201MB0986;
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004);SRVR:CY1PR0201MB0986;
+X-Forefront-PRVS: 046985391D
+X-Forefront-Antispam-Report:
+	SFV:NSPM;SFS:(10009020)(6009001)(122424002)(46816001)(92566002)(512874002)(2950100001)(15975445007)(2656002)(84326002)(110136001)(19300405004)(93886004)(102836002)(19625215002)(122386002)(71636004)(77156002)(221733001)(66066001)(74482002)(46102003)(50986999)(19580395003)(72586001)(42186005)(61296003)(40100003)(16236675004)(36756003)(33646002)(106116001)(86362001)(50226001)(19580405001)(87976001)(76176999)(62966003)(19627235001);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR0201MB0986;H:GmoralesPC;FPR:;SPF:None;MLV:sfv;LANG:es;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:;SRVR:CY1PR0201MB0986;
+X-OriginatorOrg: spindeportes.cl
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 27 Jan 2015 18:38:41.0319 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0201MB0986
+
+------=_NextPart_000_0485_01D03A47.53D37380
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+yo tampoco vi la propuesta de sporting antes de que la enviaran.
+
+Victor. Te pedir=C3=ADa que cuando se trata de clubes a los cuales los =
+estamos tratando de tomar por un periodo mas largo , lo que se vaya a =
+proponer sea de concenso entre los 3. Para eso debes enviarla antes a mi =
+y a Andres.
+
+saludos
+
+GM
+
+=20
+
+De: Victor Irigoyen [mailto:virigoyen@viaglobal.cl]=20
+Enviado el: martes, 27 de enero de 2015 14:26
+Para: Guillermo Morales M; Andr=C3=A9s Morales (CCC-CHILE)
+Asunto: Fwd: SPORTING
+
+=20
+
+Le copio correo de la gente de SPORTING.=20
+
+=20
+
+=20
+
+Hola V=C3=ADctor.
+
+=20
+
+Si, efectivamente recib=C3=AD tu cotizaci=C3=B3n, y pens=C3=A9 te =
+hab=C3=ADa dado respuesta. Respecto de la misma, convers=C3=A9 el tema =
+en Directorio, y la verdad estamos muy distantes en valores, entendiendo =
+que tu marca es espectacular, pero es imposible de financiar por el =
+club. Por lo mismo, hemos vistos propuesta bastantes m=C3=A1s =
+econ=C3=B3micas, y con dise=C3=B1o personalizado. Por lo mismo, =
+agradezco tu tiempo y gesti=C3=B3n, pero por este a=C3=B1o al menos, no =
+trabajaremos con Ustedes.
+
+=20
+
+Saludos,
+
+=20
+
+Carlos Varas Marinovic
+
+Director
+
+Sporting RC
+
+=20
+
+
+------=_NextPart_000_0485_01D03A47.53D37380
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EstiloCorreo17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DES link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>yo tampoco vi la propuesta de sporting antes de que la =
+enviaran.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Victor. Te pedir=C3=ADa que cuando se trata de clubes a los cuales =
+los estamos tratando de tomar por un periodo mas largo , lo que se vaya =
+a proponer sea de concenso entre los 3. Para eso debes enviarla antes a =
+mi y a Andres.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>saludos<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>GM<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>De:</span></=
+b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Victor Irigoyen [mailto:virigoyen@viaglobal.cl] <br><b>Enviado el:</b> =
+martes, 27 de enero de 2015 14:26<br><b>Para:</b> Guillermo Morales M; =
+Andr=C3=A9s Morales (CCC-CHILE)<br><b>Asunto:</b> Fwd: =
+SPORTING<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p class=3DMsoNormal>Le =
+copio correo de la gente de SPORTING.&nbsp;<o:p></o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><div><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hola V=C3=ADctor.</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Si, efectivamente recib=C3=AD tu cotizaci=C3=B3n, y pens=C3=A9 te =
+hab=C3=ADa dado respuesta. Respecto de la misma, convers=C3=A9 el tema =
+en Directorio, y la verdad estamos muy distantes en valores, entendiendo =
+que tu marca es espectacular, pero es imposible de financiar por el =
+club. Por lo mismo, hemos vistos propuesta bastantes m=C3=A1s =
+econ=C3=B3micas, y con dise=C3=B1o personalizado. Por lo mismo, =
+agradezco tu tiempo y gesti=C3=B3n, pero por este a=C3=B1o al menos, no =
+trabajaremos con Ustedes.</span><span =
+lang=3DES-CL><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Saludos,</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Carlos Varas Marinovic</span><span =
+lang=3DES-CL><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Director</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Sporting RC</span><span lang=3DES-CL><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span =
+lang=3DES-CL =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>&nbsp;</span><span =
+lang=3DES-CL><o:p></o:p></span></p></div></div></div></div></div></div></=
+body></html>
+------=_NextPart_000_0485_01D03A47.53D37380--

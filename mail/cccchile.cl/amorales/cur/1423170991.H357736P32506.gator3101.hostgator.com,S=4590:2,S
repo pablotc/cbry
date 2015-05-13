@@ -1,0 +1,106 @@
+Return-path: <>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Thu, 05 Feb 2015 15:16:31 -0600
+Received: from gateway02.websitewelcome.com ([67.18.62.20]:37774)
+	by gator3101.hostgator.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1YJTmp-0008QG-56
+	for amorales@cccchile.cl; Thu, 05 Feb 2015 15:16:31 -0600
+Received: by gateway02.websitewelcome.com (Postfix)
+	id E2668593663A3; Thu,  5 Feb 2015 15:16:28 -0600 (CST)
+Date: Thu,  5 Feb 2015 15:16:28 -0600 (CST)
+From: MAILER-DAEMON@gateway02.websitewelcome.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: amorales@cccchile.cl
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="4F3FA5926F6BE.1423170988/gateway02.websitewelcome.com"
+Message-Id: <20150205211628.E2668593663A3@gateway02.websitewelcome.com>
+
+This is a MIME-encapsulated message.
+
+--4F3FA5926F6BE.1423170988/gateway02.websitewelcome.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host gateway02.websitewelcome.com.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<Rodrigo.Rios@itau.cl>: message size 17893045 exceeds size limit 13631488 of
+    server clstgmxgp01.itau.cl[190.54.36.18]
+
+--4F3FA5926F6BE.1423170988/gateway02.websitewelcome.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; gateway02.websitewelcome.com
+X-Postfix-Queue-ID: 4F3FA5926F6BE
+X-Postfix-Sender: rfc822; amorales@cccchile.cl
+Arrival-Date: Thu,  5 Feb 2015 14:52:58 -0600 (CST)
+
+Final-Recipient: rfc822; Rodrigo.Rios@itau.cl
+Action: failed
+Status: 5.3.4
+Diagnostic-Code: X-Postfix; message size 17893045 exceeds size limit 13631488
+    of server clstgmxgp01.itau.cl[190.54.36.18]
+
+--4F3FA5926F6BE.1423170988/gateway02.websitewelcome.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <amorales@cccchile.cl>
+Received: by gateway02.websitewelcome.com (Postfix, from userid 5007)
+	id 4F3FA5926F6BE; Thu,  5 Feb 2015 14:52:58 -0600 (CST)
+Received: from gator3101.hostgator.com (gator3101.hostgator.com [50.87.144.138])
+	by gateway02.websitewelcome.com (Postfix) with ESMTP id 24B225926BE8A
+	for <Rodrigo.Rios@itau.cl>; Thu,  5 Feb 2015 14:52:34 -0600 (CST)
+Received: from [209.85.212.179] (port=52664 helo=mail-wi0-f179.google.com)
+	by gator3101.hostgator.com with esmtpsa (UNKNOWN:AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <amorales@cccchile.cl>)
+	id 1YJTPa-00007a-DU
+	for Rodrigo.Rios@itau.cl; Thu, 05 Feb 2015 14:52:33 -0600
+Received: by mail-wi0-f179.google.com with SMTP id l15so464834wiw.0
+        for <Rodrigo.Rios@itau.cl>; Thu, 05 Feb 2015 12:52:28 -0800 (PST)
+MIME-Version: 1.0
+X-Received: by 10.180.74.8 with SMTP id p8mr52283wiv.61.1423169547816; Thu, 05
+ Feb 2015 12:52:27 -0800 (PST)
+Received: by 10.194.165.227 with HTTP; Thu, 5 Feb 2015 12:52:26 -0800 (PST)
+In-Reply-To: <50A0FA980D0CA64EBE525618E1A7B5A0AD4BC1@CLSTGEXCP00N1.Itauchile.cl>
+References: <CAKggD2Q3SfVx+uOvr4MHqC4AoQjOebDYL6n0V-k8wtNZAdhg7g@mail.gmail.com>
+	<1841489704.1661042.1422987367922.JavaMail.yahoo@mail.yahoo.com>
+	<50A0FA980D0CA64EBE525618E1A7B5A0AD4BC1@CLSTGEXCP00N1.Itauchile.cl>
+Date: Thu, 5 Feb 2015 17:52:26 -0300
+Message-ID: <CAKggD2QnZ+m9AkPY=BmODPdMywEYdqTz5QbePBw3Nm=nW2NFAg@mail.gmail.com>
+Subject: =?UTF-8?Q?Re=3A_Acuerdos_Reuni=C3=B3n?=
+From: =?UTF-8?B?QW5kcsOpcyBNb3JhbGVzIChDQ0MtQ0hJTEUp?= <amorales@cccchile.cl>
+To: "Rios Prado, Rodrigo" <Rodrigo.Rios@itau.cl>
+Cc: Gabriel Chomali <gabrielchomali@yahoo.com>
+Content-Type: multipart/mixed; boundary=f46d043c7b9e5c2301050e5d7b19
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - gator3101.hostgator.com
+X-AntiAbuse: Original Domain - itau.cl
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - cccchile.cl
+X-BWhitelist: no
+X-Source-IP: 209.85.212.179
+X-Exim-ID: 1YJTPa-00007a-DU
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Source-Sender: (mail-wi0-f179.google.com) [209.85.212.179]:52664
+X-Source-Auth: amorales@cccchile.cl
+X-Email-Count: 2
+X-Source-Cap: YW1vcmFsZXM7YW1vcmFsZXM7Z2F0b3IzMTAxLmhvc3RnYXRvci5jb20=
+
+--4F3FA5926F6BE.1423170988/gateway02.websitewelcome.com--

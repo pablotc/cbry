@@ -1,0 +1,1979 @@
+Return-path: <flopez@rossi.cl>
+Envelope-to: amorales@cccchile.cl
+Delivery-date: Mon, 06 Apr 2015 09:15:20 -0500
+Received: from x6.insacom.cl ([190.54.9.5]:50198)
+	by gator3101.hostgator.com with esmtps (UNKNOWN:DHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.82)
+	(envelope-from <flopez@rossi.cl>)
+	id 1Yf7o7-0002Lj-Hd
+	for amorales@cccchile.cl; Mon, 06 Apr 2015 09:15:20 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=rossi.cl; s=default;
+	h=Content-Type:In-Reply-To:References:Subject:CC:To:MIME-Version:From:Date:Message-ID; bh=pFgNCXFQPc0DcvBWDEUIVy8m5OxY4qTsP4RU4szWI3k=;
+	b=E3KYlKtXZvtNYUhFzj5lVVPZO2WEoisB0s75JiqHXAidfgb6+ebsy2QAPcgFk/grPouYtMC5V/Yz66UtEWXeF/xH2gt6ITUzw+eBkP9aVryik5RL5hgqgZmRlb7PQPFRkxsyV6U71otsrPJtTsZELqGx1IGpKP0kIhQV65vL6/I=;
+Received: from [186.67.11.50] (port=1479 helo=[192.168.130.210])
+	by x6.insacom.cl with esmtpsa (TLSv1:DHE-RSA-CAMELLIA256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <flopez@rossi.cl>)
+	id 1Yf7sM-0003x9-Dw; Mon, 06 Apr 2015 11:19:43 -0300
+Message-ID: <552294F9.6070801@rossi.cl>
+Date: Mon, 06 Apr 2015 11:15:21 -0300
+From: "Francisco Lopez (Ag. de Aduana Carlo Rossi)" <flopez@rossi.cl>
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:24.0) Gecko/20100101 Thunderbird/24.1.0
+MIME-Version: 1.0
+To: =?UTF-8?B?IkFuZHLDqXMgTW9yYWxlcyAoQ0NDLUNISUxFKSI=?=
+ <amorales@cccchile.cl>
+CC: David Martinez <david.martinez@italcargo.cl>, 
+ Patricia Cortes <patricia.cortes@italcargo.cl>,
+ Gabriel Videla <gabriel.videla@italcargo.cl>, 
+ Guillermo Morales <gmorales@spindeportes.cl>,
+ Jose Gabriel Cajias <JGCAJIAS@gmail.com>, 
+ "salvita1964@hotmail.com" <salvita1964@hotmail.com>
+Subject: Re: DOCUMENTOS // RE: =?UTF-8?B?Q290aXphY2nDs24gdXJnZW50ZSEh?=
+References: <014d01d06d82$d4b01530$7e103f90$@italcargo.cl>	<55228267.60004@rossi.cl> <CAKggD2TTZSnWoWCzLuJgu5=crPVr763+MqVo3syVwUR1580CHQ@mail.gmail.com>
+In-Reply-To: <CAKggD2TTZSnWoWCzLuJgu5=crPVr763+MqVo3syVwUR1580CHQ@mail.gmail.com>
+Content-Type: multipart/alternative;
+ boundary="------------070904060502090101060704"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - x6.insacom.cl
+X-AntiAbuse: Original Domain - cccchile.cl
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - rossi.cl
+X-Get-Message-Sender-Via: x6.insacom.cl: authenticated_id: flopez@rossi.cl
+
+This is a multi-part message in MIME format.
+--------------070904060502090101060704
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Don Andrés
+                         moto en ruta pasara a retirar sus doctos., 
+consultare para que nos den hora aproximada.-
+
+atte
+francisco.-
+
+El 06/04/2015 10:25, Andrés Morales (CCC-CHILE) escribió:
+> Mandar aretirar a til til 1911, ñuñoa, confirmar hora aprox de retiro
+>
+> El lunes, 6 de abril de 2015, Francisco Lopez (Ag. de Aduana Carlo 
+> Rossi) <flopez@rossi.cl <mailto:flopez@rossi.cl>> escribió:
+>
+>     Don Andrés
+>     Buenos Días,
+>
+>                             para ir adelantando su declaración de
+>     ingreso, necesitamos:
+>
+>     -factura comercial
+>     -packing list
+>     -confirmar que es o son sus productos y para que serán utilizados.-
+>     -certificado de origen EURO1  o confirmar si tramitamos como
+>     régimen general,
+>     -forma de pago a su proveedor.-
+>     -confirmar a nombre de quien se debe realizar tramitación de su
+>     internacion ante aduana.-
+>
+>     atte
+>     Fco.-
+>
+>
+>
+>
+>     El 02/04/2015 17:23, David Martinez escribió:
+>>
+>>     Hola Francisco,
+>>
+>>     Estuve llamando a la oficina Rossi Santiago por este tema,
+>>     agradeceré que puedas responder a nuestro cliente según correo abajo.
+>>
+>>     Envío Guía Aérea valorada y Certificado Seguro para esta carga.
+>>
+>>     El vuelo arribará el próximo Domingo 05-04. Documentos se
+>>     retirarán a primera hora del día Lunes y entregados a la Agencia.
+>>
+>>     Favor indicar a quien debemos entregarlos en Rossi Aeropuerto.
+>>
+>>     *Guia Avianca: 729-82918021*
+>>
+>>     **
+>>
+>>     Quedo atento a tus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* jueves, 02 de abril de 2015 13:56
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias; FLOPEZ@rossi.cl
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola Francisco,
+>>
+>>     Puede mandar a retirar los originales? TILTIL 1911, ÑUÑOA.
+>>
+>>     David, me puede llaamr ugente? +569 84495251
+>>
+>>     El 30 de marzo de 2015, 18:19, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Hola Andrés,
+>>
+>>     Estos documentos deben ser entregados a la Agencia Aduana.
+>>
+>>     Agrego a Francisco Lopez para coordinar.
+>>
+>>     Adjunto Certificado Seguro.
+>>
+>>     Una vez que llegue la carga, los documentos serán retirados y
+>>     entregados a Agencia Piero Rossi en aeropuerto.
+>>
+>>     Quedo atento a tus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* lunes, 30 de marzo de 2015 16:58
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola David,
+>>
+>>     Me llegaron los documentos originales de PL, CO etc.
+>>
+>>     necesita que se los envíe?
+>>
+>>     Puede mandar a retirarlos?
+>>
+>>     mil gracias!
+>>
+>>     sls.
+>>
+>>     El 30 de marzo de 2015, 11:04, David Martinez < > escribió:
+>>
+>>     Hola Andrés,
+>>
+>>     Me puedes indicar tu RUT?
+>>
+>>     Lo necesito para tomar el seguro.
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* lunes, 30 de marzo de 2015 10:01
+>>
+>>
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     ok, muchas gracias.
+>>
+>>     sls.
+>>
+>>     El 30 de marzo de 2015, 10:18, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Hola Andrés,
+>>
+>>     Buenos días. Favor notar información del vuelo:
+>>
+>>     Vuelo AV121   UK - BOG
+>>
+>>     Fecha Salida UK: 31 -03
+>>
+>>     Vuelo AV097
+>>
+>>     Fecha salida BOG: 01-04
+>>
+>>     *ETA Santiago: 02-04      06:09 HRS.*
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* domingo, 29 de marzo de 2015 23:33
+>>
+>>
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola David,
+>>
+>>     Entiendo, Favor confirmar lo antes posible ETA final.
+>>
+>>     sls.
+>>
+>>     El 27 de marzo de 2015, 18:26, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Hola Andrés,
+>>
+>>     Favor notar que nuestro agente exige el pago previo antes de
+>>     tomar la reserva aérea.
+>>
+>>     Nosotros ya le pagamos, pero se demora en llegar la notificación
+>>     a origen. Por la diferencia horaria no fue posible tener los
+>>     datos de la reserva hoy como te había señalado.
+>>
+>>     El lunes a primera hora tendré los detalles del vuelo.
+>>
+>>     Te mantendré informado, que tengas un buen fin de semana!
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* viernes, 27 de marzo de 2015 13:46
+>>
+>>
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola David,
+>>
+>>     Esto ya lo hablamos por telefono.
+>>
+>>     Sls
+>>
+>>     El viernes, 27 de marzo de 2015, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Hola Andrés,
+>>
+>>     Tengo una discrepancia entre el peso indicado por el Shipper y el
+>>     peso efectivamente recibido en la bodega del Agente.
+>>
+>>     Adjunto Factura Comercial que indica este detalle.
+>>
+>>     En ella se señala que el Shipper entregó las cajas en 1 pallet,
+>>     pero el peso indicado ni volumen en la factura coincide con lo
+>>     recibido.
+>>
+>>     Lo recibido por bodega e informado a la Aerolínea corresponde a
+>>     lo que te indiqué cambiando la tarifa:
+>>
+>>     Peso carga: 73kgs
+>>
+>>     Medidas Pallet: 120x80x78 cm
+>>
+>>     *Peso cargable (K/v) = 125kgs *(0,7488m3 x 167)
+>>
+>>     El agente me señala que puede revisar con el Shipper y modificar
+>>     los documentos, pero esto significa postergar esto hasta el Lunes
+>>     próximo.
+>>
+>>     En cuanto a la posibilidad de enviar las cajas sueltas para
+>>     aminorar costo, el agente me señala que es imposible, ninguna
+>>     Aerolínea en Inglaterra lo podrá recibir de este modo.
+>>
+>>     Tiene que ser enviado como pallet. Ya tenemos la tarifa más
+>>     económica con Avianca.
+>>
+>>     Quedo atento a tus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* viernes, 27 de marzo de 2015 10:31
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola David,
+>>
+>>     52Kg pesa un Pallet?
+>>
+>>     No es posible hacer un bulto más liviano? favor su ayuda para
+>>     poder minimozar el costo.
+>>
+>>     Mil gracias.
+>>
+>>     El 27 de marzo de 2015, 11:16, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Estimado Andrés,
+>>
+>>     Buenos días. La carga fue recogida exitosamente desde la bodega
+>>     del proveedor el día de ayer.
+>>
+>>     Nuestro agente en UK nos señala las dimensionales finales de la
+>>     carga. Tuvo que armarse un pallet con las 15 cajas, ya que la
+>>     Aerolínea no permite cargar cajas sueltas.
+>>
+>>     De acuerdo a esto, tuvimos una variación en el tamaño:
+>>
+>>     Peso carga: 73kgs
+>>
+>>     Medidas Pallet: 120x80x78 cm
+>>
+>>     *Peso cargable (K/v) = 125kgs *(0,7488m3 x 167)
+>>
+>>     Favor notar tarifa modificada en función del Peso Cargable que
+>>     nos cobrará la Aerolínea, de acuerdo al Pallet a enviar:
+>>
+>>     *_Desde EXW The Willows, Mark Road, Hemel Hempstead,
+>>     Hertfordshire, HP2 7BN, UK vía Bogotá hasta Santiago_*
+>>
+>>     *_AVIANCA_*
+>>
+>>     FOB Charges: GBP 134.3
+>>
+>>     Air Freight: GBP 2,85  x K/v = GBP 356.25
+>>
+>>     Security Charge: GBP 0,10 x K/v = GBP 12.5
+>>
+>>     Fuel Charge: GBP 0,8 x K/v = GBP 100
+>>
+>>     AWB Fee: GBP 35
+>>
+>>     Total Flete Aéreo: GBP 638.05
+>>
+>>     _Seguro de Carga: _
+>>
+>>     Seguro de carga; tasa 0.30% valor CIF más 10%, prima Mínima de USD 60
+>>
+>>     Transporte Terrestre Aeropuerto –Til Til 1911 Ñuñoa: $ 46.000 + IVA
+>>
+>>     _Gastos Locales_
+>>
+>>     Desconsolidación: $70.500 + IVA
+>>
+>>     *Favor necesito confirmar el cambio en la tarifa, para así pagar
+>>     al Agente y tener la reserva aérea de inmediato. Una vez
+>>     realizado, podré informar ETA.*
+>>
+>>     Quedo muy atento a tus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* jueves, 26 de marzo de 2015 13:39
+>>
+>>
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     ok, miles de gracias.
+>>
+>>     Confirmar cuando se hizo efectivo el retiro y posible ETA.
+>>
+>>     sls.
+>>
+>>     El 26 de marzo de 2015, 13:04, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Hola Andres,
+>>
+>>     Ok , tomaremos el seguro y me contactaré con proveedor.
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* jueves, 26 de marzo de 2015 11:53
+>>     *Para:* David Martinez
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales; Jose
+>>     Gabriel Cajias
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Hola, favor cualquier otro papel pedirlo directamente al
+>>     proveedor Opro en UK.
+>>
+>>     Yo consideraba quea cotizacion ya incluia seguro.
+>>
+>>
+>>
+>>     El jueves, 26 de marzo de 2015, David Martinez
+>>     <david.martinez@italcargo.cl> escribió:
+>>
+>>     Estimado Andres,
+>>
+>>     Buenas tardes. Favor notar que nuestro agente en UK nos señala
+>>     que la carga será recogida hoy.
+>>
+>>     Tan pronto tenga los detalles del vuelo enviaré esta información.
+>>
+>>     Aparte del Packing List enviado, dispones de otros documentos
+>>     para este envío?
+>>
+>>     Deseas tomar seguro para esta carga?
+>>
+>>     _Seguro de Carga: _
+>>
+>>     Seguro de carga; tasa 0.30% valor CIF más 10%, prima Mínima de USD 60
+>>
+>>     Quedo atento a tus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Ventas1 [mailto:ventas1@italcargo.cl]
+>>     *Enviado el:* miércoles, 25 de marzo de 2015 13:01
+>>     *Para:* 'Andrés Morales (CCC-CHILE)'
+>>     *CC:* 'Patricia Cortes'; 'Gabriel Videla'; 'Guillermo Morales'
+>>     *Asunto:* RE: Cotización urgente!!
+>>
+>>     Estimado Andres,
+>>
+>>     El precio es el mismo, fue error mío al poner LAN. Estos precios
+>>     enviados corresponden a Avianca.
+>>
+>>     Incluyo el valor del traslado Aeropuerto – Bodega:
+>>
+>>     15 CAJAS
+>>
+>>     Volumen: 0,45 M3
+>>
+>>     Peso: 75 KGS
+>>
+>>     *Peso Cargable: 76 K/v*
+>>
+>>     *_Desde EXW The Willows, Mark Road, Hemel Hempstead,
+>>     Hertfordshire, HP2 7BN, UK vía Bogotá hasta Santiago_*
+>>
+>>     *_AVIANCA_*
+>>
+>>     FOB Charges: GBP 134.3
+>>
+>>     Air Freight: GBP 2,85  x K/v = GBP 216.6
+>>
+>>     Security Charge: GBP 0,10 x K/v = GBP 7.6
+>>
+>>     Fuel Charge: GBP 0,8 x K/v = GBP 60.8
+>>
+>>     AWB Fee: GBP 35
+>>
+>>     Total Flete Aéreo: GBP 454.3
+>>
+>>     Transporte Terrestre Aeropuerto –Til Til 1911 Ñuñoa: $ 46.000 + IVA
+>>
+>>     _Gastos Locales_
+>>
+>>     Desconsolidación: $70.500 + IVA
+>>
+>>     Quedo atento a sus comentarios
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+>>     *Italcargo Chile Ltda.*
+>>
+>>     Fono: (56)-32-2255066
+>>
+>>     Descripción: cid:image003.jpg@01C998E0.C891E2B0
+>>
+>>     *De:*Andrés Morales (CCC-CHILE) [mailto:amorales@cccchile.cl]
+>>     *Enviado el:* miércoles, 25 de marzo de 2015 11:42
+>>     *Para:* Ventas1
+>>     *CC:* Patricia Cortes; Gabriel Videla; Guillermo Morales
+>>     *Asunto:* Re: Cotización urgente!!
+>>
+>>     Ojo que decía LAN via Miami.....
+>>
+>>     cuanto es el precio final entonces?
+>>
+>>     Favor necesito confirmar ésto para lo que necesito un precio exacto.
+>>
+>>     miles de gracias.
+>>
+>>     El 25 de marzo de 2015, 11:37, Ventas1 <ventas1@italcargo.cl>
+>>     escribió:
+>>
+>>     Estimado Andres,
+>>
+>>     Notar que los costos enviados son de Avianca, sólo fue un error
+>>     de tipeo por mi parte.
+>>
+>>     Saludos cordiales
+>>
+>>     David Martínez C.
+>>
+
+-- 
+atte.
+Francisco Lopez Rojas.-
+Ag.Ad.Carlo Rossi Soffia y cia. ltda
+fono:6503400
+email: flopez@rossi.cl
+www.rossi.cl
+
+
+--------------070904060502090101060704
+Content-Type: multipart/related;
+ boundary="------------080107020502050605090803"
+
+
+--------------080107020502050605090803
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    Don Andrés<br>
+                            moto en ruta pasara a retirar sus doctos.,
+    consultare para que nos den hora aproximada.-<br>
+    <br>
+    atte<br>
+    francisco.-<br>
+    <br>
+    <div class="moz-cite-prefix">El 06/04/2015 10:25, Andrés Morales
+      (CCC-CHILE) escribió:<br>
+    </div>
+    <blockquote
+cite="mid:CAKggD2TTZSnWoWCzLuJgu5=crPVr763+MqVo3syVwUR1580CHQ@mail.gmail.com"
+      type="cite">Mandar aretirar a til til 1911, ñuñoa, confirmar hora
+      aprox de retiro<br>
+      <br>
+      El lunes, 6 de abril de 2015, Francisco Lopez (Ag. de Aduana Carlo
+      Rossi) &lt;<a moz-do-not-send="true" href="mailto:flopez@rossi.cl">flopez@rossi.cl</a>&gt;
+      escribió:<br>
+      <blockquote class="gmail_quote" style="margin:0 0 0
+        .8ex;border-left:1px #ccc solid;padding-left:1ex">
+        <div text="#000000" bgcolor="#FFFFFF"> Don Andrés<br>
+          Buenos Días,<br>
+          <br>
+                                  para ir adelantando su declaración de
+          ingreso, necesitamos:<br>
+          <br>
+          -factura comercial<br>
+          -packing list<br>
+          -confirmar que es o son sus productos y para que serán
+          utilizados.-<br>
+          -certificado de origen EURO1  o confirmar si tramitamos como
+          régimen general,<br>
+          -forma de pago a su proveedor.-<br>
+          -confirmar a nombre de quien se debe realizar tramitación de
+          su internacion ante aduana.-<br>
+          <br>
+          atte<br>
+          Fco.-<br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <div>El 02/04/2015 17:23, David Martinez escribió:<br>
+          </div>
+          <blockquote type="cite">
+            <div>
+              <p><span>Hola Francisco,</span></p>
+              <p><span> </span></p>
+              <p><span>Estuve llamando a la oficina Rossi Santiago por
+                  este tema, agradeceré que puedas responder a nuestro
+                  cliente según correo abajo.</span></p>
+              <p><span> </span></p>
+              <p><span>Envío Guía Aérea valorada y Certificado Seguro
+                  para esta carga.</span></p>
+              <p><span> </span></p>
+              <p><span>El vuelo arribará el próximo Domingo 05-04.
+                  Documentos se retirarán a primera hora del día Lunes y
+                  entregados a la Agencia.</span></p>
+              <p><span>Favor indicar a quien debemos entregarlos en
+                  Rossi Aeropuerto.</span></p>
+              <p><span> </span></p>
+              <p><b><span>Guia Avianca: 729-82918021</span></b></p>
+              <p><b><span> </span></b></p>
+              <p><span>Quedo atento a tus comentarios</span></p>
+              <p><span> </span></p>
+              <p><span> </span></p>
+              <p><span>Saludos cordiales</span></p>
+              <p><span> </span></p>
+              <p><span>David Martínez C.</span></p>
+              <p><b><span lang="ES-MX">Italcargo Chile Ltda.</span></b><span
+                  lang="ES-MX"> </span></p>
+              <p><span lang="ES-MX">Fono: (56)-32-2255066</span></p>
+              <p><span><img src="cid:part2.09090401.01080601@rossi.cl"
+                    alt="Descripción:
+                    cid:image003.jpg@01C998E0.C891E2B0" width="158"
+                    height="34"></span><span></span></p>
+              <p><span> </span></p>
+              <p><b><span lang="ES">De:</span></b><span lang="ES">
+                  Andrés Morales (CCC-CHILE) [<a moz-do-not-send="true">mailto:amorales@cccchile.cl</a>]
+                  <br>
+                  <b>Enviado el:</b> jueves, 02 de abril de 2015 13:56<br>
+                  <b>Para:</b> David Martinez<br>
+                  <b>CC:</b> Patricia Cortes; Gabriel Videla; Guillermo
+                  Morales; Jose Gabriel Cajias; <a
+                    moz-do-not-send="true">FLOPEZ@rossi.cl</a><br>
+                  <b>Asunto:</b> Re: Cotización urgente!!</span></p>
+              <p> </p>
+              <div>
+                <p>Hola Francisco,</p>
+                <div>
+                  <p> </p>
+                </div>
+                <div>
+                  <p>Puede mandar a retirar los originales? TILTIL 1911,
+                    ÑUÑOA.</p>
+                </div>
+                <div>
+                  <p> </p>
+                </div>
+                <div>
+                  <p>David, me puede llaamr ugente? +569 84495251</p>
+                </div>
+              </div>
+              <div>
+                <p> </p>
+                <div>
+                  <p>El 30 de marzo de 2015, 18:19, David Martinez &lt;<a
+                      moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt;
+
+                    escribió:</p>
+                  <div>
+                    <div>
+                      <p><span>Hola Andrés,</span></p>
+                      <p><span> </span></p>
+                      <p><span>Estos documentos deben ser entregados a
+                          la Agencia Aduana.</span></p>
+                      <p><span>Agrego a Francisco Lopez para coordinar.</span></p>
+                      <p><span>Adjunto Certificado Seguro. </span></p>
+                      <p><span> </span></p>
+                      <p><span>Una vez que llegue la carga, los
+                          documentos serán retirados y entregados a
+                          Agencia Piero Rossi en aeropuerto.</span></p>
+                      <p><span> </span></p>
+                      <p><span> </span></p>
+                      <p><span>Quedo atento a tus comentarios</span></p>
+                      <p><span> </span></p>
+                      <p><span> </span></p>
+                      <p><span> </span></p>
+                      <p><span> </span></p>
+                      <p><span>Saludos cordiales</span></p>
+                      <p><span> </span></p>
+                      <p><span>David Martínez C.</span></p>
+                      <p><b><span lang="ES-MX">Italcargo Chile Ltda.</span></b><span
+                          lang="ES-MX"> </span></p>
+                      <p><span lang="ES-MX">Fono: (56)-32-2255066</span></p>
+                      <p><span><img
+                            src="cid:part2.09090401.01080601@rossi.cl"
+                            alt="Descripción:
+                            cid:image003.jpg@01C998E0.C891E2B0"
+                            width="158" height="34"></span></p>
+                      <p><span> </span></p>
+                      <p><b><span lang="ES">De:</span></b><span
+                          lang="ES"> Andrés Morales (CCC-CHILE) [mailto:<a
+                            moz-do-not-send="true">amorales@cccchile.cl</a>]
+                          <br>
+                          <b>Enviado el:</b> lunes, 30 de marzo de 2015
+                          16:58<br>
+                          <b>Para:</b> David Martinez<br>
+                          <b>CC:</b> Patricia Cortes; Gabriel Videla;
+                          Guillermo Morales; Jose Gabriel Cajias<br>
+                          <b>Asunto:</b> Re: Cotización urgente!!</span></p>
+                      <p> </p>
+                      <div>
+                        <p>Hola David,</p>
+                        <div>
+                          <p> </p>
+                        </div>
+                        <div>
+                          <p>Me llegaron los documentos originales de
+                            PL, CO etc.</p>
+                        </div>
+                        <div>
+                          <p> </p>
+                        </div>
+                        <div>
+                          <p>necesita que se los envíe?</p>
+                        </div>
+                        <div>
+                          <p>Puede mandar a retirarlos?</p>
+                        </div>
+                        <div>
+                          <p> </p>
+                        </div>
+                        <div>
+                          <p>mil gracias!</p>
+                        </div>
+                        <div>
+                          <p> </p>
+                        </div>
+                        <div>
+                          <p>sls.</p>
+                        </div>
+                      </div>
+                      <div>
+                        <div>
+                          <div>
+                            <p> </p>
+                            <div>
+                              <p>El 30 de marzo de 2015, 11:04, David
+                                Martinez &lt; &gt; escribió:</p>
+                              <div>
+                                <div>
+                                  <p><span>Hola Andrés,</span></p>
+                                  <p><span> </span></p>
+                                  <p><span>Me puedes indicar tu RUT?</span></p>
+                                  <p><span>Lo necesito para tomar el
+                                      seguro.</span></p>
+                                  <p><span> </span></p>
+                                  <p><span> </span></p>
+                                  <p><span>Saludos cordiales</span></p>
+                                  <p><span> </span></p>
+                                  <p><span>David Martínez C.</span></p>
+                                  <p><b><span lang="ES-MX">Italcargo
+                                        Chile Ltda.</span></b><span
+                                      lang="ES-MX"> </span></p>
+                                  <p><span lang="ES-MX">Fono:
+                                      (56)-32-2255066</span></p>
+                                  <p><span><img
+                                        src="cid:part2.09090401.01080601@rossi.cl"
+                                        alt="Descripción:
+                                        cid:image003.jpg@01C998E0.C891E2B0"
+                                        width="158" height="34"></span></p>
+                                  <p><span> </span></p>
+                                  <p><b><span lang="ES">De:</span></b><span
+                                      lang="ES"> Andrés Morales
+                                      (CCC-CHILE) [mailto:<a
+                                        moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                      <br>
+                                      <b>Enviado el:</b> lunes, 30 de
+                                      marzo de 2015 10:01</span></p>
+                                  <div>
+                                    <div>
+                                      <p><br>
+                                        <b>Para:</b> David Martinez<br>
+                                        <b>CC:</b> Patricia Cortes;
+                                        Gabriel Videla; Guillermo
+                                        Morales; Jose Gabriel Cajias<br>
+                                        <b>Asunto:</b> Re: Cotización
+                                        urgente!!</p>
+                                    </div>
+                                  </div>
+                                  <div>
+                                    <div>
+                                      <p> </p>
+                                      <div>
+                                        <p>ok, muchas gracias.</p>
+                                        <div>
+                                          <p> </p>
+                                        </div>
+                                        <div>
+                                          <p>sls.</p>
+                                        </div>
+                                      </div>
+                                      <div>
+                                        <p> </p>
+                                        <div>
+                                          <p>El 30 de marzo de 2015,
+                                            10:18, David Martinez &lt;<a
+                                              moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt;
+
+                                            escribió:</p>
+                                          <div>
+                                            <div>
+                                              <p><span>Hola Andrés,</span></p>
+                                              <p><span> </span></p>
+                                              <p><span>Buenos días.
+                                                  Favor notar
+                                                  información del vuelo:</span></p>
+                                              <p><span> </span></p>
+                                              <p><span>Vuelo AV121   UK
+                                                  - BOG</span></p>
+                                              <p><span>Fecha Salida UK:
+                                                  31 -03     </span></p>
+                                              <p><span> </span></p>
+                                              <p><span>Vuelo AV097</span></p>
+                                              <p><span>Fecha salida BOG:
+                                                  01-04</span></p>
+                                              <p><b><span>ETA Santiago:
+                                                    02-04      06:09
+                                                    HRS.</span></b></p>
+                                              <p><span> </span></p>
+                                              <p><span> </span></p>
+                                              <p><span>Saludos cordiales</span></p>
+                                              <p><span> </span></p>
+                                              <p><span>David Martínez C.</span></p>
+                                              <p><b><span lang="ES-MX">Italcargo
+
+                                                    Chile Ltda.</span></b><span
+                                                  lang="ES-MX"> </span></p>
+                                              <p><span lang="ES-MX">Fono:
+
+                                                  (56)-32-2255066</span></p>
+                                              <p><span><img
+                                                    src="cid:part2.09090401.01080601@rossi.cl"
+                                                    alt="Descripción:
+                                                    cid:image003.jpg@01C998E0.C891E2B0"
+                                                    width="158"
+                                                    height="34"></span></p>
+                                              <p><span> </span></p>
+                                              <p><b><span lang="ES">De:</span></b><span
+                                                  lang="ES"> Andrés
+                                                  Morales (CCC-CHILE)
+                                                  [mailto:<a
+                                                    moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                  <br>
+                                                  <b>Enviado el:</b>
+                                                  domingo, 29 de marzo
+                                                  de 2015 23:33</span></p>
+                                              <div>
+                                                <div>
+                                                  <p><br>
+                                                    <b>Para:</b> David
+                                                    Martinez<br>
+                                                    <b>CC:</b> Patricia
+                                                    Cortes; Gabriel
+                                                    Videla; Guillermo
+                                                    Morales; Jose
+                                                    Gabriel Cajias<br>
+                                                    <b>Asunto:</b> Re:
+                                                    Cotización urgente!!</p>
+                                                </div>
+                                              </div>
+                                              <div>
+                                                <div>
+                                                  <p> </p>
+                                                  <div>
+                                                    <p>Hola David,</p>
+                                                    <div>
+                                                      <p> </p>
+                                                    </div>
+                                                    <div>
+                                                      <p>Entiendo, Favor
+                                                        confirmar lo
+                                                        antes posible
+                                                        ETA final.</p>
+                                                    </div>
+                                                    <div>
+                                                      <p> </p>
+                                                    </div>
+                                                    <div>
+                                                      <p>sls.</p>
+                                                    </div>
+                                                  </div>
+                                                  <div>
+                                                    <p> </p>
+                                                    <div>
+                                                      <p>El 27 de marzo
+                                                        de 2015, 18:26,
+                                                        David Martinez
+                                                        &lt;<a
+                                                          moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt;
+
+                                                        escribió:</p>
+                                                      <div>
+                                                        <div>
+                                                          <p><span>Hola
+                                                          Andrés,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Favor
+                                                          notar que
+                                                          nuestro agente
+                                                          exige el pago
+                                                          previo antes
+                                                          de tomar la
+                                                          reserva aérea.</span></p>
+                                                          <p><span>Nosotros
+
+                                                          ya le pagamos,
+                                                          pero se demora
+                                                          en llegar la
+                                                          notificación a
+                                                          origen. Por la
+                                                          diferencia
+                                                          horaria no fue
+                                                          posible tener
+                                                          los datos de
+                                                          la reserva hoy
+                                                          como te había
+                                                          señalado.</span></p>
+                                                          <p><span>El
+                                                          lunes a
+                                                          primera hora
+                                                          tendré los
+                                                          detalles del
+                                                          vuelo.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Te
+                                                          mantendré
+                                                          informado, que
+                                                          tengas un buen
+                                                          fin de semana!</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Andrés Morales
+                                                          (CCC-CHILE)
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          viernes, 27 de
+                                                          marzo de 2015
+                                                          13:46</span></p>
+                                                          <div>
+                                                          <div>
+                                                          <p><br>
+                                                          <b>Para:</b>
+                                                          David Martinez<br>
+                                                          <b>CC:</b>
+                                                          Patricia
+                                                          Cortes;
+                                                          Gabriel
+                                                          Videla;
+                                                          Guillermo
+                                                          Morales; Jose
+                                                          Gabriel Cajias<br>
+                                                          <b>Asunto:</b>
+                                                          Re: Cotización
+                                                          urgente!!</p>
+                                                          </div>
+                                                          </div>
+                                                          <div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <p>Hola David,</p>
+                                                          <div>
+                                                          <p>Esto ya lo
+                                                          hablamos por
+                                                          telefono.</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>Sls<br>
+                                                          <br>
+                                                          El viernes, 27
+                                                          de marzo de
+                                                          2015, David
+                                                          Martinez &lt;<a
+moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt; escribió:</p>
+                                                          <div>
+                                                          <div>
+                                                          <p><span>Hola
+                                                          Andrés,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Tengo
+                                                          una
+                                                          discrepancia
+                                                          entre el peso
+                                                          indicado por
+                                                          el Shipper y
+                                                          el peso
+                                                          efectivamente
+                                                          recibido en la
+                                                          bodega del
+                                                          Agente.</span></p>
+                                                          <p><span>Adjunto
+
+                                                          Factura
+                                                          Comercial que
+                                                          indica este
+                                                          detalle.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>En
+                                                          ella se señala
+                                                          que el Shipper
+                                                          entregó las
+                                                          cajas en 1
+                                                          pallet, pero
+                                                          el peso
+                                                          indicado ni
+                                                          volumen en la
+                                                          factura
+                                                          coincide con
+                                                          lo recibido.</span></p>
+                                                          <p><span>Lo
+                                                          recibido por
+                                                          bodega e
+                                                          informado a la
+                                                          Aerolínea
+                                                          corresponde a
+                                                          lo que te
+                                                          indiqué
+                                                          cambiando la
+                                                          tarifa:</span></p>
+                                                          <p><span>Peso
+                                                          carga: 73kgs</span></p>
+                                                          <p><span>Medidas
+
+                                                          Pallet:
+                                                          120x80x78 cm </span></p>
+                                                          <p><b><span>Peso
+
+                                                          cargable (K/v)
+                                                          = 125kgs     </span></b><span>(0,7488m3
+
+                                                          x 167)</span></p>
+                                                          <p><span>El
+                                                          agente me
+                                                          señala que
+                                                          puede revisar
+                                                          con el Shipper
+                                                          y modificar
+                                                          los
+                                                          documentos,
+                                                          pero esto
+                                                          significa
+                                                          postergar esto
+                                                          hasta el Lunes
+                                                          próximo.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>En
+                                                          cuanto a la
+                                                          posibilidad de
+                                                          enviar las
+                                                          cajas sueltas
+                                                          para aminorar
+                                                          costo, el
+                                                          agente me
+                                                          señala que es
+                                                          imposible,
+                                                          ninguna
+                                                          Aerolínea en
+                                                          Inglaterra lo
+                                                          podrá recibir
+                                                          de este modo.</span></p>
+                                                          <p><span>Tiene
+                                                          que ser
+                                                          enviado como
+                                                          pallet. Ya
+                                                          tenemos la
+                                                          tarifa más
+                                                          económica con
+                                                          Avianca.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Quedo
+                                                          atento a tus
+                                                          comentarios</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Andrés Morales
+                                                          (CCC-CHILE)
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          viernes, 27 de
+                                                          marzo de 2015
+                                                          10:31<br>
+                                                          <b>Para:</b>
+                                                          David Martinez<br>
+                                                          <b>CC:</b>
+                                                          Patricia
+                                                          Cortes;
+                                                          Gabriel
+                                                          Videla;
+                                                          Guillermo
+                                                          Morales; Jose
+                                                          Gabriel Cajias<br>
+                                                          <b>Asunto:</b>
+                                                          Re: Cotización
+                                                          urgente!!</span></p>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>Hola David,</p>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>52Kg pesa
+                                                          un Pallet?</p>
+                                                          </div>
+                                                          <div>
+                                                          <p>No es
+                                                          posible hacer
+                                                          un bulto más
+                                                          liviano? favor
+                                                          su ayuda para
+                                                          poder
+                                                          minimozar el
+                                                          costo.</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>Mil
+                                                          gracias.</p>
+                                                          </div>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>El 27 de
+                                                          marzo de 2015,
+                                                          11:16, David
+                                                          Martinez &lt;<a
+moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt; escribió:</p>
+                                                          <div>
+                                                          <div>
+                                                          <p><span>Estimado
+
+                                                          Andrés,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Buenos
+
+                                                          días. La carga
+                                                          fue recogida
+                                                          exitosamente
+                                                          desde la
+                                                          bodega del
+                                                          proveedor el
+                                                          día de ayer.</span></p>
+                                                          <p><span>Nuestro
+
+                                                          agente en UK
+                                                          nos señala las
+                                                          dimensionales
+                                                          finales de la
+                                                          carga. Tuvo
+                                                          que armarse un
+                                                          pallet con las
+                                                          15 cajas, ya
+                                                          que la
+                                                          Aerolínea no
+                                                          permite cargar
+                                                          cajas sueltas.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>De
+                                                          acuerdo a
+                                                          esto, tuvimos
+                                                          una variación
+                                                          en el tamaño:</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Peso
+                                                          carga: 73kgs</span></p>
+                                                          <p><span>Medidas
+
+                                                          Pallet:
+                                                          120x80x78 cm </span></p>
+                                                          <p><b><span>Peso
+
+                                                          cargable (K/v)
+                                                          = 125kgs     </span></b><span>(0,7488m3
+
+                                                          x 167)</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Favor
+                                                          notar tarifa
+                                                          modificada en
+                                                          función del
+                                                          Peso Cargable
+                                                          que nos
+                                                          cobrará la
+                                                          Aerolínea, de
+                                                          acuerdo al
+                                                          Pallet a
+                                                          enviar:</span></p>
+                                                          <p><b><u><span
+                                                          lang="EN-US">Desde
+
+                                                          EXW The
+                                                          Willows, Mark
+                                                          Road, Hemel
+                                                          Hempstead,
+                                                          Hertfordshire,
+                                                          HP2 7BN, UK
+                                                          vía Bogotá
+                                                          hasta Santiago</span></u></b></p>
+                                                          <p><b><u><span
+                                                          lang="EN-US">AVIANCA</span></u></b></p>
+                                                          <p><span
+                                                          lang="EN-US">FOB
+
+                                                          Charges: GBP
+                                                          134.3</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Air
+
+                                                          Freight: GBP
+                                                          2,85  x K/v =
+                                                          GBP 356.25</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Security
+
+                                                          Charge: GBP
+                                                          0,10 x K/v =
+                                                          GBP 12.5</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Fuel
+
+                                                          Charge: GBP
+                                                          0,8 x K/v =
+                                                          GBP 100</span></p>
+                                                          <p><span
+                                                          lang="EN-US">AWB
+
+                                                          Fee: GBP 35</span></p>
+                                                          <p><span
+                                                          lang="EN-US"> </span></p>
+                                                          <p><span>Total
+                                                          Flete Aéreo: 
+                                                          GBP 638.05</span></p>
+                                                          <p> </p>
+                                                          <p><u><span>Seguro
+
+                                                          de Carga:  </span></u></p>
+                                                          <p><span>Seguro
+
+                                                          de carga; tasa
+                                                          0.30% valor
+                                                          CIF más 10%,
+                                                          prima Mínima
+                                                          de USD 60</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Transporte
+
+                                                          Terrestre
+                                                          Aeropuerto –</span><span>Til
+
+                                                          Til 1911
+                                                          Ñuñoa: $
+                                                          46.000 + IVA</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> <u>Gastos
+
+                                                          Locales</u></span></p>
+                                                          <p><span>Desconsolidación:
+
+                                                          $70.500 + IVA</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span>Favor
+
+                                                          necesito
+                                                          confirmar el
+                                                          cambio en la
+                                                          tarifa, para
+                                                          así pagar al
+                                                          Agente y tener
+                                                          la reserva
+                                                          aérea de
+                                                          inmediato. Una
+                                                          vez realizado,
+                                                          podré informar
+                                                          ETA.</span></b></p>
+                                                          <p><span>Quedo
+                                                          muy atento a
+                                                          tus
+                                                          comentarios</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Andrés Morales
+                                                          (CCC-CHILE)
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          jueves, 26 de
+                                                          marzo de 2015
+                                                          13:39</span></p>
+                                                          <div>
+                                                          <div>
+                                                          <p><br>
+                                                          <b>Para:</b>
+                                                          David Martinez<br>
+                                                          <b>CC:</b>
+                                                          Patricia
+                                                          Cortes;
+                                                          Gabriel
+                                                          Videla;
+                                                          Guillermo
+                                                          Morales; Jose
+                                                          Gabriel Cajias<br>
+                                                          <b>Asunto:</b>
+                                                          Re: Cotización
+                                                          urgente!!</p>
+                                                          </div>
+                                                          </div>
+                                                          <div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>ok, miles
+                                                          de gracias.</p>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>Confirmar
+                                                          cuando se hizo
+                                                          efectivo el
+                                                          retiro y
+                                                          posible ETA.</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>sls.</p>
+                                                          </div>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>El 26 de
+                                                          marzo de 2015,
+                                                          13:04, David
+                                                          Martinez &lt;<a
+moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt; escribió:</p>
+                                                          <div>
+                                                          <div>
+                                                          <p><span>Hola
+                                                          Andres, </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Ok ,
+                                                          tomaremos el
+                                                          seguro y me
+                                                          contactaré con
+                                                          proveedor.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Andrés Morales
+                                                          (CCC-CHILE)
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          jueves, 26 de
+                                                          marzo de 2015
+                                                          11:53<br>
+                                                          <b>Para:</b>
+                                                          David Martinez<br>
+                                                          <b>CC:</b>
+                                                          Patricia
+                                                          Cortes;
+                                                          Gabriel
+                                                          Videla;
+                                                          Guillermo
+                                                          Morales; Jose
+                                                          Gabriel Cajias<br>
+                                                          <b>Asunto:</b>
+                                                          Re: Cotización
+                                                          urgente!!</span></p>
+                                                          <div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <p>Hola, favor
+                                                          cualquier otro
+                                                          papel pedirlo
+                                                          directamente
+                                                          al proveedor
+                                                          Opro en UK.</p>
+                                                          <div>
+                                                          <p>Yo
+                                                          consideraba
+                                                          quea
+                                                          cotizacion ya
+                                                          incluia
+                                                          seguro.</p>
+                                                          <div>
+                                                          <p><br>
+                                                          <br>
+                                                          El jueves, 26
+                                                          de marzo de
+                                                          2015, David
+                                                          Martinez &lt;<a
+moz-do-not-send="true">david.martinez@italcargo.cl</a>&gt; escribió:</p>
+                                                          <div>
+                                                          <div>
+                                                          <p><span>Estimado
+
+                                                          Andres,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Buenas
+
+                                                          tardes. Favor
+                                                          notar que
+                                                          nuestro agente
+                                                          en UK nos
+                                                          señala que la
+                                                          carga será
+                                                          recogida hoy.</span></p>
+                                                          <p><span>Tan
+                                                          pronto tenga
+                                                          los detalles
+                                                          del vuelo
+                                                          enviaré esta
+                                                          información.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Aparte
+
+                                                          del Packing
+                                                          List enviado,
+                                                          dispones de
+                                                          otros
+                                                          documentos
+                                                          para este
+                                                          envío?</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Deseas
+
+                                                          tomar seguro
+                                                          para esta
+                                                          carga?</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><u><span>Seguro
+
+                                                          de Carga:  </span></u></p>
+                                                          <p><span>Seguro
+
+                                                          de carga; tasa
+                                                          0.30% valor
+                                                          CIF más 10%,
+                                                          prima Mínima
+                                                          de USD 60</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Quedo
+                                                          atento a tus
+                                                          comentarios</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <div>
+                                                          <div>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Ventas1
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">ventas1@italcargo.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          miércoles, 25
+                                                          de marzo de
+                                                          2015 13:01<br>
+                                                          <b>Para:</b>
+                                                          'Andrés
+                                                          Morales
+                                                          (CCC-CHILE)'<br>
+                                                          <b>CC:</b>
+                                                          'Patricia
+                                                          Cortes';
+                                                          'Gabriel
+                                                          Videla';
+                                                          'Guillermo
+                                                          Morales'<br>
+                                                          <b>Asunto:</b>
+                                                          RE: Cotización
+                                                          urgente!!</span></p>
+                                                          </div>
+                                                          </div>
+                                                          <p> </p>
+                                                          <p><span>Estimado
+
+                                                          Andres,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>El
+                                                          precio es el
+                                                          mismo, fue
+                                                          error mío al
+                                                          poner LAN.
+                                                          Estos precios
+                                                          enviados
+                                                          corresponden a
+                                                          Avianca.</span></p>
+                                                          <p><span>Incluyo
+
+                                                          el valor del
+                                                          traslado
+                                                          Aeropuerto –
+                                                          Bodega:</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>15
+                                                          CAJAS</span></p>
+                                                          <p><span>Volumen:
+
+                                                          0,45 M3</span></p>
+                                                          <p><span>Peso:
+                                                          75 KGS</span></p>
+                                                          <p><b><span>Peso
+
+                                                          Cargable: 76
+                                                          K/v</span></b></p>
+                                                          <p><b><span
+                                                          lang="EN-US"> <u>Desde
+
+                                                          EXW The
+                                                          Willows, Mark
+                                                          Road, Hemel
+                                                          Hempstead,
+                                                          Hertfordshire,
+                                                          HP2 7BN, UK
+                                                          vía Bogotá
+                                                          hasta Santiago</u></span></b></p>
+                                                          <p><b><u><span
+                                                          lang="EN-US">AVIANCA</span></u></b></p>
+                                                          <p><span
+                                                          lang="EN-US">FOB
+
+                                                          Charges: GBP
+                                                          134.3</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Air
+
+                                                          Freight: GBP
+                                                          2,85  x K/v =
+                                                          GBP 216.6</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Security
+
+                                                          Charge: GBP
+                                                          0,10 x K/v =
+                                                          GBP 7.6</span></p>
+                                                          <p><span
+                                                          lang="EN-US">Fuel
+
+                                                          Charge: GBP
+                                                          0,8 x K/v =
+                                                          GBP 60.8</span></p>
+                                                          <p><span
+                                                          lang="EN-US">AWB
+
+                                                          Fee: GBP 35</span></p>
+                                                          <p><span
+                                                          lang="EN-US"> </span></p>
+                                                          <p><span>Total
+                                                          Flete Aéreo: 
+                                                          GBP 454.3</span></p>
+                                                          <p> </p>
+                                                          <p><span>Transporte
+
+                                                          Terrestre
+                                                          Aeropuerto –</span><span>Til
+
+                                                          Til 1911
+                                                          Ñuñoa: $
+                                                          46.000 + IVA</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><u><span>Gastos
+
+                                                          Locales</span></u></p>
+                                                          <p><span>Desconsolidación:
+
+                                                          $70.500 + IVA</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Quedo
+                                                          atento a sus
+                                                          comentarios</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          <p><b><span
+                                                          lang="ES-MX">Italcargo
+
+                                                          Chile Ltda.</span></b><span
+                                                          lang="ES-MX">
+                                                          </span></p>
+                                                          <p><span
+                                                          lang="ES-MX">Fono:
+(56)-32-2255066</span></p>
+                                                          <p><span><img
+src="cid:part2.09090401.01080601@rossi.cl" alt="Descripción:
+cid:image003.jpg@01C998E0.C891E2B0" width="158" height="34"></span></p>
+                                                          <p><span> </span></p>
+                                                          <p> </p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><b><span
+                                                          lang="ES">De:</span></b><span
+                                                          lang="ES">
+                                                          Andrés Morales
+                                                          (CCC-CHILE)
+                                                          [mailto:<a
+                                                          moz-do-not-send="true">amorales@cccchile.cl</a>]
+                                                          <br>
+                                                          <b>Enviado el:</b>
+                                                          miércoles, 25
+                                                          de marzo de
+                                                          2015 11:42<br>
+                                                          <b>Para:</b>
+                                                          Ventas1<br>
+                                                          <b>CC:</b>
+                                                          Patricia
+                                                          Cortes;
+                                                          Gabriel
+                                                          Videla;
+                                                          Guillermo
+                                                          Morales<br>
+                                                          <b>Asunto:</b>
+                                                          Re: Cotización
+                                                          urgente!!</span></p>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>Ojo que
+                                                          decía LAN via
+                                                          Miami.....</p>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>cuanto es
+                                                          el precio
+                                                          final
+                                                          entonces?</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>Favor
+                                                          necesito
+                                                          confirmar ésto
+                                                          para lo que
+                                                          necesito un
+                                                          precio exacto.</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          <div>
+                                                          <p>miles de
+                                                          gracias.</p>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          </div>
+                                                          </div>
+                                                          <div>
+                                                          <p> </p>
+                                                          <div>
+                                                          <p>El 25 de
+                                                          marzo de 2015,
+                                                          11:37, Ventas1
+                                                          &lt;<a
+                                                          moz-do-not-send="true">ventas1@italcargo.cl</a>&gt;
+
+                                                          escribió:</p>
+                                                          <div>
+                                                          <div>
+                                                          <p><span>Estimado
+
+                                                          Andres,</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Notar
+                                                          que los costos
+                                                          enviados son
+                                                          de Avianca,
+                                                          sólo fue un
+                                                          error de tipeo
+                                                          por mi parte.</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>Saludos
+
+                                                          cordiales</span></p>
+                                                          <p><span> </span></p>
+                                                          <p><span>David
+                                                          Martínez C.</span></p>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                          </div>
+                                                        </div>
+                                                      </div>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </blockquote>
+        </div>
+      </blockquote>
+    </blockquote>
+    <br>
+    <pre class="moz-signature" cols="72">-- 
+atte.
+Francisco Lopez Rojas.-
+Ag.Ad.Carlo Rossi Soffia y cia. ltda
+fono:6503400
+email: <a class="moz-txt-link-abbreviated" href="mailto:flopez@rossi.cl">flopez@rossi.cl</a>
+<a class="moz-txt-link-abbreviated" href="http://www.rossi.cl">www.rossi.cl</a>
+</pre>
+  </body>
+</html>
+
+--------------080107020502050605090803
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-ID: <part2.09090401.01080601@rossi.cl>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
+JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIo
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAAR
+CAAiAJ4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2TcAcZpC6A8sv51zupD/iuNK9PKbv7NWt
+Jo2mSyPLLp9u8jnLM0YJY+9W42s29wLm9P7w/Ol3D61ynhDS7C80iSS5s4ZnE7KGkQMcADA5
+rpCLXTbFtqpBbwIWIAwFUcmicOWTiInDqSQCCRwfalJxXJaTc3en+IP9OUpHrA85Fb/lm/ZT
+74wD9RV7xqceHJCCQRImCD71XsvfUb7hc388ZrnvEGv3Frcx6XpMKXGozgbd/wByLOcFvXgE
+49ASffctwBaxDtsH8q5HSnUfEK9W4/1hM2zPriLH/jn9aKUVdt9AZpWfheV1Eutave6jcHlg
+szQwqfRUQjj65qxN4at/KZbO8vrGQjiSG6c4P0YkH8q2RRUupN63GR26PFAiSSeY6qAz4xuO
+OuKfuG7bnnrilrj5NQnt9fh1xif7OunNqPQKOj/QnJHsD60Rg53Bs7DPNJkVT1b/AJA16c8i
+3k5H+6a41hZweHNPurWYx6y74h8qQ+ZKdxyGUH5hj1FOnS51uJux3/ak3ADJOBVO9vjp+kSX
+k6AvFHuZR0Len51l6Voy6lAmp6w7Xk9wodInY+VCp6BU6dOpOTUqGnM9gOgDAjIOR7UZqiml
+adb3Uc0MKQSp90RtsDZGOVHB/GswySa9rtzZNK8dhY4EiRsVM7nsxHO0YPA60KN/QDoQ6kkA
+gkelLWZL4f0t49qWqwMB8ssGY3U+oYc5qDQL+5le7068k864sX2ebgAyr2JHr60ct02hkWoW
+1w/jDTblIJGhjiYPIB8qkhsZNbxOBmvMPGPijWbH4gQ6Ra6wbCzkgVz8iH5sNwCw4JwAM8c1
+yGp/EfxdZ6hLAmpzQqmP3cyRM68dCVGK76WBq13GEWr8t+u1yHJI9h8IW1xaaRJHcQPC5nZt
+rjBwQOasatA+pXFvprRMbVz5ty+PlZVPCZ9zj8Aa8a0T4heKtS1aG0udfMMUgYtJ5Mfy4Ukd
+R6inav8AEHxTpzWgtvEIuVntlmZxBHgMScgfLkdO/NaSwFb6z7O65nr1t1628gUly3PV9e8P
+QS6e01lEy3dufMiKsxJI6gZPf+YFR64bzVfCa4s5RdMy74dnIIPP4cV5NpfxI8W32q2lpLrf
+lxzzJGz+TH8oJwTyKhn+J/i+G5ljXWAQjsoJgj5AOM9K2jluIVRQum1r1/yJ51a57pZ6pFKI
+YBBdqxUDL27qBx3JGKzfEfhue+uY9U0qdbbUoMFSw+STGdufQjJGfQkH28r0rx94x1O21B01
+gma1hEkcawxfP8wB6jsMnis4fFTxj/0Fl/8AAeP/AAqKeWV/aNQavHffrr2G5qx7JY+KrqNR
+Frmh31hcDhmiiM8Le6smePqKtzeI0MLNY6bqF9IB8qJbmME/7z4Aryiy8eeKLnwzfao2tt51
+tIESNYIsEEZyflzVLT/iR4tvrkQyeI7SzH/PS4gUL+YU1CwLlzy09x2er/yuHNse0arLdTWE
+VrDG8c14RG7rz5CkZdifYZA9yKhvfC+nXGlvaQRGPCYizIxCEfd4JxiuFufEWs6VZLe6p47t
+mjcfu0s7OORpP93/ABrkrr4seKDO32TUSsI4XzoYyx9zhQKwwmGqYq7oPRdbNK/zSKk+X4j2
+KxnvLrwlcQ3VtMl1HbvEVdTmT5flI9c/zzWdZ+HZhpVjqNjGtpqturAh02+YNx+Vv8ff8vPN
+f+IHjLRdUe1XVQ8OA0UrW8fzggc8D14qtpvxR8V3epW1tcaqFimlVGaO3jyMnGeRjvXVDA15
+UfbQa5Wr9drdiedXsz2SK4XX9MuLG6tZ7OcrsljkQ/KezKejDPIxVXTNSutHiXTdWspwsI2x
+XkMZkikXtnbkqfqK8m1L4o+KrTUrm2ttUDRQyMitJbx5ODjPAqzoPxG8WatqDW8uqYVYXkAi
+to97lVyFGRjJpTy6tCg6srctr9br8AU03Y9OkDaj4tsb22hle3giYPK0ZUAkNjqBnr+tSyW1
+1o+uzalbW7XNneAC4ji5kjYdHA/iHXIHPPevJ9Z+JXizTNUltItYhnVMfN9njyMgHaccZGcH
+HcUmkfEnxlquqQ2f9qQRrIfnkNvGAijljyOwBo+oVvY+2uuW3ntv2HzK/Keyy69beWfs0F1c
+zY+WFLdwSfQlgAPxNR6DptxZrcXl6U+2Xr+ZKqHKxjsoPfHrXk2qeP8AxrZ6y1jZ6lHdo6+Z
+Awt4yXQjOeOMgZz9K6/4VeLNY8UR6k2rXCTfZzGI9sYXGd2en0rmnhJxw/totcrSe+uu3RD5
+lzWOo1PR9LvroS3mm2lxJtA3ywK5x6ZIqmPDehbB/wASTT//AAFT/Ciiuyj8EfQGNbw3oWP+
+QLp//gKn+FM/4RzQsj/iS6f/AOAqf4UUV0LczEbw3oWf+QLp/T/n1T/Cmjw5oX/QF0//AMBU
+/wAKKKS+L5B0Ebw5oWf+QLp/X/n1T/CmDw5oX/QF0/8A8BU/wooq4FPYafDmh5/5Aun9P+fV
+P8Kd/wAI5oXH/El0/p/z6p/hRRRHf+uwn0I/+Ec0If8AMF0/t/y6p/hQfDmhcf8AEl0//wAB
+U/wooq+ouo0eHdDPXRtP6/8APqn+FH/COaFj/kC6f/4Cp/hRRSh8BT3E/wCEc0LA/wCJLp//
+AICp/hSN4d0MDI0bTwf+vVP8KKKcthL4ho8OaFj/AJAun/8AgKn+FNfw7oYHGjaf/wCAqf4U
+UVX2RPcafD2iAf8AIGsP/AZP8K6Dwvp1jYG6FlZ29sHK7vJiVN3XrgUUVx4v+FL+upcdz//Z
+
+--------------080107020502050605090803--
+
+--------------070904060502090101060704--
