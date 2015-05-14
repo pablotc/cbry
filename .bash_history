@@ -13,13 +13,10 @@ git add .
 #1408042621
 git commit -m 'cbry inicial'
 #1408042674
-git config --global user.email 'unreamlo@gmail.com'
 #1408042693
-git config --global user.name 'Pablo Tapia'
 #1408042699
 git commit -m 'cbry inicial'
 #1408042741
-git remote add origin https://github.com/pablotc/cbry.git
 #1408042751
 git push -u origin master
 #1408042782
@@ -29,17 +26,11 @@ git push
 #1408042822
 git push master
 #1408042832
-git push https://github.com/pablotc/cbry.git
 #1408042878
-git push https://github.com/pablotc/cbry.git master
 #1408042963
-git config --global pack.windowMemory "100m"
 #1408042963
-git config --global pack.SizeLimit "100m"
 #1408042964
-git config --global pack.threads "1"
 #1408042970
-git config --global pack.SizeLimit "1000m"
 #1408042978
 git config --global pack.windowMemory "1000m"
 #1408042986
@@ -107,7 +98,6 @@ mkdir modulo_pago
 #1429049325
 cd modulo_pago/
 #1429049335
-git clone https://github.com/pablotc/ccc
 #1429049349
 ls ccc/
 #1429049352
@@ -172,3 +162,45 @@ git commit -a -m '2015-05-13 15:29:00 eliminados dpay'
 git push
 #1431562503
 git  add *
+#1431562649
+git commit -a -m '2015-05-13 21:27:00'
+#1431562659
+git push
+#1431562669
+git push
+#1431562679
+git push
+#1431563147
+ls
+#1431563162
+nano .htaccess
+#1431564039
+nano php.ini 
+#1431564053
+nano php.ini 
+#1431564742
+ls -lh
+#1431564760
+nano .htaccess-1418351082 
+#1431564849
+cd public_html/
+#1431564851
+ls
+#1431564862
+nano .htaccess 
+#1431564929
+ls -lh
+#1431564951
+nano .htaccess 
+#1431565109
+nano info.php
+#1431565235
+nano info.php
+#1431565248
+chmod 777 info.php 
+#1431565312
+ls -lh
+#1431565321
+nano .htaccess 
+#1431613817
+nano .bash_history 
