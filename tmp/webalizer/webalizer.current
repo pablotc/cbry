@@ -1,7 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 05/12/2015 07:23:32
-2015 5 12 7 23 32
-49109 44146 658 855 81 237 758274107 6889 1130 0
-25 158 1744 1 12
+# Webalizer V2.23-05 Incremental Data - 05/13/2015 07:22:25
+2015 5 13 7 22 25
+53914 48038 714 884 86 247 826756033 7657 1252 0
+16 2 1744 1 13
 4476 3752 63482812 74 595 92
 2153 1860 30862507 49 310 88
 2932 2670 46461110 46 394 84
@@ -13,7 +13,8 @@
 3032 2697 45026808 62 622 82
 3138 2849 51562413 66 573 76
 6195 5804 97496396 86 663 106
-448 422 7303767 25 54 29
+5080 4193 73679989 104 758 131
+173 121 2105704 16 64 20
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -32,58 +33,54 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-729 665 11729721 107
-482 460 8573040 77
-103 77 2090968 45
-411 367 8494040 165
-221 204 4512869 64
-231 213 3751488 53
-1961 1652 26822901 264
-2039 1838 30750462 229
-1868 1734 29799648 301
-2454 2240 35326809 399
-4104 3812 65863470 479
-3358 3154 55350314 393
-2664 2351 39010626 302
-1932 1693 31299957 267
-2463 2276 38379549 264
-3363 3051 52050475 377
-1913 1751 30543561 269
-2324 1948 29420875 311
-2749 2344 42109830 433
-2224 1997 36385739 469
-4884 4610 73086096 691
-3113 2737 51090793 422
-2487 2088 36368854 374
-1032 884 15462022 134
+732 668 11875292 110
+486 460 8647196 78
+108 81 2248386 49
+416 369 8538646 170
+226 206 4589849 67
+376 319 5275573 95
+1965 1655 26883486 268
+2148 1911 31842928 238
+2149 1958 33908325 344
+3025 2712 44449637 480
+4232 3938 67574663 494
+4041 3761 64961124 495
+2947 2541 41819832 386
+2099 1810 33794314 289
+2643 2446 41663298 302
+3735 3361 57270632 435
+2242 1952 36297923 371
+2644 2264 34370487 333
+2752 2346 42149810 436
+2426 2171 38584171 485
+5074 4796 76041113 725
+3638 3072 57414490 467
+2753 2336 40649324 399
+1057 905 15905534 141
 0
 0
 0
-44146
-0
-0
-0
-0
-0
-321
-0
-18
-861
-0
-842
+48038
 0
 0
 0
 0
 0
+323
 0
-2854
+22
+967
 0
-21
+962
 0
 0
 0
+0
+0
+0
+3518
+0
+28
 0
 0
 0
@@ -92,7 +89,10 @@
 0
 0
 0
-46
+0
+0
+0
+56
 0
 0
 0
@@ -100,33 +100,33 @@
 0
 # -urls- 
 /modules/dashactivity/views/js/dashactivity.js
-0 2 3343466847679296050 6630 0 0
+0 3 3343466847679296050 9945 0 0
 /img/p/2/3/7/237-thickbox_default.jpg
-0 5 3544664092510858547 188935 0 0
+0 5 3474862463562809344 188935 0 0
 /themes/default-bootstrap/css/product.css
-0 186 7810137247586743145 6298860 0 0
+0 197 3329348890828943661 6677480 0 0
 /img/p/2/0/7/207-cart_default.jpg
-0 9 8314041219032902958 13959 0 0
-/img/tmp/product_mini_21_1.jpg
-0 6 7017171169396654080 8646 0 0
+0 10 3275364210844656384 15510 0 0
 /themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css
-0 394 0 1142037 0 0
+0 428 3330188921957396782 1242371 0 0
+/img/tmp/product_mini_21_1.jpg
+0 6 3530822107858468864 8646 0 0
 /img/p/1/1/7/117-cart_default.jpg
-0 14 3546638586918993920 20020 0 0
+0 15 7103278 21450 0 0
 /img/p/2/2/8/228-cart_default.jpg
-0 1 109 1944 0 0
+0 1 0 1944 0 0
 /img/p/2/4/6/246-cart_default.jpg
 0 5 0 12015 0 0
 /img/p/8/5/85-thickbox_default.jpg
-0 12 0 97212 0 0
+0 14 0 113414 0 0
 /js/jquery/plugins/jqzoom/jquery.jqzoom.css
-0 166 0 329640 0 0
+0 177 0 351750 0 0
 /img/p/1/1/1/111-cart_default.jpg
-0 27 0 35964 0 0
+0 28 0 37296 0 0
 /img/p/2/4/1/241-cart_default.jpg
 0 3 0 5751 0 0
 /modules/payulatam/pages/confirmation.php
-0 2 32872352 0 0 0
+0 2 0 0 0 0
 /modules/gamification/views/css/advice-1.6.0.8_479.css
 0 16 0 43928 0 0
 /img/p/1/2/6/126-thickbox_default.jpg
@@ -142,11 +142,11 @@
 /img/p/5/5/55-cart_default.jpg
 0 3 0 6207 0 0
 /img/p/2/4/1/241-home_default.jpg
-0 163 0 1145277 0 0
-/img/tmp/product_mini_55.jpg
-0 25 0 33175 0 0
+0 171 0 1195698 0 0
 /themes/default-bootstrap/img/icon/form-error.png
 0 7 0 1330 0 0
+/img/tmp/product_mini_55.jpg
+0 30 0 39810 0 0
 /img/p/1/9/2/192-cart_default.jpg
 0 4 0 8036 0 0
 /modules/themeconfigurator/css/live_configurator.css
@@ -156,57 +156,59 @@
 /img/p/1/6/6/166-large_default.jpg
 0 1 0 13521 0 0
 /themes/default-bootstrap/js/order-carrier.js
-0 23 0 50646 0 0
-/img/p/1/0/3/103-home_default.jpg
-0 138 0 843885 0 0
+0 25 0 55050 0 0
 /img/p/2/0/0/200-thickbox_default.jpg
 0 4 0 224116 0 0
+/img/p/1/0/3/103-home_default.jpg
+0 147 0 900144 0 0
 /img/p/6/0/60-cart_default.jpg
 0 5 0 12045 0 0
 /img/p/1/4/9/149-cart_default.jpg
 0 6 0 11544 0 0
 /img/p/1/8/5/185-large_default.jpg
-0 7 0 237027 0 0
+0 7 3615888243783252017 237027 0 0
 /themes/default-bootstrap/js/autoload/15-jquery.uniform-modified.js
-0 371 7290884046973791593 13253515 0 0
+0 404 6137970662183024433 14451778 0 0
 /img/p/3/9/39-thickbox_default.jpg
-0 4 3615606768789764145 125058 0 0
+0 5 0 166744 0 0
 /modules/homeslider/images/61e22ab9d15572ce04e2a9fe7087fbc3e0b2ccb5_1408356362-11320000.jpg
-0 204 3251597836553302574 30677518 0 0
+0 221 30508348405806126 33370420 0 0
 /img/p/2/8/28-home_default.jpg
-0 242 8142844792434210867 1644000 0 0
-/img/p/1/8/9/189-cart_default.jpg
-0 3 3833461782353490222 8343 0 0
+0 261 7146775421574670710 1774150 0 0
 /img/tmp/product_mini_55_1.jpg
-0 6 18086793869113111342 7962 0 0
+0 6 3616721673663884658 7962 0 0
+/img/p/1/8/9/189-cart_default.jpg
+0 3 3345738485950079858 8343 0 0
+/img/p/1/6/4/164-large_default.jpg
+0 1 0 19465 0 0
 /img/p/1/3/8/138-cart_default.jpg
 0 1 0 2856 0 0
-/img/p/1/6/4/164-large_default.jpg
-0 1 87593891732598325 19465 0 0
 /img/p/1/8/1/181-large_default.jpg
 0 4 0 102256 0 0
+/img/p/2/2/1/221-thickbox_default.jpg
+0 1 19638160 42095 0 0
 /img/p/2/0/3/203-home_default.jpg
-0 191 0 1363188 0 0
+0 206 0 1464702 0 0
 /img/p/2/5/1/251-thickbox_default.jpg
 0 3 0 256155 0 0
 /img/p/2/0/9/209-thickbox_default.jpg
-0 9 0 210762 0 0
+0 10 0 234180 0 0
 /img/p/1/5/7/157-thickbox_default.jpg
 0 8 0 250592 0 0
 /js/jquery/ui/themes/base/jquery.ui.datepicker.css
-0 3 0 7404 0 0
+0 4 0 11106 0 0
 /img/tmp/product_mini_17.jpg
-0 2 0 2264 0 0
+0 4 0 4528 0 0
 /img/p/4/5/45-large_default.jpg
 0 5 0 122225 0 0
-/img/p/1/1/2/112-thickbox_default.jpg
-0 25 0 883650 0 0
 /themes/default-bootstrap/css/modules/blockcurrencies/blockcurrencies.css
-0 395 0 729375 0 0
-/img/tmp/product_mini_59_1.jpg
-0 6 0 8064 0 0
+0 428 0 791250 0 0
+/img/p/1/1/2/112-thickbox_default.jpg
+0 26 0 918996 0 0
 /img/tmp/product_mini_49_1.jpg
 0 6 0 5946 0 0
+/img/tmp/product_mini_59_1.jpg
+0 6 0 8064 0 0
 /img/p/2/0/4/204-thickbox_default.jpg
 0 4 0 193868 0 0
 /img/tmp/product_mini_54_1.jpg
@@ -218,37 +220,39 @@
 /img/p/1/5/2/152-cart_default.jpg
 0 3 0 4194 0 0
 /themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css
-0 393 0 2114035 0 0
+0 428 0 2300729 0 0
 /img/p/1/9/6/196-thickbox_default.jpg
 0 9 0 248868 0 0
 /themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css
-0 393 0 172542 0 0
+0 426 0 187293 0 0
 /img/p/1/6/8/168-thickbox_default.jpg
 0 2 0 124072 0 0
 /img/tmp/product_mini_22_1.jpg
 0 6 0 7650 0 0
 /themes/default-bootstrap/img/functional-bt-shadow.png
-0 266 0 720946 0 0
+0 291 3473169431212993847 789071 0 0
 /js/jquery/plugins/growl/jquery.growl.js
-0 334 3760836848871615801 1944015 0 0
+0 366 3328215294357092404 2134255 0 0
 /img/tmp/product_mini_11_1.jpg
-0 6 3329058619843292473 7638 0 0
+0 6 0 7638 0 0
 /themes/default-bootstrap/js/modules/productscategory/js/productscategory.js
-0 180 108 223924 0 0
+0 190 119173235960180 236504 0 0
 /img/p/2/5/4/254-large_default.jpg
-0 1 119173236810100 23892 0 0
+0 1 1918971501 23892 0 0
 /img/p/1/3/0/130-cart_default.jpg
-0 8 119173236810100 16320 0 0
+0 9 119173236810100 18360 0 0
 /img/p/2/0/3/203-thickbox_default.jpg
-0 4 8100961380475416172 156516 0 0
+0 4 7017222212790874723 156516 0 0
 /img/p/7/6/76-cart_default.jpg
-0 2 7146768824403059570 3810 0 0
+0 2 0 3810 0 0
 /img/p/3/7/37-cart_default.jpg
 0 13 0 24661 0 0
 /img/p/1/3/2/132-cart_default.jpg
-0 8 0 22768 0 0
+0 9 0 25614 0 0
 /img/canterbury-1410657356.jpg
-0 371 0 1783755 0 0
+0 403 0 1940139 0 0
+/img/tmp/product_mini_15.jpg
+0 3 18877968 3942 0 0
 /img/p/1/4/8/148-thickbox_default.jpg
 0 5 0 764605 0 0
 /backoffice/themes/default/js/tree.js
@@ -260,7 +264,7 @@
 /img/tmp/product_mini_36_155.jpg
 0 3 0 3060 0 0
 /img/p/1/6/7/167-home_default.jpg
-0 185 0 1574482 0 0
+0 200 0 1695596 0 0
 /img/p/3/4/34-thickbox_default.jpg
 0 1 0 52306 0 0
 /img/p/4/8/48-large_default.jpg
@@ -268,63 +272,65 @@
 /img/p/1/6/2/162-cart_default.jpg
 0 1 0 1664 0 0
 /js/tools.js
-0 343 0 5632704 0 0
+0 378 0 6219444 0 0
 /img/p/1/3/1/131-large_default.jpg
 0 3 0 60210 0 0
 /modules/socialsharing/css/socialsharing.css
-0 187 0 9990 0 0
+0 198 0 10584 0 0
+/img/p/8/1/81-small_default.jpg
+0 1 18875792 2727 0 0
 /img/p/8/5/85-large_default.jpg
 0 4 0 19128 0 0
 /img/p/2/1/6/216-cart_default.jpg
 0 4 0 6552 0 0
 /js/jquery/plugins/chosen/jquery.chosen.css
-0 3 0 28450 0 0
+0 4 0 42675 0 0
 /img/p/2/0/8/208-thickbox_default.jpg
-0 9 0 860391 0 0
+0 10 0 955990 0 0
 /img/p/2/4/6/246-thickbox_default.jpg
 0 5 0 286370 0 0
 /img/p/2/3/0/230-thickbox_default.jpg
-0 2 32899664 115212 0 0
+0 2 0 115212 0 0
 /img/p/1/2/8/128-thickbox_default.jpg
 0 1 0 237276 0 0
 /img/p/1/7/5/175-home_default.jpg
-0 189 0 1644612 0 0
+0 204 0 1768400 0 0
 /themes/default-bootstrap/css/modules/blockwishlist/blockwishlist.css
-0 393 0 1714023 0 0
+0 426 0 1860180 0 0
 /img/tmp/product_mini_44_1.jpg
-0 6 0 7686 0 0
+0 6 108 7686 0 0
 /img/p/4/5/45-cart_default.jpg
-0 13 0 31590 0 0
+0 14 465520456289 34020 0 0
 /js/jquery/plugins/growl/jquery.growl.css
-0 337 7579052591631315501 492528 0 0
+0 369 119173236876144 540144 0 0
 /themes/default-bootstrap/js/modules/sendtoafriend/sendtoafriend.js
-0 180 7810137251915000933 345320 0 0
+0 190 0 364720 0 0
 /img/p/1/2/9/129-cart_default.jpg
-0 8 3328218609954732337 17128 0 0
+0 9 119173236810100 19269 0 0
 /img/p/1/9/7/197-thickbox_default.jpg
-0 9 3472606502734409011 254754 0 0
+0 9 1836016430 254754 0 0
 /backoffice/themes/default/js/vendor/typeahead.min.js
-0 10 7146775421574670710 218040 0 0
-/img/p/2/1/5/215-large_default.jpg
-0 1 3616721673663884658 41671 0 0
+0 10 0 218040 0 0
 /img/p/1/8/0/180-cart_default.jpg
-0 19 3345738485950079858 38931 0 0
+0 19 0 38931 0 0
+/img/p/2/1/5/215-large_default.jpg
+0 1 0 41671 0 0
 /img/p/1/7/9/179-small_default.jpg
 0 2 0 5380 0 0
 /modules/themeconfigurator/js/live_configurator.js
 0 1 0 3866 0 0
 /modules/gamification/views/css/advice-1.6.0.8_582.css
-0 28 0 131784 0 0
+0 32 0 153748 0 0
 /img/p/5/8/58-thickbox_default.jpg
 0 6 0 266052 0 0
 /img/p/2/3/3/233-home_default.jpg
-0 192 0 1334993 0 0
+0 207 0 1434939 0 0
 /img/p/1/3/4/134-thickbox_default.jpg
-0 10 0 774330 0 0
+0 11 0 851763 0 0
 /img/tmp/product_mini_25.jpg
-0 25 0 35575 0 0
+0 27 0 38421 0 0
 /themes/default-bootstrap/css/addresses.css
-0 32 0 13824 0 0
+0 36 0 15552 0 0
 /img/p/1/0/6/106-thickbox_default.jpg
 0 14 0 777166 0 0
 /img/p/3/8/38-cart_default.jpg
@@ -332,85 +338,87 @@
 /img/p/1/0/3/103-thickbox_default.jpg
 0 16 0 504465 0 0
 /themes/default-bootstrap/js/modules/crossselling/js/crossselling.js
-0 186 0 233864 0 0
+0 197 0 247845 0 0
 /img/p/1/8/7/187-home_default.jpg
-0 163 0 1321005 0 0
+0 171 0 1378440 0 0
 /img/p/5/7/57-cart_default.jpg
 0 3 0 7134 0 0
 /themes/default-bootstrap/css/print.css
-0 186 0 315770 0 0
+0 196 0 333120 0 0
 /img/tmp/product_mini_15_1.jpg
 0 6 0 5916 0 0
 /img/p/1/9/9/199-cart_default.jpg
 0 5 0 6453 0 0
 /js/jquery/plugins/jquery.idTabs.js
-0 160 0 339542 0 0
+0 171 0 363181 0 0
 /img/p/1/2/0/120-large_default.jpg
-0 6 0 144534 0 0
+0 7 0 168623 0 0
 /img/p/1/5/6/156-large_default.jpg
 0 28 0 424935 0 0
 /img/p/1/4/7/147-cart_default.jpg
 0 7 0 13818 0 0
 /themes/default-bootstrap/css/contact-form.css
 0 26 0 45474 0 0
+/img/p/8/0/80-thickbox_default.jpg
+0 1 18909392 28367 0 0
 /img/p/2/1/3/213-large_default.jpg
-0 4 0 93172 0 0
+0 4 3256438075818520877 93172 0 0
 /img/p/1/1/4/114-large_default.jpg
-0 23 0 504021 0 0
+0 23 3904674947183161600 504021 0 0
 /img/p/1/0/4/104-thickbox_default.jpg
-0 14 1818439283 447252 0 0
+0 14 3543548096778600448 447252 0 0
 /img/p/1/6/7/167-thickbox_default.jpg
-0 2 3258693191195766833 93306 0 0
+0 2 5571842 93306 0 0
 /themes/default-bootstrap/js/modules/blockwishlist/js/ajax-wishlist.js
-0 371 1818439283 3639050 0 0
+0 403 7811887601445961728 3958090 0 0
 /img/p/2/3/1/231-cart_default.jpg
-0 2 32899152 4708 0 0
+0 2 3256163197810716928 4708 0 0
 /js/jquery/plugins/jquery.chosen.js
-0 3 27747 80874 0 0
+0 4 3257846567246525295 121311 0 0
 /img/p/2/3/8/238-cart_default.jpg
-0 5 1918971508 11890 0 0
+0 5 0 11890 0 0
 /img/p/1/0/3/103-large_default.jpg
-0 30 3834020372914711924 420684 0 0
+0 30 0 420684 0 0
 /img/p/1/8/1/181-thickbox_default.jpg
-0 17 3963167672086036480 1123275 0 0
+0 17 0 1123275 0 0
 /img/p/1/3/6/136-thickbox_default.jpg
-0 10 0 939800 0 0
-/img/p/1/4/9/149-thickbox_default.jpg
-0 5 0 181110 0 0
+0 11 0 1033780 0 0
 /img/p/1/1/3/113-large_default.jpg
 0 9 0 155647 0 0
+/img/p/1/4/9/149-thickbox_default.jpg
+0 5 0 181110 0 0
 /img/p/2/2/1/221-home_default.jpg
-0 164 0 1258215 0 0
+0 172 0 1312920 0 0
 /img/tmp/product_mini_55_215.jpg
 0 2 0 2654 0 0
 /img/p/2/0/8/208-cart_default.jpg
-0 9 0 20538 0 0
+0 10 0 22820 0 0
+/img/prestashop-avatar.png
+0 4 0 13473 0 0
 /img/p/1/2/7/127-cart_default.jpg
 0 1 0 1397 0 0
-/img/prestashop-avatar.png
-0 3 0 8982 0 0
 /img/p/1/1/6/116-cart_default.jpg
 0 23 0 50526 0 0
 /img/p/1/6/3/163-cart_default.jpg
 0 3 0 5712 0 0
 /modules/gamification/views/css/advice-1.6.0.8_556.css
-0 18 0 197676 0 0
+0 23 0 285532 0 0
 /img/p/5/6/56-large_default.jpg
 0 1 0 13660 0 0
 /img/p/1/4/4/144-thickbox_default.jpg
-0 22 0 3196798 0 0
+0 25 0 3632725 0 0
 /img/p/1/8/1/181-cart_default.jpg
 0 19 0 33440 0 0
 /js/jquery/ui/themes/base/images/ui-bg_flat_75_ffffff_40x100.png
-0 1 0 97 0 0
+0 2 0 194 0 0
 /img/tmp/product_mini_53_1.jpg
 0 6 0 8364 0 0
 /img/p/4/9/49-thickbox_default.jpg
-0 7 0 467775 0 0
-/img/p/1/3/6/136-cart_default.jpg
-0 10 0 30350 0 0
+0 8 0 534600 0 0
 /img/p/9/6/96-large_default.jpg
 0 7 0 155197 0 0
+/img/p/1/3/6/136-cart_default.jpg
+0 11 0 33385 0 0
 /img/p/2/2/5/225-cart_default.jpg
 0 1 0 2380 0 0
 /img/p/1/9/6/196-cart_default.jpg
@@ -418,349 +426,357 @@
 /img/p/1/2/5/125-cart_default.jpg
 0 1 0 1497 0 0
 /img/tmp/product_mini_14.jpg
-0 2 0 2734 0 0
+0 6 3543829571755376640 8202 0 0
 /themes/default-bootstrap/img/bankwire.png
-0 9 0 7623 0 0
+0 11 23781746914965555 9317 0 0
 /img/tmp/product_mini_43_1.jpg
-0 6 0 7608 0 0
+0 6 6119566624240973361 7608 0 0
+/img/p/4/0/40-large_default.jpg
+0 1 19503056 17404 0 0
 /img/admin/arrow_up.png
-0 1 3615888243783252017 478 0 0
+0 1 3256999943289059377 478 0 0
 /img/tallas/SOCKS SIZE CHART.png
-0 61 4049018639494414336 5461452 0 0
+0 65 3630367497811669294 5819580 0 0
 /img/p/1/9/9/199-small_default.jpg
-0 1 3531103582835179628 2708 0 0
+0 1 7599383935954870626 2708 0 0
 /img/p/1/4/7/147-thickbox_default.jpg
-0 8 1918971508 264355 0 0
+0 8 30508348691408686 264355 0 0
 /themes/default-bootstrap/css/modules/homeslider/images/bx_loader.gif
-0 191 3531103582835179520 1638971 0 0
+0 208 0 1784848 0 0
 /img/p/1/8/4/184-large_default.jpg
-0 7 3531103582835179520 167524 0 0
+0 8 0 191456 0 0
 /img/p/1/3/9/139-home_default.jpg
-0 241 3473736567950934016 2229382 0 0
+0 260 0 2400526 0 0
 /modules/payulatam/img/logoPayU.png
-0 9 0 21744 0 0
+0 11 0 26576 0 0
 /img/p/5/7/57-thickbox_default.jpg
 0 2 0 105856 0 0
 /themes/default-bootstrap/css/modules/blockcontact/blockcontact.css
-0 396 0 514647 0 0
+0 429 0 558306 0 0
 /themes/default-bootstrap/font/fontawesome-webfont.ttf
 0 6 0 474456 0 0
 /img/p/1/0/5/105-large_default.jpg
 0 3 0 56778 0 0
 /modules/payulatam/validation.php
-0 9 0 21246 0 0
+0 12 0 28242 0 0
 /img/p/2/3/9/239-cart_default.jpg
 0 5 0 16640 0 0
 /img/p/1/8/3/183-small_default.jpg
-0 1 0 2912 0 0
-/img/p/2/3/5/235-cart_default.jpg
-0 7 0 12187 0 0
+0 2 0 5824 0 0
 /img/p/9/6/96-cart_default.jpg
 0 24 0 49320 0 0
+/img/p/2/3/5/235-cart_default.jpg
+0 8 0 13928 0 0
 /js/jquery/plugins/jquery.storageapi.js
-0 3 0 28348 0 0
+0 4 0 42522 0 0
 /img/p/9/2/92-cart_default.jpg
-0 13 0 27898 0 0
+0 15 0 32190 0 0
 /backoffice/themes/default/js/help.js
-0 3 0 23262 0 0
+0 4 0 34893 0 0
 /img/p/1/8/3/183-thickbox_default.jpg
-0 18 0 758700 0 0
+0 20 0 843000 0 0
 /img/p/3/9/39-cart_default.jpg
-0 2 0 3944 0 0
+0 3 0 5916 0 0
 /img/p/2/5/0/250-cart_default.jpg
 0 3 0 7143 0 0
 /img/p/4/3/43-home_default.jpg
-0 119 0 824432 0 0
+0 131 0 907568 0 0
 /img/tmp/product_mini_12_1.jpg
 0 6 0 7176 0 0
 /img/p/1/3/2/132-thickbox_default.jpg
-0 7 0 1372441 0 0
+0 8 0 1568504 0 0
 /img/p/4/8/48-cart_default.jpg
-0 7 0 12075 0 0
+0 8 0 13800 0 0
 /js/jquery/plugins/footable/jquery.footable.css
-0 11 0 22022 0 0
+0 14 0 28028 0 0
 /img/p/6/2/62-home_default.jpg
-0 195 0 2097226 0 0
+0 212 0 2282288 0 0
 /themes/default-bootstrap/img/bg_bt.gif
-0 266 0 83524 0 0
+0 291 7810086178790572032 91374 0 0
 /img/tmp/product_mini_24_1.jpg
-0 6 0 8580 0 0
+0 6 3115647849425220401 8580 0 0
 /img-sys/bg.jpg
-0 3 0 1524 0 0
+0 3 119173236810100 1524 0 0
 /img/p/2/4/2/242-cart_default.jpg
-0 3 85 6837 0 0
+0 3 1918971501 6837 0 0
 /img/p/1/4/2/142-thickbox_default.jpg
-0 1 32901376 76875 0 0
+0 1 7146768841684706658 76875 0 0
 /img/p/5/1/51-home_default.jpg
-0 198 23907485639324977 1296360 0 0
+0 215 7599383935954870626 1409376 0 0
 /img/p/3/3/33-thickbox_default.jpg
-0 1 30508348640292972 33487 0 0
+0 1 8316308407861536353 33487 0 0
 /img/p/1/9/1/191-home_default.jpg
-0 232 7599383935954870626 1992492 0 0
+0 252 3832894735977180787 2158533 0 0
 /img/p/1/7/3/173-cart_default.jpg
-0 2 32897616 5628 0 0
+0 2 0 5628 0 0
 /webmail
-0 6 3833254271984861184 53196 2 2
+0 6 0 53196 2 2
 /img/p/1/6/3/163-large_default.jpg
-0 4 85 65852 0 0
+0 5 0 82315 0 0
 /img/p/2/0/3/203-large_default.jpg
-0 4 6137597047273042226 69676 0 0
+0 4 0 69676 0 0
 /img/p/2/0/1/201-thickbox_default.jpg
-0 4 3759999051042271287 113784 0 0
+0 4 0 113784 0 0
 /backoffice/themes/default/js/admin-theme.js
-0 4 0 27166 0 0
-/img/tmp/product_mini_37_1.jpg
-0 6 0 7416 0 0
+0 5 0 40749 0 0
 /img/p/1/0/4/104-large_default.jpg
 0 7 0 106659 0 0
+/img/tmp/product_mini_37_1.jpg
+0 6 0 7416 0 0
+/img/p/1/4/3/143-home_default.jpg
+0 207 0 1794384 0 0
 /img/p/1/3/9/139-thickbox_default.jpg
 0 3 0 190077 0 0
-/img/p/1/4/3/143-home_default.jpg
-0 191 0 1662444 0 0
+/modules/gamification/views/img/bg_locked_badge.png
+0 1 19593328 1722 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/superfish-modified.js
-0 372 0 2548795 0 0
+0 404 0 2772251 0 0
 /img/p/1/3/3/133-large_default.jpg
-0 10 0 269680 0 0
+0 11 0 296648 0 0
 /img/p/1/1/0/110-thickbox_default.jpg
-0 27 0 925020 0 0
+0 28 0 959280 0 0
 /themes/default-bootstrap/img/footer-bg.png
-0 232 0 19236 0 0
+0 251 0 20832 0 0
 /img/tmp/product_mini_19_1.jpg
 0 6 0 7704 0 0
 /img/p/2/3/1/231-thickbox_default.jpg
-0 2 32899536 159194 0 0
+0 2 0 159194 0 0
 /themes/default-bootstrap/js/order-address.js
-0 24 0 186144 0 0
+0 27 0 209412 0 0
 /img/p/2/8/28-large_default.jpg
 0 1 0 15130 0 0
 /img/p/1/6/3/163-home_default.jpg
-0 164 0 1118286 0 0
+0 172 0 1166607 0 0
 /js/jquery/plugins/footable-sort/jquery.footable-sort.js
-0 10 0 80400 0 0
+0 13 0 104520 0 0
 /img/p/2/3/3/233-small_default.jpg
 0 1 0 2445 0 0
 /img/p/1/6/8/168-cart_default.jpg
 0 2 0 4998 0 0
 /modules/gamification/views/js/gamification_bt.js
-0 3 0 11016 0 0
+0 4 0 16524 0 0
 /img/p/1/4/2/142-cart_default.jpg
 0 2 0 2140 0 0
 /img/p/1/9/7/197-large_default.jpg
-0 4 0 53244 0 0
+0 4 3832062142588532785 53244 0 0
 /img/p/2/0/7/207-large_default.jpg
-0 10 0 122280 0 0
+0 11 3906926557108633600 134508 0 0
 /img/p/2/3/7/237-large_default.jpg
-0 5 0 89970 0 0
+0 5 8029189357920792877 89970 0 0
 /img/p/2/1/1/211-large_default.jpg
-0 17 0 450030 0 0
+0 17 3257844368219191345 450030 0 0
 /js/admin.js
-0 3 0 86260 0 0
+0 4 1134577257779638574 129390 0 0
 /img/p/2/0/2/202-large_default.jpg
-0 1 32898384 42882 0 0
+0 1 3690472494150857006 42882 0 0
 /img/p/1/0/5/105-thickbox_default.jpg
-0 14 0 560911 0 0
+0 14 3329905260808973881 560911 0 0
 /img/p/3/9/39-home_default.jpg
-0 195 93508990927161 1527552 0 0
+0 212 0 1662804 0 0
 /img/p/1/3/5/135-cart_default.jpg
-0 10 23939770505835314 23000 0 0
-/img/p/9/3/93-home_default.jpg
-0 138 3256999943289059377 1355739 0 0
+0 11 0 25300 0 0
 /themes/default-bootstrap/font/fontawesome-webfont.eot
-0 35 3257562893242480689 1309175 0 0
+0 35 0 1309175 0 0
+/img/p/9/3/93-home_default.jpg
+0 147 0 1446558 0 0
 /img/p/1/5/0/150-cart_default.jpg
-0 6 3630367497811669294 15102 0 0
+0 6 0 15102 0 0
 /js/jquery/plugins/jquery.validate.js
-0 3 7599383935954870626 42136 0 0
+0 4 0 63204 0 0
 /img/p/1/4/7/147-large_default.jpg
-0 7 30508348691408686 119063 0 0
+0 7 0 119063 0 0
 /img/p/1/8/6/186-large_default.jpg
-0 4 7165897045451880758 66360 0 0
+0 4 0 66360 0 0
 /backoffice/themes/default/css/vendor/nv.d3.css
-0 3 0 25670 0 0
+0 4 0 38505 0 0
 /img/p/4/4/44-thickbox_default.jpg
-0 13 0 513565 0 0
+0 14 0 553070 0 0
 /img/p/4/7/47-thickbox_default.jpg
-0 8 0 219562 0 0
-/img/p/1/9/2/192-thickbox_default.jpg
-0 4 0 246464 0 0
+0 9 0 250928 0 0
 /img/p/1/4/8/148-large_default.jpg
 0 2 0 103062 0 0
+/img/p/1/9/2/192-thickbox_default.jpg
+0 4 0 246464 0 0
 /img/p/2/0/4/204-cart_default.jpg
 0 4 0 8928 0 0
 /themes/default-bootstrap/css/autoload/uniform.default.css
-0 398 0 4783494 0 0
+0 433 0 5211684 0 0
 /img/p/2/3/6/236-thickbox_default.jpg
-0 7 0 697753 0 0
+0 8 0 797432 0 0
 /backoffice/themes/default/js/modernizr-loads.js
-0 3 0 478 0 0
+0 4 0 717 0 0
 /img/p/1/4/1/141-cart_default.jpg
-0 1 32901248 2097 0 0
+0 1 0 2097 0 0
 /img/p/2/4/0/240-large_default.jpg
-0 1 32900176 10928 0 0
+0 1 0 10928 0 0
 /img/p/1/4/5/145-thickbox_default.jpg
-0 22 0 1491248 0 0
+0 25 0 1694600 0 0
 /themes/default-bootstrap/css/modules/blocktopmenu/css/blocktopmenu.css
-0 388 0 15662 0 0
-/img/p/2/4/9/249-home_default.jpg
-0 132 0 964184 0 0
+0 422 0 17056 0 0
 /img/p/3/2/32-cart_default.jpg
 0 2 0 3896 0 0
+/img/p/2/4/9/249-home_default.jpg
+0 140 0 1017328 0 0
 /img/tmp/product_mini_48_1.jpg
 0 6 0 7608 0 0
 /img/p/8/3/83-home_default.jpg
-0 119 0 573342 0 0
+0 131 0 631158 0 0
 /img/p/1/4/1/141-thickbox_default.jpg
-0 2 0 136020 0 0
+0 2 3687944759831232512 136020 0 0
 /img/p/1/7/4/174-thickbox_default.jpg
-0 2 32898256 67830 0 0
+0 2 3543829571755376640 67830 0 0
 /img/p/3/0/30-cart_default.jpg
-0 1 0 2196 0 0
-/img/p/2/0/5/205-cart_default.jpg
-0 4 0 6656 0 0
+0 1 3329910757608390656 2196 0 0
 /img/p/1/8/7/187-cart_default.jpg
-0 3 0 6213 0 0
+0 3 8316308407861536353 6213 0 0
+/img/p/2/0/5/205-cart_default.jpg
+0 4 3906926557108633600 6656 0 0
 /img/p/3/4/34-cart_default.jpg
-0 2 0 4636 0 0
-/modules/gamification/views/css/advice-1.6.0.8_520.css
-0 18 0 197676 0 0
+0 2 7310589475979292259 4636 0 0
 /img/p/1/2/6/126-cart_default.jpg
 0 1 0 2219 0 0
+/modules/gamification/views/css/advice-1.6.0.8_520.css
+0 23 8241980338435666221 285532 0 0
 /img/tmp/product_mini_47.jpg
-0 25 0 32200 0 0
+0 27 0 34776 0 0
 /img/p/2/3/2/232-cart_default.jpg
-0 2 32899280 3910 0 0
+0 2 0 3910 0 0
 /img/p/1/7/9/179-cart_default.jpg
 0 20 0 40800 0 0
 /modules/blockfacebook/css/blockfacebook.css
-0 295 8100961380475416172 12306 0 0
+0 322 0 13440 0 0
 /js/jquery/ui/jquery.ui.slider.min.js
-0 3 7883883428782618674 20404 0 0
+0 4 0 30606 0 0
 /img/p/1/8/8/188-cart_default.jpg
-0 3 7074653857165162802 7617 0 0
+0 3 0 7617 0 0
 /img/p/2/2/9/229-large_default.jpg
-0 2 32898768 37540 0 0
+0 2 0 37540 0 0
 /img/tmp/product_mini_34_1.jpg
-0 6 3472887977761125944 8040 0 0
+0 6 0 8040 0 0
 /img/p/es-default-large_default.jpg
-0 2 3543549161933452856 15462 0 0
+0 2 0 15462 0 0
 /img/p/1/2/5/125-thickbox_default.jpg
-0 1 3256157700269551872 27729 0 0
+0 1 0 27729 0 0
 /img/p/3/6/36-large_default.jpg
-0 13 3257289114846913381 233363 0 0
+0 13 0 233363 0 0
 /img/p/1/9/1/191-large_default.jpg
 0 4 0 106084 0 0
 /img/p/8/2/82-cart_default.jpg
-0 11 0 21076 0 0
+0 12 0 22992 0 0
 /js/jquery/plugins/timepicker/jquery-ui-timepicker-addon.js
-0 3 0 99152 0 0
+0 4 0 148728 0 0
 /img/p/9/6/96-thickbox_default.jpg
 0 24 0 1119884 0 0
 /modules/gamification/views/img/notif_gadges.png
-0 2 0 1508 0 0
+0 3 0 2262 0 0
 /img/p/1/5/7/157-cart_default.jpg
 0 9 0 18792 0 0
 /img/p/1/4/9/149-large_default.jpg
 0 2 0 32590 0 0
-/img/p/1/4/6/146-large_default.jpg
-0 5 0 140250 0 0
 /img/p/2/0/4/204-large_default.jpg
 0 1 0 22047 0 0
+/img/p/1/4/6/146-large_default.jpg
+0 6 0 168300 0 0
 /img/tmp/product_mini_45_1.jpg
 0 6 0 7878 0 0
 /img/p/1/4/3/143-cart_default.jpg
-0 25 0 52250 0 0
-/modules/payulatam/img/logo.png
-0 6 0 27690 0 0
+0 28 0 58520 0 0
 /modules/gamification/views/css/advice-1.6.0.8_581.css
-0 28 0 131784 0 0
+0 32 0 153748 0 0
+/modules/payulatam/img/logo.png
+0 7 0 32305 0 0
 /js/jquery/ui/jquery.ui.datepicker.min.js
-0 3 0 71612 0 0
+0 4 3347243253643161145 107418 0 0
 /img/p/9/4/94-large_default.jpg
-0 9 0 188712 0 0
+0 9 13369781229636694834 188712 0 0
 /img/tmp/product_mini_23.jpg
-0 23 0 30084 0 0
+0 26 6419319651245635121 34008 0 0
 /img/p/1/1/1/111-thickbox_default.jpg
-0 25 0 755575 0 0
-/backoffice/themes/default/css/admin-theme.css
-0 4 0 918516 0 0
+0 26 4467905310361530680 785798 0 0
 /img/p/1/2/7/127-thickbox_default.jpg
-0 1 0 26312 0 0
+0 1 3543616503552045933 26312 0 0
+/backoffice/themes/default/css/admin-theme.css
+0 5 3256155527087087872 1377774 0 0
 /img/p/2/1/6/216-large_default.jpg
-0 1 0 13403 0 0
+0 1 7017171169396654080 13403 0 0
 /img/p/2/0/1/201-cart_default.jpg
 0 4 0 6592 0 0
 /js/jquery/plugins/alerts/jquery.alerts.css
-0 3 0 2232 0 0
+0 4 0 3348 0 0
 /img/p/6/0/60-thickbox_default.jpg
 0 6 0 369342 0 0
 /img/p/3/5/35-thickbox_default.jpg
 0 1 0 155290 0 0
 /img/p/9/2/92-home_default.jpg
-0 220 0 1819111 0 0
+0 238 0 1970005 0 0
 /img/p/8/3/83-thickbox_default.jpg
-0 11 85 286605 0 0
+0 12 0 312660 0 0
 /img/p/1/9/5/195-large_default.jpg
-0 9 23977856648426292 113094 0 0
+0 9 0 113094 0 0
+/img/p/2/2/1/221-large_default.jpg
+0 1 19637776 19464 0 0
 /img/p/4/3/43-large_default.jpg
-0 13 30508348640292972 213109 0 0
-/img/p/2/3/9/239-large_default.jpg
-0 1 32900048 45009 0 0
+0 14 0 229502 0 0
 /themes/default-bootstrap/js/category.js
-0 268 3906926557108633600 316395 0 0
+0 293 0 346020 0 0
+/img/p/2/3/9/239-large_default.jpg
+0 1 0 45009 0 0
 /img/tmp/product_mini_22_58.jpg
-0 2 7810137251915000933 2550 0 0
+0 2 0 2550 0 0
 /img/tmp/product_mini_57_1.jpg
-0 6 30508348623385715 6996 0 0
+0 6 0 6996 0 0
 /backoffice/themes/default/js/vendor/nv.d3.min.js
-0 3 3616722790472626231 376608 0 0
-/img/tmp/product_mini_40.jpg
-0 25 0 33400 0 0
+0 4 0 564912 0 0
 /themes/default-bootstrap/css/history.css
-0 10 0 10190 0 0
+0 13 0 13247 0 0
+/img/tmp/product_mini_40.jpg
+0 30 0 40080 0 0
+/img/p/8/0/80-cart_default.jpg
+0 1 18876016 1773 0 0
 /img/p/8/3/83-large_default.jpg
-0 11 0 132660 0 0
+0 12 0 144720 0 0
 /img/p/1/3/7/137-large_default.jpg
 0 1 0 21590 0 0
 /img/p/1/1/8/118-small_default.jpg
 0 1 0 2783 0 0
 /img/p/1/7/4/174-cart_default.jpg
-0 2 32897744 3394 0 0
+0 2 0 3394 0 0
 /modules/dashgoals/views/js/dashgoals.js
-0 2 0 18012 0 0
+0 3 0 27018 0 0
 /img/p/2/1/2/212-thickbox_default.jpg
 0 8 0 677816 0 0
-/img/p/1/1/3/113-cart_default.jpg
-0 27 0 51759 0 0
 /js/jquery/plugins/fancybox/jquery.fancybox.css
-0 175 0 837045 0 0
+0 187 0 895785 0 0
+/img/p/1/1/3/113-cart_default.jpg
+0 28 0 53676 0 0
 /img/p/1/9/1/191-cart_default.jpg
 0 6 0 10752 0 0
 /favicon.ico
 0 12 0 0 0 0
 /img/p/1/3/7/137-home_default.jpg
-0 76 0 687381 0 0
+0 79 3257849865777130808 714528 0 0
 /img/p/2/3/6/236-cart_default.jpg
-0 7 0 18004 0 0
+0 8 3330187835280406573 20576 0 0
 /img/p/9/5/95-cart_default.jpg
-0 24 0 63744 0 0
+0 24 3544664105446092083 63744 0 0
 /img/p/2/0/0/200-large_default.jpg
-0 1 32898640 24783 0 0
+0 1 7814700146972257838 24783 0 0
 /img/p/4/2/42-home_default.jpg
-0 196 0 2349940 0 0
+0 213 30508348623385715 2557782 0 0
 /themes/default-bootstrap/js/contact-form.js
-0 30 0 61650 0 0
+0 31 3330748586227478073 63705 0 0
 /img/tmp/product_mini_51_1.jpg
-0 6 0 8034 0 0
-/img/p/2/0/0/200-cart_default.jpg
-0 4 0 9308 0 0
+0 6 3328218609213243392 8034 0 0
 /img/p/2/4/5/245-large_default.jpg
 0 5 0 95305 0 0
+/img/p/2/0/0/200-cart_default.jpg
+0 4 0 9308 0 0
 /img/p/1/6/5/165-thickbox_default.jpg
 0 3 0 200040 0 0
 /img/p/2/4/9/249-thickbox_default.jpg
 0 3 0 112344 0 0
 /img/p/1/7/1/171-thickbox_default.jpg
-0 2 32897872 88946 0 0
+0 2 0 88946 0 0
 /img/tmp/product_mini_18_1.jpg
 0 6 0 6858 0 0
 /img/p/2/4/9/249-small_default.jpg
@@ -768,135 +784,143 @@
 /img/p/3/1/31-cart_default.jpg
 0 1 0 2469 0 0
 /img/p/9/2/92-thickbox_default.jpg
-0 14 0 545286 0 0
+0 16 0 623184 0 0
 /img/p/1/2/5/125-large_default.jpg
-0 1 3904674947183161600 12419 0 0
+0 1 0 12419 0 0
 /modules/gamification/views/css/advice-1.6.0.8_532.css
-0 30 8534159864943960622 131784 0 0
-/img/os/4.gif
-0 2 3904952041326313472 1226 0 0
+0 34 0 153748 0 0
 /img/p/1/6/4/164-cart_default.jpg
-0 3 8534159864943960622 6255 0 0
+0 3 0 6255 0 0
+/img/os/4.gif
+0 3 0 1839 0 0
 /img/p/3/0/30-large_default.jpg
-0 1 4047954549284012032 20116 0 0
+0 1 0 20116 0 0
 /img/p/2/3/4/234-thickbox_default.jpg
-0 7 84 389480 0 0
+0 8 0 445120 0 0
 /img/p/5/0/50-thickbox_default.jpg
-0 7 3530822107858468864 985915 0 0
+0 8 0 1126760 0 0
 /backoffice/themes/default/fonts/fontawesome-webfont.woff
-0 6 0 182904 0 0
+0 7 0 266664 0 0
 /img/p/1/7/1/171-cart_default.jpg
-0 2 32897360 3996 0 0
+0 2 0 3996 0 0
 /img/p/1/3/9/139-cart_default.jpg
-0 1 32900560 2039 0 0
+0 1 0 2039 0 0
 /themes/default-bootstrap/img/border-1.gif
-0 166 0 191224 0 0
+0 174 0 200552 0 0
 /img/tmp/product_mini_17_1.jpg
 0 6 0 6798 0 0
 /modules/blockfacebook/blockfacebook.js
-0 294 0 386760 0 0
+0 321 0 422400 0 0
+/img/p/2/2/2/222-cart_default.jpg
+0 1 19637648 1781 0 0
 /img/p/1/8/7/187-thickbox_default.jpg
 0 4 0 135168 0 0
 /img/p/1/9/0/190-cart_default.jpg
 0 3 0 5730 0 0
 /img/p/1/8/0/180-large_default.jpg
 0 7 0 198492 0 0
-/img/p/1/9/1/191-small_default.jpg
-0 1 0 2318 0 0
 /modules/socialsharing/js/socialsharing.js
-0 181 0 336520 0 0
+0 191 4049917134609855021 355320 0 0
+/img/p/1/9/1/191-small_default.jpg
+0 1 3543544789590357805 2318 0 0
 /img/p/4/6/46-large_default.jpg
-0 2 0 77726 0 0
+0 2 2666469874622935600 77726 0 0
 /img/p/1/8/2/182-cart_default.jpg
-0 19 0 57418 0 0
+0 19 72057594037927936 57418 0 0
 /img/p/5/5/55-large_default.jpg
-0 5 0 84525 0 0
+0 5 3531103582835179520 84525 0 0
 /img/p/2/2/9/229-thickbox_default.jpg
-0 2 32899408 83174 0 0
+0 2 1836016430 83174 0 0
+/img/os/2.gif
+0 1 18876432 334 0 0
 /js/notifications.js
-0 3 0 7884 0 0
+0 4 3978139726216429568 11826 0 0
 /img/p/2/4/1/241-thickbox_default.jpg
 0 3 0 114276 0 0
 /themes/default-bootstrap/js/modules/blocknewsletter/blocknewsletter.js
-0 372 0 633180 0 0
+0 405 0 690270 0 0
 /img/tmp/product_mini_64_263.jpg
-0 6 0 7650 0 0
+0 9 0 11475 0 0
 /js/jquery/ui/themes/base/jquery.ui.theme.css
-0 3 0 35040 0 0
+0 4 0 52560 0 0
 /img/p/1/9/6/196-large_default.jpg
 0 2 0 25968 0 0
 /img/p/4/5/45-thickbox_default.jpg
-0 13 0 774592 0 0
+0 14 0 834176 0 0
 /js/tiny_mce/tinymce.min.js
 0 10 0 3003070 0 0
-/modules/homeslider/images/5e482462bca88760a62aee0f352813e6f9ea6489_1415699296-90852800.jpg
-0 200 0 27644311 0 0
 /img/p/2/5/5/255-large_default.jpg
 0 2 0 86320 0 0
+/modules/homeslider/images/5e482462bca88760a62aee0f352813e6f9ea6489_1415699296-90852800.jpg
+0 217 0 30069514 0 0
 /img/tmp/product_mini_23_116.jpg
-0 1 0 1308 0 0
+0 3 0 3924 0 0
 /img/p/3/6/36-cart_default.jpg
 0 15 0 29580 0 0
 /img/p/1/1/3/113-thickbox_default.jpg
-0 25 5587294 1138900 0 0
+0 26 0 1184456 0 0
 /backoffice/drawer.php
-0 10 127978989056628 1970 0 0
+0 10 0 1970 0 0
 /img/p/6/2/62-small_default.jpg
-0 1 30508348623385715 3145 0 0
+0 1 0 3145 0 0
+/img/p/8/1/81-cart_default.jpg
+0 1 19635984 2109 0 0
 /img/p/2/5/0/250-thickbox_default.jpg
-0 3 30508348405806126 156198 0 0
+0 3 0 156198 0 0
 /js/jquery/jquery-1.11.0.min.js
-0 347 3330466011738683441 32673159 0 0
+0 382 0 36046494 0 0
 /img/p/4/4/44-cart_default.jpg
-0 13 3976171828861088056 24076 0 0
+0 14 0 25928 0 0
 /img/p/7/6/76-large_default.jpg
-0 2 3330748586227478073 17114 0 0
+0 2 0 17114 0 0
 /js/jquery/plugins/jquery.easing.js
-0 342 3328218609213243392 1664880 0 0
+0 377 0 1838305 0 0
 /img/p/1/8/3/183-medium_default.jpg
 0 2 0 7036 0 0
 /img/p/4/7/47-home_default.jpg
-0 119 0 670089 0 0
-/img/p/2/1/6/216-thickbox_default.jpg
-0 4 0 115928 0 0
-/img/p/1/1/2/112-cart_default.jpg
-0 27 0 44550 0 0
+0 131 0 737661 0 0
 /img/p/6/1/61-thickbox_default.jpg
 0 6 0 628902 0 0
+/img/p/1/1/2/112-cart_default.jpg
+0 28 0 46200 0 0
+/img/p/2/1/6/216-thickbox_default.jpg
+0 4 0 115928 0 0
 /themes/default-bootstrap/font/fontawesome-webfont.svg
-0 1 32862560 197829 0 0
-/img/tmp/product_mini_28_1.jpg
-0 6 0 8862 0 0
+0 1 0 197829 0 0
 /js/vendor/d3.v3.min.js
-0 3 0 293256 0 0
+0 4 3978979977246879030 439884 0 0
+/img/tmp/product_mini_28_1.jpg
+0 6 7810777146236759145 8862 0 0
 /img/p/8/4/84-cart_default.jpg
-0 11 0 22121 0 0
+0 12 3543546962910197304 24132 0 0
 /img/p/2/0/5/205-thickbox_default.jpg
-0 4 0 105160 0 0
+0 4 3688502165069377792 105160 0 0
 /img/tmp/product_mini_35_152.jpg
-0 9 0 11934 0 0
+0 9 3690191014845755648 11934 0 0
 /img/p/3/9/39-large_default.jpg
-0 2 0 35902 0 0
+0 3 3904952041326313472 53853 0 0
 /js/jquery/ui/themes/base/jquery.ui.core.css
-0 3 0 2936 0 0
-/img/p/1/3/5/135-thickbox_default.jpg
-0 10 0 683400 0 0
+0 4 3257002142316258660 4404 0 0
 /img/p/5/7/57-large_default.jpg
 0 1 0 23281 0 0
+/img/p/1/3/5/135-thickbox_default.jpg
+0 11 0 751740 0 0
+/modules/crossselling/css/crossselling.css
+0 204 0 162004 0 0
 /img/p/1/8/2/182-large_default.jpg
 0 7 0 354592 0 0
-/modules/crossselling/css/crossselling.css
-0 193 0 153182 0 0
 /img/p/1/5/9/159-cart_default.jpg
 0 1 0 1416 0 0
+/img/p/1/7/9/179-medium_default.jpg
+0 2 19502672 7024 0 0
 /img/p/2/3/4/234-large_default.jpg
-0 3 0 75054 0 0
+0 4 0 100072 0 0
 /img/p/1/4/6/146-small_default.jpg
 0 1 0 2777 0 0
 /img/p/1/2/9/129-small_default.jpg
 0 1 0 2729 0 0
 /img/p/9/2/92-large_default.jpg
-0 12 0 250560 0 0
+0 14 0 292320 0 0
 /img/tmp/product_mini_58_1.jpg
 0 6 0 7254 0 0
 /img/p/4/3/43-small_default.jpg
@@ -904,45 +928,49 @@
 /img/p/1/9/8/198-thickbox_default.jpg
 0 9 0 611820 0 0
 /themes/default-bootstrap/js/history.js
-0 10 0 51180 0 0
+0 13 0 66534 0 0
 /img/p/5/8/58-large_default.jpg
-0 6 3618974585974751488 119310 0 0
+0 6 0 119310 0 0
+/img/p/7/9/79-cart_default.jpg
+0 1 19551200 2571 0 0
 /img/p/1/8/5/185-cart_default.jpg
-0 19 7103278 54986 0 0
+0 21 0 60774 0 0
 /js/jquery/ui/jquery.ui.core.min.js
-0 3 3763093033830068781 8578 0 0
+0 4 0 12867 0 0
 /img/p/2/1/3/213-thickbox_default.jpg
-0 4 14700090252210352688 198500 0 0
+0 4 0 198500 0 0
 /themes/default-bootstrap/js/modules/blockcart/ajax-cart.js
-0 373 7599383935954870626 11262129 0 0
+0 405 0 12244113 0 0
 /backoffice/themes/default/js/vendor/enquire.min.js
-0 4 1836016430 4474 0 0
+0 5 0 6711 0 0
 /img/tmp/product_mini_10_1.jpg
-0 6 8241980338435666737 7296 0 0
+0 6 0 7296 0 0
 /img/p/1/1/5/115-large_default.jpg
 0 11 0 190877 0 0
 /themes/default-bootstrap/js/modules/blocksearch/blocksearch.js
-0 369 0 1353990 0 0
+0 402 0 1477080 0 0
+/img/p/8/1/81-large_default.jpg
+0 1 19617824 17556 0 0
 /img/p/1/5/9/159-thickbox_default.jpg
 0 1 0 24413 0 0
 /img/p/2/3/8/238-thickbox_default.jpg
 0 5 0 297545 0 0
 /img/p/1/9/0/190-thickbox_default.jpg
 0 3 0 103344 0 0
+/img/p/1/8/8/188-thickbox_default.jpg
+0 3 7133701809754865664 192642 0 0
 /js/jquery/plugins/fancybox/fancybox_overlay.png
 0 1 0 78 0 0
-/img/p/1/8/8/188-thickbox_default.jpg
-0 3 0 192642 0 0
-/img/p/2/4/3/243-cart_default.jpg
-0 3 0 7590 0 0
 /img/p/1/8/3/183-home_default.jpg
-0 163 0 1364314 0 0
+0 171 2774464765730435374 1423632 0 0
+/img/p/2/4/3/243-cart_default.jpg
+0 3 11466165970615153457 7590 0 0
 /img/p/1/6/5/165-cart_default.jpg
-0 3 0 7110 0 0
+0 3 3762530088238723374 7110 0 0
 /img/tmp/product_mini_26_1.jpg
-0 6 0 8658 0 0
+0 6 3904674951444050222 8658 0 0
 /img/p/8/1/81-home_default.jpg
-0 198 0 1489992 0 0
+0 215 3530822107858468864 1619226 0 0
 /img/p/1/4/3/143-small_default.jpg
 0 1 0 2693 0 0
 /img/p/1/9/8/198-large_default.jpg
@@ -952,13 +980,13 @@
 /themes/default-bootstrap/img/form-contact-shadow.png
 0 27 0 135378 0 0
 /img/favicon.ico
-0 375 0 230508 0 0
+0 466 0 251739 0 0
 /img/p/6/2/62-cart_default.jpg
 0 3 0 7302 0 0
 /modules/sendtoafriend/sendtoafriend.css
-0 186 0 227240 0 0
+0 197 0 240825 0 0
 /themes/default-bootstrap/css/autoload/highdpi.css
-0 391 0 130560 0 0
+0 424 0 141780 0 0
 /themes/default-bootstrap/img//img-404.jpg
 0 1 0 14288 0 0
 /img/p/2/4/8/248-cart_default.jpg
@@ -970,133 +998,135 @@
 /img/p/3/3/33-cart_default.jpg
 0 2 0 3628 0 0
 /img/tmp/product_mini_36.jpg
-0 2 3977009656704871734 2040 0 0
+0 6 0 6120 0 0
 /themes/default-bootstrap/css/order-opc.css
-0 25 8391166488117849702 45900 0 0
+0 28 0 51408 0 0
 /themes/default-bootstrap/css/modules/productscategory/css/productscategory.css
-0 186 3688502165069377792 1517448 0 0
+0 197 0 1608165 0 0
 /img/p/9/4/94-cart_default.jpg
-0 24 3690191014845755648 45960 0 0
+0 24 0 45960 0 0
 /img/p/2/3/8/238-large_default.jpg
-0 1 32900304 26912 0 0
+0 1 0 26912 0 0
 /img/tmp/product_mini_39_1.jpg
-0 6 3904952041326313472 7422 0 0
+0 6 0 7422 0 0
 /themes/default-bootstrap/img/jquery/uniform/sprite.png
-0 298 3257002142316258660 1136870 0 0
+0 324 0 1236060 0 0
 /img/tmp/product_mini_54.jpg
-0 25 0 30175 0 0
+0 27 0 32589 0 0
 /themes/default-bootstrap/css/modules/homeslider/homeslider.css
-0 199 0 1258078 0 0
+0 217 0 1371874 0 0
 /modules/themeconfigurator/css/hooks.css
-0 259 0 347472 0 0
+0 278 0 373464 0 0
 /img/p/1/4/0/140-thickbox_default.jpg
-0 1 32900992 82555 0 0
+0 1 0 82555 0 0
 /img/p/2/1/0/210-cart_default.jpg
-0 9 0 16200 0 0
+0 10 0 18000 0 0
 /img/p/1/0/3/103-small_default.jpg
-0 2 0 3836 0 0
+0 2 3329910757608390656 3836 0 0
 /img/p/1/3/3/133-cart_default.jpg
-0 10 0 22000 0 0
+0 11 8029189357870461229 24200 0 0
 /img/p/3/1/31-thickbox_default.jpg
-0 1 0 113923 0 0
+0 1 23897213000299312 113923 0 0
 /img/p/1/7/0/170-cart_default.jpg
-0 2 0 3690 0 0
-/img/p/1/7/1/171-home_default.jpg
-0 188 0 1505484 0 0
+0 2 92903185056053 3690 0 0
 /img/p/1/2/0/120-cart_default.jpg
-0 12 0 26040 0 0
+0 13 3978139726216429568 28210 0 0
+/img/p/1/7/1/171-home_default.jpg
+0 204 1513549443708302126 1618800 0 0
 /themes/default-bootstrap/js/cart-summary.js
-0 23 0 827287 0 0
+0 26 0 935194 0 0
 /img/p/2/2/9/229-cart_default.jpg
-0 2 32898896 3820 0 0
-/img/p/1/3/1/131-cart_default.jpg
-0 8 0 15232 0 0
+0 2 0 3820 0 0
 /img/p/3/5/35-cart_default.jpg
 0 2 0 5214 0 0
+/img/p/1/3/1/131-cart_default.jpg
+0 9 0 17136 0 0
 /img/tmp/product_mini_24_131.jpg
 0 1 0 1430 0 0
 /backoffice/themes/default/img/prestashop-addons-logo.png
-0 4 0 30646 0 0
+0 5 0 45969 0 0
+/js/jquery/plugins/growl/
+0 1 19603648 438 0 0
 /img/p/2/5/2/252-cart_default.jpg
 0 3 0 5571 0 0
 /themes/default-bootstrap/js/product.js
-0 181 0 6286480 0 0
+0 191 0 6637680 0 0
 /img/p/1/6/7/167-small_default.jpg
 0 1 0 2821 0 0
 /backoffice/themes/default/css/overrides.css
-0 3 0 612 0 0
+0 4 0 918 0 0
 /modules/gamification/views/css/advice-1.6.0.8_353.css
-0 2 32872208 21964 0 0
+0 2 0 21964 0 0
 /img/p/5/9/59-cart_default.jpg
 0 5 0 9555 0 0
 /js/jquery/plugins/bxslider/jquery.bxslider.js
-0 335 0 6291467 0 0
+0 367 0 6903403 0 0
 /themes/default-bootstrap/js/autoload/15-jquery.total-storage.min.js
-0 368 0 928168 0 0
+0 401 0 1012780 0 0
 /themes/default-bootstrap/js/modules/homeslider/js/homeslider.js
-0 196 0 376320 0 0
+0 214 0 410880 0 0
 /themes/default-bootstrap/js/global.js
-0 383 0 4873102 0 0
+0 417 0 5312586 0 0
 /img/p/3/0/30-thickbox_default.jpg
-0 1 27747 47334 0 0
+0 1 0 47334 0 0
 /img/tmp/product_mini_46_1.jpg
-0 6 72057594037927936 6294 0 0
+0 6 0 6294 0 0
 /img/p/1/5/6/156-cart_default.jpg
-0 9 3531103582835179520 18792 0 0
+0 9 0 18792 0 0
 /img/p/1/1/8/118-thickbox_default.jpg
-0 11 30508348640292972 485430 0 0
+0 12 0 529560 0 0
 /img/p/1/8/2/182-thickbox_default.jpg
-0 17 7628142 2260099 0 0
+0 17 0 2260099 0 0
 /img/p/1/5/2/152-large_default.jpg
-0 1 7939403518277151845 15307 0 0
+0 1 0 15307 0 0
 /img/tmp/product_mini_29_1.jpg
-0 6 3346844625870091887 7800 0 0
+0 6 0 7800 0 0
 /img/p/1/1/4/114-home_default.jpg
-0 134 7310589475979292259 1318500 0 0
+0 140 0 1379196 0 0
 /img/p/2/2/9/229-home_default.jpg
-0 190 0 1362669 0 0
+0 205 0 1464687 0 0
 /backoffice/themes/default/js/vendor/moment-with-langs.min.js
-0 3 0 244508 0 0
+0 4 3345439148234846509 366762 0 0
 /img/p/2/4/4/244-thickbox_default.jpg
-0 3 0 101673 0 0
-/img/p/1/8/3/183-cart_default.jpg
-0 19 0 42579 0 0
+0 3 3258129124702040365 101673 0 0
 /img/p/1/5/1/151-home_default.jpg
-0 163 0 753641 0 0
+0 171 3257006540358498353 786408 0 0
+/img/p/1/8/3/183-cart_default.jpg
+0 21 21777 47061 0 0
 /img/p/2/3/7/237-cart_default.jpg
-0 5 0 8175 0 0
+0 5 3904952041326313472 8175 0 0
 /img/p/1/1/1/111-large_default.jpg
-0 9 0 119115 0 0
-/img/p/8/5/85-cart_default.jpg
-0 12 0 16764 0 0
+0 9 3543550248695050496 119115 0 0
 /img/p/3/2/32-home_default.jpg
-0 200 0 1433569 0 0
+0 217 0 1557278 0 0
+/img/p/8/5/85-cart_default.jpg
+0 14 7017171169396654080 19558 0 0
 /img/p/2/1/1/211-thickbox_default.jpg
 0 8 0 582864 0 0
 /img/p/6/1/61-cart_default.jpg
 0 5 0 15445 0 0
 /themes/default-bootstrap/css/cms.css
-0 62 0 313534 0 0
+0 67 0 338819 0 0
 /img/p/2/1/3/213-small_default.jpg
-0 1 32867632 2645 0 0
+0 1 0 2645 0 0
 /img/p/1/4/4/144-large_default.jpg
-0 5 0 266565 0 0
+0 6 0 319878 0 0
 /img/p/9/2/92-small_default.jpg
 0 3 0 8097 0 0
 /img/p/2/2/8/228-thickbox_default.jpg
 0 1 0 36796 0 0
 /img/p/1/3/5/135-large_default.jpg
-0 7 0 195559 0 0
+0 8 0 223496 0 0
 /img/p/1/3/3/133-thickbox_default.jpg
-0 12 0 797489 0 0
+0 13 0 869988 0 0
 /img/p/1/9/5/195-cart_default.jpg
 0 9 0 15858 0 0
 /img/p/3/8/38-large_default.jpg
 0 3 0 133941 0 0
-/img/p/1/4/5/145-large_default.jpg
-0 5 0 125095 0 0
 /themes/default-bootstrap/css/my-account.css
-0 11 0 23540 0 0
+0 13 0 27820 0 0
+/img/p/1/4/5/145-large_default.jpg
+0 6 0 150114 0 0
 /img/tmp/product_mini_42_1.jpg
 0 6 0 7254 0 0
 /img/p/2/4/5/245-thickbox_default.jpg
@@ -1104,151 +1134,153 @@
 /img/p/1/4/8/148-cart_default.jpg
 0 6 0 15996 0 0
 /js/jquery/plugins/jquery.serialScroll.js
-0 339 7810137251915000933 670329 0 0
+0 373 0 738771 0 0
 /img/p/1/1/7/117-large_default.jpg
-0 12 8029189357836710445 147024 0 0
+0 13 0 159276 0 0
 /img/p/1/6/6/166-thickbox_default.jpg
-0 3 23906028403898416 81366 0 0
+0 3 0 81366 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/hoverIntent.js
-0 374 23897213000299312 1817184 0 0
+0 407 0 1980138 0 0
 /modules/gamification/views/css/gamification.css
-0 3 3257286915824037177 11568 0 0
+0 4 0 17352 0 0
 /img/p/3/1/31-large_default.jpg
-0 1 8026098927956656128 33338 0 0
+0 1 0 33338 0 0
 /themes/default-bootstrap/js/tools/vatManagement.js
-0 36 3832894735977180787 70980 0 0
+0 44 0 87204 0 0
 /img/p/4/8/48-thickbox_default.jpg
-0 7 32282304 242417 0 0
+0 8 3472607580771200567 277048 0 0
 /img/p/2/4/3/243-thickbox_default.jpg
-0 3 0 261498 0 0
-/img/p/5/8/58-cart_default.jpg
-0 5 0 11290 0 0
+0 3 3616722786060219952 261498 0 0
 /img/p/5/8/58-home_default.jpg
-0 199 0 1783248 0 0
+0 216 3977010739036696113 1938849 0 0
+/img/p/5/8/58-cart_default.jpg
+0 5 3330190034320306225 11290 0 0
 /img/p/2/4/0/240-cart_default.jpg
-0 5 0 6500 0 0
+0 5 3328501184459782193 6500 0 0
 /js/jquery/plugins/jquery.autosize.js
-0 3 0 6354 0 0
+0 4 3543832827478356225 9531 0 0
 /img/p/2/0/6/206-large_default.jpg
-0 2 0 58194 0 0
+0 2 3832845857380630528 58194 0 0
 /img/p/1/3/6/136-large_default.jpg
-0 7 0 263487 0 0
+0 8 7017222212790874723 301128 0 0
 /img/p/1/7/1/171-large_default.jpg
-0 2 32897232 40580 0 0
+0 2 0 40580 0 0
 /js/date.js
-0 2 0 23040 0 0
+0 3 0 34560 0 0
 /img/p/9/3/93-cart_default.jpg
 0 24 0 55416 0 0
 /img/p/1/6/1/161-thickbox_default.jpg
 0 1 0 22349 0 0
 /img/tmp/product_mini_16_98.jpg
-0 1 0 1214 0 0
+0 3 0 3642 0 0
 /js/jquery/plugins/jqzoom/jquery.jqzoom.js
-0 160 0 4800672 0 0
+0 171 0 5134896 0 0
 /img/p/1/6/0/160-thickbox_default.jpg
 0 1 0 37266 0 0
 /modules/dashtrends/views/js/dashtrends.js
-0 2 0 4296 0 0
+0 3 0 6444 0 0
 /img/p/1/1/4/114-cart_default.jpg
 0 24 0 53416 0 0
 /img/tmp/product_mini_22.jpg
-0 27 0 34425 0 0
+0 33 0 42075 0 0
 /img/p/2/1/4/214-cart_default.jpg
 0 4 0 9820 0 0
 /themes/default-bootstrap/img/icon/form-ok.png
-0 15 0 2745 0 0
-/img/p/1/6/7/167-cart_default.jpg
-0 2 0 4352 0 0
-/img/p/1/9/9/199-large_default.jpg
-0 4 0 80284 0 0
+0 18 0 3294 0 0
 /img/p/2/4/7/247-cart_default.jpg
 0 5 0 9405 0 0
+/img/p/1/9/9/199-large_default.jpg
+0 4 0 80284 0 0
+/img/p/1/6/7/167-cart_default.jpg
+0 2 0 4352 0 0
 /img/p/1/3/7/137-thickbox_default.jpg
 0 1 0 51116 0 0
-/img/p/1/8/0/180-thickbox_default.jpg
-0 17 0 1198432 0 0
 /img/p/5/6/56-cart_default.jpg
 0 3 0 5478 0 0
+/img/p/1/8/0/180-thickbox_default.jpg
+0 17 0 1198432 0 0
 /img/tmp/product_mini_50_1.jpg
-0 6 7810777146236759145 7116 0 0
+0 6 0 7116 0 0
 /img/tmp/product_mini_47_1.jpg
-0 6 7377285615210082605 7728 0 0
+0 6 0 7728 0 0
 /img/tmp/product_mini_16_1.jpg
-0 6 7074651653846939446 7278 0 0
+0 6 0 7278 0 0
 /themes/default-bootstrap/css/modules/productscategory/css/images/bx_loader.gif
-0 168 21814 1441608 0 0
+0 176 0 1510256 0 0
 /img/p/1/2/0/120-thickbox_default.jpg
-0 11 5585148 696509 0 0
+0 12 0 759828 0 0
 /img/p/2/4/7/247-thickbox_default.jpg
-0 5 5585148 182180 0 0
+0 5 0 182180 0 0
 /img/p/1/9/4/194-thickbox_default.jpg
-0 4 93657999606073 388456 0 0
+0 4 0 388456 0 0
 /img/p/1/1/0/110-large_default.jpg
-0 53 0 760866 0 0
+0 55 3977573706304127232 789998 0 0
 /img/p/1/7/9/179-home_default.jpg
-0 161 0 1565940 0 0
+0 169 108 1634995 0 0
+/modules/gamification/views/img/badge_locked.png
+0 1 19593184 1436 0 0
 /img/p/1/0/6/106-large_default.jpg
-0 3 0 78066 0 0
+0 3 3531103582835179628 78066 0 0
 /img/os/3.gif
-0 1 0 1046 0 0
+0 1 72057594037928050 1046 0 0
 /img/p/3/6/36-home_default.jpg
-0 196 0 1535508 0 0
+0 213 72057594037928044 1670760 0 0
 /themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css
-0 394 0 674541 0 0
+0 429 3546638582624026624 735546 0 0
 /img/loader.gif
-0 8 0 29736 0 0
+0 10 3760837965529624119 37170 0 0
 /js/jquery/plugins/autocomplete/jquery.autocomplete.js
-0 332 0 6503700 0 0
+0 364 0 7142100 0 0
 /themes/default-bootstrap/js/authentication.js
-0 16 0 42675 0 0
+0 21 0 56900 0 0
 /img/p/1/3/2/132-large_default.jpg
 0 2 0 117990 0 0
+/img/p/2/0/9/209-large_default.jpg
+0 3 0 34767 0 0
 /img/p/6/2/62-large_default.jpg
 0 3 0 90834 0 0
-/img/p/2/0/9/209-large_default.jpg
-0 2 0 23178 0 0
+/themes/default-bootstrap/css/modules/blockcart/blockcart.css
+0 431 0 6102876 0 0
 /img/p/1/1/2/112-large_default.jpg
 0 7 0 106687 0 0
-/themes/default-bootstrap/css/modules/blockcart/blockcart.css
-0 397 0 5615792 0 0
 /img/tmp/product_mini_27_1.jpg
 0 6 0 8178 0 0
 /img/p/8/5/85-small_default.jpg
 0 1 0 1726 0 0
-/img/p/3/7/37-large_default.jpg
-0 5 0 87020 0 0
 /img/p/2/5/3/253-large_default.jpg
 0 5 0 80720 0 0
-/img/p/1/9/4/194-large_default.jpg
-0 1 0 37301 0 0
-/img/p/2/3/3/233-large_default.jpg
-0 7 0 122892 0 0
+/img/p/3/7/37-large_default.jpg
+0 5 0 87020 0 0
 /img/p/1/2/0/120-small_default.jpg
 0 1 0 2759 0 0
+/img/p/2/3/3/233-large_default.jpg
+0 8 0 140448 0 0
+/img/p/1/9/4/194-large_default.jpg
+0 1 0 37301 0 0
 /img/p/2/0/9/209-cart_default.jpg
-0 9 0 13977 0 0
+0 10 0 15530 0 0
 /img/p/1/4/4/144-small_default.jpg
 0 1 0 3913 0 0
 /img/p/1/1/5/115-thickbox_default.jpg
 0 20 0 963860 0 0
 /img/p/1/4/1/141-large_default.jpg
-0 1 32901120 26657 0 0
+0 1 0 26657 0 0
 /img/p/2/5/6/256-cart_default.jpg
 0 5 0 7865 0 0
 /img/p/5/0/50-cart_default.jpg
-0 7 0 13692 0 0
+0 8 0 15648 0 0
 /img/p/2/2/5/225-large_default.jpg
 0 1 0 26788 0 0
 /img/p/2/1/2/212-large_default.jpg
 0 1 0 33611 0 0
 /img/p/2/3/3/233-thickbox_default.jpg
-0 7 0 267547 0 0
+0 8 0 305768 0 0
 /img/p/2/2/5/225-home_default.jpg
-0 161 0 1675084 0 0
+0 169 0 1749368 0 0
 /img/p/1/9/5/195-thickbox_default.jpg
 0 9 0 242874 0 0
 /themes/default-bootstrap/js/autoload/10-bootstrap.min.js
-0 375 0 10195839 0 0
+0 408 0 11107662 0 0
 /img/p/2/5/6/256-large_default.jpg
 0 2 0 26936 0 0
 /img/p/1/5/8/158-thickbox_default.jpg
@@ -1256,21 +1288,23 @@
 /img/p/1/9/3/193-large_default.jpg
 0 3 0 74973 0 0
 /themes/default-bootstrap/js/modules/blocktopmenu/js/blocktopmenu.js
-0 372 0 1364154 0 0
+0 406 0 1488168 0 0
 /modules/homeslider/images/2ab6f6284d385cf04e1a76bd06d185927e6d9c11_1411487437-78032100.jpg
-0 201 0 30752569 0 0
+0 218 0 33470767 0 0
 /themes/default-bootstrap/font/fontawesome-webfont.woff
-0 333 0 14179970 0 0
+0 366 0 15535130 0 0
+/img/p/7/8/78-cart_default.jpg
+0 1 19593472 2181 0 0
 /img/tmp/product_mini_13_1.jpg
 0 6 0 7176 0 0
-/img/p/4/0/40-cart_default.jpg
-0 2 0 3794 0 0
 /modules/gamification/views/css/advice-1.6.0.8_555.css
-0 18 0 197676 0 0
+0 23 0 285532 0 0
+/img/p/4/0/40-cart_default.jpg
+0 3 0 5691 0 0
 /img/p/2/1/4/214-large_default.jpg
 0 1 0 29079 0 0
 /img/p/2/3/2/232-thickbox_default.jpg
-0 2 32899792 68504 0 0
+0 2 0 68504 0 0
 /img/p/1/1/0/110-small_default.jpg
 0 1 0 1859 0 0
 /img/p/2/4/4/244-cart_default.jpg
@@ -1278,23 +1312,23 @@
 /img/p/3/2/32-large_default.jpg
 0 4 0 64904 0 0
 /img/p/2/3/0/230-cart_default.jpg
-0 2 32899024 4772 0 0
+0 2 0 4772 0 0
 /img/p/1/7/2/172-thickbox_default.jpg
-0 2 32898000 118122 0 0
+0 2 0 118122 0 0
 /img/p/1/9/9/199-thickbox_default.jpg
 0 4 0 186904 0 0
-/js/jquery/plugins/footable/jquery.footable.js
-0 10 0 365430 0 0
 /js/vendor/ladda.js
-0 3 0 12980 0 0
+0 4 0 19470 0 0
+/js/jquery/plugins/footable/jquery.footable.js
+0 13 0 475059 0 0
 /img/p/1/3/7/137-cart_default.jpg
 0 1 0 2224 0 0
 /img/p/1/8/4/184-thickbox_default.jpg
-0 17 0 898569 0 0
+0 19 0 1004283 0 0
 /img/p/2/0/6/206-thickbox_default.jpg
 0 4 0 329344 0 0
 /img/p/4/1/41-thickbox_default.jpg
-0 1 0 145696 0 0
+0 2 0 291392 0 0
 /img/p/2/0/2/202-thickbox_default.jpg
 0 4 0 463084 0 0
 /img/p/1/6/7/167-large_default.jpg
@@ -1302,71 +1336,71 @@
 /img/p/5/6/56-thickbox_default.jpg
 0 2 0 63236 0 0
 /img/p/1/8/4/184-cart_default.jpg
-0 19 0 45315 0 0
+0 21 0 50085 0 0
 /img/p/2/0/1/201-large_default.jpg
-0 1 32898512 13065 0 0
+0 1 0 13065 0 0
 /themes/default-bootstrap/img/contact-form.png
 0 27 0 4509 0 0
-/img/tmp/product_mini_30_1.jpg
-0 6 8314612947916975717 7344 0 0
 /img/tmp/product_mini_34_136.jpg
-0 1 16213293134248817203 1340 0 0
+0 1 0 1340 0 0
+/img/tmp/product_mini_30_1.jpg
+0 6 0 7344 0 0
 /js/jquery/plugins/alerts/jquery.alerts.js
-0 3 3347128282572485742 15290 0 0
-/img/p/2/1/5/215-cart_default.jpg
-0 4 4989482616881361454 12084 0 0
+0 4 7133701809754865664 22935 0 0
 /img/p/2/2/7/227-thickbox_default.jpg
-0 1 7599383935954870626 141666 0 0
+0 1 4049068354599532088 141666 0 0
+/img/p/2/1/5/215-cart_default.jpg
+0 4 87320126171525937 12084 0 0
 /img/p/1/4/6/146-cart_default.jpg
-0 24 3978139726216429568 51312 0 0
+0 27 3329910757608390656 57726 0 0
 /backoffice/ajax-tab.php
-0 56 28015 2884 0 0
+0 63 4049018639494414336 3300 0 0
 /backoffice/ajax.php
-0 505 0 233083 0 0
+0 669 7091311436851851565 370874 0 0
 /img/tmp/product_mini_36_1.jpg
-0 6 0 6120 0 0
+0 6 7310032887035997491 6120 0 0
 /img/p/1/2/5/125-home_default.jpg
-0 160 0 763772 0 0
+0 175 0 831448 0 0
+/themes/default-bootstrap/img/pagination-li.gif
+0 248 0 344224 0 0
 /img/tmp/product_mini_20_1.jpg
 0 6 0 8064 0 0
-/themes/default-bootstrap/img/pagination-li.gif
-0 226 0 313688 0 0
 /themes/default-bootstrap/css/category.css
-0 279 0 756648 0 0
+0 305 0 827160 0 0
 /img/os/10.gif
-0 2 0 2060 0 0
+0 3 0 3090 0 0
 /img/p/2/4/5/245-home_default.jpg
-0 160 0 1234740 0 0
+0 168 0 1290145 0 0
 /img/p/2/4/2/242-large_default.jpg
 0 1 0 24929 0 0
-/img/p/9/3/93-thickbox_default.jpg
-0 23 0 1250602 0 0
 /img/p/1/3/8/138-thickbox_default.jpg
 0 1 0 145529 0 0
-/img/p/2/1/0/210-thickbox_default.jpg
-0 9 0 299952 0 0
+/img/p/9/3/93-thickbox_default.jpg
+0 23 0 1250602 0 0
+/backoffice/themes/default/js/vendor/modernizr.min.js
+0 4 0 23013 0 0
 /img/p/1/0/3/103-cart_default.jpg
 0 18 0 22120 0 0
-/backoffice/themes/default/js/vendor/modernizr.min.js
-0 3 0 15342 0 0
+/img/p/2/1/0/210-thickbox_default.jpg
+0 10 0 333280 0 0
 /img/p/1/5/1/151-thickbox_default.jpg
-0 3 0 78291 0 0
+0 4 0 104388 0 0
 /img/tmp/product_mini_34.jpg
-0 25 0 33500 0 0
+0 30 0 40200 0 0
 /cpanel
 0 1 0 8861 1 0
 /img/tmp/product_mini_56_1.jpg
 0 6 0 8220 0 0
 /img/p/8/4/84-thickbox_default.jpg
-0 11 0 464618 0 0
+0 12 0 506856 0 0
 /img/p/5/9/59-thickbox_default.jpg
 0 6 0 225936 0 0
 /img/p/2/1/3/213-home_default.jpg
-0 164 0 1470783 0 0
-/img/p/4/3/43-cart_default.jpg
-0 14 0 27048 0 0
+0 172 0 1534742 0 0
 /js/login.js
-0 27 0 132624 0 0
+0 33 0 162096 0 0
+/img/p/4/3/43-cart_default.jpg
+0 15 0 28980 0 0
 /img/p/1/3/9/139-large_default.jpg
 0 2 0 52154 0 0
 /img/p/4/9/49-large_default.jpg
@@ -1378,247 +1412,261 @@
 /img/p/1/0/4/104-cart_default.jpg
 0 15 0 22274 0 0
 /js/jquery/ui/i18n/jquery.ui.datepicker-es.js
-0 3 0 1792 0 0
+0 4 0 2688 0 0
 /img/p/1/1/9/119-cart_default.jpg
-0 12 0 18276 0 0
+0 13 0 19799 0 0
 /img/p/1/7/9/179-large_default.jpg
-0 28 0 801108 0 0
+0 29 0 829719 0 0
 /img/p/6/0/60-large_default.jpg
 0 1 0 25877 0 0
 /img/tmp/product_mini_24.jpg
-0 23 0 32890 0 0
+0 26 0 37180 0 0
 /img/p/4/2/42-large_default.jpg
-0 37 0 1195341 0 0
+0 38 0 1231018 0 0
 /img/p/1/4/5/145-small_default.jpg
 0 1 0 2476 0 0
 /img/p/2/8/28-cart_default.jpg
 0 1 0 1949 0 0
 /img/p/1/5/6/156-home_default.jpg
-0 192 0 1290100 0 0
+0 208 0 1391950 0 0
 /img/p/4/2/42-cart_default.jpg
 0 17 0 37125 0 0
 /themes/default-bootstrap/js/cms.js
-0 61 0 108153 0 0
+0 66 0 117018 0 0
 /img/p/1/9/5/195-home_default.jpg
-0 231 0 1195176 0 0
+0 251 0 1294774 0 0
 /img/p/1/3/1/131-thickbox_default.jpg
-0 7 0 302883 0 0
+0 8 0 346152 0 0
 /img/tmp/product_mini_25_1.jpg
 0 6 0 8538 0 0
 /img/p/2/8/28-thickbox_default.jpg
 0 1 0 35693 0 0
+/img/p/1/1/0/110-home_default.jpg
+0 147 0 855936 0 0
 /img/p/2/2/5/225-thickbox_default.jpg
 0 1 0 58245 0 0
-/img/p/1/1/0/110-home_default.jpg
-0 138 0 802440 0 0
 /
-0 4899 0 142373907 1077 592
+0 5363 0 155094746 1181 650
 /img/p/1/5/3/153-large_default.jpg
 0 1 0 0 0 0
 /img/p/1/1/7/117-home_default.jpg
-0 107 0 528473 0 0
+0 117 0 577863 0 0
+/js/jquery/plugins/fancybox/jquery.fancybox.js
+0 181 0 4118030 0 0
 /img/p/3/7/37-thickbox_default.jpg
 0 10 0 399300 0 0
-/js/jquery/plugins/fancybox/jquery.fancybox.js
-0 168 0 3817275 0 0
 /img/p/9/3/93-large_default.jpg
-0 40 0 938208 0 0
+0 42 0 986640 0 0
 /img/p/1/9/3/193-thickbox_default.jpg
 0 4 0 256916 0 0
+/img/p/2/2/3/223-thickbox_default.jpg
+0 1 19638416 135637 0 0
 /js/jquery/ui/jquery.ui.widget.min.js
-0 3 0 12976 0 0
+0 4 0 19464 0 0
 /themes/default-bootstrap/css/authentication.css
-0 16 0 12840 0 0
+0 21 0 17120 0 0
+/img/tmp/product_mini_55_216.jpg
+0 3 19560448 3981 0 0
 /img/tmp/product_mini_38_1.jpg
 0 6 0 6402 0 0
 /js/jquery/jquery-migrate-1.2.1.min.js
-0 345 0 2426063 0 0
+0 380 0 2678028 0 0
 /img/p/1/6/2/162-thickbox_default.jpg
 0 1 0 46297 0 0
 /img/p/1/0/5/105-cart_default.jpg
 0 15 0 25844 0 0
-/img/p/7/6/76-home_default.jpg
-0 198 8316308407861536353 1489264 0 0
 /img/p/1/5/1/151-cart_default.jpg
-0 3 8247346759398010416 4299 0 0
+0 3 0 4299 0 0
+/img/p/7/6/76-home_default.jpg
+0 215 0 1619314 0 0
 /img/p/1/4/6/146-thickbox_default.jpg
-0 22 8247346759398010416 1665488 0 0
+0 25 3761118543911845888 1892600 0 0
+/img/p/2/2/4/224-thickbox_default.jpg
+0 1 19638544 109124 0 0
 /themes/default-bootstrap/js/
-0 300 7883883415931530546 331078 12 16
+0 326 87310230566744114 359964 13 18
 /img/p/5/9/59-large_default.jpg
-0 1 3543546962910197304 15860 0 0
+0 1 72057594037955683 15860 0 0
 /img/p/1/3/3/133-medium_default.jpg
-0 1 7022364615773220142 3639 0 0
+0 1 8534159864943960622 3639 0 0
 /img/p/2/5/3/253-cart_default.jpg
-0 5 3832894735977180787 9265 0 0
+0 5 4049018639494414336 9265 0 0
 /img/tmp/product_mini_57_235.jpg
-0 1 0 1166 0 0
+0 1 3330749672971382327 1166 0 0
 /img/p/2/5/2/252-thickbox_default.jpg
-0 3 0 100104 0 0
+0 3 28015 100104 0 0
 /modules/homeslider/images/fd6a22198c0fadf2768bacedfa9f646130bf1beb_1418309721-55845600.jpg
-0 194 0 16733121 0 0
+0 211 0 18231756 0 0
 /img/p/1/4/7/147-home_default.jpg
-0 197 0 1340625 0 0
+0 213 0 1443750 0 0
 /backoffice/themes/default/js/date-range-picker.js
-0 2 0 46788 0 0
-/img/p/2/1/4/214-thickbox_default.jpg
-0 4 0 254068 0 0
+0 3 0 70182 0 0
 /img/p/1/5/9/159-large_default.jpg
 0 1 0 11687 0 0
+/img/p/2/1/4/214-thickbox_default.jpg
+0 4 0 254068 0 0
 /img/p/3/2/32-thickbox_default.jpg
 0 2 0 38773 0 0
+/img/p/1/1/8/118-cart_default.jpg
+0 13 0 27469 0 0
 /img/p/1/6/8/168-large_default.jpg
 0 2 0 55614 0 0
-/img/p/1/1/8/118-cart_default.jpg
-0 12 0 25356 0 0
 /img/p/1/2/9/129-thickbox_default.jpg
-0 8 0 426560 0 0
+0 9 0 479880 0 0
+/img/p/8/1/81-thickbox_default.jpg
+0 1 19618048 35714 0 0
 /img/p/2/0/8/208-large_default.jpg
 0 3 0 96771 0 0
 /img/p/4/7/47-cart_default.jpg
-0 11 0 16951 0 0
-/img/os/9.gif
-0 3 0 2140 0 0
+0 12 0 18492 0 0
 /img/p/9/4/94-thickbox_default.jpg
 0 22 0 1080222 0 0
+/img/os/9.gif
+0 3 0 2140 0 0
 /img/p/1/7/2/172-cart_default.jpg
-0 2 32897488 4706 0 0
+0 2 0 4706 0 0
 /img/p/1/7/3/173-thickbox_default.jpg
-0 2 32898128 178728 0 0
+0 2 0 178728 0 0
 /js/admin_order.js
-0 1 0 27855 0 0
+0 2 0 55710 0 0
 /img-sys/headerbg.jpg
 0 7 0 44370 0 0
 /img/p/1/3/0/130-large_default.jpg
 0 3 0 66966 0 0
+/themes/default-bootstrap/js/modules/blocktopmenu/js/
+0 1 19598400 589 0 0
 /img/p/1/5/9/159-home_default.jpg
-0 190 0 904092 0 0
-/img/p/1/1/7/117-small_default.jpg
-0 3 0 5430 0 0
+0 206 0 976227 0 0
 /img/p/7/6/76-thickbox_default.jpg
 0 3 0 32112 0 0
+/img/p/1/1/7/117-small_default.jpg
+0 3 0 5430 0 0
 /img/p/1/4/5/145-cart_default.jpg
-0 24 0 46824 0 0
+0 27 0 52677 0 0
 /img/p/1/3/0/130-thickbox_default.jpg
-0 7 0 377888 0 0
+0 8 0 431872 0 0
 /themes/default-bootstrap/js/order-opc.js
-0 23 0 820571 0 0
+0 25 0 891925 0 0
 /img/p/1/4/0/140-cart_default.jpg
-0 1 32900864 2193 0 0
+0 1 0 2193 0 0
 /img/p/8/2/82-thickbox_default.jpg
-0 11 0 214159 0 0
+0 12 0 233628 0 0
 /img/p/1/1/5/115-cart_default.jpg
 0 23 0 40803 0 0
+/backoffice/themes/default/js/calendar.js
+0 3 0 37065 0 0
 /img/p/2/5/1/251-cart_default.jpg
 0 3 0 7920 0 0
-/backoffice/themes/default/js/calendar.js
-0 2 0 24710 0 0
 /img/p/1/3/4/134-large_default.jpg
-0 5 0 146520 0 0
+0 6 0 175824 0 0
 /img/p/2/4/1/241-large_default.jpg
 0 3 0 53028 0 0
 /img/p/2/3/4/234-cart_default.jpg
-0 7 0 16548 0 0
+0 8 0 18912 0 0
 /img/p/2/0/5/205-large_default.jpg
 0 1 0 12463 0 0
 /img/tmp/product_mini_35.jpg
-0 25 0 33150 0 0
+0 30 0 39780 0 0
 /img/p/2/4/0/240-thickbox_default.jpg
 0 5 0 114730 0 0
 /img/p/3/8/38-thickbox_default.jpg
 0 10 0 1456960 0 0
 /img/p/5/5/55-home_default.jpg
-0 200 0 1553012 0 0
+0 217 0 1688281 0 0
 /backoffice/themes/default/js/vendor/bootstrap.min.js
-0 3 0 58220 0 0
+0 4 0 87330 0 0
 /img/p/5/0/50-large_default.jpg
 0 1 0 37892 0 0
 /js/validate.js
-0 65 0 1354688 0 0
+0 72 0 1502857 0 0
+/img/p/7/8/78-thickbox_default.jpg
+0 1 18909264 43537 0 0
 /img/canterbury-1406319596.jpg
-0 12 0 53757 0 0
+0 14 0 63531 0 0
 /img/tmp/product_mini_44_169.jpg
 0 2 0 2562 0 0
 /img/p/2/1/1/211-cart_default.jpg
 0 10 0 21630 0 0
 /img/p/1/9/7/197-cart_default.jpg
 0 9 0 15633 0 0
+/img/p/2/1/1/211-home_default.jpg
+0 219 0 2205502 0 0
 /img/p/2/2/6/226-cart_default.jpg
 0 1 0 2735 0 0
-/img/p/2/1/1/211-home_default.jpg
-0 202 0 2030708 0 0
+/img/p/es-default-home_default.jpg
+0 78 0 537186 0 0
 /img/tmp/product_mini_23_1.jpg
 0 6 0 7848 0 0
-/img/p/es-default-home_default.jpg
-0 75 0 516525 0 0
 /js/jquery/ui/themes/base/jquery.ui.slider.css
-0 3 0 2628 0 0
+0 4 0 3942 0 0
 /img/p/2/1/0/210-large_default.jpg
 0 3 0 47136 0 0
 /img/p/1/9/4/194-cart_default.jpg
 0 4 0 9520 0 0
-/backoffice/
-0 672 0 25808356 14 19
 /img/p/3/3/33-large_default.jpg
 0 1 0 14268 0 0
+/backoffice/
+0 773 0 30002293 20 28
 /img/p/1/8/6/186-cart_default.jpg
-0 19 0 37620 0 0
+0 21 0 41580 0 0
 /img/p/1/5/8/158-cart_default.jpg
 0 9 0 22482 0 0
 /img/p/1/0/6/106-cart_default.jpg
 0 15 0 31920 0 0
 /img/p/2/2/7/227-cart_default.jpg
 0 1 0 4051 0 0
-/img/p/2/3/5/235-thickbox_default.jpg
-0 7 0 233989 0 0
 /themes/default-bootstrap/js/modules/mailalerts/mailalerts.js
-0 181 0 673398 0 0
+0 191 85912751287972657 711018 0 0
+/img/p/2/3/5/235-thickbox_default.jpg
+0 8 0 267416 0 0
 /img/p/1/6/9/169-cart_default.jpg
-0 2 3688780380148674102 6964 0 0
+0 2 8314612947916975717 6964 0 0
 /img/p/1/8/7/187-large_default.jpg
-0 3 3976732545532309806 62379 0 0
+0 3 3345164580625934638 62379 0 0
 /img/p/5/5/55-thickbox_default.jpg
-0 3 3834024732289675566 110985 0 0
+0 3 8389754405899564655 110985 0 0
 /img/p/2/0/3/203-cart_default.jpg
-0 4 0 8068 0 0
-/img/p/2/3/3/233-cart_default.jpg
-0 7 3617284615110997298 13846 0 0
+0 4 8316308407861536353 8068 0 0
 /img/p/1/5/2/152-thickbox_default.jpg
-0 3 3832845857380630528 105348 0 0
+0 3 3545521724582933363 105348 0 0
+/img/p/2/3/3/233-cart_default.jpg
+0 8 8316308407861536353 15824 0 0
 /img/p/2/0/7/207-home_default.jpg
-0 189 363860076033 910316 0 0
+0 204 0 978468 0 0
 /img/p/2/5/5/255-thickbox_default.jpg
 0 5 0 547975 0 0
 /img/p/1/9/2/192-large_default.jpg
 0 3 0 76920 0 0
 /img/p/2/5/3/253-home_default.jpg
-0 132 0 857334 0 0
+0 140 0 903856 0 0
 /js/jquery/ui/jquery.ui.mouse.min.js
-0 3 0 5682 0 0
+0 4 0 8523 0 0
 /img/p/3/6/36-thickbox_default.jpg
 0 12 0 500232 0 0
 /img/p/1/5/1/151-large_default.jpg
 0 3 0 37308 0 0
 /js/admin-dashboard.js
-0 2 0 19512 0 0
+0 3 0 29268 0 0
 /img/p/2/3/7/237-home_default.jpg
-0 192 0 1300398 0 0
+0 207 0 1397754 0 0
 /img/p/2/4/8/248-thickbox_default.jpg
 0 5 0 496555 0 0
 /js/jquery/plugins/jqzoom/zoomloader.gif
-0 158 0 292142 0 0
+0 168 0 310632 0 0
 /img/p/1/4/1/141-home_default.jpg
-0 239 0 2227392 0 0
+0 258 0 2398464 0 0
 /themes/default-bootstrap/css/autoload/responsive-tables.css
-0 395 0 556004 0 0
+0 428 0 603293 0 0
 /themes/default-bootstrap/js/tools/statesManagement.js
-0 36 0 188055 0 0
+0 43 0 225666 0 0
+/img/p/2/2/2/222-thickbox_default.jpg
+0 1 19638288 30713 0 0
 /img/p/2/9/29-thickbox_default.jpg
 0 1 0 32151 0 0
 /js/jquery/plugins/jquery.scrollTo.js
-0 339 0 747664 0 0
+0 373 0 824232 0 0
 /themes/default-bootstrap/css/modules/mailalerts/mailalerts.css
-0 185 0 55083 0 0
+0 196 0 58394 0 0
 /img/p/1/1/9/119-small_default.jpg
 0 1 0 1899 0 0
 /img/p/1/9/3/193-cart_default.jpg
@@ -1628,27 +1676,29 @@
 /img/p/1/7/9/179-thickbox_default.jpg
 0 17 0 1218747 0 0
 /img/p/1/8/6/186-thickbox_default.jpg
-0 17 0 618766 0 0
+0 19 0 691562 0 0
 /img/p/2/4/2/242-thickbox_default.jpg
 0 3 0 168504 0 0
 /img/tmp/product_mini_54_212.jpg
 0 2 0 2414 0 0
 /img/p/4/6/46-thickbox_default.jpg
-0 13 0 1727674 0 0
+0 14 0 1860572 0 0
 /img/p/2/1/3/213-cart_default.jpg
 0 6 0 8100 0 0
 /img/p/1/7/0/170-large_default.jpg
 0 1 0 15370 0 0
-/img/p/2/2/6/226-thickbox_default.jpg
-0 1 0 76892 0 0
 /img/p/9/5/95-large_default.jpg
 0 6 0 165084 0 0
-/img/p/1/4/3/143-thickbox_default.jpg
-0 22 0 1413126 0 0
+/img/p/2/2/6/226-thickbox_default.jpg
+0 1 0 76892 0 0
 /themes/default-bootstrap/img/price-container-bg.png
-0 252 0 21420 0 0
+0 275 0 23375 0 0
+/img/p/1/4/3/143-thickbox_default.jpg
+0 25 0 1605825 0 0
+/img/p/2/2/1/221-cart_default.jpg
+0 1 19637520 1966 0 0
 /img/p/1/8/3/183-large_default.jpg
-0 37 0 719260 0 0
+0 40 0 779368 0 0
 /img/p/1/6/3/163-thickbox_default.jpg
 0 3 0 101748 0 0
 /img/p/1/6/6/166-cart_default.jpg
@@ -1658,89 +1708,91 @@
 /img/tmp/product_mini_35_1.jpg
 0 6 0 7956 0 0
 /img/p/4/7/47-large_default.jpg
-0 7 0 87696 0 0
+0 8 0 100224 0 0
 /img/p/2/5/4/254-thickbox_default.jpg
 0 5 0 259870 0 0
 /img/s/10.jpg
-0 21 0 90048 0 0
-/img/p/2/0/2/202-cart_default.jpg
-0 4 0 11368 0 0
+0 23 0 98624 0 0
 /img/p/1/6/4/164-thickbox_default.jpg
 0 3 0 121512 0 0
+/img/p/2/0/2/202-cart_default.jpg
+0 4 0 11368 0 0
 /img/p/1/1/8/118-large_default.jpg
-0 6 0 121188 0 0
+0 7 0 141386 0 0
 /img/p/7/2/72-thickbox_default.jpg
 0 1 0 0 0 0
 /img/p/1/4/3/143-large_default.jpg
-0 42 0 1020880 0 0
+0 46 0 1121168 0 0
 /img/tmp/product_mini_41_1.jpg
 0 6 0 7998 0 0
 /img/tmp/product_mini_14_74.jpg
-0 5 0 6835 0 0
+0 7 0 9569 0 0
 /img/p/4/3/43-thickbox_default.jpg
-0 13 0 568893 0 0
+0 14 0 612654 0 0
 /img/p/2/5/4/254-cart_default.jpg
 0 5 0 11870 0 0
 /img/p/1/6/9/169-large_default.jpg
 0 2 0 93936 0 0
-/img/p/2/3/5/235-large_default.jpg
-0 1 32882544 15375 0 0
 /img/p/4/6/46-cart_default.jpg
-0 13 0 28249 0 0
-/img/p/1/8/5/185-thickbox_default.jpg
-0 17 0 1446275 0 0
+0 14 0 30422 0 0
+/img/p/2/3/5/235-large_default.jpg
+0 1 0 15375 0 0
 /img/tallas/BOOTS SIZE CHART.png
-0 62 0 5058146 0 0
+0 66 0 5384478 0 0
+/img/p/1/8/5/185-thickbox_default.jpg
+0 19 0 1616425 0 0
 /img/p/2/1/2/212-cart_default.jpg
 0 10 0 22170 0 0
-/img/p/1/3/4/134-cart_default.jpg
-0 10 0 21300 0 0
 /img/p/2/5/5/255-cart_default.jpg
 0 5 0 15055 0 0
+/img/p/1/3/4/134-cart_default.jpg
+0 11 0 23430 0 0
 /img/p/1/1/9/119-thickbox_default.jpg
-0 11 0 303754 0 0
+0 12 0 331368 0 0
 /img/p/1/5/0/150-large_default.jpg
-0 1 32897104 24900 0 0
+0 1 0 24900 0 0
 /js/jquery/plugins/jquery.typewatch.js
-0 35 0 78132 0 0
+0 42 3543822978980577280 94218 0 0
 /img/p/4/0/40-thickbox_default.jpg
-0 1 0 39930 0 0
+0 2 3687940327427944497 79860 0 0
 /img/p/2/4/9/249-cart_default.jpg
-0 3 6092642062672869422 6282 0 0
+0 3 27747 6282 0 0
 /img/p/2/9/29-cart_default.jpg
-0 1 6144385659696461617 1766 0 0
+0 1 465520456289 1766 0 0
 /img/p/1/2/9/129-large_default.jpg
-0 9 3329625989150488366 212652 0 0
-/img/tmp/product_mini_22_59.jpg
-0 3 465520456547 3825 0 0
+0 10 8100961380475416172 236280 0 0
+/img/p/7/9/79-thickbox_default.jpg
+0 1 19511616 96687 0 0
 /themes/default-bootstrap/css/global.css
-0 411 366168931329 85020992 0 0
+0 445 1818439282 92176224 0 0
+/img/tmp/product_mini_22_59.jpg
+0 3 7867338167507891249 3825 0 0
 /js/vendor/spin.js
-0 3 4121075134020714496 20392 0 0
-/themes/default-bootstrap/css/modules/blocktags/blocktags.css
-0 274 7017222212790874723 101625 0 0
+0 4 0 30588 0 0
 /img/p/2/3/9/239-thickbox_default.jpg
-0 5 3530822107858468864 498530 0 0
-/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
-0 1 0 2759 0 0
+0 5 0 498530 0 0
+/themes/default-bootstrap/css/modules/blocktags/blocktags.css
+0 295 0 109500 0 0
 /img/p/9/5/95-thickbox_default.jpg
 0 22 0 1366574 0 0
+/themes/default-bootstrap/css/modules/blockcategories/blockcategories.css
+0 1 0 2759 0 0
 /img/p/2/9/29-large_default.jpg
 0 1 0 13623 0 0
 /themes/default-bootstrap/css/scenes.css
-0 278 0 611044 0 0
+0 304 0 668192 0 0
 /img/p/1/8/9/189-thickbox_default.jpg
 0 3 0 329586 0 0
+/img/p/1/4/4/144-cart_default.jpg
+0 27 0 77004 0 0
 /img/p/6/9/69-home_default.jpg
 0 1 0 0 0 0
-/img/p/1/4/4/144-cart_default.jpg
-0 24 0 68448 0 0
 /img/tmp/product_mini_39.jpg
-0 2 0 2474 0 0
-/img/p/4/2/42-thickbox_default.jpg
-0 15 0 1293604 0 0
+0 4 0 4948 0 0
 /img/p/1/9/1/191-thickbox_default.jpg
 0 4 0 271816 0 0
+/img/p/4/2/42-thickbox_default.jpg
+0 15 0 1293604 0 0
 /img/p/2/1/5/215-thickbox_default.jpg
 0 4 0 381020 0 0
 /img/p/1/5/6/156-thickbox_default.jpg
@@ -1750,63 +1802,69 @@
 /img/p/2/0/6/206-cart_default.jpg
 0 4 0 9544 0 0
 /img/p/1/1/9/119-large_default.jpg
-0 6 0 75276 0 0
+0 7 0 87822 0 0
+/img/p/2/2/3/223-cart_default.jpg
+0 1 19637904 1562 0 0
 /img/p/1/6/5/165-large_default.jpg
 0 1 0 27444 0 0
 /themes/default-bootstrap/css/product_list.css
-0 414 0 6508486 0 0
+0 450 0 7070132 0 0
 /img/tallas/SIZE CHART.png
-0 61 0 4866580 0 0
+0 65 0 5185700 0 0
 /img/p/1/1/7/117-thickbox_default.jpg
-0 11 0 287243 0 0
+0 12 0 313356 0 0
 /img/p/4/1/41-cart_default.jpg
-0 2 0 4496 0 0
+0 3 0 6744 0 0
 /themes/default-bootstrap/css/modules/blocksearch/blocksearch.css
-0 400 0 796283 0 0
+0 435 0 865881 0 0
 /img/p/6/2/62-thickbox_default.jpg
 0 5 0 180148 0 0
-/img/p/1/1/6/116-thickbox_default.jpg
-0 21 0 1671894 0 0
 /img/p/1/2/8/128-cart_default.jpg
 0 1 0 1249 0 0
+/img/p/1/1/6/116-thickbox_default.jpg
+0 21 0 1671894 0 0
 /img/p/1/3/3/133-home_default.jpg
-0 197 0 1874643 0 0
+0 215 0 2041158 0 0
 /img/p/8/4/84-large_default.jpg
 0 7 0 135387 0 0
+/img/p/2/2/4/224-cart_default.jpg
+0 1 19638032 2863 0 0
 /modules/productpaymentlogos/img/b3d6e11af9e4317de50e5319a04297ac.png
-0 182 0 1302576 0 0
+0 192 0 1376586 0 0
 /img/p/4/9/49-cart_default.jpg
-0 7 0 17717 0 0
+0 8 0 20248 0 0
 /img/p/2/3/6/236-large_default.jpg
-0 1 32882672 33562 0 0
+0 1 0 33562 0 0
 /js/jquery/plugins/autocomplete/jquery.autocomplete.css
-0 342 0 276192 0 0
+0 374 0 302496 0 0
 /img/p/8/3/83-cart_default.jpg
-0 13 0 18629 0 0
+0 14 0 20062 0 0
 /img/p/2/0/7/207-thickbox_default.jpg
-0 10 0 243900 0 0
+0 11 0 268290 0 0
 /img/p/8/2/82-large_default.jpg
 0 4 0 70956 0 0
+/modules/gamification/views/img/badge_unlocked.png
+0 1 19593040 3212 0 0
 /img/p/1/9/8/198-cart_default.jpg
 0 9 0 18567 0 0
 /img/p/1/1/0/110-cart_default.jpg
-0 27 0 41472 0 0
+0 28 0 43008 0 0
 /img/p/1/1/6/116-large_default.jpg
 0 8 0 266824 0 0
 /img/p/9/3/93-small_default.jpg
 0 2 0 6008 0 0
 /img/p/1/9/9/199-home_default.jpg
-0 194 0 1535247 0 0
+0 210 0 1657092 0 0
 /img/p/1/2/9/129-home_default.jpg
-0 188 0 1671921 0 0
+0 206 0 1826400 0 0
 /themes/default-bootstrap/img/cart-shadow.png
-0 92 0 250516 0 0
+0 96 0 261408 0 0
 /img/tmp/product_mini_14_1.jpg
 0 6 0 8190 0 0
+/js/jquery/plugins/validate/localization/messages_es.js
+0 4 0 3816 0 0
 /img-sys/contentbox.jpg
 0 4 0 35384 0 0
-/js/jquery/plugins/validate/localization/messages_es.js
-0 3 0 2544 0 0
 /img/p/2/5/6/256-thickbox_default.jpg
 0 5 0 144100 0 0
 # End Of Table - urls
@@ -1835,12 +1893,12 @@ pc-44-19-46-190.cm.vtr.net
 190-22-188-88.baf.movistar.cl
 0 105 104 1543554 1 1430909258
 /
-186.67.71.47
-0 36 36 991928 1 1431346670
-/
 200.48.88.132
 0 1 1 12252 0 0
 -
+186.67.71.47
+0 36 36 991928 1 1431346670
+/
 173.252.113.114
 0 1 1 15405 0 0
 -
@@ -1853,23 +1911,26 @@ msnbot-157-55-39-15.search.msn.com
 190-22-103-21.baf.movistar.cl
 0 44 43 662225 1 1430513940
 /themes/default-bootstrap/js/
-200.2.92.2
-0 199 197 3574330 2 1431340034
-/
 186-65-214-219.bam.movistar.cl
 0 124 108 1880999 1 1430662053
 /
+200.2.92.2
+0 199 197 3574330 2 1431340034
+/
 pc-208-199-44-190.cm.vtr.net
-0 196 148 2162065 3 1431359647
+0 288 238 2699631 5 1431446744
 /backoffice/
 201-220-242-231.bam.movistar.cl
 0 46 44 928745 1 1430684832
 /
+180.76.4.107
+0 1 0 0 1 1430560535
+/
 191.116.200.61
 0 85 68 888133 1 1431017625
 /
-180.76.4.107
-0 1 0 0 1 1430560535
+pc-80-178-215-201.cm.vtr.net
+0 19 18 378661 1 1431472636
 /
 69.171.228.123
 0 1 1 20036 0 0
@@ -1883,11 +1944,17 @@ pc-76-216-46-190.cm.vtr.net
 pc-220-2-100-190.cm.vtr.net
 0 185 148 3144834 3 1431097472
 /
+174.127.133.90
+0 21 11 418591 1 1431447905
+-
 191.116.9.113
 0 82 81 1005329 1 1430816944
 /
+174.127.133.64
+0 5 4 154384 1 1431445312
+-
 66.220.156.114
-0 6 6 75407 0 0
+0 7 7 100479 0 0
 -
 69.171.230.116
 0 2 2 50243 0 0
@@ -1971,7 +2038,7 @@ baiduspider-220-181-108-165.crawl.baidu.com
 0 1 0 0 1 1431112690
 /
 google-proxy-66-249-81-182.google.com
-0 19 19 511746 1 1430750143
+0 33 33 805542 1 1430750143
 /themes/default-bootstrap/js/
 180.76.6.66
 0 2 2 22678 1 1430765501
@@ -2015,23 +2082,26 @@ c1115066-26590.cloudatcost.com
 173.252.120.119
 0 6 6 106088 1 1430805934
 /
-150-70-97-123.trendmicro.com
-0 1 0 0 1 1430830517
-/
 201.238.218.32
 0 95 94 1754010 1 1431081366
+/
+150-70-97-123.trendmicro.com
+0 1 0 0 1 1430830517
 /
 173.252.73.115
 0 3 3 31209 0 0
 -
-173.252.113.117
-0 1 1 14703 0 0
--
 pc-169-165-83-200.cm.vtr.net
 0 45 45 917718 1 1431275577
 /
+173.252.113.117
+0 1 1 14703 0 0
+-
 191-112-235-80.baf.movistar.cl
 0 135 117 2097688 1 1430937385
+/
+190.151.85.50
+0 144 106 1505583 2 1431496778
 /
 181-160-169-247.baf.movistar.cl
 0 139 138 2230540 1 1430661540
@@ -2048,14 +2118,14 @@ c1115066-26591.cloudatcost.com
 pc-37-40-161-190.cm.vtr.net
 0 224 223 4257063 1 1431136694
 /
-crawl-66-249-75-11.googlebot.com
-0 162 123 2717305 77 1431250029
+pc-101-40-163-190.cm.vtr.net
+0 239 236 4096237 4 1431128766
 /
 201-220-243-178.bam.movistar.cl
 0 76 75 860556 2 1430982946
 /
-pc-101-40-163-190.cm.vtr.net
-0 239 236 4096237 4 1431128766
+crawl-66-249-75-11.googlebot.com
+0 162 123 2717305 77 1431250029
 /
 msnbot-157-55-39-9.search.msn.com
 0 47 33 945161 7 1431301644
@@ -2066,11 +2136,11 @@ msnbot-157-55-39-9.search.msn.com
 180.76.5.166
 0 2 1 47642 1 1430759844
 /
-client-186-37-108-44.imovil.entelpcs.cl
-0 10 3 24180 2 1430494822
-/
 p154-244.cmet.net
 0 150 115 1823537 1 1430475452
+/
+client-186-37-108-44.imovil.entelpcs.cl
+0 10 3 24180 2 1430494822
 /
 173.252.114.117
 0 4 4 197380 0 0
@@ -2112,16 +2182,16 @@ chs3.ampledns.com
 0 10 10 216549 0 0
 -
 173.252.120.115
-0 6 6 212231 1 1430738181
+0 7 7 236447 1 1430738181
 /
 173.252.79.114
 0 1 1 6850 0 0
 -
-pc-2-148-45-190.cm.vtr.net
-0 1 1 45445 1 1430724653
-/
 host128.subnet-208-78-85.gigavenue.com
 0 2 1 22303 1 1431258342
+/
+pc-2-148-45-190.cm.vtr.net
+0 1 1 45445 1 1430724653
 /
 173.252.73.119
 0 4 4 38219 0 0
@@ -2138,12 +2208,15 @@ google-proxy-66-249-83-138.google.com
 b110113.yse.yahoo.net
 0 4 2 129700 2 1430605247
 /
-192.187.126.162
-0 28 10 219858 5 1431032935
--
 pc-104-78-162-190.cm.vtr.net
 0 605 356 5806779 9 1431286388
 /
+192.187.126.162
+0 28 10 219858 5 1431032935
+-
+174.127.133.63
+0 20 10 363656 2 1431448100
+-
 201-220-244-218.bam.movistar.cl
 0 59 59 890137 1 1431038822
 /
@@ -2151,7 +2224,7 @@ pc-33-252-100-190.cm.vtr.net
 0 134 132 2462051 1 1430743158
 /
 180.76.5.150
-0 1 1 1111 1 1431130847
+0 2 2 15437 1 1431130847
 /themes/default-bootstrap/js/
 180.76.5.191
 0 1 0 18502 0 0
@@ -2186,11 +2259,11 @@ pc-112-144-239-201.cm.vtr.net
 191-113-90-114.baf.movistar.cl
 0 145 122 1631650 1 1430921219
 /
-66.220.146.22
-0 14 14 107387 0 0
--
 out-ar118.tfbnw.net
 0 2 2 35441 0 0
+-
+66.220.146.22
+0 14 14 107387 0 0
 -
 msnbot-157-55-39-149.search.msn.com
 0 26 25 382934 1 1431099564
@@ -2201,21 +2274,24 @@ pc-253-173-104-200.cm.vtr.net
 google-proxy-66-249-83-243.google.com
 0 3 0 0 3 1431348795
 /
-69.171.237.119
-0 8 8 95544 0 0
--
 66.220.156.112
-0 5 5 68098 0 0
+0 6 6 84561 0 0
+-
+69.171.237.119
+0 9 9 131221 0 0
+-
+180.76.6.145
+0 1 1 41 0 0
 -
 180.76.5.190
 0 1 1 59039 1 1430898018
 /
-180.76.6.145
-0 1 1 41 0 0
--
 146.155.86.123
 0 187 185 3480360 1 1430993553
 /
+111.13.102.9
+0 1 0 18502 0 0
+-
 186-59-27-214.speedy.com.ar
 0 13 13 613220 1 1430472786
 /
@@ -2231,6 +2307,9 @@ google-proxy-66-249-83-243.google.com
 190.95.36.195
 0 111 110 1878307 1 1430739092
 /
+174.127.133.96
+0 37 8 907488 1 1431448235
+-
 pc-35-25-83-200.cm.vtr.net
 0 139 138 2363893 1 1430762671
 /
@@ -2249,15 +2328,21 @@ out-ar114.tfbnw.net
 180.76.6.132
 0 1 1 22303 1 1430876725
 /
+pc-104-186-160-190.cm.vtr.net
+0 236 164 2207710 3 1431469454
+/
 181-161-152-227.baf.movistar.cl
 0 210 154 2411201 1 1430755067
 /
-out-ar115.tfbnw.net
-0 1 0 0 1 1430754845
+client-186-37-202-19.imovil.entelpcs.cl
+0 60 55 745872 1 1431435726
 /
 111.13.102.139
 0 1 0 18502 0 0
 -
+out-ar115.tfbnw.net
+0 1 0 0 1 1430754845
+/
 pc-30-45-46-190.cm.vtr.net
 0 89 72 917504 1 1430601776
 /
@@ -2269,6 +2354,9 @@ pc-138-4-104-200.cm.vtr.net
 /
 179-8-128-42.baf.movistar.cl
 0 184 182 2304041 2 1430777469
+/
+180.76.5.59
+0 1 0 0 1 1431501743
 /
 msnbot-157-55-39-13.search.msn.com
 0 10 10 307567 3 1431185269
@@ -2282,18 +2370,24 @@ msnbot-157-55-39-13.search.msn.com
 49.pool80-103-9.dynamic.orange.es
 0 193 193 3421902 2 1430488499
 /
-pc-169-94-214-201.cm.vtr.net
-0 173 114 1778821 1 1431382352
-/
 google-proxy-66-249-83-237.google.com
 0 1 0 0 1 1430761800
+/
+pc-169-94-214-201.cm.vtr.net
+0 173 114 1778821 1 1431382352
 /
 180.76.5.18
 0 1 1 12234 0 0
 -
+dynamic-ip-181540172125.cable.net.co
+0 1 1 26097 0 0
+-
 69.171.228.121
 0 1 1 20036 0 0
 -
+181.75.172.214
+0 85 84 1650876 1 1431471299
+/
 pc-135-180-45-190.cm.vtr.net
 0 128 82 1152690 1 1430746799
 /
@@ -2348,35 +2442,38 @@ as5300-s56-104.cnt.entelchile.net
 180.76.5.66
 0 1 0 18502 1 1431073103
 /
-201-220-224-14.bam.movistar.cl
-0 4 4 27586 1 1430891909
-/webmail
 200.14.137.67
 0 164 164 2538984 1 1430927434
 /
+201-220-224-14.bam.movistar.cl
+0 4 4 27586 1 1430891909
+/webmail
+zt117.tfbnw.net
+0 3 3 34908 0 0
+-
 host190.110.171.73.dynamic.pacificonet.cl
 0 55 54 1234970 1 1430571699
 /
-zt117.tfbnw.net
-0 2 2 10692 0 0
--
+pc-162-161-162-190.cm.vtr.net
+0 186 138 2497763 1 1431443551
+/
 173.252.110.115
-0 1 1 15405 0 0
+0 2 2 44016 0 0
 -
 smtp1.banmedica.cl
 0 1081 1080 17599516 2 1430841214
 /
 190.215.158.175
-0 1598 1370 25640469 17 1431288739
+0 1632 1401 26146031 19 1431462328
 /backoffice/
 173.252.88.185
 0 1 1 9000 0 0
 -
-msnbot-157-55-39-8.search.msn.com
-0 121 84 2664799 34 1431396603
-/
 201.238.219.147
 0 98 97 1699001 1 1430737066
+/
+msnbot-157-55-39-8.search.msn.com
+0 122 84 2664799 35 1431442149
 /
 client-186-37-202-248.imovil.entelpcs.cl
 0 199 153 2226587 2 1430748946
@@ -2405,17 +2502,20 @@ msnbot-157-55-39-116.search.msn.com
 201-236-109-134.static.tie.cl
 0 11 10 266067 1 1430808682
 /
-client-186-37-116-116.imovil.entelpcs.cl
-0 2055 2011 30659764 1 1431379537
-/
 google-proxy-66-249-83-249.google.com
 0 1 0 0 1 1431348165
 /
+client-186-37-116-116.imovil.entelpcs.cl
+0 2055 2011 30659764 1 1431379537
+/
 google-proxy-66-249-83-152.google.com
-0 291 274 4152096 13 1431364613
+0 292 275 4153107 13 1431364613
 /
 as5400-s01ss7a-181.cnt.entelchile.net
 0 1 1 204 1 1430483320
+/
+190.196.130.58
+0 252 191 3957209 1 1431423782
 /
 crawl-66-249-69-42.googlebot.com
 0 29 0 0 26 1431170598
@@ -2423,17 +2523,20 @@ crawl-66-249-69-42.googlebot.com
 hosted-by.leaseweb.com
 0 3 2 109236 1 1430694915
 /
+client-186-9-133-50.imovil.entelpcs.cl
+0 57 55 799803 2 1431424500
+/
 crawl-66-249-69-50.googlebot.com
 0 34 0 0 29 1431224267
 /
 pc-132-126-45-190.cm.vtr.net
 0 87 86 1603736 1 1430742020
 /
-8.28.16.254
-0 4 3 112233 2 1430926814
-/
 msnbot-157-55-39-244.search.msn.com
 0 16 16 411519 1 1431317821
+/
+8.28.16.254
+0 4 3 112233 2 1430926814
 /
 zt113.tfbnw.net
 0 6 6 76870 0 0
@@ -2441,14 +2544,17 @@ zt113.tfbnw.net
 ec2-52-6-141-5.compute-1.amazonaws.com
 0 1 1 22303 1 1431258082
 /
+client-186-37-202-41.imovil.entelpcs.cl
+0 106 71 1045947 1 1431417330
+/
 173.252.120.113
 0 7 6 133370 1 1431391103
 /
-b110181.yse.yahoo.net
-0 2 1 68465 1 1431068028
-/
 ec2-52-6-74-190.compute-1.amazonaws.com
 0 2 1 22303 1 1431258020
+/
+b110181.yse.yahoo.net
+0 2 1 68465 1 1431068028
 /
 pc-243-23-86-200.cm.vtr.net
 0 125 124 2253639 1 1430477746
@@ -2457,8 +2563,11 @@ pc-243-23-86-200.cm.vtr.net
 0 6 6 77025 0 0
 -
 zt119.tfbnw.net
-0 4 4 36836 0 0
+0 5 5 45219 0 0
 -
+pc-90-27-100-190.cm.vtr.net
+0 133 121 2048824 1 1431464941
+/
 180.76.6.233
 0 1 0 0 1 1431004918
 /
@@ -2483,11 +2592,11 @@ msnbot-207-46-13-144.search.msn.com
 69.171.230.117
 0 2 2 53018 0 0
 -
-190.121.104.170
-0 271 267 4952946 3 1430748648
-/
 66.220.156.115
 0 11 11 129983 1 1430763497
+/
+190.121.104.170
+0 271 267 4952946 3 1430748648
 /
 client-186-9-130-122.imovil.entelpcs.cl
 0 81 65 896086 1 1430509069
@@ -2500,6 +2609,12 @@ client-186-9-130-122.imovil.entelpcs.cl
 -
 190.54.193.243.wimax.telmexchile.cl
 0 103 102 1791853 1 1430766387
+/
+150-70-173-42.trendmicro.com
+0 1 1 22303 1 1431447608
+/
+164.77.90.30
+0 113 112 2133935 1 1431447657
 /
 173.252.74.116
 0 1 1 14566 0 0
@@ -2514,19 +2629,22 @@ client-186-9-130-122.imovil.entelpcs.cl
 0 75 75 968412 4 1430491454
 /
 180.76.6.153
-0 1 1 1368 0 0
--
-201.186.204.46
-0 122 122 1590910 1 1431389939
+0 2 1 1368 1 1431452992
 /
 186-79-195-37.baf.movistar.cl
 0 155 149 2137253 1 1431114885
 /
-ec2-52-1-45-126.compute-1.amazonaws.com
-0 4 1 40805 1 1431181364
+201.186.204.46
+0 122 122 1590910 1 1431389939
 /
 201.187.13.238
 0 12 12 268102 0 0
+-
+ec2-52-1-45-126.compute-1.amazonaws.com
+0 4 1 40805 1 1431181364
+/
+180.76.6.138
+0 1 1 1743 0 0
 -
 173.252.105.116
 0 2 2 43368 0 0
@@ -2540,20 +2658,23 @@ ec2-52-1-45-126.compute-1.amazonaws.com
 173.252.120.116
 0 6 6 117726 0 0
 -
+45.55.251.203
+0 3 0 55506 1 1431490674
+-
 pc-248-192-45-190.cm.vtr.net
 0 181 180 3044189 3 1431250431
-/
-client-186-37-203-19.imovil.entelpcs.cl
-0 152 149 1780605 1 1430760585
 /
 crawl-66-249-79-14.googlebot.com
 0 1 1 1 1 1431146831
 /
-186-107-211-238.baf.movistar.cl
-0 190 189 3453061 1 1430841313
+client-186-37-203-19.imovil.entelpcs.cl
+0 152 149 1780605 1 1430760585
 /
 pc-62-179-215-201.cm.vtr.net
 0 108 106 1807715 2 1431305636
+/
+186-107-211-238.baf.movistar.cl
+0 190 189 3453061 1 1430841313
 /
 190.215.198.200
 0 44 43 662225 1 1430949804
@@ -2604,7 +2725,7 @@ msnbot-157-55-39-251.search.msn.com
 0 1 1 45744 1 1431238168
 /
 180.76.5.26
-0 1 1 16519 0 0
+0 2 1 35021 0 0
 -
 69.171.230.114
 0 3 3 53485 0 0
@@ -2614,6 +2735,9 @@ msnbot-157-55-39-251.search.msn.com
 -
 cpe-121-216-53-95.lnse1.ken.bigpond.net.au
 0 177 176 3158035 1 1430525644
+/
+174.127.133.95
+0 4 4 39929 1 1431445477
 /
 201-220-244-146.bam.movistar.cl
 0 149 104 1390453 2 1430910916
@@ -2627,6 +2751,9 @@ pc-238-128-164-190.cm.vtr.net
 180.76.5.72
 0 1 1 1323 0 0
 -
+200.5.104.45
+0 1 1 19514 1 1431441632
+/
 181-163-231-54.baf.movistar.cl
 0 55 51 725873 1 1430776360
 /
@@ -2642,12 +2769,12 @@ globalip102163.utalca.cl
 186.67.249.22
 0 105 105 1533755 1 1430477550
 /
-client-186-37-202-61.imovil.entelpcs.cl
-0 111 94 1189525 1 1430725922
-/
 173.252.114.116
 0 1 1 4887 0 0
 -
+client-186-37-202-61.imovil.entelpcs.cl
+0 111 94 1189525 1 1430725922
+/
 client-186-37-202-80.imovil.entelpcs.cl
 0 56 55 942267 1 1431346902
 /
@@ -2655,7 +2782,7 @@ client-186-37-202-80.imovil.entelpcs.cl
 0 1 1 1368 0 0
 -
 180.76.5.71
-0 1 1 2047 0 0
+0 2 2 7002 0 0
 -
 173.245.115.78
 0 1 1 0 0 0
@@ -2687,6 +2814,9 @@ correo.kelme.es
 msnbot-199-30-16-161.search.msn.com
 0 3 3 87741 0 0
 -
+190.215.136.123
+0 114 95 1387996 4 1431441661
+/
 173.252.88.84
 0 6 6 30233 0 0
 -
@@ -2698,6 +2828,9 @@ pc-239-67-101-190.cm.vtr.net
 /
 201-223-143-124.baf.movistar.cl
 0 32 13 399435 1 1431284047
+/
+client-186-37-108-38.imovil.entelpcs.cl
+0 77 77 1064238 1 1431450018
 /
 200-42-175-206.static.tie.cl
 0 89 87 1765164 1 1430733573
@@ -2711,29 +2844,32 @@ pc-239-67-101-190.cm.vtr.net
 173.245.115.79
 0 1 1 0 0 0
 -
+201-220-242-164.bam.movistar.cl
+0 578 420 5979674 4 1431452436
+/
 173.252.120.118
 0 10 10 160647 0 0
 -
 client-186-11-231-218.imovil.entelpcs.cl
 0 185 181 2993900 3 1431361795
 /
-66.220.156.117
-0 5 5 77113 0 0
--
 201-223-72-87.baf.movistar.cl
 0 114 113 1995408 1 1431103039
 /
+66.220.156.117
+0 5 5 77113 0 0
+-
 ec2-54-82-233-222.compute-1.amazonaws.com
 0 1 1 48058 1 1431407859
 /
 pc-181-217-86-200.cm.vtr.net
 0 53 52 1233467 1 1431177646
 /themes/default-bootstrap/js/
-191-112-78-156.baf.movistar.cl
-0 78 78 1474881 1 1430495874
-/
 180.76.5.22
 0 3 3 79817 2 1431372745
+/
+191-112-78-156.baf.movistar.cl
+0 78 78 1474881 1 1430495874
 /
 199.16.156.126
 0 2 1 40805 1 1430847778
@@ -2744,23 +2880,26 @@ pc-181-217-86-200.cm.vtr.net
 pc-116-210-161-190.cm.vtr.net
 0 88 86 1324450 2 1430688484
 /themes/default-bootstrap/js/
+64.76.174.105
+0 175 173 3059811 3 1431430990
+/
 23-61-113-92.pool.ukrtel.net
 0 2 1 22303 1 1430632438
-/
-64.76.174.105
-0 86 85 1538318 2 1430912878
 /
 190.151.111.26
 0 4 3 41881 1 1431336986
 /
 190.196.25.182
-0 584 549 7564675 5 1431077794
+0 975 914 14180749 10 1431443143
 /backoffice/
 181-160-239-24.baf.movistar.cl
 0 103 103 1308111 1 1430663139
 /
+client-186-9-130-204.imovil.entelpcs.cl
+0 336 194 3913056 1 1431465032
+/
 66.220.156.118
-0 5 5 60540 0 0
+0 6 6 80576 0 0
 -
 201-220-242-39.bam.movistar.cl
 0 109 60 968654 2 1430984319
@@ -2770,6 +2909,9 @@ pc-116-210-161-190.cm.vtr.net
 /
 200.126.115.239
 0 125 123 1913601 2 1430908380
+/
+201-220-242-199.bam.movistar.cl
+0 6 4 336589 1 1431443490
 /
 173.252.110.113
 0 4 4 30745 0 0
@@ -2792,12 +2934,15 @@ pc-96-102-120-200.cm.vtr.net
 180.76.5.76
 0 1 0 0 1 1431111138
 /
-pc-17-86-239-201.cm.vtr.net
-0 510 500 8785403 2 1431205183
-/
 google-proxy-66-249-83-145.google.com
 0 320 288 4176332 18 1431369403
 /
+pc-17-86-239-201.cm.vtr.net
+0 510 500 8785403 2 1431205183
+/
+174.127.133.88
+0 41 10 833146 1 1431448710
+-
 173.252.100.116
 0 1 1 14566 0 0
 -
@@ -2813,14 +2958,17 @@ pc-41-95-46-190.cm.vtr.net
 190.8.79.154
 0 81 73 1042742 3 1430818144
 /webmail
+190.196.58.28
+0 55 54 1235777 1 1431439628
+/themes/default-bootstrap/js/
 180.76.6.135
 0 1 1 4955 0 0
 -
-69.58.178.57
-0 15 10 399230 1 1431254977
-/
 201-220-242-17.bam.movistar.cl
 0 1 1 17767 1 1431266721
+/
+69.58.178.57
+0 15 10 399230 1 1431254977
 /
 173.252.88.91
 0 1 1 9000 0 0
@@ -2834,11 +2982,11 @@ hn.kd.ny.adsl
 180.76.5.194
 0 1 1 1111 1 1430584655
 /themes/default-bootstrap/js/
+msnbot-157-55-39-226.search.msn.com
+0 21 20 497759 2 1431445896
+/
 msnbot-157-55-39-194.search.msn.com
 0 3 2 46945 1 1430452778
-/
-msnbot-157-55-39-226.search.msn.com
-0 19 19 476421 1 1431317985
 /
 12.129.64.200
 0 102 102 1547075 2 1431358398
@@ -2862,7 +3010,7 @@ msnbot-157-55-39-250.search.msn.com
 0 47 46 666163 1 1430976489
 /
 msnbot-157-55-39-10.search.msn.com
-0 8 5 148139 5 1431117272
+0 9 5 148139 6 1431487298
 /
 180.76.6.41
 0 1 1 1875 0 0
@@ -2897,6 +3045,9 @@ pc-189-104-47-190.cm.vtr.net
 173.252.103.2
 0 1 1 158406 0 0
 -
+174.127.133.91
+0 27 10 451427 2 1431448331
+/
 186-105-98-168.baf.movistar.cl
 0 55 54 1235777 1 1431015014
 /themes/default-bootstrap/js/
@@ -2922,7 +3073,7 @@ pc-147-8-120-200.cm.vtr.net
 0 3 3 27316 0 0
 -
 mail.pagosonline.net
-0 35 2 0 0 0
+0 41 2 0 0 0
 -
 191.119.163.183
 0 158 157 2215870 1 1430739538
@@ -2934,11 +3085,14 @@ pc-108-214-120-200.cm.vtr.net
 0 1 1 28802 0 0
 -
 180.76.6.59
-0 1 0 0 1 1430709648
+0 2 1 1011 1 1430709648
 /
 client-186-9-129-6.imovil.entelpcs.cl
 0 226 132 2051229 1 1430503656
 /
+174.127.133.87
+0 22 5 358780 2 1431448278
+-
 pc-124-5-47-190.cm.vtr.net
 0 14 13 263543 1 1430478396
 /
@@ -2964,7 +3118,7 @@ pc-99-102-156-186.cm.vtr.net
 0 11 11 89849 1 1430611544
 /
 crawl-66-249-73-201.googlebot.com
-0 6 0 0 6 1431403458
+0 7 0 0 7 1431488939
 /
 pc-171-70-86-200.cm.vtr.net
 0 115 107 1812375 1 1431269110
@@ -3008,6 +3162,12 @@ msnbot-157-55-39-126.search.msn.com
 180.76.5.171
 0 1 0 0 1 1431372744
 /
+boson062.ahrefs.com
+0 1 0 226 0 0
+-
+baiduspider-220-181-108-78.crawl.baidu.com
+0 1 0 0 1 1431464696
+/
 pc-247-9-74-200.cm.vtr.net
 0 131 129 2602365 1 1430591912
 /
@@ -3023,23 +3183,26 @@ pc-247-9-74-200.cm.vtr.net
 180.76.5.81
 0 2 1 69248 1 1430981774
 /
+174.127.133.89
+0 8 7 82112 1 1431445355
+/
 200-28-87-214.baf.movistar.cl
 0 129 127 2181222 1 1430684810
 /
 173.252.73.114
 0 6 6 94877 0 0
 -
-181-202-177-140.bam.movistar.cl
-0 1 1 22303 1 1430953753
-/
 google-proxy-66-102-6-163.google.com
 0 1 1 1011 0 0
 -
-iebgs.ieb.cl
-0 223 145 2235822 1 1430742200
+181-202-177-140.bam.movistar.cl
+0 1 1 22303 1 1430953753
 /
 186-103-204-162.static.tie.cl
 0 195 194 3564588 1 1431082677
+/
+iebgs.ieb.cl
+0 223 145 2235822 1 1430742200
 /
 mail.danica.cl
 0 57 56 1238704 1 1430824056
@@ -3059,11 +3222,11 @@ dw2.girlsdelta.com
 181.74.228.88
 0 141 107 1504685 1 1430686703
 /
-201-220-242-209.bam.movistar.cl
-0 76 76 1224999 1 1430760633
-/
 180.76.5.143
 0 1 0 0 1 1430800905
+/
+201-220-242-209.bam.movistar.cl
+0 76 76 1224999 1 1430760633
 /
 pc-11-152-44-190.cm.vtr.net
 0 182 181 3580591 2 1431329398
@@ -3072,22 +3235,22 @@ pc-20-184-44-190.cm.vtr.net
 0 2 2 46455 1 1430959058
 /
 google-proxy-66-249-81-186.google.com
-0 17 17 379571 0 0
--
+0 42 42 903142 1 1431422058
+/themes/default-bootstrap/js/
+208-115-111-73-reverse.wowrack.com
+0 37 19 1094432 16 1431478524
+/
 190.215.185.90
 0 133 131 2187928 2 1430776038
-/
-208-115-111-73-reverse.wowrack.com
-0 30 15 874597 13 1431377926
 /
 186.67.109.98
 0 155 109 1595745 2 1430746271
 /
 crawl-66-249-73-193.googlebot.com
-0 5 0 0 2 1431372417
+0 9 0 0 5 1431472117
 /
 180.76.5.75
-0 1 1 47896 1 1430676739
+0 2 2 70199 2 1431501745
 /
 rx116.tfbnw.net
 0 1 1 24216 0 0
@@ -3108,7 +3271,7 @@ host6.carestreamhealth.com
 0 255 253 4260233 2 1430836688
 /
 173.252.74.119
-0 1 1 8383 0 0
+0 2 2 22949 0 0
 -
 wwwb-app12.us.archive.org
 0 2 0 18502 1 1430793711
@@ -3143,27 +3306,27 @@ a23-08-04.opera-mini.net
 ec2-54-174-57-93.compute-1.amazonaws.com
 0 1 1 14566 0 0
 -
-client-186-37-202-50.imovil.entelpcs.cl
-0 1 1 204 1 1431196251
-/
-client-186-11-234-32.imovil.entelpcs.cl
-0 126 125 2281733 1 1430824288
+ec2-52-7-212-197.compute-1.amazonaws.com
+0 1 1 20112 1 1431258276
 /
 191-112-245-74.baf.movistar.cl
 0 250 247 5158741 1 1430940894
 /
-ec2-52-7-212-197.compute-1.amazonaws.com
-0 1 1 20112 1 1431258276
+client-186-11-234-32.imovil.entelpcs.cl
+0 126 125 2281733 1 1430824288
+/
+client-186-37-202-50.imovil.entelpcs.cl
+0 1 1 204 1 1431196251
 /
 msnbot-157-55-39-227.search.msn.com
 0 3 3 287187 0 0
 -
-190.96.77.163
-0 59 57 1628422 2 1430997290
-/themes/default-bootstrap/js/
 173.252.88.88
 0 4 4 23984 0 0
 -
+190.96.77.163
+0 59 57 1628422 2 1430997290
+/themes/default-bootstrap/js/
 190.211.37.35
 0 179 178 2689337 1 1430735238
 /
@@ -3180,13 +3343,16 @@ msnbot-157-55-39-227.search.msn.com
 0 3 0 55506 1 1430922037
 -
 google-proxy-66-249-81-191.google.com
-0 17 17 343449 0 0
--
+0 31 31 760848 1 1431422056
+/
 ec2-54-172-43-19.compute-1.amazonaws.com
 0 4 4 89212 1 1431260641
 /
 pc-103-193-160-190.cm.vtr.net
 0 47 47 738663 1 1430922988
+/
+186-79-230-199.baf.movistar.cl
+0 88 88 1077744 1 1431460307
 /
 pc-68-82-161-190.cm.vtr.net
 0 105 105 1275442 1 1430736711
@@ -3200,9 +3366,15 @@ pc-171-196-46-190.cm.vtr.net
 201-220-242-174.bam.movistar.cl
 0 98 80 1161010 1 1430566905
 /
+pc-221-103-86-200.cm.vtr.net
+0 98 97 1718696 1 1431469706
+/
 msnbot-199-30-16-176.search.msn.com
 0 52 52 1247967 1 1430533910
 /themes/default-bootstrap/js/
+191.119.54.81
+0 145 95 1269063 2 1431431142
+/
 190.215.4.244
 0 54 53 1234766 1 1430675284
 /themes/default-bootstrap/js/
@@ -3215,14 +3387,14 @@ ip-44-226-107-190.nextelmovil.cl
 173.252.88.85
 0 1 1 9000 0 0
 -
-173.252.103.5
-0 1 1 4887 0 0
--
 180.76.6.14
 0 2 2 53363 1 1430896218
 /
+173.252.103.5
+0 1 1 4887 0 0
+-
 74.red-176-86-156.dynamicip.rima-tde.net
-0 2 1 22303 1 1431415412
+0 28 6 352243 2 1431431252
 /
 client-186-37-202-232.imovil.entelpcs.cl
 0 44 43 662225 1 1431257293
@@ -3245,6 +3417,9 @@ ec2-54-84-198-40.compute-1.amazonaws.com
 186-10-6-68.net.entelpcs.cl
 0 229 227 4147358 1 1430839501
 /
+client-186-37-202-170.imovil.entelpcs.cl
+0 21 3 146705 1 1431421521
+/
 200.68.37.82
 0 83 81 1448556 1 1430934308
 /
@@ -3252,7 +3427,7 @@ ec2-54-84-198-40.compute-1.amazonaws.com
 0 1 1 22303 1 1430754846
 /
 pc-209-112-101-190.cm.vtr.net
-0 257 241 4100431 3 1431378863
+0 351 335 5636330 4 1431452848
 /
 104.131.211.39
 0 2 1 22303 1 1430970640
@@ -3273,37 +3448,43 @@ pc-209-142-163-190.cm.vtr.net
 0 45 45 917718 1 1431228143
 /
 crawl-66-249-73-138.googlebot.com
-0 29 22 631703 12 1431414817
+0 48 38 967827 22 1431499522
 /
 124-89-28-181.fibertel.com.ar
 0 119 114 2253889 1 1430642527
 /
-pc-55-251-214-201.cm.vtr.net
-0 125 122 2420866 1 1430511095
-/
 173.252.73.112
 0 7 7 49385 0 0
 -
+pc-55-251-214-201.cm.vtr.net
+0 125 122 2420866 1 1430511095
+/
 wwwb-app15.us.archive.org
 0 2 0 18502 1 1430909592
+/
+pc-216-202-163-190.cm.vtr.net
+0 144 143 2395915 1 1431432056
+/
+201-223-148-166.baf.movistar.cl
+0 146 125 1564508 1 1431259168
 /
 173.252.81.118
 0 1 1 14566 0 0
 -
-201-223-148-166.baf.movistar.cl
-0 146 125 1564508 1 1431259168
+66.220.156.113
+0 4 4 77577 0 0
+-
+191-112-13-196.baf.movistar.cl
+0 1 1 46855 1 1430751773
 /
 pc-135-175-120-200.cm.vtr.net
 0 93 71 981183 1 1430867626
 /
-191-112-13-196.baf.movistar.cl
-0 1 1 46855 1 1430751773
-/
-66.220.156.113
-0 4 4 77577 0 0
--
 pc-214-76-104-200.cm.vtr.net
 0 181 181 3030314 1 1430478229
+/
+baiduspider-220-181-108-116.crawl.baidu.com
+0 1 1 22303 1 1431464698
 /
 66.220.146.25
 0 13 13 193156 2 1430908790
@@ -3321,19 +3502,19 @@ client-186-37-203-171.imovil.entelpcs.cl
 0 177 174 2522993 1 1430761230
 /
 208.115.113.89
-0 24 14 753190 10 1431413971
+0 35 20 1021207 15 1431500289
 /
 180.76.5.175
 0 2 2 23414 2 1431130848
 /themes/default-bootstrap/js/
-pc-190-238-163-190.cm.vtr.net
-0 92 91 1580793 1 1431217755
+pc-214-208-100-190.cm.vtr.net
+0 185 183 3241312 2 1431431326
 /
 190.215.0.64
 0 123 121 2302955 1 1430636028
 /
-pc-214-208-100-190.cm.vtr.net
-0 84 83 1515588 1 1430899896
+pc-190-238-163-190.cm.vtr.net
+0 92 91 1580793 1 1431217755
 /
 66.220.156.116
 0 6 6 53414 0 0
@@ -3347,6 +3528,9 @@ pc-214-208-100-190.cm.vtr.net
 104.131.248.57
 0 81 76 3792644 1 1431264841
 /
+180.76.5.196
+0 2 2 16894 0 0
+-
 pc-41-200-100-190.cm.vtr.net
 0 7 7 1428 5 1431101837
 /
@@ -3381,7 +3565,7 @@ client-186-37-57-111.imovil.entelpcs.cl
 0 122 121 2020101 1 1430692834
 /
 crawl-66-249-73-146.googlebot.com
-0 37 26 337863 13 1431414436
+0 45 30 377159 17 1431499520
 /
 179.51.74.82
 0 1 1 17526 1 1430448286
@@ -3407,26 +3591,29 @@ crawl-66-249-75-19.googlebot.com
 173.252.88.89
 0 5 5 70914 1 1430736569
 /
-client-186-9-130-49.imovil.entelpcs.cl
-0 309 231 3727012 1 1431189131
-/
-client-186-37-202-223.imovil.entelpcs.cl
-0 189 188 2427650 2 1431161623
-/
 out-ar116.tfbnw.net
 0 2 2 20292 0 0
 -
+client-186-37-202-223.imovil.entelpcs.cl
+0 189 188 2427650 2 1431161623
+/
+client-186-9-130-49.imovil.entelpcs.cl
+0 309 231 3727012 1 1431189131
+/
+pc-200-240-215-201.cm.vtr.net
+0 2 1 28383 1 1431432451
+/
 181-160-179-163.baf.movistar.cl
 0 251 178 3042544 2 1430673364
 /
 173.252.88.153
 0 1 1 35677 0 0
 -
-client-186-9-131-178.imovil.entelpcs.cl
-0 156 128 1550715 1 1430950636
-/
 msnbot-157-55-39-164.search.msn.com
 0 1 1 22303 1 1430978894
+/
+client-186-9-131-178.imovil.entelpcs.cl
+0 156 128 1550715 1 1430950636
 /
 191-113-243-119.baf.movistar.cl
 0 135 134 2458539 1 1431354509
@@ -3436,6 +3623,9 @@ loft1165.serverloft.com
 /
 190.209.92.152
 0 114 114 1611916 1 1430932162
+/
+101.226.167.239
+0 1 1 22303 1 1431453410
 /
 zt112.tfbnw.net
 0 3 3 57392 1 1430776083
@@ -3455,6 +3645,9 @@ pc-217-69-47-190.cm.vtr.net
 173.252.88.87
 0 5 5 33270 0 0
 -
+s29.hekko.net.pl
+0 2 0 452 1 1431438008
+/
 190-22-229-198.baf.movistar.cl
 0 152 150 2648882 1 1430831078
 /
@@ -3470,6 +3663,9 @@ thinet11.smartzap.com
 198.199.121.20
 0 36 33 701942 1 1430894025
 /
+ec2-54-161-234-146.compute-1.amazonaws.com
+0 1 0 0 1 1431446614
+/backoffice/
 ip-62-226-107-190.nextelmovil.cl
 0 3 2 227974 1 1430738920
 /
@@ -3483,8 +3679,8 @@ bolobolo2.torservers.net
 0 129 128 1758528 2 1431383206
 /
 200-89-68-83.uchile.cl
-0 221 217 4773851 4 1430757747
-/themes/default-bootstrap/js/
+0 314 309 6386403 5 1431420520
+/
 host53.186-108-95.telecom.net.ar
 0 148 143 2350105 1 1430680537
 /
@@ -3494,6 +3690,12 @@ host53.186-108-95.telecom.net.ar
 173.252.114.118
 0 1 1 8383 0 0
 -
+baiduspider-123-125-71-49.crawl.baidu.com
+0 1 0 0 0 0
+-
+101.226.167.240
+0 1 0 0 1 1431453402
+/
 94-153-8-126-lvv.broadband.kyivstar.net
 0 4 0 0 1 1430751470
 -
@@ -3509,6 +3711,9 @@ msnbot-207-46-13-30.search.msn.com
 client-186-11-17-109.imovil.entelpcs.cl
 0 141 140 2341555 1 1431175543
 /
+150-70-173-59.trendmicro.com
+0 1 0 0 1 1431447605
+/
 201.187.56.108
 0 124 122 1924377 1 1431065883
 /
@@ -3519,7 +3724,7 @@ pc-60-46-74-200.cm.vtr.net
 0 4 4 43778 0 0
 -
 200.54.110.71
-0 123 119 2451078 1 1430734662
+0 218 212 4070167 2 1431426645
 /
 173.252.81.119
 0 1 1 14566 0 0
@@ -3532,6 +3737,15 @@ mail.puertodecoronel.cl
 /
 tor2.t-3.net
 0 1 1 22303 1 1430531436
+/
+pc-65-14-163-190.cm.vtr.net
+0 155 154 2401559 1 1431461025
+/
+client-186-9-130-14.imovil.entelpcs.cl
+0 1 1 20605 1 1431499630
+/
+pc-160-234-86-200.cm.vtr.net
+0 108 107 1782293 1 1431431011
 /
 190-22-12-175.baf.movistar.cl
 0 87 87 1078880 1 1430521417
@@ -3563,17 +3777,17 @@ pc-67-116-239-201.cm.vtr.net
 180.76.6.44
 0 1 1 22303 1 1431111138
 /
-180.76.4.230
-0 1 0 0 1 1430847909
-/
 180.76.6.58
 0 1 0 0 1 1430765501
+/
+180.76.4.230
+0 1 0 0 1 1430847909
 /
 173.252.120.112
 0 6 6 69892 0 0
 -
 msnbot-157-55-39-243.search.msn.com
-0 6 6 156073 2 1431398913
+0 9 8 261870 3 1431485762
 /
 173.252.73.117
 0 4 4 33699 0 0
@@ -3617,6 +3831,9 @@ google-proxy-66-102-6-145.google.com
 180.76.5.19
 0 1 0 0 1 1431073221
 /
+174.127.188.37
+0 2 1 22303 1 1431421178
+/
 173.252.110.117
 0 5 5 72269 0 0
 -
@@ -3656,14 +3873,17 @@ pc-98-103-44-190.cm.vtr.net
 pc-213-114-163-190.cm.vtr.net
 0 78 78 1063214 1 1430776257
 /
+174.127.133.93
+0 19 12 409823 2 1431448017
+/
 zt114.tfbnw.net
 0 6 6 39275 0 0
 -
-pc-230-244-86-200.cm.vtr.net
-0 168 167 2932920 1 1430771314
-/
 pc-234-86-101-190.cm.vtr.net
 0 164 161 1938041 1 1431249995
+/
+pc-230-244-86-200.cm.vtr.net
+0 168 167 2932920 1 1430771314
 /
 zt116.tfbnw.net
 0 6 6 193897 0 0
@@ -3671,21 +3891,21 @@ zt116.tfbnw.net
 186-105-122-60.baf.movistar.cl
 0 56 55 1235981 1 1430691861
 /
-181.74.251.7
-0 109 108 1510097 1 1430524206
-/
 200.54.66.90
 0 229 228 4146786 3 1431077252
+/
+181.74.251.7
+0 109 108 1510097 1 1430524206
 /
 google-proxy-66-102-6-154.google.com
 0 2 2 44606 2 1431337541
 /
-173.252.100.118
-0 1 1 8383 0 0
--
 crawl-66-249-69-58.googlebot.com
 0 41 0 0 33 1431196218
 /
+173.252.100.118
+0 1 1 8383 0 0
+-
 pc-194-173-47-190.cm.vtr.net
 0 200 143 1907346 2 1430501468
 /
@@ -3693,25 +3913,25 @@ pc-194-173-47-190.cm.vtr.net
 0 75 47 559959 1 1431003500
 /
 180.76.5.65
-0 1 1 22303 1 1430458367
+0 2 2 44606 2 1431452993
 /
 180.76.6.65
 0 2 2 76630 2 1431164801
 /
-66.220.146.26
-0 13 13 81149 0 0
--
 181.74.189.71
 0 196 195 3093919 2 1430947339
 /
+66.220.146.26
+0 13 13 81149 0 0
+-
 client-186-37-202-76.imovil.entelpcs.cl
 0 45 44 663236 1 1430776108
 /themes/default-bootstrap/js/
-proxy-alum.gw.udd.cl
-0 69 67 1354522 2 1430988925
-/
 69.171.227.114
 0 4 2 44606 2 1431147365
+/
+proxy-alum.gw.udd.cl
+0 69 67 1354522 2 1430988925
 /
 pc-31-9-44-190.cm.vtr.net
 0 145 144 2540429 1 1431338855
@@ -3753,7 +3973,7 @@ client-186-37-202-16.imovil.entelpcs.cl
 0 1 1 57794 1 1431241945
 /
 crawl-66-249-73-154.googlebot.com
-0 34 22 488601 13 1431414082
+0 45 27 656110 19 1431486708
 /
 pc-250-62-46-190.cm.vtr.net
 0 42 41 424627 1 1430501568
@@ -3764,17 +3984,23 @@ pc-250-62-46-190.cm.vtr.net
 baiduspider-123-125-71-79.crawl.baidu.com
 0 1 1 22303 1 1430741819
 /
+186.67.134.66
+0 87 86 1564445 1 1431452701
+/
 186.34.182.150
 0 105 104 2003768 1 1431109745
+/
+174.127.133.92
+0 13 6 261291 2 1431447944
 /
 pc-66-21-239-201.cm.vtr.net
 0 142 140 1905682 1 1430763472
 /
-87-209-16-190.fibertel.com.ar
-0 153 149 2197142 1 1430827447
-/
 190.215.220.72
 0 98 96 1673091 1 1431083718
+/
+87-209-16-190.fibertel.com.ar
+0 153 149 2197142 1 1430827447
 /
 180.76.5.69
 0 1 1 57776 1 1431154422
@@ -3787,127 +4013,102 @@ client-186-9-65-95.imovil.entelpcs.cl
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-181-160-249-175.baf.movistar.cl
-0 80 79 1475570 1 1431391116
+190.151.85.50
+0 144 106 1505583 2 1431496778
 /
-173.252.120.117
-0 1 1 22303 1 1431391103
+180.76.5.59
+0 1 0 0 1 1431501743
 /
-173.252.114.117
-0 1 1 4887 0 0
+45.55.251.203
+0 3 0 55506 1 1431490674
 -
-crawl-66-249-73-185.googlebot.com
-0 1 0 0 1 1431401083
-/
-msnbot-157-55-39-8.search.msn.com
-0 2 1 45551 1 1431396603
-/
-173.252.120.113
-0 1 0 0 1 1431391103
-/
-201.186.204.46
-0 122 122 1590910 1 1431389939
-/
-correo.kelme.es
-0 55 54 1229610 1 1431404098
-/themes/default-bootstrap/js/
-ec2-54-82-233-222.compute-1.amazonaws.com
-0 1 1 48058 1 1431407859
-/
-173.252.120.114
-0 1 1 9000 0 0
+180.76.5.26
+0 1 0 18502 0 0
 -
+180.76.5.71
+0 1 1 4955 0 0
+-
+msnbot-157-55-39-10.search.msn.com
+0 1 0 0 1 1431487298
+/
 crawl-66-249-73-201.googlebot.com
-0 1 0 0 1 1431403458
+0 1 0 0 1 1431488939
 /
 208-115-111-73-reverse.wowrack.com
-0 2 0 37004 0 0
--
-crawl-66-249-73-193.googlebot.com
-0 1 0 0 0 0
--
-74.red-176-86-156.dynamicip.rima-tde.net
-0 2 1 22303 1 1431415412
+0 2 2 98756 1 1431478524
 /
-200.27.167.66
-0 90 89 1663015 1 1431414896
+180.76.5.75
+0 1 1 22303 1 1431501745
 /
 crawl-66-249-73-138.googlebot.com
-0 5 4 70706 2 1431414817
+0 4 3 63109 3 1431499522
 /
 208.115.113.89
-0 5 3 156222 2 1431413971
+0 4 2 106301 2 1431500289
 /
-190.216.144.250
-0 25 24 78452 1 1431415085
-/
+180.76.5.196
+0 1 1 16519 0 0
+-
 crawl-66-249-73-146.googlebot.com
-0 7 5 62187 4 1431414436
+0 2 1 22303 2 1431499520
 /
-mail.puertodecoronel.cl
-0 30 29 397723 1 1431414872
+client-186-9-130-14.imovil.entelpcs.cl
+0 1 1 20605 1 1431499630
 /
-173.252.120.112
-0 1 1 4887 0 0
--
 msnbot-157-55-39-243.search.msn.com
-0 1 1 55292 1 1431398913
-/
-173.252.114.112
-0 1 1 158406 0 0
--
-173.252.74.114
-0 1 1 25072 1 1431389791
+0 3 2 105797 1 1431485762
 /
 crawl-66-249-73-154.googlebot.com
-0 11 5 146609 6 1431414082
+0 3 1 65465 3 1431486708
 /
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.rugbiers.cl/tag/rugbiers-y-feruchi-recibio-su-camiseta-oficial-de-los-condores/
 0 2
 http://cccchile.cl/modules/payulatam/validation.php
-0 8
+0 9
 http://cccchile.cl/themes/default-bootstrap/css/autoload/uniform.default.css
-0 169
+0 186
+http://cccchile.cl/wordpress
+0 1
 http://hvd-store.com/
 0 2
 http://cccchile.cl/js/jquery/plugins/fancybox/jquery.fancybox.css
 0 1
 http://www.google.cl/url
-0 2
-http://cccchile.cl/themes/default-bootstrap/css/modules/homeslider/homeslider.css
-0 145
-https://www.google.com.mx/
 0 4
+https://www.google.com.mx/
+0 6
+http://cccchile.cl/themes/default-bootstrap/css/modules/homeslider/homeslider.css
+0 159
 http://cccchile.cl/themes/default-bootstrap/css/modules/productscategory/css/productscategory.css
-0 92
+0 97
 http://www.rugbiers.cl/yacares-listos-para-inaugurar-estadio-y-recibir-a-chile/
 0 2
 http://www.cccchile.cl/
-0 13
+0 15
 http://www.google.com/url
 0 7
 http://cccchile.cl/themes/default-bootstrap/css/modules/blockcart/blockcart.css
-0 30
+0 31
 http://lm.facebook.com/l.php
 0 5
 http://www.rugbiers.cl/p17158/
 0 8
 https://www.google.cl/
-0 274
+0 297
 http://www.cccchile.cl/robots.txt
 0 6
 http://www.google.cl/
-0 159
+0 205
 http://korver198.wix.com/100rugby
 0 2
 http://www.rugbiers.cl/los-teros-cayeron-con-estados-unidos-en-test-match/
 0 2
 http://www.google.com/search
-0 4
+0 5
 http://cccchile.cl/js/jquery/plugins/jqzoom/jquery.jqzoom.css
-0 97
+0 104
 http://www.rugbiers.cl/p17129/
 0 4
 http://www.rugbiers.cl/p17137/
@@ -3915,21 +4116,21 @@ http://www.rugbiers.cl/p17137/
 http://www.rugbiers.cl/tag/revista-rugbiers/
 0 2
 http://cccchile.cl/backoffice/themes/default/css/admin-theme.css
-0 4
+0 5
 http://l.facebook.com/lsr.php
 0 1
 http://cccchile.cl/themes/default-bootstrap/css/contact-form.css
 0 30
 http://cccchile.cl/themes/default-bootstrap/css/global.css
-0 667
+0 734
 http://cccchile.cl/backoffice/index.php
-0 2255
+0 2689
 http://www.rugbiers.cl/se-viene-el-clasico-universitario-entre-arua-y-ucn/
 0 2
 http://cccchile.cl/index.php
-0 41453
+0 45108
 https://www.facebook.com/
-0 35
+0 37
 http://www.google.cl/search
 0 2
 http://cccchile.cl/mail
@@ -3937,7 +4138,7 @@ http://cccchile.cl/mail
 https://www.google.com/
 0 13
 - (Direct Request)
-0 2777
+0 3249
 http://www.rugbiers.cl/category/arusa/
 0 3
 http://t.co/NU37i4zMAw
@@ -3951,9 +4152,9 @@ http://www.rugbiers.cl/nosotros/
 http://www.rugbiers.cl/16540/
 0 8
 http://m.facebook.com
-0 38
+0 40
 http://cccchile.cl/js/jquery/ui/themes/base/jquery.ui.theme.css
-0 1
+0 2
 http://www.rugbiers.cl/tag/hbrs/
 0 2
 http://www.bing.com/search
@@ -3962,12 +4163,14 @@ http://www.rugbiers.cl/category/u-catolica-2/
 0 2
 http://www.rugbiers.cl/el-seleccionado-nacional-tomas-ianiszewski-premiado-por-pisco-alamo/
 0 2
+http://cccchile.cl/blog
+0 1
 http://www.rugbiers.cl/chile-7-femenino-viajo-a-uruguay/
 0 2
 http://m.facebook.com/
 0 234
 http://10.129.192.33:15871/cgi-bin/blockOptions.cgi
-0 1
+0 2
 http://www.rugbiers.cl/category/araucania/
 0 4
 http://www.google.com.ar/url
@@ -3982,9 +4185,15 @@ http://www.rugbiers.cl/p17175/
 0 6
 http://www.search.ask.com/web
 0 2
-https://www.google.es/
+http://cccchile.cl/wp
+0 1
+http://www.rugbiers.cl/category/arusa/desarrollo-arusa/
 0 2
+https://www.google.es/
+0 4
 http://cccchile.cl/modules/gamification/views/css/gamification.css
+0 6
+http://www.rugbiers.cl/category/nacional-universitario/
 0 2
 http://www.rugbiers.cl/tag/centro-de-alto-rendimiento-del-rugby/
 0 2
@@ -3995,21 +4204,21 @@ http://cccchile.cl
 http://cccchile.cl/webmail
 0 8
 http://cccchile.cl/themes/default-bootstrap/css/product_list.css
-0 310
+0 340
 https://m.facebook.com
 0 1
 http://www.rugbiers.cl/la-copa-arumaule-define-a-sus-aspirantes-al-titulo/
 0 8
 http://cccchile.cl/themes/default-bootstrap/css/product.css
-0 90
+0 96
 http://cccchile.cl/cpanel
 0 3
 http://cccchile.cl/
 0 2
-http://www.arumaule.com/
-0 2
 http://www.google.com/m
 0 4
+http://www.arumaule.com/
+0 2
 http://www.rugbiers.cl/chile-realiza-su-ultima-practica-antes-de-viajar-a-asuncion/
 0 2
 https://www.google.com.ar/
@@ -4035,17 +4244,17 @@ Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like 
 Mozilla/5.0 (Linux; U; Android 4.3; es-us; SM-G350L Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
 0 46
 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-0 1982
+0 2373
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 0 1120
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B435 [FBAN/FBIOS;FBA
 0 45
 Mozilla/5.0 (Linux; Android 4.2.2; GT-P5210 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Safari/53
 0 51
-Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405 [FBAN/FBIOS;FBAV/29.0.0.
-0 133
 Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20100101 Firefox/10.0 (Chrome)
 0 56
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A405 [FBAN/FBIOS;FBAV/29.0.0.
+0 133
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.2 (.NET CLR 3.5.30729)
 0 2
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
@@ -4053,13 +4262,13 @@ Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
 0 4
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
-0 53
+0 106
 Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
-0 27
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-0 139
+0 28
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12F70 Safa
 0 44
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+0 294
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safar
 0 3
 Mozilla/5.0 (Linux; Android 5.0.2; XT1032 Build/LXB22.46-32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobi
@@ -4074,12 +4283,14 @@ Twitterbot/1.0
 0 4
 Mozilla/5.0 (Linux; Android 4.4.4; D5833 Build/23.0.A.2.93) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobil
 0 145
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; en-US)
+0 2
 Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0
-0 136
+0 139
 POL Reporter v 4.0 [88084195] (http://www.pagosonline.com)
 0 3
 Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
-0 54
+0 72
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 YaBrowser/14.10.2062.12061 Sa
 0 1
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/5.2.43972 Mobile/11D201 
@@ -4090,10 +4301,10 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like G
 0 195
 Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.
 0 275
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
-0 223
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 [FBAN/FBIOS;FB
 0 187
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
+0 223
 Mozilla/5.0 (Linux; Android 4.3; SM-G350L Build/JLS36C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Saf
 0 134
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
@@ -4105,7 +4316,7 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML
 Mozilla/5.0 (Linux; Android 4.4.2; Z500 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Mobile Safa
 0 135
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-0 3424
+0 3567
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.45 Safari/537.36
 0 129
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
@@ -4141,7 +4352,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like
 Mozilla/5.0 (Linux; Android 4.2.2; ALCATEL ONE TOUCH 5036A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.23
 0 93
 Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
-0 82
+0 94
 Mozilla/5.0 (compatible; WASALive-Bot ; http://blog.wasalive.com/wasalive-bots/)
 0 2
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/42.0.2311.47 Mobile/11
@@ -4157,7 +4368,7 @@ Mozilla/5.0 (Linux; Android 4.2.2; GT-N5110 Build/JDQ39) AppleWebKit/537.36 (KHT
 Mozilla/5.0 (Linux; Android 4.4.2; LG-D400 Build/KOT49I.V10a) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
 0 195
 Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
-0 8
+0 11
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 0 123
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
@@ -4181,7 +4392,7 @@ msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
 Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV/30.0.0.3
 0 136
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
-0 2180
+0 2877
 Opera/9.80 (Android; Opera Mini/8.0.1807/36.1955; U; en) Presto/2.12.423 Version/12.16
 0 99
 Mozilla/5.0 (Linux; Android 4.4.2; es-us; SAMSUNG SM-G900M Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 C
@@ -4193,13 +4404,13 @@ Mozilla/5.0 (Linux; Android 4.1.2; C1904 Build/15.1.C.2.8) AppleWebKit/537.36 (K
 Mozilla/5.0 (Android; Mobile; rv:37.0.2) Gecko/37.0.2 Firefox/37.0.2
 0 4
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 551
+0 587
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 0 696
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
-0 373
+0 380
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-0 520
+0 605
 Mozilla/5.0 (Linux; Android 4.4.2; D2533 Build/19.2.1.A.0.72) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
 0 2
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 [FBAN/FBIOS;FB
@@ -4215,31 +4426,33 @@ Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1
 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
 0 129
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-0 3789
+0 3994
 Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-I9070 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
 0 184
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
 0 1
 Java/1.8.0_45
-0 2
+0 28
 Mozilla/4.0 (compatible; Synapse)
 0 1
 Mozilla/5.0 (Linux; Android 4.4.2; ZTE Blade L3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mob
 0 89
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082L Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
+0 151
 Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4
 0 331
-Mozilla/5.0 (Linux; Android 4.2.2; GT-I9082L Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
-0 7
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/7.1.4 Safari/537.85.13
 0 78
 Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
-0 683
+0 1497
 Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 M
-0 217
+0 362
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
 0 26
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
 0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 217
 Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MAARJS; rv:11.0) like Gecko
 0 1
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2
@@ -4247,9 +4460,11 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome
 Mozilla/4.0 (compatible;)
 0 2
 Googlebot-Image/1.0
-0 40
+0 41
+POL Reporter v 4.0 [88850830] (http://www.pagosonline.com)
+0 3
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
-0 2
+0 4
 Mozilla/5.0 (Linux; Android 4.4.4; C6602 Build/10.5.1.A.0.292) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mo
 0 4
 Mozilla/5.0 (Linux; Android 4.4.4; XT1058 Build/KXA21.12-L1.26) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 M
@@ -4258,12 +4473,14 @@ Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible;
 0 6
 POL Reporter v 4.0 [88083720] (http://www.pagosonline.com)
 0 3
+POL Reporter v 4.0 [88851600] (http://www.pagosonline.com)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safar
+0 294
 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 0 109
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safar
-0 288
 Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
-0 45
+0 49
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36 OPR/24.0.1558.53
 0 57
 Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300 Build/JZO54K) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Mobile S
@@ -4274,12 +4491,14 @@ Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
 0 751
 Mozilla/5.0 (Linux; Android 5.0.2; D5503 Build/14.5.A.0.242) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobil
 0 56
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410 [FBAN/FBIOS;FBAV/30.0.0.34
+0 186
 POL Reporter v 4.0 [88043565] (http://www.pagosonline.com)
 0 3
 Mozilla/5.0 (iPod; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/34.0.1847.18 Mobile/12A365
 0 64
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
-0 434
+0 819
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H4086d Saf
 0 88
 BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
@@ -4306,20 +4525,26 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KH
 0 1
 Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
 0 166
+Mozilla/5.0 (Windows NT 5.1; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
 Mozilla/5.0 (Linux; Android 4.4.4; SM-G530H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
 0 116
 Mozilla/5.0 (Linux; Android 4.1.2; GT-I8550L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile
 0 129
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 1
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
 0 345
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-0 472
+0 481
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+0 1
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.66 Safari/537.36
 0 294
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
 0 168
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider(compatible; Ha
-0 2
+0 4
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 0 404
 Mozilla/5.0 (Linux; U; Android 4.3; es-us; SM-N7505L Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
@@ -4362,10 +4587,10 @@ Mozilla/5.0 (Linux; Android 4.1.2; LG-D680 Build/JZO54K) AppleWebKit/537.36 (KHT
 0 178
 Mozilla/5.0 (Linux; Android 4.3; SM-N7505L Build/JSS15J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Mobile S
 0 202
-Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S5830M Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
-0 106
 Mozilla/5.0 (compatible; spbot/4.4.2; +http://OpenLinkProfiler.org/bot )
 0 81
+Mozilla/5.0 (Linux; U; Android 2.3.6; es-us; GT-S5830M Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 M
+0 106
 Mozilla/5.0 (Linux; Android 4.4.2; SM-G355H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
 0 142
 Mozilla/5.0 (Linux; Android 4.1.2; XT914 Build/2_32A_2026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.109 Mobile
@@ -4386,10 +4611,12 @@ Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; LCJB; rv:11.0) like
 0 1
 ltx71 - (http://ltx71.com/)
 0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+0 113
 Mozilla/5.0 (Linux; Android 4.1.2; GT-S7392L Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile
 0 79
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-0 5248
+0 5996
 Mozilla/5.0 (Linux; Android 4.2.2; GT-I9080L Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
 0 76
 Mozilla/5.0 (Linux; Android 5.0.2; HTC_M8x Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile S
@@ -4397,9 +4624,9 @@ Mozilla/5.0 (Linux; Android 5.0.2; HTC_M8x Build/LRX22G) AppleWebKit/537.36 (KHT
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Saf
 0 156
 DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
-0 12
+0 14
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
-0 84
+0 185
 Mozilla/5.0 (Windows NT 6.1; rv:37.0) Gecko/20100101 Firefox/37.0
 0 271
 Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 [FBAN/FBIOS;FBAV/2
@@ -4409,7 +4636,7 @@ Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
 0 305
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
-0 4
+0 6
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 0 56
 Mozilla/5.0 (Android; Mobile; rv:37.0) Gecko/37.0 Firefox/37.0
@@ -4434,6 +4661,8 @@ POL Reporter v 4.0 [88019790] (http://www.pagosonline.com)
 0 3
 Mozilla/5.0 (Linux; Android 4.4.2; XT1032 Build/KXB20.9-1.10-1.9) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/3
 0 134
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile 
+0 77
 Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
 0 306
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)

@@ -166,3 +166,9 @@ ls modules/
 cd ..
 #1431541727
 ls
+#1431541764
+git commit -a -m '2015-05-13 15:29:00 eliminados dpay'
+#1431541859
+git push
+#1431562503
+git  add *

@@ -1,2 +1,2 @@
 <?xml version="1.0"?>
-<modules_list><modules type="untrusted"><module name="zopimfree"/></modules></modules_list>
+<modules_list><modules type="untrusted"><module name="webpayment"/><module name="zopimfree"/></modules></modules_list>

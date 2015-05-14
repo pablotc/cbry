@@ -1,0 +1,3 @@
+<?
+echo 'La compra FALLO';
+?>

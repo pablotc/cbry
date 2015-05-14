@@ -5,17 +5,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '0ee49c1c6f18ded3de30ea97d6d58771c696e0a0' => 
     array (
       0 => '/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl',
-      1 => 1422024603,
+      1 => 1431544611,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '123138829455477f2ecd4df6-15227850',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_554794fd007ac3_11864889',
-  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_5553b79fdbcb48_58031138',
+  'has_nocache_code' => false,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_554794fd007ac3_11864889')) {function content_554794fd007ac3_11864889($_smarty_tpl) {?><div id="contact-link">
+<?php if ($_valid && !is_callable('content_5553b79fdbcb48_58031138')) {function content_5553b79fdbcb48_58031138($_smarty_tpl) {?><div id="contact-link">
 	<a href="http://cccchile.cl/index.php?controller=contact" title="Contacta con nosotros"><!--Contacte con nosotros-->Contacto</a>
 </div>
 

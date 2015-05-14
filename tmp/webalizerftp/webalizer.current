@@ -1,7 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 04/15/2015 11:05:54
-2015 4 15 11 5 54
-33 33 3 10 0 0 211965 0 0 1
-1 3 19 8 15
+# Webalizer V2.23-05 Incremental Data - 05/13/2015 17:23:18
+2015 5 13 17 23 18
+112 112 2 74 0 0 9870112 10 2 1
+2 18 62 13 13
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -9,14 +9,14 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-11 11 168649 1 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-19 19 37181 1 0 0
-3 3 6135 1 0 0
+112 112 9870112 2 10 2
+0 0 0 0 0 0
+0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -44,23 +44,23 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-3 3 6135 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+17 17 40178 0
+62 62 358182 5
+15 15 9359535 1
+18 18 112217 4
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-19 19 37181 0
-11 11 168649 0
 0 0 0 0
 0
 0
 0
-33
+112
 0
 0
 0
@@ -99,42 +99,170 @@
 0
 0
 # -urls- 
-/home2/amorales/public_html/modules/dpay/dpay.php
-0 6 0 28485 0 0
-/home2/amorales/public_html/modules/dpay/MyModule.php
-0 1 0 762 0 0
-/home2/amorales/public_html/themes/default-bootstrap/css/product_list.css
-0 3 0 49980 0 0
-/home2/amorales/public_html/modules/dpay/config_es.xml
-0 1 0 531 0 0
-/home2/amorales/public_html/modules/dpay/pago_exito.php
-0 1 0 156 0 0
-/home2/amorales/public_html/modules/dpay/payment.php
-0 10 0 6174 0 0
-/home2/amorales/public_html/modules/dpay/pago_fracaso.php
-0 1 0 137 0 0
-/home2/amorales/public_html/modules/dpay/views/templates/front/payment_execution.tpl
-0 1 0 1379 0 0
-/home2/amorales/public_html/modules/dpay/validation.php
-0 1 0 5692 0 0
-/home2/amorales/public_html/themes/default-bootstrap/product-list.tpl
-0 8 0 118669 0 0
+/home2/amorales/public_html/modules/webpayment/prestashop_paypal.png
+0 1 0 5372 0 0
+/home2/amorales/public_html/modules/webpayment/cierre_compra.php
+0 12 0 141040 0 0
+/home2/amorales/public_html/modules/webpayment/exito.php
+0 1 0 2221 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/language/phpmailer.lang-es.php
+0 1 9466544 1103 0 0
+/home2/amorales/public_html/cgi-bin/log/TBK_EVN20150513.log
+0 2 0 35640 0 0
+/home2/amorales/public_html/modules/webpayment/
+0 1 9460640 298 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/terminos.html
+0 1 9464576 607 0 0
+/home2/amorales/public_html/themes/default-bootstrap/global.tpl
+0 1 0 2049 0 0
+/home2/amorales/public_html/modules/webpayment/controllers/front/payment.php
+0 1 9465280 3564 0 0
+/home2/amorales/public_html/modules/webpayment/webpay_prueba.php
+0 1 0 1797 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/web-pay-adq.gif
+0 1 9464752 6617 0 0
+/home2/amorales/public_html/modules/webpayment/fracaso.tpl
+0 1 0 249 0 0
+/home2/amorales/public_html/modules/webpayment/configuration.php
+0 3 0 8102 0 0
+/home2/amorales/public_html/themes/default-bootstrap/footer.tpl
+0 2 0 3364 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/language/
+0 1 9466368 44 0 1
+/home2/amorales/public_html/modules/webpayment/webpay.tpl
+0 1 0 4308 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl
+0 1 9208672 2170 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/language/phpmailer.lang-en.php
+0 1 9466176 981 0 0
+/home2/amorales/public_html/config/config.inc.php
+0 1 9467568 8944 0 0
+/home2/amorales/public_html/modules/webpayment/confirmation.tpl
+0 1 3270580899703422976 2777 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/LICENSE
+0 1 9466000 26421 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/blockcontact.tpl
+0 3 9208304 4827 0 0
+/home2/amorales/public_html/modules/webpayment/v.php
+0 1 9462320 9291 0 0
+/home2/amorales/public_html/modules/webpayment/error_log
+0 5 0 9192 2 0
+/home2/amorales/public_html/modules/webpayment/info.php
+0 1 9460784 20 0 0
+/home2/amorales/public_html/modules/webpayment/views/templates/front/fracaso.tpl
+0 1 9466736 457 0 0
+/home2/amorales/public_html/modules/blocksocial/blocksocial.tpl
+0 1 0 2081 0 0
+/home2/amorales/public_html/modules/webpayment/views/templates/front/payment_execution.tpl
+0 1 9467088 1942 0 0
+/home2/amorales/public_html/modules/webpayment/payment_ready.tpl
+0 1 0 61 0 0
+/home2/amorales/public_html/modules/webpayment/webpay_fracaso.php
+0 1 0 819 0 0
+/home2/amorales/public_html/modules/webpayment/validation_original.php
+0 1 0 5799 0 0
+/home2/amorales/public_html/modules/webpayment/payment.tpl
+0 1 0 229 0 0
+/home2/amorales/public_html/themes/default-bootstrap/modules/blockcontact/nav.tpl
+0 3 9208496 6380 0 0
+/home2/amorales/public_html/modules/blockcontactinfos/translations/es.php
+0 5 9209856 9064 0 0
+/home2/amorales/public_html/modules/webpayment/xt_1_pago.php
+0 4 0 10456 0 0
+/home2/amorales/public_html/modules/webpayment/php.ini
+0 1 9461552 351 0 0
+/home2/amorales/public_html/modules/webpayment/.gitignore
+0 1 0 2643 0 0
+/home2/amorales/public_html/modules/webpayment/es.php
+0 1 9460016 44 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/
+0 1 9465824 44 0 0
+/home2/amorales/public_html/themes/default-bootstrap/cms.tpl
+0 1 0 3349 0 0
+/home2/amorales/public_html/modules/webpayment/jquery.Rut.min.js
+0 1 0 3042 0 0
+/home2/amorales/public_html/modules/webpayment/config.xml
+0 1 0 608 0 0
+/home2/amorales/public_html/modules/webpayment/controllers/front/exito.php
+0 1 9465104 4954 0 0
+/home2/amorales/public_html/modules/webpayment/webpay.gif
+0 1 0 1523 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/database.php
+0 1 9464400 57534 0 0
+/home2/amorales/public_html/modules/webpayment/views/templates/front/exito.tpl
+0 1 9466912 3134 0 0
+/home2/amorales/public_html/modules/webpayment/webpayment.php
+0 1 0 13934 0 0
+/home2/amorales/public_html/cgi-bin/kcc-linux64bits.rar
+0 1 9467280 4282004 0 0
+/home2/amorales/public_html/modules/webpayment/test.php
+0 1 9461856 65 0 0
+/home2/amorales/public_html/modules/webpayment/validation.php
+0 1 0 8 0 0
+/home2/amorales/public_html/modules/webpayment/cierre_compra_.php
+0 1 0 2747 0 0
+/home2/amorales/public_html/modules/webpayment/Thumbs.db
+0 1 0 0 0 0
+/home2/amorales/public_html/cgi-bin/log/temporal.txt
+0 1 9468016 0 0 0
+/home2/amorales/public_html/themes/default-bootstrap/contact-form.tpl
+0 1 0 8951 0 0
+/home2/amorales/public_html/modules/webpayment/logo.gif
+0 1 9461248 14630 0 0
+/home2/amorales/public_html/modules/webpayment/web-pay-adq.gif
+0 1 0 7177 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/configuration.php
+0 1 9464224 2699 0 0
+/home2/amorales/public_html/modules/webpayment/webpay_tx_compra.php
+0 2 0 7106 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/class.phpmailer.php
+0 1 9465632 37062 0 0
+/home2/amorales/public_html/config/settings.inc.php
+0 1 9467712 648 0 0
+/home2/amorales/public_html/modules/webpayment/controllers/front/fracaso.php
+0 1 9464928 573 0 0
+/home2/amorales/public_html/modules/webpayment/.gitattributes
+0 1 0 483 0 0
+/home2/amorales/public_html/modules/webpayment/webpay_exito.php
+0 3 0 4748 0 0
+/home2/amorales/public_html/modules/webpayment/includes_webpay/phpmailer/class.smtp.php
+0 1 9465456 27337 0 0
+/home2/amorales/public_html/modules/webpayment/config_es.xml
+0 1 0 508 0 0
+/home2/amorales/public_html/modules/webpayment/fracaso.php
+0 1 0 29 0 0
+/home2/amorales/public_html/modules/webpayment/webpay-plus.gif
+0 1 0 6185 0 0
+/home2/amorales/public_html/modules/webpayment/en.php
+0 1 9211712 44 0 0
+/home2/amorales/public_html/modules/webpayment/ajax.php
+0 1 9210608 1436 0 0
+/home2/amorales/public_html/modules/webpayment/database.php
+0 1 0 57535 0 0
+/home2/amorales/public_html/modules/blockcontactinfos/blockcontactinfos.php
+0 1 9209680 5749 0 0
+/home2/amorales/public_html/cgi-bin/LINUX_64BIT.zip
+0 2 9467424 4985459 0 0
+/home2/amorales/public_html/cgi-bin/chkmac.cgi
+0 2 9468160 476 0 0
+/home2/amorales/public_html/modules/blockcontactinfos/blockcontactinfos.tpl
+0 4 9209504 7007 0 0
 # End Of Table - urls
 # -sites- (monthly)
-pc-224-10-215-201.cm.vtr.net
-0 11 11 168649 0 0
+pc-208-199-44-190.cm.vtr.net
+0 23 23 54991 0 0
 -
-200.111.215.158
-0 3 3 6135 0 0
--
-pc-34-122-47-190.cm.vtr.net
-0 19 19 37181 0 0
--
+pc-180-211-241-201.cm.vtr.net
+0 89 89 9815121 2 1431536765
+/home2/amorales/public_html/cgi-bin/log/temporal.txt
 # End Of Table - sites (monthly)
 # -sites- (daily)
-200.111.215.158
-0 3 3 6135 0 0
+pc-208-199-44-190.cm.vtr.net
+0 23 23 54991 0 0
 -
+pc-180-211-241-201.cm.vtr.net
+0 89 89 9815121 2 1431536765
+/home2/amorales/public_html/cgi-bin/log/temporal.txt
 # End Of Table - sites (daily)
 # -referrers- 
 # End Of Table - referrers
@@ -144,5 +272,5 @@ pc-34-122-47-190.cm.vtr.net
 # End Of Table - search strings
 # -usernames- 
 amorales
-0 33 33 211965 1 0
+0 112 112 9870112 3 1431536765
 # End Of Table - usernames

@@ -109,7 +109,6 @@
 		<module name="watermark"/>
 	</modules>
 	<modules type="partner">
-		<module name="adyen"/>
 		<module name="affinityitems"/>
 		<module name="authorizeaim"/>
 		<module name="avalaratax"/>
@@ -119,14 +118,15 @@
 		<module name="bpostshm"/>
 		<module name="browsi"/>
 		<module name="brinkscheckout"/>
+		<module name="chronopost"/>
 		<module name="clickline"/>
 		<module name="desjardins"/>
+		<module name="dpdfrance"/>
 		<module name="dpdpoland"/>
 		<module name="ebay"/>
 		<module name="ecopresto"/>
 		<module name="envoimoinscher"/>
 		<module name="erpillicopresta"/>
-		<module name="exapaq"/>
 		<module name="expressmailing"/>
 		<module name="feedaty"/>
 		<module name="ferbuy"/>
@@ -154,17 +154,16 @@
 		<module name="moneybookers"/>
 		<module name="netreviews"/>
 		<module name="nostotagging"/>
-		<module name="nqgatewayneteven"/>
 		<module name="ogone"/>
 		<module name="pagseguro"/>
 		<module name="paymentsense"/>
 		<module name="paypal"/>
 		<module name="paypalusa"/>
+		<module name="paypalmx"/>
 		<module name="payplug"/>
 		<module name="payulatam"/>
 		<module name="pigmbhpaymill"/>
 		<module name="powatag"/>
-		<module name="prediggo"/>
 		<module name="prestashippingeasy"/>
 		<module name="prestastats"/>
 		<module name="psphipay"/>
@@ -185,10 +184,8 @@
 		<module name="tntcarrier"/>
 		<module name="trustly"/>
 		<module name="trustpilot"/>
-		<module name="twenga"/>
 		<module name="vtpayment"/>
 		<module name="yotpo"/>
 		<module name="yousticeresolutionsystem"/>
-		<module name="zingaya"/>
 	</modules>
 </modules_list>

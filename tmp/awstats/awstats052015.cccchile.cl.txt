@@ -9,32 +9,32 @@ AWSTATS DATA FILE 7.0 (build 1.971)
 BEGIN_MAP 27
 POS_GENERAL 2006                
 POS_TIME 2694                
-POS_VISITOR 16374               
-POS_DAY 35457               
-POS_DOMAIN 3645                
-POS_LOGIN 4101                
-POS_ROBOT 4256                
-POS_WORMS 4691                
-POS_EMAILSENDER 4822                
-POS_EMAILRECEIVER 4965                
-POS_SESSION 35873               
-POS_SIDER 36086               
-POS_FILETYPES 5100                
-POS_DOWNLOADS 5397                
-POS_OS 5445                
-POS_BROWSER 5621                
-POS_SCREENSIZE 7042                
-POS_UNKNOWNREFERER 7116                
-POS_UNKNOWNREFERERBROWSER 7825                
-POS_ORIGIN 8293                
-POS_SEREFERRALS 8442                
-POS_PAGEREFS 8618                
-POS_SEARCHWORDS 10889               
-POS_KEYWORDS 11103               
+POS_VISITOR 22592               
+POS_DAY 43365               
+POS_DOMAIN 3648                
+POS_LOGIN 4104                
+POS_ROBOT 4259                
+POS_WORMS 4694                
+POS_EMAILSENDER 4825                
+POS_EMAILRECEIVER 4968                
+POS_SESSION 43810               
+POS_SIDER 44025               
+POS_FILETYPES 5103                
+POS_DOWNLOADS 5400                
+POS_OS 5448                
+POS_BROWSER 5624                
+POS_SCREENSIZE 7058                
+POS_UNKNOWNREFERER 7132                
+POS_UNKNOWNREFERERBROWSER 7841                
+POS_ORIGIN 8309                
+POS_SEREFERRALS 8458                
+POS_PAGEREFS 8634                
+POS_SEARCHWORDS 10998               
+POS_KEYWORDS 11212               
 POS_MISC 2356                
-POS_ERRORS 11203               
-POS_CLUSTER 3957                
-POS_SIDER_404 11358               
+POS_ERRORS 11312               
+POS_CLUSTER 3960                
+POS_SIDER_404 11469               
 END_MAP
 
 # LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
@@ -46,14 +46,14 @@ END_MAP
 # MonthHostsKnown   = Number of hosts known
 # MonthHostsUnKnown = Number of hosts unknown
 BEGIN_GENERAL 8
-LastLine 20150512072332 6040 1730690 5481191557122
+LastLine 20150513072225 4805 1423592 9889272243973
 FirstTime 20150501024446
-LastTime 20150512072332
-LastUpdate 20150512180526 6040 0 6040 0 0
-TotalVisits 501                 
-TotalUnique 377                 
+LastTime 20150513064710
+LastUpdate 20150513184314 4805 0 4805 0 0
+TotalVisits 559                 
+TotalUnique 418                 
 MonthHostsKnown 0                   
-MonthHostsUnknown 481                 
+MonthHostsUnknown 523                 
 END_GENERAL
 
 # Misc ID - Pages - Hits - Bandwidth
@@ -63,7 +63,7 @@ JavaEnabled 0 0 0
 JavascriptDisabled 0 0 0
 PDFSupport 0 0 0
 WindowsMediaPlayerSupport 0 0 0
-AddToFavourites 0 387 0
+AddToFavourites 0 478 0
 RealPlayerSupport 0 0 0
 TotalMisc 0 0 0
 DirectorSupport 0 0 0
@@ -72,48 +72,48 @@ END_MISC
 
 # Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
 BEGIN_TIME 24
-0 73 643 11021343 35 86 708378
-1 54 435 8014529 23 47 558511
-2 2 53 1265493 43 50 825475
-3 8 218 3292984 160 193 5201056
-4 8 144 2531827 56 77 1981042
-5 24 183 2986105 29 48 765383
-6 193 1571 24425313 72 390 2397588
-7 183 1798 29566484 54 241 1183978
-8 277 1719 28767100 65 149 1032548
-9 438 2190 34179350 72 264 1147459
-10 438 3726 63490929 100 378 2372541
-11 361 3121 54113382 64 237 1236932
-12 280 2300 37418176 65 364 1592450
-13 149 1552 26123832 125 380 5176125
-14 206 2231 36785574 67 232 1593975
-15 322 3113 50276491 91 250 1773984
-16 216 1682 29117095 83 231 1426466
-17 269 2077 28523533 67 247 897342
-18 328 2348 40483241 137 401 1626589
-19 429 2003 35406723 109 221 979016
-20 702 4602 71554926 75 282 1531170
-21 423 2802 49899996 51 311 1190797
-22 347 2077 34438698 89 410 1930156
-23 92 917 14800224 49 115 661798
+0 73 643 11021343 38 89 853949
+1 54 435 8014529 24 51 632667
+2 2 53 1265493 47 55 982893
+3 8 218 3292984 165 198 5245662
+4 8 144 2531827 59 82 2058022
+5 65 325 4491688 30 51 783885
+6 194 1572 24445918 75 393 2437568
+7 188 1870 30602294 58 278 1240634
+8 321 1938 32803384 73 211 1104941
+9 554 2670 43240643 83 355 1208994
+10 481 3851 65201111 102 381 2373552
+11 455 3721 63392770 99 320 1568354
+12 361 2486 40052068 71 461 1767764
+13 162 1668 28510946 142 431 5283368
+14 238 2399 40044968 77 244 1618330
+15 375 3419 55344593 108 316 1926039
+16 291 1880 32645042 211 362 3652881
+17 299 2388 33407004 72 256 963483
+18 328 2348 40483241 140 404 1666569
+19 442 2171 37500176 113 255 1083995
+20 735 4786 74460737 80 288 1580376
+21 462 3134 55979481 57 504 1435009
+22 371 2323 38700490 91 430 1948834
+23 95 936 15178885 53 121 726649
 END_TIME
 
 # Domain - Pages - Hits - Bandwidth
 # The 25 first Pages must be first (order not required for others)
 BEGIN_DOMAIN 14
-cl 5121 37554 615773776
-us 249 1661 30070970
-co 166 1543 25846162
-ar 87 851 14513195
+cl 5805 41088 673446265
+us 290 1898 35097824
+co 178 1638 27089302
+ar 88 852 14532709
 ru 79 682 11070588
 pa 43 307 4910360
-es 24 493 8941127
+es 25 498 9085094
 mx 22 185 3129500
 au 18 175 3157024
 nl 8 48 867712
 ua 2 2 59143
+jp 2 2 44606
 cn 2 2 109236
-jp 1 1 22303
 pe 0 1 12252
 END_DOMAIN
 
@@ -129,9 +129,9 @@ END_LOGIN
 # Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
 # The 25 first Hits must be first (order not required for others)
 BEGIN_ROBOT 8
-bot[\s_+:,\.\;\/\\-] 547 18625121 20150512065931 0
-googlebot 413 7788129 20150512071337 0
-spider 74 1616386 20150511200224 0
+bot[\s_+:,\.\;\/\\-] 560 19073590 20150513065809 0
+googlebot 439 8238252 20150513064522 0
+spider 83 1743516 20150513072225 0
 msnbot\-media 55 1384844 20150511221112 0
 slurp 3 142659 20150508065348 0
 crawl 2 62126 20150510161005 0
@@ -157,16 +157,16 @@ END_EMAILRECEIVER
 # Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
 BEGIN_FILETYPES 11
 eot 35 1309175 0 0
-css 10051 124697787 0 0
-png 1610 19057577 0 0
+css 10910 135852851 0 0
+png 1744 20355650 0 0
 ttf 5 395380 0 0
-woff 335 14328420 0 0
-php 5439 143692371 0 0
-html 1 22303 0 0
-js 10266 137207162 0 0
-jpg 14566 273714065 0 0
+woff 367 15762912 0 0
+php 6145 159794005 0 0
+html 3 23330 0 0
+jpg 15654 294212200 0 0
+js 11223 150556864 0 0
 Unknown 7 62057 0 0
-gif 1190 3997051 0 0
+gif 1285 4287191 0 0
 END_FILETYPES
 
 # Downloads - Hits - Bandwidth
@@ -176,77 +176,78 @@ END_DOWNLOADS
 # OS ID - Hits
 BEGIN_OS 11
 blackberry 1
-linuxandroid 6085
-winlong 13
-winxp 2411
-java 93
-linux 181
-winvista 8031
-win7 13007
-macosx 12921
+linuxandroid 6397
+winxp 2582
+winlong 14
+java 98
+linux 234
+winvista 8919
+win7 13987
+macosx 14375
 winunknown 157
-Unknown 605
+Unknown 614
 END_OS
 
 # Browser ID - Hits
-BEGIN_BROWSER 74
-msie6.0 12
+BEGIN_BROWSER 75
 firefox28.0 1
-chrome40.0.2214.115 1907
+msie6.0 98
 chrome40.0.2214.91 262
+chrome40.0.2214.115 2283
 chrome42.0.2311.137 55
 chrome41.0.2272.96 267
-firefox10.0 56
 chrome34.0.1847.137 25
+firefox10.0 56
 sonyericsson 39
 chrome28.0.1500.94 353
 chrome39.0.2171.95 175
 chrome38.0.2125.111 212
-msie8.0 1090
-chrome42.0.2311.90 2474
-msie7.0 6
+msie8.0 1091
+chrome42.0.2311.90 2557
+msie7.0 7
 chrome37.0.2062.120 1
-chrome27.0.1453 53
+chrome27.0.1453 106
 safari7.0.5 1655
-netscape 1
 chrome39.0.2171.71 221
+netscape 1
 chrome42.0.2311.108 67
 chrome34.0.1847.131 3
 chrome40.0.2214.109 77
 firefox21.0 1
-chrome15.0.874.120 4
 firefox29.0 2
-safari7.1.4 78
+chrome15.0.874.120 4
+safari6.0 1
 firefox3.5.2 4
-safari7.0.6 427
+safari7.1.4 78
 chrome35.0.1916.114 1
+safari7.0.6 427
 chrome36.0.1985.143 123
 mozilla 1241
 firefox14.0.1 9
-chrome42.0.2311.135 14680
+chrome42.0.2311.135 16015
 chrome37.0.0.0 122
 safari8.0.2 184
-firefox36.0 54
+firefox36.0 55
 safari 348
-safari7.0 1041
+safari7.0 1625
 chrome37.0.2062.124 1
 chrome38.0.2125.66 290
 chrome29.0.1547.76 53
 android 396
 chrome38.0.2125.101 69
-chrome42.0.2311.111 2952
+chrome42.0.2311.111 3264
 safari8.0.6 322
 opera9.80 96
 chrome26.0.1410.58 2
-iphone 1933
+iphone 2071
 chrome33.0.0.0 418
 chrome41.0.2272.101 155
 chrome42.0.2311.109 245
-safari8.0 4053
+safari8.0 4631
 safari7.1.3 278
 safari7.1.5 413
 msie9.0 3
-Unknown 310
+Unknown 324
 chrome37.0.2062.94 55
 chrome30.0.0.0 664
 chrome39.0.2171.93 50
@@ -258,9 +259,9 @@ chrome34.0.1847.114 101
 chrome41.0.2272.118 193
 chrome35.0.1916.141 58
 safari8.0.4 414
-chrome36.0.1985.135 173
 nokia 157
-firefox37.0 1438
+chrome36.0.1985.135 173
+firefox37.0 1748
 msie10.0 293
 firefox6.0 12
 chrome12.0.742.9 1
@@ -273,78 +274,78 @@ END_SCREENSIZE
 # Unknown referer OS - Last visit date
 BEGIN_UNKNOWNREFERER 10
 Mozilla 20150503171606
-facebookplatform/1.0_(_http://developers.facebook.com) 20150511064403
 visionutils/0.2 20150506103955
+facebookplatform/1.0_(_http://developers.facebook.com) 20150511064403
 HubSpot_Image_Utils 20150501032344
 POL_Reporter_v_4.0_[88785495]_(http://www.pagosonline.com) 20150511154746
 Mozilla/5.0_(Android;_Mobile;_rv:37.0)_Gecko/37.0_Firefox/37.0 20150511153318
 Mozilla/5.0_(Android;_Tablet;_rv:36.0)_Gecko/36.0_Firefox/36.0 20150507233727
-facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150512003825
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150512221140
 Mozilla/4.0_(compatible;) 20150506232238
 Opera/9.80_(Android;_Opera_Mini/8.0.1807/36.1955;_U;_en)_Presto/2.12.423_Version/12.16 20150509204805
 END_UNKNOWNREFERER
 
 # Unknown referer Browser - Last visit date
 BEGIN_UNKNOWNREFERERBROWSER 8
-facebookplatform/1.0_(_http://developers.facebook.com) 20150511064403
 visionutils/0.2 20150506103955
-Java/1.8.0_45 20150512072332
+facebookplatform/1.0_(_http://developers.facebook.com) 20150511064403
+Java/1.8.0_45 20150512114711
 HubSpot_Image_Utils 20150501032344
 POL_Reporter_v_4.0_[88785495]_(http://www.pagosonline.com) 20150511154746
 Java/1.8.0_40 20150508230212
-facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150512003825
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20150512221140
 Java/1.4.1_04 20150507224003
 END_UNKNOWNREFERERBROWSER
 
 # Origin - Pages - Hits 
 BEGIN_ORIGIN 6
-From0 349 683
+From0 410 812
 From1 0 0
-From2 173 340
-From3 141 312
-From4 5159 42170
+From2 193 401
+From3 146 317
+From4 5813 45848
 From5 0 0
 END_ORIGIN
 
 # Search engine referers ID - Pages - Hits
 BEGIN_SEREFERRALS 3
-google 169 336
+google 189 397
 bing 3 3
 ask 1 1
 END_SEREFERRALS
 
 # External page referers - Pages - Hits
 # The 25 first Pages must be first (order not required for others)
-BEGIN_PAGEREFS 42
-http://m.facebook.com 54 225
-https://www.facebook.com 15 15
-http://www.rugbiers.cl 10 10
+BEGIN_PAGEREFS 43
+http://m.facebook.com 55 226
+https://www.facebook.com 18 18
+http://www.rugbiers.cl 11 11
 http://www.rugbiers.cl/p17158/ 4 4
-http://www.rugbiers.cl/la-copa-arumaule-define-a-sus-aspirantes-al-titulo/ 4 4
 http://lm.facebook.com/l.php 4 4
+http://www.rugbiers.cl/la-copa-arumaule-define-a-sus-aspirantes-al-titulo/ 4 4
 http://www.rugbiers.cl/16540/ 4 4
 http://t.co/NU37i4zMAw 3 3
 http://www.rugbiers.cl/p17175/ 3 3
 https://m.facebook.com 3 3
-https://www.facebook.com 3 3
+http://10.129.192.33:15871/cgi-bin/blockOptions.cgi 2 2
 http://www.rugbiers.cl/category/araucania/ 2 2
 http://l.facebook.com/l.php 2 2
 http://www.rugbiers.cl/p17129/ 2 2
 http://www.rugbiers.cl/el-seleccionado-nacional-tomas-ianiszewski-premiado-por-pisco-alamo/ 1 1
 http://hvd-store.com 1 1
-http://10.129.192.33:15871/cgi-bin/blockOptions.cgi 1 1
 http://thesmartsearch.net/search 1 1
 http://www.rugbiers.cl/category/condores-2/condoresm19/ 1 1
 http://www.rugbiers.cl/ganador-del-concurso-de-rugbiers-y-feruchi-recibio-su-camiseta-oficial-de-los-condores/ 1 1
 http://www.arumaule.com 1 1
+http://www.rugbiers.cl/category/nacional-universitario/ 1 1
 http://l.facebook.com/lsr.php 1 1
 http://www.rugbiers.cl/category/arusa/ 1 1
 http://www.rugbiers.cl/se-viene-el-clasico-universitario-entre-arua-y-ucn/ 1 1
 http://offers.bycontext.com/scjs/tb/ctxjs/topBar.php 1 1
 http://www.rugbiers.cl/en-intensa-batalla-austral-se-consagro-campeon-de-la-arus/ 1 1
-http://www.rugbiers.cl 1 1
 http://www.rugbiers.cl/chile-7-viaja-a-un-rugby-camp-a-uruguay/ 1 1
 http://www.rugbiers.cl/tag/rugbiers-y-feruchi-recibio-su-camiseta-oficial-de-los-condores/ 1 1
+https://www.facebook.com 1 1
 http://www.rugbiers.cl/tag/arumaule/ 1 1
 http://www.rugbiers.cl/chile-7-femenino-viajo-a-uruguay/ 1 1
 http://bluerobot.info/nw2/grurohoredobodi 1 1
@@ -352,8 +353,9 @@ http://www.rugbiers.cl/tag/centro-de-alto-rendimiento-del-rugby/ 1 1
 http://www.rugbiers.cl/nosotros/ 1 1
 http://korver198.wix.com/100rugby 1 1
 http://www.rugbiers.cl/category/u-catolica-2/ 1 1
-http://www.rugbiers.cl/los-teros-cayeron-con-estados-unidos-en-test-match/ 1 1
 http://www.rugbiers.cl/tag/hbrs/ 1 1
+http://www.rugbiers.cl/los-teros-cayeron-con-estados-unidos-en-test-match/ 1 1
+http://www.rugbiers.cl/category/arusa/desarrollo-arusa/ 1 1
 http://www.rugbiers.cl/chile-realiza-su-ultima-practica-antes-de-viajar-a-asuncion/ 1 1
 http://www.rugbiers.cl/tag/revista-rugbiers/ 1 1
 http://www.rugbiers.cl/p17137/ 1 1
@@ -379,113 +381,226 @@ END_KEYWORDS
 
 # Errors - Hits - Bandwidth
 BEGIN_ERRORS 6
-302 861 0
-206 321 2911729
-500 46 29448
-406 21 4520
-301 18 5382
-404 2854 6945301
+302 967 0
+206 323 2916157
+500 56 106364
+406 28 6102
+301 22 6578
+404 3518 10167885
 END_ERRORS
 
 # URL with 404 errors - Hits - Last URL referer
-BEGIN_SIDER_404 84
+BEGIN_SIDER_404 196
 /js/+%20customizationFields[i][0]).html( 4 -
-/img/p/2/3/7/237-home_default2x.jpg 54 http://cccchile.cl/index.php
-/img/p/1/5/9/159-home_default2x.jpg 53 http://cccchile.cl/index.php
-/robots.txt 83 -
-/img/p/4/2/42-home_default2x.jpg 58 http://cccchile.cl/index.php
+/img/p/4/2/42-home_default2x.jpg 68 http://cccchile.cl/index.php
 /js/+%20customizationFields[i][0]).html()%20== 4 -
-/manager/ 1 -
+/themes/default-bootstrap/js/autoload/),f=a(e),g=f.data( 1 -
 /admin.php 2 -
-/img/p/2/5/3/253-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/1/5/6/156-home_default2x.jpg 53 http://cccchile.cl/index.php
-/js/jquery/===c)&&(b.defaultValue=a.defaultValue)}}n.extend({clone:function(a,b,c){var%20d,e,f,g,h,i=n.contains(a.ownerDocument,a) 4 -
-/img/p/2/4/5/245-home_default2x.jpg 32 http://cccchile.cl/index.php
-/js/jquery/,data:b}).done(function(a){e=arguments,g.html(d 4 -
-/img/p/7/6/76-home_default2x.jpg 58 http://cccchile.cl/index.php
-/img/p/1/4/1/141-home_default2x.jpg 57 http://cccchile.cl/index.php
-/img/p/9/3/93-home_default2x.jpg 35 http://cccchile.cl/index.php
-/img/p/1/9/1/191-home_default2x.jpg 81 http://cccchile.cl/index.php
+/img/p/2/5/3/253-home_default2x.jpg 38 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/.product-flags 1 -
+/js/jquery/===b 1 -
+/img/p/1/5/6/156-home_default2x.jpg 69 http://cccchile.cl/index.php
+/js/jquery/),f=z.getElementsByTagName( 1 -
+/js/jquery/===c&&X.test(a.type) 1 -
+/js/jquery/,!a.getAttribute( 1 -
+/img/p/1/4/1/141-home_default2x.jpg 67 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/==o.settings.mode 1 -
+/img/p/9/3/93-home_default2x.jpg 37 http://cccchile.cl/index.php
+/img/p/1/9/1/191-home_default2x.jpg 99 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/,o.settings.slideMargin), 1 -
 /editor/editor/ 1 -
-/img/p/1/2/9/129-home_default2x.jpg 57 http://cccchile.cl/index.php
-/img/p/1/1/7/117-home_default2x.jpg 30 http://cccchile.cl/index.php
-/img/p/2/0/7/207-home_default2x.jpg 54 http://cccchile.cl/index.php
-/js/jquery/],_default:l.htmlSerialize 4 -
-/img/p/1/8/3/183-home_default2x.jpg 32 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/),o.controls.next.addClass( 1 -
+/js/jquery/) 1 -
+/img/p/1/1/7/117-home_default2x.jpg 31 http://cccchile.cl/index.php
+/js/jquery/),t&&t.replace(H, 1 -
+/js/jquery/)),e.style.cssText=d.style.cssText=j,e.style.marginRight=e.style.width= 1 -
+/blog 1 http://cccchile.cl/blog
+/img/p/2/0/7/207-home_default2x.jpg 71 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockcart/.layer_cart_overlay 1 -
+/js/jquery/)&&!j.call(a.constructor.prototype, 1 -
+/themes/default-bootstrap/js/autoload/)&&a.find( 1 -
 /js/fckeditor/editor/ 1 -
-/img/p/1/9/9/199-home_default2x.jpg 53 http://cccchile.cl/index.php
-/img/p/2/4/9/249-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/2/2/9/229-home_default2x.jpg 54 http://cccchile.cl/index.php
+/img/p/1/9/9/199-home_default2x.jpg 69 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/),this.transitioning=0,this.$element.trigger( 1 -
+/img/p/2/4/9/249-home_default2x.jpg 38 http://cccchile.cl/index.php
+/js/jquery/,a.querySelectorAll( 1 -
+/js/jquery/+N.replace(3,8)+ 1 -
 /js/jquery/).length,l.htmlSerialize=!!b.getElementsByTagName( 4 -
-/img/p/1/5/1/151-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/1/1/4/114-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/1/1/0/110-home_default2x.jpg 35 http://cccchile.cl/index.php
-/img/p/1/4/7/147-home_default2x.jpg 56 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/) 1 -
+/img/p/1/1/4/114-home_default2x.jpg 34 http://cccchile.cl/index.php
+/img/p/1/1/0/110-home_default2x.jpg 37 http://cccchile.cl/index.php
+/img/p/1/4/7/147-home_default2x.jpg 72 http://cccchile.cl/index.php
 /js/jquery/).length,l.html5Clone= 4 -
-/include/fckeditor/editor/ 1 -
-/img/p/1/2/5/125-home_default2x.jpg 54 http://cccchile.cl/index.php
-/index.php%3Fid_category%3D16%26controller%3Dcategory&amp 1 -
+/img/p/1/2/5/125-home_default2x.jpg 70 http://cccchile.cl/index.php
+/js/jquery/!==a.slice(-5)&&(d=c),d&& 1 -
 /administrator/ 1 -
-/img/p/2/2/1/221-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/3/9/39-home_default2x.jpg 57 http://cccchile.cl/index.php
-/img/p/1/3/3/133-home_default2x.jpg 59 http://cccchile.cl/index.php
+/img/p/2/2/1/221-home_default2x.jpg 38 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blocktopmenu/js/.superfish 1 -
+/themes/default-bootstrap/js/.left-block 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/mouseleave.hoverIntent 1 -
+/img/p/3/9/39-home_default2x.jpg 67 http://cccchile.cl/index.php
+/js/jquery/)&&n.nodeName(11!==b.nodeType 1 -
+/js/jquery/+L.replace( 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/.hoverIntent 1 -
 /wp-login.php 2 -
-/img/p/4/7/47-home_default2x.jpg 31 http://cccchile.cl/index.php
-/apple-touch-icon.png 22 -
-/img/p/5/8/58-home_default2x.jpg 59 http://cccchile.cl/index.php
-/img/p/5/5/55-home_default2x.jpg 59 http://cccchile.cl/index.php
+/js/jquery/===n.trim(f.replace(Nb, 1 -
+/img/p/5/5/55-home_default2x.jpg 69 http://cccchile.cl/index.php
 /img/p/0/0-home_default.jpg 1 -
-/img/p/1/7/5/175-home_default2x.jpg 54 http://cccchile.cl/index.php
-/common/fckeditor/editor/ 1 -
-/img/p/1/0/3/103-home_default2x.jpg 35 http://cccchile.cl/index.php
-/home2/amorales/public_html/modules/payulatam/css/payu.css 21 http://cccchile.cl/index.php
-/img/p/2/4/1/241-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/8/1/81-home_default2x.jpg 59 http://cccchile.cl/index.php
-/img/p/3/6/36-home_default2x.jpg 58 http://cccchile.cl/index.php
-/img/p/5/1/51-home_default2x.jpg 58 http://cccchile.cl/index.php
-/img/p/1/9/5/195-home_default2x.jpg 82 http://cccchile.cl/index.php
-//cdn.zopim.com/ 4 -
-/img/p/2/1/1/211-home_default2x.jpg 34 http://cccchile.cl/index.php
-/img/p/4/3/43-home_default2x.jpg 31 http://cccchile.cl/index.php
-/img/p/2/3/3/233-home_default2x.jpg 54 http://cccchile.cl/index.php
-/img/p/3/2/32-home_default2x.jpg 59 http://cccchile.cl/index.php
-/img/p/1/6/7/167-home_default2x.jpg 55 http://cccchile.cl/index.php
-/img/p/1/7/1/171-home_default2x.jpg 54 http://cccchile.cl/index.php
-/apple-touch-icon-precomposed.png 46 -
-/img/p/8/3/83-home_default2x.jpg 30 http://cccchile.cl/index.php
-/img/p/2/8/28-home_default2x.jpg 59 http://cccchile.cl/index.php
-/img/p/1/6/3/163-home_default2x.jpg 32 http://cccchile.cl/index.php
+/js/jquery/!==a.slice(0,3),g= 1 -
+/js/jquery/,n.Callbacks( 1 -
+/img/p/1/7/5/175-home_default2x.jpg 70 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/) 4 -
+/themes/default-bootstrap/js/autoload/),this.options=c,this.paused=this.sliding=this.interval=this.$active=this.$items=null, 1 -
+/themes/default-bootstrap/js/autoload/).addClass( 1 -
+/img/p/2/4/1/241-home_default2x.jpg 38 http://cccchile.cl/index.php
+/js/jquery/plugins/autocomplete/.autocomplete 1 -
+/img/p/3/6/36-home_default2x.jpg 68 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/,t(this).data( 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/.menu-mobile-grover 1 -
+/themes/default-bootstrap/js/modules/blockcart/.ajax_block_products_total 1 -
+/img/p/2/1/1/211-home_default2x.jpg 42 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockcart/... 1 -
+/js/jquery/jQuery.fn.attr(' 1 -
+/img/p/2/3/3/233-home_default2x.jpg 70 http://cccchile.cl/index.php
+/js/jquery/===this.type)&&(n.event.add(this, 1 -
+/img/p/3/2/32-home_default2x.jpg 69 http://cccchile.cl/index.php
+/js/jquery/,l.clearCloneStyle= 1 -
+/js/jquery/,e.firstChild.style.width= 1 -
+/js/jquery/plugins/bxslider/==o.settings.mode&&(o.settings.maxSlides=o.settings.minSlides),r.data( 1 -
+/img/p/1/7/1/171-home_default2x.jpg 70 http://cccchile.cl/index.php
+/img/p/8/3/83-home_default2x.jpg 31 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/).attr( 1 -
+/img/p/2/8/28-home_default2x.jpg 69 http://cccchile.cl/index.php
+/img/p/1/6/3/163-home_default2x.jpg 38 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/),g 1 -
+/themes/default-bootstrap/js/autoload/),a.support.transition&&this.$element.hasClass( 1 -
 /js/'%20+%20escape(url)%20+%20' 4 -
+/themes/default-bootstrap/js/autoload/)),f=e.data( 1 -
 /administrator/index.php 1 -
-/fckeditor/editor/ 1 -
-/img/p/1/8/7/187-home_default2x.jpg 32 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/)&&(d.trigger(b=a.Event( 1 -
 /themes/default-bootstrap/js/).html()%20+ 4 -
+/themes/default-bootstrap/js/modules/blockcart/.ajax_cart_product_txt 1 -
+/img/p/2/2/5/225-home_default2x.jpg 38 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/+this.type).removeData( 1 -
+/themes/default-bootstrap/js/autoload/).trigger( 1 -
+/img/p/2/1/3/213-home_default2x.jpg 38 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/==o.settings.mode&&b(-e.top, 1 -
+/themes/default-bootstrap/js/modules/blockcart/.freeshipping 1 -
+/admin/fckeditor/editor/ 1 -
+/js/jquery/).replace(rb, 1 -
+/img/p/1/7/9/179-home_default2x.jpg 38 http://cccchile.cl/index.php
+/img/p/1/5/9/159-home_default2x.jpg 69 http://cccchile.cl/index.php
+/img/p/2/3/7/237-home_default2x.jpg 70 http://cccchile.cl/index.php
+/robots.txt 96 -
+/themes/default-bootstrap/js/autoload/)&&b.closest( 1 -
+/manager/ 1 -
+/themes/default-bootstrap/js/2x. 1 -
+/js/jquery/plugins/bxslider/).eq(e).addClass( 1 -
+/js/jquery/===c)&&(b.defaultValue=a.defaultValue)}}n.extend({clone:function(a,b,c){var%20d,e,f,g,h,i=n.contains(a.ownerDocument,a) 4 -
+/themes/default-bootstrap/js/a.cluetip 1 -
+/img/p/2/4/5/245-home_default2x.jpg 38 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/),this.$element.removeClass( 1 -
+/js/jquery/,K),a.attachEvent( 1 -
+/js/jquery/,data:b}).done(function(a){e=arguments,g.html(d 4 -
+/js/jquery/===a.charAt(0)&& 1 -
+/img/p/7/6/76-home_default2x.jpg 68 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/==this.options.container 1 -
+/themes/default-bootstrap/js/modules/blockcart/.ajax_total_price_wt 1 -
+/js/jquery/!==c&&(g-=n.css(a, 1 -
+/themes/default-bootstrap/js/autoload/==i 1 -
+/img/p/1/2/9/129-home_default2x.jpg 67 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockcart/.layer_cart_img 1 -
+/wordpress 1 http://cccchile.cl/wordpress
+/js/jquery/plugins/bxslider/==o.settings.autoDirection 1 -
+/js/jquery/plugins/bxslider/,i/1e3+ 1 -
+/themes/default-bootstrap/js/modules/blockcart/).html( 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/.menu-mobile 1 -
+/themes/default-bootstrap/js/autoload/,b).on( 1 -
+/js/jquery/],_default:l.htmlSerialize 4 -
+/js/jquery/,e.event.dispatch, 1 -
+/img/p/1/8/3/183-home_default2x.jpg 38 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/),s=o.children.slice(-e).clone().addClass( 1 -
+/img/p/2/2/9/229-home_default2x.jpg 71 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/)),!b.parent( 1 -
+/themes/default-bootstrap/js/autoload/)).addClass( 1 -
+/img/p/1/5/1/151-home_default2x.jpg 38 http://cccchile.cl/index.php
+/include/fckeditor/editor/ 1 -
+/js/jquery/plugins/bxslider/==i&&0==o.active.index)n=r.find( 1 -
+/index.php%3Fid_category%3D16%26controller%3Dcategory&amp 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/mousemove.hoverIntent 1 -
+/js/jquery/!==t.charAt(0)&&r( 1 -
+/themes/default-bootstrap/js/autoload/===b.prop( 1 -
+/js/jquery/plugins/bxslider/,this).remove(),o.controls.autoEl&&o.controls.autoEl.remove(),clearInterval(o.interval),o.settings.responsive&&t(window).unbind( 1 -
+/js/jquery/plugins/bxslider/==e&&r.animate(a,speed, 1 -
+/img/p/1/3/3/133-home_default2x.jpg 69 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockwishlist/js/modules/blockwishlist/cart.php 1 -
+/themes/default-bootstrap/js/modules/blocktopmenu/js/ul.sf-menu 1 -
+/themes/default-bootstrap/js/autoload/),b.addClass( 1 -
+/img/p/4/7/47-home_default2x.jpg 32 http://cccchile.cl/index.php
+/js/jquery/).replace(ab,bb), 1 -
+/apple-touch-icon.png 22 -
+/js/jquery/)),!a.getElementsByTagName( 1 -
+/img/p/5/8/58-home_default2x.jpg 69 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockcart/.delete_voucher 1 -
+/themes/default-bootstrap/js/autoload/)).trigger( 1 -
+/common/fckeditor/editor/ 1 -
+/js/jquery/plugins/bxslider/,k),o.controls.autoEl.delegate( 1 -
+/js/jquery/plugins/bxslider/==e 2 -
+/img/p/1/0/3/103-home_default2x.jpg 37 http://cccchile.cl/index.php
+/js/jquery/)&&(n.event.add(b, 1 -
+/themes/default-bootstrap/js/autoload/),b.parent( 1 -
+/home2/amorales/public_html/modules/payulatam/css/payu.css 31 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/autoload/),this.affixed=i,this.unpin= 1 -
+/img/p/8/1/81-home_default2x.jpg 69 http://cccchile.cl/index.php
+/js/jquery/,a.firstChild.className= 1 -
+/img/p/5/1/51-home_default2x.jpg 68 http://cccchile.cl/index.php
+/js/jquery/+b.replace(O, 1 -
+/themes/default-bootstrap/js/autoload/)),c.button( 1 -
+/img/p/1/9/5/195-home_default2x.jpg 99 http://cccchile.cl/index.php
+//cdn.zopim.com/ 4 -
+/img/p/4/3/43-home_default2x.jpg 32 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blocktopmenu/js/mouseleave.superfish 1 -
+/themes/default-bootstrap/js/autoload/+this.selector+ 1 -
+/img/p/1/6/7/167-home_default2x.jpg 71 http://cccchile.cl/index.php
+/apple-touch-icon-precomposed.png 46 -
+/js/jquery/plugins/bxslider/,r.attr( 1 -
+/js/jquery/!==a.slice(-4),h= 1 -
+/js/jquery/,b=e.getElementsByTagName( 1 -
+/js/jquery/plugins/autocomplete/submit.autocomplete 1 -
+/themes/default-bootstrap/js/autoload/,e=c.data() 1 -
+/fckeditor/editor/ 1 -
+/img/p/1/8/7/187-home_default2x.jpg 38 http://cccchile.cl/index.php
 /manage/fckeditor/editor/ 1 -
 /mail 1 -
-/img/p/2/2/5/225-home_default2x.jpg 32 http://cccchile.cl/index.php
-/img/p/1/4/3/143-home_default2x.jpg 54 http://cccchile.cl/index.php
-/img/p/2/1/3/213-home_default2x.jpg 32 http://cccchile.cl/index.php
+/js/jquery/,a=c.getElementsByTagName( 1 -
+/themes/default-bootstrap/js/autoload/),this.sliding=!1,this.$element.trigger( 1 -
+/wp 1 http://cccchile.cl/wp
+/themes/default-bootstrap/js/autoload/,b),f.trigger(d=a.Event( 1 -
+/themes/default-bootstrap/js/autoload/),e.addClass( 1 -
+/img/p/1/4/3/143-home_default2x.jpg 70 http://cccchile.cl/index.php
+/js/jquery/plugins/bxslider/+o.cssPrefix+ 1 -
 /js/'%20+%20img%20+%20' 4 -
-/index.php 93 -
-/img/p/9/2/92-home_default2x.jpg 60 http://cccchile.cl/index.php
-/img/p/1/3/9/139-home_default2x.jpg 57 http://cccchile.cl/index.php
-/img/p/6/2/62-home_default2x.jpg 58 http://cccchile.cl/index.php
-/img/p/2/0/3/203-home_default2x.jpg 54 http://cccchile.cl/index.php
-/admin/fckeditor/editor/ 1 -
-/img/p/1/7/9/179-home_default2x.jpg 32 http://cccchile.cl/index.php
+/index.php 105 -
+/img/p/9/2/92-home_default2x.jpg 70 http://cccchile.cl/index.php
+/js/jquery/),c.style.cssText=i,b.appendChild(c).appendChild(d),e=d.appendChild(z.createElement( 1 -
+/img/p/1/3/9/139-home_default2x.jpg 67 http://cccchile.cl/index.php
+/themes/default-bootstrap/js/modules/blockcart/.filled 1 -
+/img/p/6/2/62-home_default2x.jpg 68 http://cccchile.cl/index.php
+/img/p/2/0/3/203-home_default2x.jpg 70 http://cccchile.cl/index.php
 END_SIDER_404
 
 # Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
 # [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
 # The 25 first Hits must be first (order not required for others)
-BEGIN_VISITOR 481
-190.215.158.175 659 1494 25555412 20150510201219
-190.196.25.182 309 568 7563778 20150508093634
+BEGIN_VISITOR 523
+190.215.158.175 675 1525 26060675 20150512202528
+190.196.25.182 507 944 14178243 20150512150543
 201.239.86.17 236 498 8784392 20150509205943
 186.37.116.116 177 2052 30658753 20150511212537
+190.44.199.208 142 283 2698022 20150512171824
+201.220.242.164 117 420 5842262 20150512174036
 201.220.244.142 86 220 2456680 20150504195150
 186.156.102.99 83 231 2827330 20150505133707
-190.44.199.208 78 193 2160755 20150511173918
 190.162.78.104 74 513 5721447 20150510193308
 201.239.116.67 67 278 5574140 20150508210547
 190.162.25.198 63 489 7947668 20150511065128
@@ -500,470 +615,511 @@ BEGIN_VISITOR 481
 190.47.48.186 48 381 7146518 20150507210554
 200.126.105.154 45 72 1100709 20150507184229
 66.249.83.138 42 284 4392419 20150511171652
+190.151.85.50 41 142 1505583 20150513055938
 186.67.150.162 40 251 4207057 20150505124907
 191.112.245.74 39 246 5157730 20150506193454
-201.220.244.214 38 55 1249114 20150506091008
-66.249.83.152 37 279 4140795 20150511171653
-200.83.165.169 2 45 917718 20150510163303
-66.220.156.114 0 3 58818 
+66.220.156.114 0 4 83890 
 201.220.243.178 13 74 859545 20150507071546
-65.199.189.6 6 64 1331549 20150506101122
-186.105.122.60 3 54 1234970 20150503222421
-186.9.129.6 24 132 1954416 20150501180736
 192.187.126.162 10 10 219858 20150505155637
 173.252.103.6 0 1 158406 
-173.252.100.117 0 1 8383 
 179.57.10.102 8 121 2020101 20150503224034
-190.215.183.150 3 54 1234970 20150508111703
+173.252.100.117 0 1 8383 
 164.77.199.118 12 145 2155665 20150504122320
 190.100.200.41 7 7 1428 20150508161717
-190.215.220.72 5 95 1672080 20150508111518
-173.252.73.113 1 2 82105 20150504122415
-186.11.17.109 14 139 2340544 20150509124543
-186.104.100.108 3 78 1447439 20150511111726
 201.220.242.50 13 188 3599593 20150501221741
 164.77.228.219 3 55 1237693 20150505110736
 190.21.178.90 3 104 1365327 20150510094328
-186.37.202.232 2 43 662225 20150510112813
 12.129.64.200 8 101 1546064 20150511153318
-173.252.103.5 0 1 4887 
-190.46.216.76 5 111 2100523 20150502181805
-201.220.242.216 2 7 83056 20150502194733
-200.48.88.132 0 1 12252 
 198.199.121.20 10 33 701942 20150506063345
 201.220.244.160 9 11 89849 20150503000544
 179.0.2.1 8 120 2017378 20150504074630
-181.74.189.71 12 194 3092908 20150506212219
 200.75.18.139 35 180 3048849 20150505083718
 186.78.13.109 19 232 3777397 20150506204628
-181.202.1.54 2 53 1234766 20150510193303
-190.110.102.163 13 168 2940839 20150504214642
 66.249.91.153 0 1 5944 
-186.78.46.229 7 119 2184987 20150505094914
-173.252.73.118 0 2 71354 
-201.220.233.219 11 108 1085908 20150508181423
+190.110.102.163 13 168 2940839 20150504214642
+190.163.14.65 17 153 2400548 20150512200345
 186.67.61.132 4 61 1312974 20150508114536
+201.220.233.219 11 108 1085908 20150508181423
 201.220.242.152 20 103 1355348 20150504191946
 201.220.242.2 5 11 158722 20150502185016
-201.223.148.166 18 124 1543718 20150510115928
 200.104.102.208 8 128 1782449 20150501153205
 173.252.81.118 0 1 14566 
-173.252.105.116 0 2 43368 
-173.252.88.184 1 1 22303 20150504155406
 173.252.114.114 0 4 399091 
-190.44.103.98 24 154 2012511 20150505094107
-201.223.144.90 2 53 1234766 20150506191451
 164.77.179.191 1 1 204 20150501122840
-173.252.110.112 1 3 108329 20150501105127
 173.252.105.112 0 1 28802 
-69.171.230.116 0 2 50243 
-186.59.27.214 3 13 613220 20150501093306
 186.105.96.253 6 125 2139927 20150503195538
+186.59.27.214 3 13 613220 20150501093306
 190.45.126.132 9 85 1602725 20150504122020
-186.9.65.95 15 115 2182317 20150507015845
 66.220.158.118 1 2 41535 20150504170543
-64.76.174.105 5 84 1537307 20150506114758
 201.220.242.174 5 96 1161010 20150502114339
+186.79.230.199 4 87 1076733 20150512195147
 66.220.156.117 0 3 61210 
-200.89.68.83 26 216 4772840 20150504164222
+200.89.68.83 30 307 6384381 20150512084840
 201.220.242.205 26 165 2414620 20150504121604
 173.252.114.118 0 1 8383 
 186.78.85.99 21 120 1357859 20150505063525
 200.112.79.142 12 143 2701199 20150509221937
-200.104.173.253 2 53 1228599 20150508054313
-5.39.223.69 3 23 379238 20150508230159
-173.252.80.113 0 1 20036 
-190.46.95.41 3 54 1234970 20150504110231
 78.136.83.26 6 114 2541203 20150512041458
-208.78.85.125 1 1 22303 20150510115201
+190.46.95.41 3 54 1234970 20150504110231
 69.171.235.113 0 1 35677 
-190.22.142.193 10 126 2121682 20150505164107
-181.160.43.10 18 133 2212542 20150502142915
-207.46.13.7 0 1 1920 
 181.163.172.97 6 91 1277285 20150504050708
-173.252.110.118 0 4 59229 
-200.86.217.181 2 51 1232456 20150509132047
-173.252.74.114 1 2 39638 20150512001631
 190.100.2.220 24 169 3144834 20150508150432
-186.106.171.128 13 166 2844413 20150506123025
-201.215.222.221 12 187 2614013 20150508085026
-181.160.249.175 3 78 1474559 20150512003836
-173.252.120.114 0 3 92899 
 167.88.35.243 3 23 379238 20150501224609
+173.252.120.114 0 3 92899 
 186.105.209.132 2 53 1234766 20150511071835
-190.151.111.26 2 2 39829 20150511093626
-69.171.237.118 0 1 24216 
-190.209.92.152 7 113 1610905 20150506170922
-69.171.237.115 0 1 15405 
-201.187.13.238 0 12 268102 
 201.239.144.112 25 153 2781509 20150507072902
-179.56.200.135 6 87 1616535 20150511133921
-64.113.44.206 1 1 22303 20150502015036
-190.164.45.90 21 260 5003710 20150503205440
-190.153.175.26 2 53 1234766 20150506133420
+201.187.13.238 0 12 268102 
+69.171.237.115 0 1 15405 
 181.160.179.163 28 177 2966581 20150503171604
-173.252.120.116 0 5 108726 
-199.30.16.161 1 3 87741 20150507070939
 190.211.37.35 36 177 2688326 20150504102718
-179.9.170.65 10 113 2006215 20150501070940
-190.163.142.209 2 45 917718 20150510032241
-173.252.114.115 0 5 422718 
 190.161.66.199 2 33 489215 20150502084657
-190.46.19.44 8 130 2044370 20150510235403
 201.239.27.58 4 108 1367848 20150506105445
-200.28.87.214 8 126 2180211 20150503202650
-66.249.81.191 0 17 343449 
-92.113.61.23 1 1 22303 20150503055358
-200.120.8.147 21 240 4396886 20150510080702
-181.163.83.232 5 96 1713780 20150501150233
-190.44.3.162 18 197 3525412 20150505213925
+190.46.19.44 8 130 2044370 20150510235403
+66.249.81.191 1 31 760848 20150512091416
 201.221.123.46 7 66 1353511 20150507085525
-186.78.161.149 7 106 1840057 20150510185032
-201.239.76.159 3 45 665152 20150504125611
+190.44.3.162 18 197 3525412 20150505213925
+181.163.83.232 5 96 1713780 20150501150233
 186.11.231.218 22 180 2992889 20150511162955
-190.160.251.25 3 56 1241437 20150510211022
+186.78.161.149 7 106 1840057 20150510185032
 186.67.71.16 2 18 135770 20150511121733
+190.160.251.25 3 56 1241437 20150510211022
 69.171.230.113 0 2 36994 
+191.119.54.81 12 94 1217043 20150512114542
 186.37.202.248 21 153 2180783 20150504141546
-201.220.242.132 4 4 55986 20150505084948
+201.215.240.200 1 1 27342 20150512120731
 191.116.200.61 3 68 871477 20150507165345
-173.252.79.114 0 1 6850 
 181.163.160.191 27 167 2382681 20150509181501
-186.103.204.162 25 193 3563577 20150508105757
 181.160.239.24 3 103 1308111 20150503142539
-69.171.230.117 0 2 53018 
+174.127.133.64 0 4 135155 
 66.220.146.25 2 4 124477 20150506103950
-66.220.158.113 0 1 24216 
-186.37.202.50 1 1 204 20150509183051
 190.45.180.135 5 82 1106886 20150504133959
-190.47.5.124 1 13 263543 20150501110636
 201.214.21.13 13 163 2832362 20150509213333
 186.37.202.247 3 55 741708 20150504122509
-190.160.193.103 1 47 738663 20150506143628
-66.220.146.22 0 1 14703 
-173.252.120.112 0 2 39638 
 173.252.100.118 0 1 8383 
+190.160.193.103 1 47 738663 20150506143628
 186.107.28.157 13 121 2088750 20150505104248
-186.34.32.252 6 99 1726314 20150510100443
-173.252.103.1 0 1 4887 
-66.220.152.118 0 2 35441 
 181.163.231.54 2 51 721709 20150504215242
-173.252.79.115 0 4 32633 
+66.220.152.118 0 2 35441 
+173.252.103.1 0 1 4887 
 190.215.4.244 2 53 1234766 20150503174805
 191.116.9.113 10 80 1004318 20150505090904
 190.46.45.30 6 71 899837 20150502212256
 181.202.177.140 1 1 22303 20150506230913
-173.252.88.84 0 1 14566 
-190.215.0.64 8 116 2168600 20150503065348
 191.113.213.121 12 156 3032010 20150506234705
-201.220.242.39 12 60 919727 20150507073839
-181.160.169.247 6 137 2229529 20150503135900
-66.220.146.20 1 3 67872 20150504190726
-165.182.186.131 14 136 2898135 20150504121415
 66.102.6.154 2 2 44606 20150511094541
 173.252.100.115 0 1 8383 
-190.47.104.189 9 123 2228549 20150505152909
-66.220.156.113 0 3 68577 
-66.220.159.116 0 1 24216 
 201.214.124.151 5 69 1330056 20150502145107
-200.120.102.96 23 131 1725671 20150506064222
+174.127.133.88 6 10 292121 20150512163455
 186.79.195.37 14 149 2137253 20150508195445
-173.252.120.119 1 4 88088 20150505060534
-190.101.81.232 18 103 1692482 20150508183839
 69.171.237.116 1 4 127734 20150504121618
-191.112.13.196 1 1 46855 20150504150253
-121.216.53.95 18 175 3157024 20150502001404
+173.252.120.119 1 4 88088 20150505060534
 164.77.154.114 15 127 2016844 20150504115316
-173.252.114.113 0 1 24216 
-95.211.95.2 2 2 109236 20150503231515
 201.214.94.169 9 114 1717402 20150511221232
-191.113.90.114 23 121 1630639 20150506140659
-173.252.80.119 0 1 25072 
+173.252.114.113 0 1 24216 
 190.96.77.163 3 56 1627411 20150507111454
-66.220.158.117 0 1 8383 
-190.44.184.20 2 2 46455 20150507003738
+173.252.80.119 0 1 25072 
+66.220.158.117 0 2 32599 
 186.67.71.107 0 15 169028 
-173.252.74.116 0 1 14566 
+190.44.184.20 2 2 46455 20150507003738
 200.54.242.82 24 214 4080511 20150507141509
 201.215.218.30 7 74 940184 20150501143638
 201.238.218.32 7 93 1752999 20150508103606
 201.220.242.213 3 77 1469801 20150510212649
-190.47.186.139 10 185 2246536 20150509080003
-174.139.94.114 11 11 404084 20150506233158
-190.45.83.27 11 114 1861213 20150504135714
 201.220.243.219 6 6 615 20150507152101
-190.22.188.88 8 102 1485383 20150506104738
 186.37.57.111 9 118 1595676 20150506203920
-173.252.120.115 1 4 194231 20150504111621
-201.220.244.199 17 122 1690181 20150504192006
+190.22.188.88 8 102 1485383 20150506104738
+173.252.120.115 1 5 218447 20150504111621
 190.163.238.190 9 90 1579782 20150510002915
-201.220.242.198 3 45 665152 20150507052809
 90.162.43.41 4 78 1474449 20150508134724
-190.100.208.214 7 83 1515588 20150506081136
-69.171.237.119 0 2 55713 
-173.252.73.114 0 3 75452 
-66.220.156.118 0 1 35677 
+190.100.208.214 20 182 3240301 20150512114846
 200.104.57.102 17 120 1723160 20150502092903
-181.28.89.124 6 114 2249725 20150503084207
-150.70.97.121 1 1 22303 20150505125623
+173.252.73.114 0 3 75452 
 190.46.62.250 12 42 424627 20150501173248
+181.75.172.214 6 83 1649865 20150512225459
 186.9.132.52 9 140 2182598 20150504142130
 201.223.72.87 8 112 1994397 20150508163719
-186.107.211.238 17 188 3452050 20150505155513
 173.252.110.116 0 2 35441 
-200.112.244.154 12 115 1789184 20150501101732
+200.86.103.221 15 96 1717685 20150512222826
 190.22.12.175 4 87 1078880 20150501230337
-190.161.87.90 14 77 949989 20150505051802
-190.160.132.191 4 71 978435 20150508145418
 186.108.95.53 14 138 2278551 20150503191537
-200.91.9.177 14 210 3887862 20150511174040
-173.252.114.119 0 1 4887 
-201.238.219.147 9 96 1697990 20150504105746
-173.252.112.114 0 2 50243 
-173.252.88.219 0 1 20036 
+190.160.132.191 4 71 978435 20150508145418
+190.160.186.104 16 164 2133799 20150512222415
 190.47.173.194 28 142 1849080 20150501173108
-200.86.70.171 7 106 1804077 20150510144509
-186.37.203.19 28 148 1779594 20150504172945
-69.171.228.121 0 1 20036 
 191.119.185.236 7 123 1590289 20150510074017
-201.215.179.62 7 105 1806704 20150511005356
-190.16.209.87 26 147 2188769 20150505120018
+174.127.133.92 2 6 131777 20150512162544
 200.32.179.2 2 53 1234766 20150502100928
 66.220.158.114 0 1 14566 
-201.220.242.231 2 46 928745 20150503202712
-186.67.71.47 2 35 990917 20150511121750
-200.74.46.60 9 86 1051756 20150509152941
 5.39.223.107 3 23 379238 20150504081408
-186.67.185.58 12 94 1775459 20150507102415
 186.103.206.122 4 4 79658 20150510061611
 200.2.92.2 31 196 3573319 20150511102714
-190.215.185.90 15 131 2187928 20150504214719
-190.46.196.171 4 70 936849 20150502214008
-200.27.167.66 6 88 1662004 20150512071456 20150512071352 /index.php
+174.127.133.89 0 7 82112 
+190.100.27.90 7 120 2047813 20150512210901
 186.37.203.171 34 173 2521982 20150504174030
-186.9.133.122 5 72 939776 20150510144413
+200.27.167.66 6 88 1662004 20150512071456
+201.215.178.80 3 19 378661 20150512231716
+174.127.133.96 6 8 360616 20150512162729
 24.232.61.190 23 162 2845256 20150504200219
 101.30.232.234 2 2 109236 20150508214352
-66.220.159.112 0 1 10116 
-200.104.2.27 5 97 1712925 20150505201226
+186.37.202.19 3 55 741708 20150512130206
 173.252.105.118 0 1 35677 
-191.112.235.80 9 116 2096677 20150506183625
-173.252.74.119 0 1 8383 
 173.252.120.118 0 8 149816 
-201.220.242.157 3 47 530811 20150507125908
-201.187.56.108 12 121 1923366 20150508061803
 186.34.182.150 27 103 2002757 20150508182905
-200.86.23.243 8 124 2253639 20150501105546
-186.37.202.223 21 186 2425628 20150509085347
 200.75.18.70 9 86 1566488 20150511132933
-66.249.81.182 2 19 511746 20150504143543
-173.252.114.116 0 1 4887 
-160.33.195.21 0 2 0 
-200.120.214.108 9 110 1868975 20150505163117
-190.46.140.228 11 131 1739497 20150504213944
+186.37.202.223 21 186 2425628 20150509085347
 179.8.128.42 32 181 2303030 20150504221109
-201.187.17.124 29 287 5856661 20150504210805
-54.172.43.19 4 4 89212 20150510122401
 201.223.70.134 8 120 2017378 20150503110849
-66.220.156.112 0 1 25072 
+66.220.156.112 0 2 41535 
 201.236.109.134 1 10 266067 20150505065122
-201.220.244.218 1 59 890137 20150507224702
 186.35.86.152 3 78 1446811 20150509230719
-181.160.226.6 2 102 1307907 20150503151137
-173.252.88.153 0 1 35677 
 66.220.158.116 0 4 185644 
-146.155.86.123 21 184 3479349 20150507101233
 201.220.244.231 5 54 720478 20150511152658
 186.37.53.227 9 159 2656642 20150506112711
-173.252.103.2 0 1 158406 
 200.68.25.10 10 182 4149827 20150511165641
-186.37.202.228 5 76 1006021 20150510164934
-200.14.70.31 14 146 2847088 20150505090201
-201.220.235.14 1 4 27586 20150506055829
 69.171.237.113 1 4 138096 20150504105216
-190.153.250.195 12 253 4641238 20150511123934
-95.122.82.66 3 107 1481270 20150507035340
 173.252.80.114 0 2 39775 
 190.161.40.37 32 222 4256052 20150509015814
-201.214.251.55 11 121 2419855 20150501201135
-191.112.73.240 20 127 1757517 20150511222646
-173.252.120.113 0 4 115370 
 186.0.216.14 14 252 4259222 20150505143808
-190.107.226.62 1 2 227974 20150504112840
 186.106.55.60 16 123 2263546 20150508103830
-190.101.86.234 25 160 1937030 20150510092635
 200.120.44.152 16 183 3431091 20150507211031
-69.171.237.117 0 1 142659 
-186.9.70.226 15 151 2756386 20150504185205
 173.252.114.112 0 2 316812 
-186.106.12.76 23 149 2355582 20150505135728
-190.101.112.209 14 241 4087939 20150511211423
-186.11.234.32 8 124 2280722 20150505111128
+174.127.188.37 1 1 22303 20150512085938
 190.208.114.201 12 153 2914332 20150511185405
-66.249.81.186 0 17 379571 
+66.249.81.186 1 42 903142 20150512091418
 181.201.128.10 30 195 2909217 20150502220917
-190.54.193.243 5 101 1790842 20150504190627
-201.186.204.46 10 120 1589899 20150512001859
-190.101.67.239 27 184 3329729 20150510101817
 167.88.36.222 3 23 379238 20150507223953
-66.220.158.119 0 1 14566 
-173.252.112.117 0 1 24216 
-201.220.242.17 1 1 17767 20150510140521
+190.101.67.239 27 184 3329729 20150510101817
+66.220.158.119 0 2 22949 
 190.110.102.3 14 139 1607790 20150504111632
 208.78.85.128 1 1 22303 20150510114542
 200.86.34.19 2 53 1234766 20150504140031
-173.252.80.115 0 1 25072 
-173.252.79.112 0 3 27316 
 190.22.103.21 2 43 662225 20150501205902
 186.37.202.49 24 175 3144486 20150510120115
-190.163.40.101 18 235 4095226 20150508234606
-173.252.100.116 0 1 14566 
 173.252.79.118 0 4 24226 
-181.202.138.180 10 58 744074 20150506221541
-186.67.109.98 14 109 1548900 20150504133111
-69.171.228.120 0 1 14703 
-200.42.175.206 6 86 1764153 20150504095933
-173.252.88.217 0 1 14566 
 107.167.107.72 6 96 1154940 20150509204804
 191.119.163.183 19 157 2215870 20150504113858
-190.100.252.33 11 131 2461040 20150504123918
-173.252.73.115 0 2 23086 
-181.74.228.88 11 106 1469321 20150503205823
-173.252.79.116 0 1 8383 
+190.196.130.58 20 190 3956198 20150512094302
 179.51.74.82 1 1 17526 20150501024446
-66.220.152.114 1 1 22303 20150504155406
-66.220.146.24 0 2 53628 
-201.220.244.141 6 83 1183795 20150506221555
-54.82.233.222 1 1 48058 20150512051739
-200.120.38.146 15 119 2010728 20150511142059
+173.252.79.116 0 1 8383 
 173.252.113.117 0 1 14703 
 190.164.128.238 2 3 37828 20150509225330
-69.171.227.114 2 2 44606 20150509045605
 200.68.37.82 5 80 1447545 20150506174508
-200.104.4.138 12 137 2296401 20150504124714
-186.37.202.243 14 108 1410750 20150502081523
-190.161.82.68 6 104 1274431 20150504105151
-8.28.16.254 3 3 112233 20150506154014
 69.58.178.57 10 10 380728 20150510104937
-191.119.15.111 1 1 81536 20150508103627
 186.67.71.120 1 12 179252 20150511121732
-190.44.9.31 7 143 2539418 20150511100735
+191.119.15.111 1 1 81536 20150508103627
 190.100.195.105 2 90 1286770 20150501210549
-201.220.242.167 1 1 204 20150507113044
 190.44.152.11 15 180 3579580 20150511072958
+201.220.242.167 1 1 204 20150507113044
 200.83.25.35 19 137 2362882 20150504180431
-190.101.110.11 3 103 1503260 20150504125930
-80.103.9.49 10 193 3421902 20150501135459
 66.220.152.116 0 1 15405 
 173.252.112.113 0 2 39775 
 200.27.87.145 23 262 4638255 20150507104942
 200.126.115.239 16 122 1912590 20150506103300
 186.67.106.90 6 110 1878307 20150504125840
-186.37.202.16 10 97 1312045 20150511171442
 54.158.83.115 1 1 48058 20150505043747
-201.186.40.82 8 125 1503276 20150501114255
+186.37.108.38 3 76 1063227 20150512170018
 190.22.117.194 24 268 4194867 20150505175651
-198.61.156.98 2 2 0 20150511154747
 173.252.79.117 0 3 23627 
-186.9.170.179 2 53 1234766 20150507191045
 186.9.130.122 3 65 879430 20150501193750
-186.67.249.22 3 104 1532744 20150501105230
-66.220.158.115 0 4 73932 
-186.37.202.80 7 54 941256 20150511122142
+174.127.133.63 5 9 190739 20150512162741
 200.83.163.64 10 131 2210078 20150511203038
-201.220.242.209 7 76 1224999 20150504173033
 191.113.243.119 10 134 2458539 20150511142829
-200.104.76.214 21 181 3030314 20150501110349
 173.252.120.117 1 3 180367 20150512003823
-173.252.100.112 0 3 58818 
 190.54.253.155 7 75 968412 20150501144414
-186.37.202.82 6 100 1316765 20150503065754
-54.174.57.93 0 1 14566 
-200.86.244.230 29 166 2931909 20150504202834
 190.215.178.12 11 143 2326538 20150510172754
-190.162.66.39 9 75 909131 20150504194701
-200.54.66.90 25 223 4132535 20150508092732
 200.112.68.68 6 124 2038188 20150505090943
 66.220.156.115 1 1 55292 20150504181817
 201.220.243.162 4 4 410 20150506183023
-201.236.3.215 12 126 2443411 20150501161925
 190.215.198.200 2 43 662225 20150506220327
 173.252.74.115 0 1 14566 
-200.14.137.67 16 163 2537973 20150506155034
 179.9.255.32 14 59 1089803 20150507005951
 201.220.242.26 3 64 920156 20150506084648
-173.252.110.115 0 1 15405 
 190.45.148.2 1 1 45445 20150504073053
-173.252.88.216 0 1 15405 
 190.161.210.116 4 86 1324450 20150503212804
 190.107.226.44 11 144 1917708 20150502061306
-201.220.244.219 14 113 1446777 20150509200454
 200.54.246.80 20 166 2875090 20150506135654
-186.104.124.26 14 92 1044358 20150504105049
 201.220.243.200 15 100 1464676 20150505060802
-181.74.251.7 5 107 1509086 20150501235006
-173.252.110.117 0 2 49288 
 201.220.244.178 3 48 711574 20150509162647
-69.171.235.115 0 1 15405 
+173.252.110.117 0 2 49288 
 69.171.237.114 0 1 14703 
+190.216.144.250 1 25 78452 20150512071805
 186.9.131.178 16 128 1522608 20150506221716
-190.216.144.250 1 25 78452 20150512071805 20150512071805 /index.php
-186.106.13.110 1 1 17526 20150506132905
+66.249.83.152 37 279 4140795 20150511171653
 173.252.112.116 0 2 45108 
-173.252.100.113 0 2 49288 
 200.120.175.135 3 71 958281 20150505231346
 173.252.88.89 1 1 46695 20150504104929
-200.54.198.52 5 58 762161 20150504162226
-173.252.105.113 0 1 28802 
 201.220.244.252 1 39 608897 20150501144708
-190.98.224.132 0 1 33631 
-200.72.189.93 25 95 1323585 20150512071432 20150512071416 /index.php
-217.12.204.155 1 1 36840 20150509132235
-69.171.230.114 0 3 53485 
-187.170.243.203 22 185 3129500 20150504211742
-190.22.229.198 12 147 2572705 20150505130438
-201.220.242.1 3 17 842772 20150508221406
 191.112.178.170 9 135 2427824 20150508182015
-66.220.156.116 0 2 18499 
 186.65.214.219 9 107 1879988 20150503140733
-199.116.169.254 3 3 165067 20150506154534
 186.9.135.86 1 2 17526 20150504180519
-186.37.202.76 2 43 662225 20150504214829
-201.223.143.124 7 13 380697 20150510185407
+174.127.133.90 4 11 233571 20150512162432
 186.37.202.61 8 94 1172869 20150504075202
-45.55.148.239 1 1 22303 20150501174329
+201.223.143.124 7 13 380697 20150510185407
 190.110.171.73 3 54 1234970 20150502130139
-186.36.104.252 11 88 1086096 20150505234910
 190.163.114.213 4 78 1063214 20150504215057
-190.121.125.134 11 119 2100990 20150511123205
-200.54.110.71 15 122 2451078 20150504101742
 200.29.143.242 27 262 2796210 20150511154535
-191.112.78.156 3 78 1474881 20150501155754
-157.55.39.8 0 1 1111 
-173.252.113.114 0 1 15405 
-190.54.225.201 11 157 3187096 20150508225854
+200.54.110.71 28 214 4069156 20150512103045
 199.30.16.176 1 52 1247967 20150502023153
-200.74.9.247 14 128 2601354 20150502183832
-201.220.244.172 5 71 1078610 20150506215355
-201.239.21.66 17 139 1904671 20150504181752
+190.54.225.201 11 157 3187096 20150508225854
 201.220.242.215 5 9 340592 20150503220655
-200.120.246.239 2 53 1234766 20150505225325
-176.86.156.74 1 1 22303 20150512072332 20150512072332 /index.php
-201.220.244.146 10 104 1344649 20150506111516
-66.220.158.112 1 2 55477 20150504214803
-190.95.36.195 6 110 1878307 20150504113132
-186.105.98.168 2 53 1234766 20150507161014
+186.9.130.14 1 1 20605 20150513064710 20150513064710 /index.php
+186.37.202.170 3 3 129008 20150512090521
 173.252.114.117 0 4 197380 
+186.105.98.168 2 53 1234766 20150507161014
+190.95.36.195 6 110 1878307 20150504113132
 201.220.244.233 1 1 204 20150511085942
 173.252.73.116 0 1 20036 
 173.252.79.119 0 2 15559 
 181.161.152.227 25 154 2353946 20150504155747
-173.252.79.113 0 2 10204 
+200.83.165.169 2 45 917718 20150510163303
+65.199.189.6 6 64 1331549 20150506101122
+186.105.122.60 3 54 1234970 20150503222421
+186.9.129.6 24 132 1954416 20150501180736
+190.215.183.150 3 54 1234970 20150508111703
+190.215.220.72 5 95 1672080 20150508111518
+173.252.73.113 1 2 82105 20150504122415
+186.11.17.109 14 139 2340544 20150509124543
+186.104.100.108 3 78 1447439 20150511111726
+186.37.202.232 2 43 662225 20150510112813
+173.252.103.5 0 1 4887 
+190.46.216.76 5 111 2100523 20150502181805
+201.220.242.216 2 7 83056 20150502194733
+200.48.88.132 0 1 12252 
+181.74.189.71 12 194 3092908 20150506212219
+181.202.1.54 2 53 1234766 20150510193303
+186.78.46.229 7 119 2184987 20150505094914
+173.252.73.118 0 2 71354 
+201.223.148.166 18 124 1543718 20150510115928
+173.252.105.116 0 2 43368 
+173.252.88.184 1 1 22303 20150504155406
+190.44.103.98 24 154 2012511 20150505094107
+201.223.144.90 2 53 1234766 20150506191451
+173.252.110.112 1 3 108329 20150501105127
+69.171.230.116 0 2 50243 
+186.9.65.95 15 115 2182317 20150507015845
+64.76.174.105 11 172 3058800 20150512114310
+174.127.133.93 3 12 317313 20150512162657
+200.104.173.253 2 53 1228599 20150508054313
+5.39.223.69 3 23 379238 20150508230159
+173.252.80.113 0 1 20036 
+190.215.136.123 22 95 1369258 20150512144101
+208.78.85.125 1 1 22303 20150510115201
+190.22.142.193 10 126 2121682 20150505164107
+181.160.43.10 18 133 2212542 20150502142915
+207.46.13.7 0 1 1920 
+173.252.110.118 0 4 59229 
+200.86.217.181 2 51 1232456 20150509132047
+173.252.74.114 1 2 39638 20150512001631
+186.106.171.128 13 166 2844413 20150506123025
+201.215.222.221 12 187 2614013 20150508085026
+181.160.249.175 3 78 1474559 20150512003836
+200.86.234.160 10 106 1781282 20150512114331
+190.151.111.26 2 2 39829 20150511093626
+69.171.237.118 0 1 24216 
+190.209.92.152 7 113 1610905 20150506170922
+179.56.200.135 6 87 1616535 20150511133921
+64.113.44.206 1 1 22303 20150502015036
+190.164.45.90 21 260 5003710 20150503205440
+190.153.175.26 2 53 1234766 20150506133420
+173.252.120.116 0 5 108726 
+199.30.16.161 1 3 87741 20150507070939
+179.9.170.65 10 113 2006215 20150501070940
+190.163.142.209 2 45 917718 20150510032241
+173.252.114.115 0 5 422718 
+200.28.87.214 8 126 2180211 20150503202650
+92.113.61.23 1 1 22303 20150503055358
+200.120.8.147 21 240 4396886 20150510080702
+201.239.76.159 3 45 665152 20150504125611
+201.220.242.132 4 4 55986 20150505084948
+173.252.79.114 0 1 6850 
+186.103.204.162 25 193 3563577 20150508105757
+69.171.230.117 0 2 53018 
+66.220.158.113 0 1 24216 
+186.37.202.50 1 1 204 20150509183051
+190.47.5.124 1 13 263543 20150501110636
+66.220.146.22 0 1 14703 
+173.252.120.112 0 2 39638 
+186.34.32.252 6 99 1726314 20150510100443
+173.252.79.115 0 4 32633 
+173.252.88.84 0 1 14566 
+190.215.0.64 8 116 2168600 20150503065348
+201.220.242.39 12 60 919727 20150507073839
+181.160.169.247 6 137 2229529 20150503135900
+66.220.146.20 1 3 67872 20150504190726
+165.182.186.131 14 136 2898135 20150504121415
+190.47.104.189 9 123 2228549 20150505152909
+66.220.156.113 0 3 68577 
+66.220.159.116 0 1 24216 
+200.120.102.96 23 131 1725671 20150506064222
+190.101.81.232 18 103 1692482 20150508183839
+191.112.13.196 1 1 46855 20150504150253
+121.216.53.95 18 175 3157024 20150502001404
+95.211.95.2 2 2 109236 20150503231515
+191.113.90.114 23 121 1630639 20150506140659
+173.252.74.116 0 1 14566 
+190.47.186.139 10 185 2246536 20150509080003
+174.139.94.114 11 11 404084 20150506233158
+190.45.83.27 11 114 1861213 20150504135714
+174.127.133.95 1 4 39929 20150512154437
+201.220.244.199 17 122 1690181 20150504192006
+201.220.242.198 3 45 665152 20150507052809
+69.171.237.119 0 3 91390 
+66.220.156.118 0 2 55713 
+181.28.89.124 6 114 2249725 20150503084207
+150.70.97.121 1 1 22303 20150505125623
+186.107.211.238 17 188 3452050 20150505155513
+200.112.244.154 12 115 1789184 20150501101732
+190.161.87.90 14 77 949989 20150505051802
+200.91.9.177 14 210 3887862 20150511174040
+173.252.114.119 0 1 4887 
+201.238.219.147 9 96 1697990 20150504105746
+173.252.112.114 0 2 50243 
+173.252.88.219 0 1 20036 
+200.86.70.171 7 106 1804077 20150510144509
+186.37.203.19 28 148 1779594 20150504172945
+69.171.228.121 0 1 20036 
+190.196.58.28 2 53 1234766 20150512140709
+186.9.133.50 5 55 799803 20150512095500
+201.215.179.62 7 105 1806704 20150511005356
+190.16.209.87 26 147 2188769 20150505120018
+201.220.242.231 2 46 928745 20150503202712
+186.67.71.47 2 35 990917 20150511121750
+200.74.46.60 9 86 1051756 20150509152941
+186.67.185.58 12 94 1775459 20150507102415
+190.215.185.90 15 131 2187928 20150504214719
+190.46.196.171 4 70 936849 20150502214008
+186.9.133.122 5 72 939776 20150510144413
+66.220.159.112 0 1 10116 
+200.104.2.27 5 97 1712925 20150505201226
+191.112.235.80 9 116 2096677 20150506183625
+173.252.74.119 0 2 22949 
+201.220.242.157 3 47 530811 20150507125908
+201.187.56.108 12 121 1923366 20150508061803
+200.86.23.243 8 124 2253639 20150501105546
+66.249.81.182 2 33 805542 20150504143543
+173.252.114.116 0 1 4887 
+160.33.195.21 0 2 0 
+200.120.214.108 9 110 1868975 20150505163117
+190.46.140.228 11 131 1739497 20150504213944
+201.187.17.124 29 287 5856661 20150504210805
+54.172.43.19 4 4 89212 20150510122401
+201.220.244.218 1 59 890137 20150507224702
+181.160.226.6 2 102 1307907 20150503151137
+173.252.88.153 0 1 35677 
+146.155.86.123 21 184 3479349 20150507101233
+173.252.103.2 0 1 158406 
+186.37.202.228 5 76 1006021 20150510164934
+200.14.70.31 14 146 2847088 20150505090201
+201.220.235.14 1 4 27586 20150506055829
+190.163.202.216 10 140 2390476 20150512120056
+190.153.250.195 12 253 4641238 20150511123934
+95.122.82.66 3 107 1481270 20150507035340
+201.214.251.55 11 121 2419855 20150501201135
+191.112.73.240 20 127 1757517 20150511222646
+186.67.134.66 9 85 1563434 20150512174501
+164.77.90.30 11 111 2132924 20150512162057
+173.252.120.113 0 4 115370 
+190.107.226.62 1 2 227974 20150504112840
+190.101.86.234 25 160 1937030 20150510092635
+69.171.237.117 0 1 142659 
+186.9.70.226 15 151 2756386 20150504185205
+190.101.112.209 19 334 5622827 20150512174728
+186.106.12.76 23 149 2355582 20150505135728
+174.127.133.91 3 10 179937 20150512163211
+186.11.234.32 8 124 2280722 20150505111128
+201.220.244.214 38 55 1249114 20150506091008
+190.54.193.243 5 101 1790842 20150504190627
+201.186.204.46 10 120 1589899 20150512001859
+173.252.112.117 0 1 24216 
+200.5.104.45 1 1 19514 20150512144032
+201.220.242.17 1 1 17767 20150510140521
+173.252.80.115 0 1 25072 
+173.252.79.112 0 3 27316 
+190.163.40.101 18 235 4095226 20150508234606
+173.252.100.116 0 1 14566 
+181.202.138.180 10 58 744074 20150506221541
+186.67.109.98 14 109 1548900 20150504133111
+69.171.228.120 0 1 14703 
+200.42.175.206 6 86 1764153 20150504095933
+173.252.88.217 0 1 14566 
+190.100.252.33 11 131 2461040 20150504123918
+173.252.73.115 0 2 23086 
+181.74.228.88 11 106 1469321 20150503205823
+66.220.152.114 1 1 22303 20150504155406
+66.220.146.24 0 2 53628 
+201.220.244.141 6 83 1183795 20150506221555
+54.82.233.222 1 1 48058 20150512051739
+200.120.38.146 15 119 2010728 20150511142059
+69.171.227.114 2 2 44606 20150509045605
+200.104.4.138 12 137 2296401 20150504124714
+150.70.173.42 1 1 22303 20150512162008
+186.37.202.243 14 108 1410750 20150502081523
+190.161.82.68 6 104 1274431 20150504105151
+8.28.16.254 3 3 112233 20150506154014
+186.37.202.41 5 71 1011594 20150512075530
+190.44.9.31 7 143 2539418 20150511100735
+190.101.110.11 3 103 1503260 20150504125930
+80.103.9.49 10 193 3421902 20150501135459
+186.37.202.16 10 97 1312045 20150511171442
+201.186.40.82 8 125 1503276 20150501114255
+186.9.130.204 28 194 3766275 20150512211032
+198.61.156.98 2 2 0 20150511154747
+186.9.170.179 2 53 1234766 20150507191045
+186.67.249.22 3 104 1532744 20150501105230
+66.220.158.115 0 4 73932 
+186.37.202.80 7 54 941256 20150511122142
+201.220.242.209 7 76 1224999 20150504173033
+200.104.76.214 21 181 3030314 20150501110349
+173.252.100.112 0 3 58818 
+186.37.202.82 6 100 1316765 20150503065754
+54.174.57.93 0 1 14566 
+200.86.244.230 29 166 2931909 20150504202834
+190.162.66.39 9 75 909131 20150504194701
+200.54.66.90 25 223 4132535 20150508092732
+201.236.3.215 12 126 2443411 20150501161925
+200.14.137.67 16 163 2537973 20150506155034
+173.252.110.115 0 2 44016 
+173.252.88.216 0 1 15405 
+190.162.161.162 11 138 2448836 20150512151231
+201.220.244.219 14 113 1446777 20150509200454
+186.104.124.26 14 92 1044358 20150504105049
+181.74.251.7 5 107 1509086 20150501235006
+69.171.235.115 0 1 15405 
+186.106.13.110 1 1 17526 20150506132905
+173.252.100.113 0 2 49288 
+200.54.198.52 5 58 762161 20150504162226
+173.252.105.113 0 1 28802 
+190.98.224.132 0 1 33631 
+200.72.189.93 25 95 1323585 20150512071432
+217.12.204.155 1 1 36840 20150509132235
+201.220.242.199 1 4 336589 20150512151124
+69.171.230.114 0 3 53485 
+187.170.243.203 22 185 3129500 20150504211742
+190.22.229.198 12 147 2572705 20150505130438
+201.220.242.1 3 17 842772 20150508221406
+66.220.156.116 0 2 18499 
+199.116.169.254 3 3 165067 20150506154534
+186.37.202.76 2 43 662225 20150504214829
+174.127.133.87 2 5 87782 20150512161335
+45.55.148.239 1 1 22303 20150501174329
+186.36.104.252 11 88 1086096 20150505234910
+190.121.125.134 11 119 2100990 20150511123205
+191.112.78.156 3 78 1474881 20150501155754
+157.55.39.8 0 1 1111 
+173.252.113.114 0 1 15405 
+200.74.9.247 14 128 2601354 20150502183832
+201.220.244.172 5 71 1078610 20150506215355
+201.239.21.66 17 139 1904671 20150504181752
+200.120.246.239 2 53 1234766 20150505225325
+181.54.172.125 0 1 26097 
+176.86.156.74 2 6 166270 20150512114657
+66.220.158.112 1 2 55477 20150504214803
+201.220.244.146 10 104 1344649 20150506111516
 186.37.108.44 3 3 17934 20150501154022
+173.252.79.113 0 2 10204 
 END_VISITOR
 
 # Date - Pages - Hits - Bandwidth - Visits
-BEGIN_DAY 12
+BEGIN_DAY 13
 20150501 539 3924 61012547 49
 20150502 204 1804 29191920 28
 20150503 342 2606 44702894 27
@@ -975,35 +1131,38 @@ BEGIN_DAY 12
 20150509 468 2544 41550166 25
 20150510 441 2704 45949814 35
 20150511 626 5840 93683788 48
-20150512 30 400 6712265 10
+20150512 728 4130 69314344 66
+20150513 42 143 1526188 2
 END_DAY
 
 # Session range - Number of visits
 BEGIN_SESSION 7
-1h+ 11
-5mn-15mn 56
-30s-2mn 89
+1h+ 15
+5mn-15mn 62
 15mn-30mn 32
-0s-30s 195
-2mn-5mn 94
-30mn-1h 20
+30s-2mn 103
+2mn-5mn 102
+0s-30s 217
+30mn-1h 27
 END_SESSION
 
 # URL - Pages - Bandwidth - Entry - Exit
 # The 25 first Pages must be first (order not required for others)
-BEGIN_SIDER 14
-/index.php 4185 117624832 471 425
-/backoffice/index.php 672 25808356 17 7
-/backoffice/ajax.php 505 233083 0 7
-/themes/default-bootstrap/font/fontawesome-webfont.woff 331 14160900 7 44
-/backoffice/ajax-tab.php 56 2884 0 0
+BEGIN_SIDER 16
+/index.php 4616 129387326 523 478
+/backoffice/index.php 773 30002293 21 9
+/backoffice/ajax.php 669 370874 0 9
+/themes/default-bootstrap/font/fontawesome-webfont.woff 362 15511632 8 47
+/backoffice/ajax-tab.php 63 3300 1 0
 /themes/default-bootstrap/font/fontawesome-webfont.eot 35 1309175 0 2
+/modules/payulatam/validation.php 12 28242 0 3
 /backoffice/drawer.php 10 1970 0 0
-/modules/payulatam/validation.php 9 21246 0 3
 /webmail 6 53196 2 3
+/backoffice/themes/default/fonts/fontawesome-webfont.woff 5 251280 0 1
 /themes/default-bootstrap/font/fontawesome-webfont.ttf 5 395380 2 3
-/backoffice/themes/default/fonts/fontawesome-webfont.woff 4 167520 0 0
 /modules/payulatam/pages/confirmation.php 2 0 1 1
+/themes/default-bootstrap/js/modules/blocktopmenu/js/ 1 589 0 0
 /cpanel 1 8861 1 1
+/js/jquery/plugins/growl/ 1 438 0 0
 /index.php/trackback/ 1 22303 0 1
 END_SIDER
